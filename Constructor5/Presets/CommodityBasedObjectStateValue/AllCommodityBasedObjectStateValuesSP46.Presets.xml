@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Commodity Based Object State Values SP46">
+  <Preset Label="pizzaOven_Progress_NotStarted" Value="335911" />
+  <Preset Label="pizzaOven_Progress_Started" Value="335912" />
+  <Preset Label="pizzaOven_Progress_Finished" Value="335914" />
+  <Preset Label="pizzaOven_Servings_Empty" Value="335916" />
+  <Preset Label="pizzaOven_Servings_Full" Value="335917" />
+  <Preset Label="waffleMaker_Progress_NotStarted" Value="337446" />
+  <Preset Label="waffleMaker_Progress_Started" Value="337447" />
+  <Preset Label="waffleMaker_Progress_Finished" Value="337449" />
+  <Preset Label="waffleMaker_Servings_Empty" Value="337452" />
+  <Preset Label="waffleMaker_Servings_Full" Value="337453" />
+  <Preset Label="standMixer_Servings_Full" Value="338282" />
+  <Preset Label="standMixer_Servings_Empty" Value="338283" />
+  <Preset Label="standMixer_Progress_NotStarted" Value="338284" />
+  <Preset Label="standMixer_Progress_Started" Value="338285" />
+  <Preset Label="standMixer_Progress_Finished" Value="338286" />
+  <Preset Label="pizzaOven_Progress_Preheating" Value="339369" />
+</PresetGroup>

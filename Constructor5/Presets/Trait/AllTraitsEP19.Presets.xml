@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Traits EP19">
+  <Preset Label="trait_OccultFairy_TYAE" Value="414620" />
+  <Preset Label="trait_OccultFairy_FairyForm" Value="414621" />
+  <Preset Label="trait_Hidden_EP19_NPC_FloraLadipo" Value="431919" />
+  <Preset Label="trait_Hidden_EP19_NPC_AyoLadipo" Value="431920" />
+  <Preset Label="trait_Hidden_EP19_NPC_IrisLadipo" Value="431921" />
+  <Preset Label="trait_Hidden_EP19_NPC_NadyaKishka" Value="431922" />
+  <Preset Label="trait_Hidden_EP19_NPC_GlenNhoam" Value="431923" />
+  <Preset Label="trait_Hidden_EP19_NPC_ToddAttenberry" Value="431924" />
+  <Preset Label="trait_Hidden_EP19_NPC_ElricDeMuray" Value="431925" />
+  <Preset Label="trait_Hidden_EP19_NPC_TitaniaSummerdream" Value="431926" />
+  <Preset Label="trait_Hidden_EP19_NPC_OberonSummerdream" Value="431927" />
+  <Preset Label="trait_Hidden_EP19_NPC_MaraSummerdream" Value="431928" />
+  <Preset Label="trait_Hidden_EP19_NPC_GreenMan" Value="431929" />
+  <Preset Label="trait_Hidden_EP19_NPC_MotherNature" Value="431930" />
+  <Preset Label="trait_Hidden_EP19_NPC_JoeTrader" Value="431931" />
+  <Preset Label="trait_Hidden_EP19_NPC_CareRen" Value="431932" />
+  <Preset Label="trait_Hidden_EP19_NPC_ZhalehAmani" Value="431933" />
+  <Preset Label="Disruptive (trait_Rogue)" Value="433147" />
+  <Preset Label="Fairy (trait_OccultFairy_AllAges)" Value="433287" />
+  <Preset Label="trait_OccultFairy_FlyingWalkstyle" Value="433288" />
+  <Preset Label="High Fae Lineage (trait_OccultFairy_HighFaeLineage)" Value="433290" />
+  <Preset Label="Mystical (trait_Mystical)" Value="433541" />
+  <Preset Label="Apothecary (trait_CAS_Story_Skill_Apothecary)" Value="435299" />
+  <Preset Label="Apothecary (trait_CAS_Story_Skill_Apothecary_3)" Value="435300" />
+  <Preset Label="Natural Living (trait_CAS_Story_Skill_NaturalLiving)" Value="435301" />
+  <Preset Label="Natural Living (trait_CAS_Story_Skill_NaturalLiving_3)" Value="435302" />
+  <Preset Label="Naturopath (trait_CAS_Story_Career_Naturopath)" Value="435303" />
+  <Preset Label="Naturopath (trait_CAS_Story_Career_Naturopath_Level_2)" Value="435304" />
+  <Preset Label="Naturopath (trait_CAS_Story_Career_Naturopath_Level_3)" Value="435305" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_GreenMan" Value="436773" />
+  <Preset Label="trait_Hidden_EP19Quests_MushroomRed" Value="437472" />
+  <Preset Label="trait_Hidden_EP19Quests_MushroomGreen" Value="437473" />
+  <Preset Label="trait_Hidden_EP19Quests_MushroomBlue" Value="437474" />
+  <Preset Label="trait_Hidden_EP19Quests_MushroomYellow" Value="437475" />
+  <Preset Label="trait_OccultFairy_FlyingDisallowed" Value="439203" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_GnomeGreat" Value="440750" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_GnomeNarrative" Value="440751" />
+  <Preset Label="trait_Hidden_EP19Quests_Gnome" Value="440752" />
+  <Preset Label="trait_Hidden_EP19Quests_Trade" Value="440753" />
+  <Preset Label="trait_Hidden_EP19Quests_Liaison" Value="440785" />
+  <Preset Label="trait_Hidden_EP19Quests_Apothecary" Value="440787" />
+  <Preset Label="trait_Hidden_EP19Quests_NarrativeComplete" Value="440897" />
+  <Preset Label="Now You Gnome (trait_EP19Quests_GreatGnome)" Value="441067" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_ApothFetch" Value="441623" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_ApothCraft" Value="441624" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_Fairy" Value="441672" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_TradeNature" Value="441741" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_TradeFetch" Value="441742" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_LiaisonFetch" Value="441770" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_LiaisonTravel" Value="441771" />
+  <Preset Label="Into the Everdew (trait_FairyStories_Initiation_IntoThePixieland)" Value="443385" />
+  <Preset Label="Fairy Influence (trait_FairyStories_Initiation_FayImpresser)" Value="443433" />
+  <Preset Label="Delightfully Discordant (trait_FairyStories_DarkPath_DarkPixie)" Value="443434" />
+  <Preset Label="Happily Harmonious (trait_FairyStories_LightPath_LightPixie)" Value="443435" />
+  <Preset Label="Holistic Healer (trait_HolisticHealer)" Value="443590" />
+  <Preset Label="Problem Fairy (trait_ProblemFairy)" Value="443901" />
+  <Preset Label="Well-Balanced Practitioner (trait_NaturalMeds_HealsWithPills)" Value="444092" />
+  <Preset Label="Nature's Best Bud (trait_BohemianStyle_NaturesBestBud)" Value="444093" />
+  <Preset Label="trait_Hidden_EP19World_WitnessedPerformingMagicOnce" Value="444659" />
+  <Preset Label="Likes Apothecary Crafting (trait_SimPreference_Likes_Activities_Apothecary)" Value="444978" />
+  <Preset Label="Dislikes Apothecary Crafting (trait_SimPreference_Dislikes_Activities_Apothecary)" Value="444983" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_Apothecary" Value="444995" />
+  <Preset Label="Dislikes Natural Living Skill (trait_SimPreference_Dislikes_Activities_NLS)" Value="448271" />
+  <Preset Label="Likes Natural Living Skill (trait_SimPreference_Likes_Activities_NLS)" Value="448272" />
+  <Preset Label="Plant Lover (trait_PlantLover)" Value="453551" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_NLS" Value="455107" />
+  <Preset Label="trait_Hidden_Apothecary_EmotionStone_Brokenness" Value="458395" />
+  <Preset Label="trait_Hidden_EP19_FairyBuff" Value="468101" />
+  <Preset Label="trait_isPlantSimNPC_Improvements" Value="472959" />
+</PresetGroup>

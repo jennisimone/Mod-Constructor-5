@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Situation Goal Sets EP19">
+  <Preset Label="goalSet_CareerNaturopath_AdmitAfflicted" Value="439376" />
+  <Preset Label="goalSet_CareerNaturopath_Afflicted_Assess" Value="439387" />
+  <Preset Label="goalSet_CareerNaturopath_Afflicted_Cure" Value="439392" />
+  <Preset Label="goalSet_CareerNaturopath_Educate" Value="441049" />
+  <Preset Label="goalSet_CareerNaturopath_PatientIntake" Value="441050" />
+  <Preset Label="goalSet_CareerNaturopath_Afflicted_Assess_DiscussRoot" Value="441051" />
+  <Preset Label="goalSet_CareerNaturopath_Afflicted_Assess_StressPlantBasedCare" Value="444301" />
+  <Preset Label="goalSet_HobbyClass_SkillActivityApothecary" Value="444934" />
+  <Preset Label="goalSet_HobbyClass_Social_1_Apothecary" Value="444936" />
+  <Preset Label="goalSet_CareerNaturopath_SL1" Value="450854" />
+  <Preset Label="goalSet_CareerNaturopath_AL1" Value="453981" />
+  <Preset Label="goalSet_CareerNaturopath_CureLoops" Value="453982" />
+  <Preset Label="goalSet_CareerNaturopath_Hidden_01" Value="454430" />
+  <Preset Label="goalSet_CareerNaturopath_SL1_Discuss" Value="454431" />
+  <Preset Label="goalSet_CareerNaturopath_SL2_Ask" Value="454434" />
+  <Preset Label="goalSet_CareerNaturopath_AL2" Value="454435" />
+  <Preset Label="goalSet_CareerNaturopath_SL3_Ask" Value="454447" />
+  <Preset Label="goalSet_CareerNaturopath_SL2_Discuss" Value="454448" />
+  <Preset Label="goalSet_CareerNaturopath_SL3_Discuss" Value="454449" />
+  <Preset Label="goalSet_CareerNaturopath_Afflicted_Assess_AmendRootCause" Value="454450" />
+  <Preset Label="goalSet_CareerNaturopath_Hidden_02" Value="454452" />
+  <Preset Label="goalSet_CareerNaturopath_Hidden_03" Value="455269" />
+  <Preset Label="goalSet_CareerNaturopath_Afflicted_Cure_Sympathy" Value="461179" />
+  <Preset Label="goalSet_CareerNaturopath_SL4_Ask" Value="473120" />
+  <Preset Label="goalSet_CareerNaturopath_SL4_Discuss" Value="473121" />
+</PresetGroup>

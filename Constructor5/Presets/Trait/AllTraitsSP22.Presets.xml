@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Traits SP22">
+  <Preset Label="Filth Dweller (trait_FilthDweller)" Value="256785" />
+  <Preset Label="Fast &amp; Fastidious (trait_FastFastidious)" Value="256786" />
+</PresetGroup>

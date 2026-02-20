@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP51">
+  <Preset Label="object_sp51_GoboLight" Value="368358" />
+  <Preset Label="object_light_ceiling_SP51DiscoBall" Value="368359" />
+  <Preset Label="object_danceFloor_sp51_3x3" Value="368360" />
+  <Preset Label="object_sp51_fogMachine" Value="368361" />
+  <Preset Label="object_sp51_stereoWall_Party" Value="368362" />
+  <Preset Label="object_stereoTurnTable_SP51" Value="368464" />
+  <Preset Label="object_tvWall2x1_SP51GEN" Value="373110" />
+</PresetGroup>

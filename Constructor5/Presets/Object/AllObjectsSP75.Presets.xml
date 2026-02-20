@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP75">
+  <Preset Label="object_DiningChair_StuffedAnimal" Value="494837" />
+  <Preset Label="object_tvWall3x2_SP75Painting" Value="494971" />
+  <Preset Label="object_Wonderland_Kid_TeaTray" Value="494972" />
+  <Preset Label="object_pretend_KidsTea" Value="494977" />
+</PresetGroup>

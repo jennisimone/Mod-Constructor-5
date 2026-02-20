@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Broadcasters SP49">
+  <Preset Label="broadcaster_Gemology_Plumbite" Value="356008" />
+  <Preset Label="broadcaster_Gemology_CutGemstones" Value="358144" />
+  <Preset Label="broadcaster_Gemology_CutGemstones_Drained" Value="358873" />
+</PresetGroup>

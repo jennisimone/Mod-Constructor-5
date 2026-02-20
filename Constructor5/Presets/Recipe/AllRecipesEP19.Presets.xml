@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Recipes EP19">
+  <Preset Label="Golden Blooms Portrait (recipe_FlowerPress_UnEnchanted_1)" Value="432307" />
+  <Preset Label="Blossom Bonnets Portrait (recipe_FlowerPress_UnEnchanted_2)" Value="432308" />
+  <Preset Label="Dancing Daisy Portrait (recipe_FlowerPress_UnEnchanted_3)" Value="432309" />
+  <Preset Label="Flora Elegance Portrait (recipe_FlowerPress_UnEnchanted_4)" Value="432310" />
+  <Preset Label="Owl-ways in Bloom Portrait (recipe_FlowerPress_UnEnchanted_5)" Value="432311" />
+  <Preset Label="Majestic Butterbloom Portrait (recipe_FlowerPress_UnEnchanted_6)" Value="432312" />
+  <Preset Label="Floral Flame Candle (recipe_FlowerPress_UnEnchanted_7)" Value="432313" />
+  <Preset Label="Bonnet Beauty Candle (recipe_FlowerPress_UnEnchanted_8)" Value="432314" />
+  <Preset Label="Illuminated Firefly Candle (recipe_FlowerPress_UnEnchanted_9)" Value="432315" />
+  <Preset Label="Butterfly Blooms Candle (recipe_FlowerPress_UnEnchanted_15)" Value="432316" />
+  <Preset Label="Faerie-Kissed Blossoms Portrait (recipe_FlowerPress_UnEnchanted_10)" Value="432317" />
+  <Preset Label="Petal Medley Portrait (recipe_FlowerPress_UnEnchanted_12)" Value="432318" />
+  <Preset Label="The Midnight Dance Portrait (recipe_FlowerPress_UnEnchanted_13)" Value="432319" />
+  <Preset Label="Frogs on Leafy Lilypads Portrait (recipe_FlowerPress_UnEnchanted_14)" Value="432320" />
+  <Preset Label="Flame of Floral Fruits Candle (recipe_FlowerPress_UnEnchanted_11)" Value="432321" />
+  <Preset Label="There's No Place like Gnome (recipe_Woodwork_GnomeFunc_Gnome01)" Value="433394" />
+  <Preset Label="Bare Essentials Gnome (recipe_Woodwork_GnomeFunc_GnomeNude)" Value="433397" />
+  <Preset Label="Mr. Floppy the Gnome (recipe_Woodwork_GnomeFunc_GnomeBunny)" Value="433398" />
+  <Preset Label="Guardian of the Gnomelaxy (recipe_Woodwork_GnomeFunc_GnomeAlien)" Value="433399" />
+  <Preset Label="Happy Gnomiversary! (recipe_Woodwork_GnomeFunc_GnomeAnniversary)" Value="433400" />
+  <Preset Label="Strictly Business Gnome (recipe_Woodwork_GnomeFunc_GnomeCareer)" Value="433401" />
+  <Preset Label="Poolside Gnome (recipe_Woodwork_GnomeFunc_GnomePool)" Value="433402" />
+  <Preset Label="Gnome Matter What, I’m Still Your Baby (recipe_Woodwork_GnomeFunc_Gnome03)" Value="433403" />
+  <Preset Label="Happy Gnome Garden Pal (recipe_Woodwork_GnomeFunc_Gnome02)" Value="433404" />
+  <Preset Label="&quot;Onward&quot; the Adventurous Gnome (recipe_Woodwork_GnomeFunc_GnomeChickenRider)" Value="433410" />
+  <Preset Label="Bearly Gnome (recipe_Woodwork_GnomeFunc_GnomeCamping)" Value="433411" />
+  <Preset Label="Don't Fear the Reagnomper (recipe_Woodwork_GnomeFunc_DeathGnome)" Value="433412" />
+  <Preset Label="Right Side Up Gnome (recipe_Woodwork_GnomeFunc_PedestalGnome)" Value="433422" />
+  <Preset Label="High-Rider Gnome (recipe_Woodwork_GnomeFunc_FlamingoGnome)" Value="433423" />
+  <Preset Label="The Ghastly Ghostly Gnome (recipe_Woodwork_GnomeFunc_GnomeGhost)" Value="433424" />
+  <Preset Label="Very Fairy Gnome (recipe_Woodwork_GnomeFunc_GnomeFairy)" Value="433971" />
+  <Preset Label="Gnomedalf (recipe_Woodwork_GnomeFunc_GnomeEvil)" Value="433972" />
+  <Preset Label="PlantGnome (recipe_Woodwork_GnomeFunc_GnomePlant)" Value="433973" />
+  <Preset Label="craftingObjectType_ApothecaryCraftTable" Value="438857" />
+  <Preset Label="Enhanced Eyes (recipe_Apothecary_CuresAndElixirs_EnhancedEyes)" Value="438908" />
+  <Preset Label="Gnome Lure Cure (recipe_Apothecary_CuresAndElixirs_BasicCure)" Value="438909" />
+  <Preset Label="Calming Draught (recipe_Apothecary_CuresAndElixirs_CalmingDraught)" Value="443840" />
+  <Preset Label="Balanced Mind (recipe_Apothecary_CuresAndElixirs_InfinitePatience)" Value="443841" />
+  <Preset Label="Hooked on Nature (recipe_Apothecary_CuresAndElixirs_PlantPerson)" Value="443842" />
+  <Preset Label="A Wee Drink (recipe_Apothecary_CuresAndElixirs_SappyGoop)" Value="443843" />
+  <Preset Label="Lucky Liquid (recipe_Apothecary_CuresAndElixirs_LiquidLuck)" Value="443844" />
+  <Preset Label="Momentary Happiness (recipe_Apothecary_CuresAndElixirs_MomentaryHappiness)" Value="443845" />
+  <Preset Label="Creation Impulse Cure (recipe_Apothecary_CuresAndElixirs_BackToBasics)" Value="443846" />
+  <Preset Label="Noxious Gas (recipe_Apothecary_CuresAndElixirs_NoxiousGas)" Value="443847" />
+  <Preset Label="Emotional Void Cure (recipe_Apothecary_CuresAndElixirs_EmotionalReset)" Value="443848" />
+  <Preset Label="Supernatural Shield (recipe_Apothecary_CuresAndElixirs_AuraShield)" Value="443849" />
+  <Preset Label="Holistic Cure (recipe_Apothecary_CuresAndElixirs_AllCure)" Value="443850" />
+  <Preset Label="Celestial Protection (recipe_Apothecary_CuresAndElixirs_CelestialProtection)" Value="443851" />
+  <Preset Label="Emotion Stone (recipe_Apothecary_CuresAndElixirs_EmotionStone)" Value="443852" />
+  <Preset Label="Guidebook to Apothecary (recipe_Book_Manual_ApothecarySkill)" Value="445061" />
+  <Preset Label="spawner_Public_Bush_MoodBush_Wild" Value="445288" />
+  <Preset Label="spawner_Public_Bush_LightningRoot_Wild" Value="445289" />
+  <Preset Label="spawner_Public_Flower_AuraBlossom_Wild" Value="445290" />
+  <Preset Label="Fairy Ability Refund Potion (recipe_Drink_Fairy_Potion_ResetFairyPerks)" Value="445381" />
+  <Preset Label="Angry Emotion Potion (recipe_Apothecary_BottledEmotions_Negitive_angry)" Value="445688" />
+  <Preset Label="Bored Emotion Potion (recipe_Apothecary_BottledEmotions_Negitive_bored)" Value="445689" />
+  <Preset Label="Embarrassed Emotion Potion (recipe_Apothecary_BottledEmotions_Negitive_embarrassed)" Value="445690" />
+  <Preset Label="Sad Emotion Potion (recipe_Apothecary_BottledEmotions_Negitive_sad)" Value="445691" />
+  <Preset Label="Scared Emotion Potion (recipe_Apothecary_BottledEmotions_Negitive_scared)" Value="445692" />
+  <Preset Label="Tense Emotion Potion (recipe_Apothecary_BottledEmotions_Negitive_tense)" Value="445693" />
+  <Preset Label="Confident Emotion Potion (recipe_Apothecary_BottledEmotions_Positive_confident)" Value="445734" />
+  <Preset Label="Energized Emotion Potion (recipe_Apothecary_BottledEmotions_Positive_energized)" Value="445735" />
+  <Preset Label="Flirty Emotion Potion (recipe_Apothecary_BottledEmotions_Positive_flirty)" Value="445736" />
+  <Preset Label="Focused Emotion Potion (recipe_Apothecary_BottledEmotions_Positive_focused)" Value="445737" />
+  <Preset Label="Happy Emotion Potion (recipe_Apothecary_BottledEmotions_Positive_happy)" Value="445738" />
+  <Preset Label="Inspired Emotion Potion (recipe_Apothecary_BottledEmotions_Positive_inspired)" Value="445739" />
+  <Preset Label="Playful Emotion Potion (recipe_Apothecary_BottledEmotions_Positive_playful)" Value="445740" />
+  <Preset Label="TerraSphere Tabletop Plant Pot (recipe_Pottery_PottedPlants_Pot1)" Value="450808" />
+  <Preset Label="Concentric Tabletop Plant Pot (recipe_Pottery_PottedPlants_Pot2)" Value="451008" />
+  <Preset Label="Freezer Bunny Foot (recipe_Apothecary_LuckSys_LuckInfusedObject_FreezerBunnyFoot)" Value="452221" />
+  <Preset Label="Cowplant Horn (recipe_Apothecary_LuckSys_LuckInfusedObject_CowplantHorn)" Value="452241" />
+  <Preset Label="Luck Magnet Cure (recipe_Apothecary_CuresAndElixirs_LuckSuckCure)" Value="452896" />
+  <Preset Label="Greenie Meanie Cure (recipe_Apothecary_CuresAndElixirs_GreenMeanieCure)" Value="452897" />
+  <Preset Label="Fearless (recipe_Apothecary_CuresAndElixirs_Fearless)" Value="452901" />
+  <Preset Label="Need Stop (recipe_Apothecary_CuresAndElixirs_NeedStop)" Value="452916" />
+  <Preset Label="Burning Passion Cure (recipe_Apothecary_CuresAndElixirs_BurningPassionCure)" Value="452925" />
+  <Preset Label="Simoleon Fever Cure (recipe_Apothecary_CuresAndElixirs_SimoleonFeverCure)" Value="452959" />
+  <Preset Label="Sonic Sinuses Cure (recipe_Apothecary_CuresAndElixirs_SonicSinusesCure)" Value="452960" />
+  <Preset Label="Angry Emotion Potion (recipe_Apothecary_BottledEmotions_Negitive_angry_Level7)" Value="455414" />
+  <Preset Label="Bored Emotion Potion (recipe_Apothecary_BottledEmotions_Negitive_bored_Level7)" Value="455415" />
+  <Preset Label="Embarrassed Emotion Potion (recipe_Apothecary_BottledEmotions_Negitive_embarrassed_Level7)" Value="455416" />
+  <Preset Label="Sad Emotion Potion (recipe_Apothecary_BottledEmotions_Negitive_sad_Level7)" Value="455417" />
+  <Preset Label="Scared Emotion Potion (recipe_Apothecary_BottledEmotions_Negitive_scared_Level7)" Value="455418" />
+  <Preset Label="Tense Emotion Potion (recipe_Apothecary_BottledEmotions_Negitive_tense_Level7)" Value="455419" />
+  <Preset Label="Confident Emotion Potion (recipe_Apothecary_BottledEmotions_Positive_confident_Level7)" Value="455421" />
+  <Preset Label="Energized Emotion Potion (recipe_Apothecary_BottledEmotions_Positive_energized_Level7)" Value="455422" />
+  <Preset Label="Flirty Emotion Potion (recipe_Apothecary_BottledEmotions_Positive_flirty_Level7)" Value="455423" />
+  <Preset Label="Focused Emotion Potion (recipe_Apothecary_BottledEmotions_Positive_focused_Level7)" Value="455424" />
+  <Preset Label="Happy Emotion Potion (recipe_Apothecary_BottledEmotions_Positive_happy_Level7)" Value="455425" />
+  <Preset Label="Inspired Emotion Potion (recipe_Apothecary_BottledEmotions_Positive_inspired_Level7)" Value="455426" />
+  <Preset Label="Playful Emotion Potion (recipe_Apothecary_BottledEmotions_Positive_playful_Level7)" Value="455427" />
+  <Preset Label="Sad Emotion Potion (recipe_Apothecary_BottledEmotions_Level10_Sad)" Value="456383" />
+  <Preset Label="Focused Emotion Potion (recipe_Apothecary_BottledEmotions_Level10_Focused)" Value="456384" />
+  <Preset Label="Any Emotion Potion (recipe_Apothecary_BottledEmotions_Level10_Base)" Value="456413" />
+  <Preset Label="Scared Emotion Potion (recipe_Apothecary_BottledEmotions_Level10_Scared)" Value="456414" />
+  <Preset Label="Angry Emotion Potion (recipe_Apothecary_BottledEmotions_Level10_Angry)" Value="456647" />
+  <Preset Label="Bored Emotion Potion (recipe_Apothecary_BottledEmotions_Level10_Bored)" Value="456648" />
+  <Preset Label="Embarrassed Emotion Potion (recipe_Apothecary_BottledEmotions_Level10_Embarrassed)" Value="456649" />
+  <Preset Label="Tense Emotion Potion (recipe_Apothecary_BottledEmotions_Level10_Tense)" Value="456650" />
+  <Preset Label="Confident Emotion Potion (recipe_Apothecary_BottledEmotions_Level10_Confident)" Value="456651" />
+  <Preset Label="Energized Emotion Potion (recipe_Apothecary_BottledEmotions_Level10_Engergized)" Value="456652" />
+  <Preset Label="Flirty Emotion Potion (recipe_Apothecary_BottledEmotions_Level10_Flirty)" Value="456653" />
+  <Preset Label="Happy Emotion Potion (recipe_Apothecary_BottledEmotions_Level10_Happy)" Value="456654" />
+  <Preset Label="Inspired Emotion Potion (recipe_Apothecary_BottledEmotions_Level10_Inspired)" Value="456655" />
+  <Preset Label="Playful Emotion Potion (recipe_Apothecary_BottledEmotions_Level10_Playful)" Value="456656" />
+  <Preset Label="Golden Blooms Portrait (recipe_FlowerPress_Enchanted_1)" Value="457416" />
+  <Preset Label="Faerie-Kissed Blossoms Portrait (recipe_FlowerPress_Enchanted_10)" Value="457417" />
+  <Preset Label="Flame of Floral Fruits Candle (recipe_FlowerPress_Enchanted_11)" Value="457418" />
+  <Preset Label="Petal Medley Portrait (recipe_FlowerPress_Enchanted_12)" Value="457419" />
+  <Preset Label="The Midnight Dance Portrait (recipe_FlowerPress_Enchanted_13)" Value="457420" />
+  <Preset Label="Frogs on Leafy Lilypads Portrait (recipe_FlowerPress_Enchanted_14)" Value="457421" />
+  <Preset Label="Butterfly Blooms Candle (recipe_FlowerPress_Enchanted_15)" Value="457422" />
+  <Preset Label="Blossom Bonnets Portrait (recipe_FlowerPress_Enchanted_2)" Value="457423" />
+  <Preset Label="Dancing Daisy Portrait (recipe_FlowerPress_Enchanted_3)" Value="457424" />
+  <Preset Label="Flora Elegance Portrait (recipe_FlowerPress_Enchanted_4)" Value="457425" />
+  <Preset Label="Owl-ways in Bloom Portrait (recipe_FlowerPress_Enchanted_5)" Value="457426" />
+  <Preset Label="Majestic Butterbloom Portrait (recipe_FlowerPress_Enchanted_6)" Value="457427" />
+  <Preset Label="Floral Flame Candle (recipe_FlowerPress_Enchanted_7)" Value="457428" />
+  <Preset Label="Bonnet Beauty Candle (recipe_FlowerPress_Enchanted_8)" Value="457429" />
+  <Preset Label="Illuminated Firefly Candle (recipe_FlowerPress_Enchanted_9)" Value="457430" />
+  <Preset Label="phaseMulti_Apothecary_CuresAndElixirs_Basic" Value="461170" />
+  <Preset Label="Guidebook to Natural Living (recipe_Book_Manual_NLS)" Value="469661" />
+</PresetGroup>

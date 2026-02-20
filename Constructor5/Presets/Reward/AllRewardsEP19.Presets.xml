@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Rewards EP19">
+  <Preset Label=" (careerRewards_Overmax_Naturopathic_HerbalMedicine)" Value="436177" />
+  <Preset Label=" (careerRewards_Overmax_Naturopathic_LifestyleMedicine)" Value="436178" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_Level2)" Value="436240" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_Level3)" Value="436241" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_Level4)" Value="436242" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_Level5)" Value="436243" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_HerbalMedicine_Level1)" Value="436244" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_HerbalMedicine_Level2)" Value="436245" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_HerbalMedicine_Level3)" Value="436246" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_HerbalMedicine_Level4)" Value="436247" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_HerbalMedicine_Level5)" Value="436248" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_LifestyleMedicine_Level1)" Value="436249" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_LifestyleMedicine_Level2)" Value="436250" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_LifestyleMedicine_Level3)" Value="436251" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_LifestyleMedicine_Level4)" Value="436252" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_LifestyleMedicine_Level5)" Value="436253" />
+  <Preset Label=" (careerRewards_Career_Naturopathic_Level1)" Value="436458" />
+  <Preset Label="Glaswood Tree (simReward_EP19Quests_GreenMan)" Value="436877" />
+  <Preset Label="Starseed Teleporter (simReward_EP19Quests_Travel)" Value="441788" />
+  <Preset Label="Into the Everdew (reward_FairyStories_Initiation)" Value="443383" />
+  <Preset Label="Happily Harmonious (reward_FairyStories_LightPath)" Value="443431" />
+  <Preset Label="Delightfully Discordant (reward_FairyStories_DarkPath)" Value="443432" />
+  <Preset Label="Nature's Best Bud (reward_BohemianStyle)" Value="444090" />
+  <Preset Label="Well-Balanced Practitioner (reward_NatureMeds)" Value="444091" />
+</PresetGroup>

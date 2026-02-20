@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Mixer Interactions EP21">
+  <Preset Label="swordsmanship_Duel_Mixers_Back" Value="449397" />
+  <Preset Label="swordsmanship_Duel_Mixers_Center" Value="449399" />
+  <Preset Label="swordsmanship_Duel_Mixers_Forward" Value="449403" />
+  <Preset Label="mixer_TutorServiceNotes" Value="467474" />
+  <Preset Label="mixer_TutorServicePhone" Value="467702" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_Swordsmanship" Value="469827" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_Swordsmanship" Value="469828" />
+  <Preset Label="sit_Passive_Throne" Value="471432" />
+  <Preset Label="swordsmanship_Duel_Mixers_BackFromForward" Value="473910" />
+  <Preset Label="swordsmanship_Duel_Mixers_ForwardFromBack" Value="473911" />
+  <Preset Label="mixer_NobleCareer_ListenToVisitor_PassiveIdle" Value="477314" />
+  <Preset Label="mixer_NobleCareer_GiveNobleSpeech" Value="481024" />
+  <Preset Label="Issue a Denial Statement (mixer_NobleCareer_IssueADenialStatement_Success)" Value="481025" />
+  <Preset Label="Issue a Public Apology (mixer_NobleCareer_IssueAPublicApology_Success)" Value="481026" />
+  <Preset Label="Present New Kingdom Strategies (mixer_NobleCareer_PresentNewKingdomStrategies)" Value="481027" />
+  <Preset Label="Promise to Always Serve the Kingdom (mixer_NobleCareer_PromiseToAlwaysServeKingdom)" Value="481028" />
+  <Preset Label="Publicly Reveal Scandal About (mixer_NobleCareer_PubliclyRevealSecretAbout)" Value="481029" />
+  <Preset Label="mixer_NobleCareer_Podium_Listener_View" Value="482114" />
+  <Preset Label="ep21World_Mixers_BellacordeStatue_Idle" Value="483123" />
+  <Preset Label="ep21World_Mixers_BellacordeStatue_Loop" Value="483124" />
+  <Preset Label="swordsmanship_Watch_Mixers_Awe" Value="484616" />
+  <Preset Label="swordsmanship_Watch_Mixers_Excited" Value="484617" />
+  <Preset Label="swordsmanship_Watch_Mixers_Passive" Value="484618" />
+  <Preset Label="swordsmanship_Watch_Mixers_Scared" Value="484619" />
+  <Preset Label="mixer_NobleCareer_Daydream" Value="500829" />
+  <Preset Label="Issue a Denial Statement (mixer_NobleCareer_IssueADenialStatement_Failure)" Value="501083" />
+  <Preset Label="Issue a Public Apology (mixer_NobleCareer_IssueAPublicApology_Failure)" Value="501084" />
+  <Preset Label="mixer_NobleCareer_Podium_Listener_Cheer" Value="502847" />
+</PresetGroup>

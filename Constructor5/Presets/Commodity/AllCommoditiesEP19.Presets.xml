@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Commodities EP19">
+  <Preset Label="Emotional Force (commodity_Motive_FairyOccult_EmotionalAppetite)" Value="420035" />
+  <Preset Label="commodity_BalanceSys_BalanceAxis" Value="427050" />
+  <Preset Label="commodity_GnomeFunc_EvilGnomeChance" Value="429960" />
+  <Preset Label="commodity_Ailments_IncubationTimer_EmotionalVoid" Value="430250" />
+  <Preset Label="commodity_Ailments_IncubationTimer_LuckSuck" Value="432786" />
+  <Preset Label="commodity_Ailments_IncubationTimer_GnomeMagnet" Value="432787" />
+  <Preset Label="commodity_Ailments_IncubationTimer_GreenieMeanie" Value="432788" />
+  <Preset Label="commodity_Ailments_IncubationTimer_CreationImpulse" Value="432789" />
+  <Preset Label="commodity_Trait_Autonomy_Rogue" Value="433149" />
+  <Preset Label="commodity_Ailments_CreationImpulse_ItchTimer" Value="433299" />
+  <Preset Label="commodity_Trait_Autonomy_Mystical" Value="433570" />
+  <Preset Label="commodity_EP19Gardening_Enchanted" Value="434664" />
+  <Preset Label="commodity_EP19Gardening_CanCollect" Value="435120" />
+  <Preset Label="commodity_EP19Gardening_AuraBlossom_VengefulTimer" Value="435540" />
+  <Preset Label="commodity_EP19Gardening_PixieTimer" Value="435648" />
+  <Preset Label="commodity_CareerBenefit_Naturopathic" Value="436190" />
+  <Preset Label="commodity_Situation_Career_Naturopath_AfflictedPromoted" Value="439393" />
+  <Preset Label="commodity_Object_ApothecaryCraftTable_CraftingProgress" Value="439679" />
+  <Preset Label="Commodity_Career_Naturopath_AilmentDiagnosis" Value="439751" />
+  <Preset Label="commodity_BohemianStyle_NaturesBestBud_BalanceTimer" Value="445182" />
+  <Preset Label="commodity_Fear_Magic_CheckNearbyManifestedOccults" Value="446108" />
+  <Preset Label="commodity_Fear_Magic_RunScared" Value="446109" />
+  <Preset Label="commodity_EP19Gardening_Pixies_PushSpread" Value="451423" />
+  <Preset Label="commodity_Ailments_IncubationTimer_BurningPassion" Value="452116" />
+  <Preset Label="commodity_Ailments_IncubationTimer_SimoleonFever" Value="452117" />
+  <Preset Label="commodity_Ailments_IncubationTimer_SonicSinuses" Value="452118" />
+  <Preset Label="commodity_Object_LuckInfusedObjects_LuckSys_EffectTime" Value="452249" />
+  <Preset Label="commodity_Trait_Autonomy_PlantLover" Value="453552" />
+  <Preset Label="commodity_Trait_PlantLover_NeedSocial" Value="454059" />
+  <Preset Label="commodity_object_Apothecary_EmotionStone_Brokenness" Value="457975" />
+  <Preset Label="commodity_FairyHome_FairyDustCounter" Value="462494" />
+  <Preset Label="commodity_FairyOccult_UseAbility_NPC" Value="468443" />
+</PresetGroup>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Balloon Sets EP19">
+  <Preset Label="balloonCategory_CareerNaturopathic_Speech" Value="436202" />
+  <Preset Label="balloonCategory_CareerNaturopathic_Thought" Value="436203" />
+  <Preset Label="balloon_Book_NLS" Value="439539" />
+  <Preset Label="balloonCategory_SkillApothecary_Speech" Value="444971" />
+  <Preset Label="balloonCategory_SkillApothecary_Thought" Value="444972" />
+  <Preset Label="balloonCategory_SkillNLS_Speech" Value="454765" />
+  <Preset Label="balloonCategory_SkillNLS_Thought" Value="454766" />
+</PresetGroup>

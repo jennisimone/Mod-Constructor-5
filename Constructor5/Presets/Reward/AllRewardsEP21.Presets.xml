@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Rewards EP21">
+  <Preset Label=" (careerRewards_NobleCareer_Level10)" Value="480580" />
+  <Preset Label=" (careerRewards_NobleCareer_Level02)" Value="480635" />
+  <Preset Label=" (careerRewards_NobleCareer_Level03)" Value="480636" />
+  <Preset Label=" (careerRewards_NobleCareer_Level04)" Value="480637" />
+  <Preset Label=" (careerRewards_NobleCareer_Level05)" Value="480638" />
+  <Preset Label=" (careerRewards_NobleCareer_Level06)" Value="480639" />
+  <Preset Label=" (careerRewards_NobleCareer_Level07)" Value="480640" />
+  <Preset Label=" (careerRewards_NobleCareer_Level08)" Value="480641" />
+  <Preset Label=" (careerRewards_NobleCareer_Level09)" Value="480642" />
+  <Preset Label="Dynasty Prestige (reward_PivotalMoment_EP21_Onboarding_DynastySystem)" Value="488707" />
+  <Preset Label="Secret Box of Simoleons (reward_PivotalMoment_EP21_Onboarding_ScandalSecrets)" Value="489767" />
+  <Preset Label="Gold Level (householdReward_BallroomDance_Gold)" Value="494453" />
+  <Preset Label="Silver Level (householdReward_BallroomDance_Silver)" Value="494454" />
+  <Preset Label="Bronze Level (householdReward_BallroomDance_Bronze)" Value="494455" />
+  <Preset Label="Ironclad Reputation (Rewards_Deviance_Whistleblower)" Value="495595" />
+</PresetGroup>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interactions SP67">
+  <Preset Label="Purchase Groceries (purchase_Food_GroceryBag)" Tags="TestUnsafe" Value="451598" />
+  <Preset Label="Grab Cereal (CerealBox_StartCrafting_Bowl)" Value="451600" />
+  <Preset Label="Grab Cereal (create_CerealBowl)" Value="451603" />
+  <Preset Label="Grab a Cookie (cookiejar_GrabCookie_SP67)" Value="453671" />
+</PresetGroup>

@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Mixer Interactions EP20">
+  <Preset Label="spinningBikeMixer_Idle" Value="441414" />
+  <Preset Label="Research Competitive Metas (computerActions_Browse_Mouse_Competitive)" Value="443389" />
+  <Preset Label="idle_Buff_Competitive" Value="443391" />
+  <Preset Label="fishingLocation_AngleForBigCatch_Kayak" Value="447020" />
+  <Preset Label="fishingLocation_AngleForBigCatch_Kayak_Idle" Value="447021" />
+  <Preset Label="fishingLocation_Cast_Kayak" Value="447022" />
+  <Preset Label="spinningBikeMixers_Actions_Break" Value="449271" />
+  <Preset Label="spinningBikeMixers_Actions_Instructor" Value="449272" />
+  <Preset Label="spinningBikeMixers_Actions_MuscleFailure" Value="449273" />
+  <Preset Label="spinningBikeMixers_Actions_Seated_HighSkill" Value="449274" />
+  <Preset Label="spinningBikeMixers_Actions_Seated_MidSkill" Value="449275" />
+  <Preset Label="spinningBikeMixers_Actions_Seated_LowSkill" Value="449276" />
+  <Preset Label="spinningBikeMixers_Actions_Stand_HighSkill" Value="449277" />
+  <Preset Label="spinningBikeMixers_Actions_Stand_MidSkill" Value="449298" />
+  <Preset Label="spinningBikeMixers_Actions_Stand_LowSkill" Value="449299" />
+  <Preset Label="spinningBikeMixers_Actions_Tap_HighSkill" Value="449300" />
+  <Preset Label="spinningBikeMixers_Actions_Tap_MidSkill" Value="449301" />
+  <Preset Label="spinningBikeMixers_Actions_Tap_LowSkill" Value="449302" />
+  <Preset Label="modularPlayground_Mixers_PuzzleSpin1" Value="451567" />
+  <Preset Label="modularPlayground_Mixers_PuzzleSpin2" Value="451568" />
+  <Preset Label="modularPlayground_Mixers_PuzzleSpin3" Value="451569" />
+  <Preset Label="modularPlayground_Mixers_Idle" Value="451570" />
+  <Preset Label="Retrieving Some Simoleons (idle_Buff_Papercraft_CootieCatcher_Money)" Value="452507" />
+  <Preset Label="Fart (idle_Buff_Papercraft_CootieCatcher_Farts)" Value="452511" />
+  <Preset Label="Idle_Trait_Cryptid" Value="453751" />
+  <Preset Label="mixer_EP20_Asp_FishChat" Value="454905" />
+  <Preset Label="mixer_EP20_Asp_ButterflyChat" Value="454906" />
+  <Preset Label="Try to Contain Rage about Loss (mixer_Competitive_TryNotTo_Rage)" Value="458584" />
+  <Preset Label="Trying not to Over-Celebrate (mixer_Competitive_TryNotTo_OverTheTop)" Value="458585" />
+  <Preset Label="idle_Buff_EP20World_Busker_Flier" Value="458628" />
+  <Preset Label="Playing Blicblock Turbo (mixer_Competitive_BlicBlockPVP)" Value="460192" />
+  <Preset Label="mixer_AtWorkActions_ParkWorkerCareer_WorkDefault" Value="460751" />
+  <Preset Label="mixer_AtWorkActions_ParkWorkerCareer_SleepHours" Value="460752" />
+  <Preset Label="mixer_AtWorkActions_ParkWorkerCareer_OffHoursMorning" Value="460753" />
+  <Preset Label="mixer_AtWorkActions_ParkWorkerCareer_OffHoursNight" Value="460754" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Trait_Idle_Goofball" Value="462100" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Trait_Idle_Creative" Value="462101" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Trait_Idle_Evil" Value="462102" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Trait_Idle_Competitive" Value="462103" />
+  <Preset Label="mixer_EP20_If_AutoSpawn" Value="462590" />
+  <Preset Label="mixer_EP20_IF_Cheer" Value="462598" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_Archery" Value="464903" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_Archery" Value="464904" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_DivingBoard" Value="465087" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_DivingBoard" Value="465098" />
+  <Preset Label="idle_Buff_HideAndSeek_Seeker" Value="465918" />
+  <Preset Label="idles_Buff_SpinningClass_ClassMember" Value="467813" />
+  <Preset Label="idles_Buff_SpinningClass_Instructor" Value="467814" />
+  <Preset Label="mixer_AtWorkActions_ParkWorkerCareer_Expedition" Value="469612" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_Papercraft" Value="472897" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_Papercraft" Value="472898" />
+  <Preset Label="idle_Buff_HideAndSeek_Hider" Value="474200" />
+  <Preset Label="DELETE ME (idle_Blender_RainbowReaction)" Value="474216" />
+  <Preset Label="reaction_Mixers_EP20_IF_CreepedOut" Value="474893" />
+  <Preset Label="idle_Buff_ModularPlayground_Play" Value="475891" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_Entomology" Value="483100" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_Entomology" Value="483101" />
+</PresetGroup>

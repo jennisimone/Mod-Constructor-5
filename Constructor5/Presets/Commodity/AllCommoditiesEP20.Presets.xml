@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Commodities EP20">
+  <Preset Label="commodity_CompetitiveSpirit" Value="443229" />
+  <Preset Label="commodity_Skill_VideoGaming_VoidCritter" Value="446752" />
+  <Preset Label="commodity_Skill_VideoGaming_Tantrum" Value="446753" />
+  <Preset Label="commodity_Campfire_Stewpot_Progress" Value="447660" />
+  <Preset Label="commodity_CareerBenefit_ParkWorker" Value="453015" />
+  <Preset Label="commodity_EP20_IF_SpawnEvent" Value="455732" />
+  <Preset Label="commodity_ChildhoodInspiration_InspirationWantTimer" Value="455826" />
+  <Preset Label="commodity_ChildhoodInspiration_OpportunityWantTimer" Value="455912" />
+  <Preset Label="commodity_Papercraft_PaperAirplane_ThrowAround" Value="456903" />
+  <Preset Label="commodity_EP20_IF_RoleAutonomy_Help_Social" Value="462096" />
+  <Preset Label="commodity_EP20_IF_RoleAutonomy_Help_Fun" Value="462097" />
+  <Preset Label="commodity_GrindsetMindset_TenseTracker" Value="463634" />
+  <Preset Label="commodity_EP20World_FirewatchTower_Gifting" Value="469369" />
+  <Preset Label="commodity_ButterflyCollection_Incubator" Value="469652" />
+  <Preset Label="commodity_ChildhoodInspiration_DiscoveryPhoneCallTimer" Value="470716" />
+  <Preset Label="commodity_EP20World_FirewatchTower_Note" Value="472065" />
+  <Preset Label="commodity_ChildhoodInspiration_Tracker_AboutScience" Value="472303" />
+  <Preset Label="commodity_ChildhoodInspiration_Tracker_BeActive" Value="472304" />
+  <Preset Label="commodity_ChildhoodInspiration_Tracker_BeTheGeek" Value="472305" />
+  <Preset Label="commodity_ChildhoodInspiration_Tracker_BeUseful" Value="472306" />
+  <Preset Label="commodity_ChildhoodInspiration_Tracker_AspiringAuthor" Value="472465" />
+  <Preset Label="commodity_Trait_Getaway_Reward_Outdoor_AmIOutside" Value="477155" />
+  <Preset Label="commodity_EP20_IF_Neglect_Tracker" Value="477565" />
+  <Preset Label="commodity_Papercraft_PaperAirplane_DestroyTimer" Value="481653" />
+  <Preset Label="commodity_HideAndSeek_Box_DestroyTimer" Value="490601" />
+</PresetGroup>

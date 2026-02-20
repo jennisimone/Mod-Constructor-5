@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Recipes SP46">
+  <Preset Label="Canadian Bacon Pizza (recipe_Food_Homestyle_Pizza_Create_CanadianBacon)" Value="336234" />
+  <Preset Label="Canadian Bacon Pizza (recipe_Food_Homestyle_Pizza_Multi_CanadianBacon)" Value="336235" />
+  <Preset Label="Herb Focaccia (recipe_Food_Homestyle_Focaccia_Create_Herb)" Value="336916" />
+  <Preset Label="Herb Focaccia (recipe_Food_Homestyle_Focaccia_Multi_Herb)" Value="336918" />
+  <Preset Label="Herb Focaccia (recipe_Food_Homestyle_Focaccia_Single_Herb)" Value="336919" />
+  <Preset Label="Sfincione (recipe_Food_Homestyle_Focaccia_Multi_Sfincione)" Value="336920" />
+  <Preset Label="Artful Focaccia (recipe_Food_Homestyle_Focaccia_Multi_Artful)" Value="336921" />
+  <Preset Label="Sfincione (recipe_Food_Homestyle_Focaccia_Single_Sfincione)" Value="336922" />
+  <Preset Label="Artful Focaccia (recipe_Food_Homestyle_Focaccia_Single_Artful)" Value="336933" />
+  <Preset Label="Sfincione (recipe_Food_Homestyle_Focaccia_Create_Sfincione)" Value="336934" />
+  <Preset Label="Artful Focaccia (recipe_Food_Homestyle_Focaccia_Create_Artful)" Value="336935" />
+  <Preset Label="Cheese Pizza (recipe_Food_Homestyle_Pizza_Create_Cheese)" Value="336936" />
+  <Preset Label="Cheese Pizza (recipe_Food_Homestyle_Pizza_Multi_Cheese)" Value="336937" />
+  <Preset Label="Pepperoni Pizza (recipe_Food_Homestyle_Pizza_Multi_Pepperoni)" Value="336938" />
+  <Preset Label="Pepperoni Pizza (recipe_Food_Homestyle_Pizza_Create_Pepperoni)" Value="336939" />
+  <Preset Label="Pizza Caliente (recipe_Food_Homestyle_Pizza_Create_Caliente)" Value="337082" />
+  <Preset Label="Curious Pizza (recipe_Food_Homestyle_Pizza_Create_Curious)" Value="337083" />
+  <Preset Label="Garden Pizza (recipe_Food_Homestyle_Pizza_Create_Garden)" Value="337084" />
+  <Preset Label="Pizza Marinara (recipe_Food_Homestyle_Pizza_Create_Marinara)" Value="337085" />
+  <Preset Label="Pizza Quattro Stagioni (recipe_Food_Homestyle_Pizza_Create_QuattroStagioni)" Value="337086" />
+  <Preset Label="Seafood Pizza (recipe_Food_Homestyle_Pizza_Create_Seafood)" Value="337087" />
+  <Preset Label="Kebab Pizza (recipe_Food_Homestyle_Pizza_Create_Kebab)" Value="337088" />
+  <Preset Label="Sweet Corn Pizza (recipe_Food_Homestyle_Pizza_Create_SweetCorn)" Value="337089" />
+  <Preset Label="Tikka Masala Pizza (recipe_Food_Homestyle_Pizza_Create_TikkaMasala)" Value="337090" />
+  <Preset Label="Pizza Caliente (recipe_Food_Homestyle_Pizza_Multi_Caliente)" Value="337091" />
+  <Preset Label="Curious Pizza (recipe_Food_Homestyle_Pizza_Multi_Curious)" Value="337092" />
+  <Preset Label="Garden Pizza (recipe_Food_Homestyle_Pizza_Multi_Garden)" Value="337093" />
+  <Preset Label="Pizza Marinara (recipe_Food_Homestyle_Pizza_Multi_Marinara)" Value="337094" />
+  <Preset Label="Pizza Quattro Stagioni (recipe_Food_Homestyle_Pizza_Multi_QuattroStagioni)" Value="337095" />
+  <Preset Label="Seafood Pizza (recipe_Food_Homestyle_Pizza_Multi_Seafood)" Value="337096" />
+  <Preset Label="Kebab Pizza (recipe_Food_Homestyle_Pizza_Multi_Kebab)" Value="337097" />
+  <Preset Label="Sweet Corn Pizza (recipe_Food_Homestyle_Pizza_Multi_SweetCorn)" Value="337098" />
+  <Preset Label="Tikka Masala Pizza (recipe_Food_Homestyle_Pizza_Multi_TikkaMasala)" Value="337099" />
+  <Preset Label="Pizza Caliente (recipe_Food_Homestyle_Pizza_Single_Caliente)" Value="337100" />
+  <Preset Label="Curious Pizza (recipe_Food_Homestyle_Pizza_Single_Curious)" Value="337101" />
+  <Preset Label="Garden Pizza (recipe_Food_Homestyle_Pizza_Single_Garden)" Value="337102" />
+  <Preset Label="Pizza Marinara (recipe_Food_Homestyle_Pizza_Single_Marinara)" Value="337103" />
+  <Preset Label="Pizza Quattro Stagioni (recipe_Food_Homestyle_Pizza_Single_QuattroStagioni)" Value="337104" />
+  <Preset Label="Seafood Pizza (recipe_Food_Homestyle_Pizza_Single_Seafood)" Value="337105" />
+  <Preset Label="Kebab Pizza (recipe_Food_Homestyle_Pizza_Single_Kebab)" Value="337106" />
+  <Preset Label="Sweet Corn Pizza (recipe_Food_Homestyle_Pizza_Single_SweetCorn)" Value="337107" />
+  <Preset Label="Tikka Masala Pizza (recipe_Food_Homestyle_Pizza_Single_TikkaMasala)" Value="337108" />
+  <Preset Label="Prepped Meat (recipe_Food_StandMixer_Single_Meat)" Value="337396" />
+  <Preset Label="Prepped Seafood (recipe_Food_StandMixer_Single_Seafood)" Value="337397" />
+  <Preset Label="Prepped Veggies (recipe_Food_StandMixer_Single_Vegetables)" Value="337398" />
+  <Preset Label="Dough (recipe_Food_StandMixer_Single_Dough)" Value="337399" />
+  <Preset Label="Batter (recipe_Food_StandMixer_Single_Batter)" Value="337400" />
+  <Preset Label="Cookie Dough (recipe_Food_StandMixer_Single_CookieDough)" Value="337401" />
+  <Preset Label="phaseSimple_Food_PreppedIngredientsTray_Meat" Value="337707" />
+  <Preset Label="phaseSimple_Food_PreppedIngredientsTray_Seafood" Value="337708" />
+  <Preset Label="phaseSimple_Food_PreppedIngredientsTray_Vegetables" Value="337709" />
+  <Preset Label="phaseSimple_Food_PreppedIngredientsTray_Dough" Value="337710" />
+  <Preset Label="phaseSimple_Food_PreppedIngredientsTray_Batter" Value="337711" />
+  <Preset Label="phaseSimple_Food_PreppedIngredientsTray_CookieDough" Value="337712" />
+  <Preset Label="Berry Waffles (recipe_Food_Homestyle_Waffle_Single_Berry)" Value="337989" />
+  <Preset Label="Berry Waffles (recipe_Food_Homestyle_Waffle_Multi_Berry)" Value="337990" />
+  <Preset Label="Berry Waffles (recipe_Food_Homestyle_Waffle_Create_Berry)" Value="337991" />
+  <Preset Label="Pumpkin Spice Waffles (recipe_Food_Homestyle_Waffle_Create_PumpkinSpice)" Value="338425" />
+  <Preset Label="Pumpkin Spice Waffles (recipe_Food_Homestyle_Waffle_Multi_PumpkinSpice)" Value="338426" />
+  <Preset Label="Pumpkin Spice Waffles (recipe_Food_Homestyle_Waffle_Single_PumpkinSpice)" Value="338427" />
+  <Preset Label="Banana Split Waffles (recipe_Food_Homestyle_Waffle_Create_BananaSplit)" Value="338428" />
+  <Preset Label="Apple Bacon Waffles (recipe_Food_Homestyle_Waffle_Create_Bacon&amp;Apple)" Value="338429" />
+  <Preset Label="Mushroom Waffles (recipe_Food_Homestyle_Waffle_Create_Mushroom)" Value="338430" />
+  <Preset Label="Cured Fish Waffles (recipe_Food_Homestyle_Waffle_Create_CuredFish)" Value="338431" />
+  <Preset Label="Saffron Waffles (recipe_Food_Homestyle_Waffle_Create_Saffron)" Value="338432" />
+  <Preset Label="Heart's Desire Waffles (recipe_Food_Homestyle_Waffle_Create_Valentine)" Value="338433" />
+  <Preset Label="Pleasantly-Unpleasant Waffles (recipe_Food_Homestyle_Waffle_Create_(Un)Pleasant)" Value="338434" />
+  <Preset Label="Apple Bacon Waffles (recipe_Food_Homestyle_Waffle_Multi_Bacon&amp;Apple)" Value="338435" />
+  <Preset Label="Banana Split Waffles (recipe_Food_Homestyle_Waffle_Multi_BananaSplit)" Value="338436" />
+  <Preset Label="Mushroom Waffles (recipe_Food_Homestyle_Waffle_Multi_Mushroom)" Value="338437" />
+  <Preset Label="Cured Fish Waffles (recipe_Food_Homestyle_Waffle_Multi_CuredFish)" Value="338438" />
+  <Preset Label="Saffron Waffles (recipe_Food_Homestyle_Waffle_Multi_Saffron)" Value="338439" />
+  <Preset Label="Heart's Desire Waffles (recipe_Food_Homestyle_Waffle_Multi_Valentine)" Value="338440" />
+  <Preset Label="Pleasantly-Unpleasant Waffles (recipe_Food_Homestyle_Waffle_Multi_(Un)Pleasant)" Value="338441" />
+  <Preset Label="Banana Split Waffles (recipe_Food_Homestyle_Waffle_Single_BananaSplit)" Value="338442" />
+  <Preset Label="Apple Bacon Waffles (recipe_Food_Homestyle_Waffle_Single_Bacon&amp;Apple)" Value="338443" />
+  <Preset Label="Mushroom Waffles (recipe_Food_Homestyle_Waffle_Single_Mushroom)" Value="338444" />
+  <Preset Label="Cured Fish Waffles (recipe_Food_Homestyle_Waffle_Single_CuredFish)" Value="338445" />
+  <Preset Label="Saffron Waffles (recipe_Food_Homestyle_Waffle_Single_Saffron)" Value="338446" />
+  <Preset Label="Heart's Desire Waffles (recipe_Food_Homestyle_Waffle_Single_Valentine)" Value="338447" />
+  <Preset Label="Pleasantly-Unpleasant Waffles (recipe_Food_Homestyle_Waffle_Single_(Un)Pleasant)" Value="338448" />
+  <Preset Label="Prepped Meat (recipe_Food_StandMixer_Create_Meat)" Value="338576" />
+  <Preset Label="Prepped Seafood (recipe_Food_StandMixer_Create_Seafood)" Value="338577" />
+  <Preset Label="Prepped Veggies (recipe_Food_StandMixer_Create_Vegetables)" Value="338578" />
+  <Preset Label="Dough (recipe_Food_StandMixer_Create_Dough)" Value="338579" />
+  <Preset Label="Batter (recipe_Food_StandMixer_Create_Batter)" Value="338580" />
+  <Preset Label="Cookie Dough (recipe_Food_StandMixer_Create_CookieDough)" Value="338581" />
+  <Preset Label="Lactose Free Batter (recipe_Food_StandMixer_Create_BatterLactoseFree)" Value="341349" />
+  <Preset Label="Lactose Free Batter (recipe_Food_StandMixer_Single_BatterLactoseFree)" Value="341350" />
+  <Preset Label="Prepped Meat Substitute (recipe_Food_StandMixer_Create_MeatSubstitute)" Value="341352" />
+  <Preset Label="Prepped Meat Substitute (recipe_Food_StandMixer_Single_MeatSubstitute)" Value="341353" />
+  <Preset Label="Plain Waffles (recipe_Food_Homestyle_Waffle_Create_Plain)" Value="344355" />
+  <Preset Label="Plain Waffles (recipe_Food_Homestyle_Waffle_Multi_Plain)" Value="344356" />
+  <Preset Label="Plain Waffles (recipe_Food_Homestyle_Waffle_Single_Plain)" Value="344357" />
+  <Preset Label="Chicken and Waffles (recipe_Food_Homestyle_Waffle_Create_Chicken)" Value="344524" />
+  <Preset Label="Chicken and Waffles (recipe_Food_Homestyle_Waffle_Multi_Chicken)" Value="344525" />
+  <Preset Label="Chicken and Waffles (recipe_Food_Homestyle_Waffle_Single_Chicken)" Value="344526" />
+  <Preset Label="Pizza Margherita (recipe_Food_Homestyle_Pizza_Create_Margherita)" Value="344729" />
+  <Preset Label="Pineapple Pizza (recipe_Food_Homestyle_Pizza_Create_Pineapple)" Value="344730" />
+  <Preset Label="Pizza Margherita (recipe_Food_Homestyle_Pizza_Multi_Margherita)" Value="344731" />
+  <Preset Label="Pineapple Pizza (recipe_Food_Homestyle_Pizza_Multi_Pineapple)" Value="344732" />
+  <Preset Label="Pizza Margherita (recipe_Food_Homestyle_Pizza_Single_Margherita)" Value="344733" />
+  <Preset Label="Pineapple Pizza (recipe_Food_Homestyle_Pizza_Single_Pineapple)" Value="344734" />
+</PresetGroup>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interactions SP75">
+  <Preset Label="Set for Tea Party (kid_TeaTray_Restock)" Value="494975" />
+  <Preset Label="Grab Drink (kid_TeaTray_Take)" Value="494976" />
+  <Preset Label="Drink Pretend Tea (drink_PretendTea_Generic_Consume)" Value="494979" />
+  <Preset Label="Set for Tea Party (kid_TeaTray_Restock_Set2)" Value="499683" />
+  <Preset Label="Set for Tea Party (kid_TeaTray_Restock_Set3)" Value="499684" />
+  <Preset Label="Set for Tea Party (kid_TeaTray_Restock_Set4)" Value="499685" />
+  <Preset Label="Set for Tea Party (kid_TeaTray_Restock_Set5)" Value="499686" />
+  <Preset Label="Set for Tea Party (kid_TeaTray_Restock_Set6)" Value="499687" />
+</PresetGroup>

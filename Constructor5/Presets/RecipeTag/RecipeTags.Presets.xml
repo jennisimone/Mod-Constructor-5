@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<PresetGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Label="Recipe Tags">
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="Recipe Tags">
   <Preset Value="Recipe_Type_Food" />
   <Preset Value="Recipe_Type_Drink" />
   <Preset Value="Recipe_Course_Appetizer" />

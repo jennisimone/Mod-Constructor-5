@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP55">
+  <Preset Label="object_NestingBlocks_Victorian_10" Value="402576" />
+  <Preset Label="object_NestingBlocks_Victorian_1" Value="402577" />
+  <Preset Label="object_NestingBlocks_Victorian_2" Value="402578" />
+  <Preset Label="object_NestingBlocks_Victorian_3" Value="402579" />
+  <Preset Label="object_NestingBlocks_Victorian_4" Value="402580" />
+  <Preset Label="object_NestingBlocks_Victorian_5" Value="402581" />
+  <Preset Label="object_NestingBlocks_Victorian_6" Value="402582" />
+  <Preset Label="object_NestingBlocks_Victorian_7" Value="402583" />
+  <Preset Label="object_NestingBlocks_Victorian_8" Value="402584" />
+  <Preset Label="object_NestingBlocks_Victorian_9" Value="402585" />
+</PresetGroup>

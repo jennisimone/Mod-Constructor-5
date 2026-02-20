@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objective Sets SP22">
+  <Preset Label="aspiration_Dust_PerfectlyPristine_Level_1" Value="256735" />
+  <Preset Label="aspiration_Dust_FilthyFabulous_Level_1" Value="256736" />
+  <Preset Label="aspiration_Dust_FilthyFabulous_Level_2" Value="256739" />
+  <Preset Label="aspiration_Dust_PerfectlyPristine_Level_2" Value="256740" />
+  <Preset Label="aspiration_Dust_FilthyFabulous_Level_3" Value="256741" />
+  <Preset Label="aspiration_Dust_FilthyFabulous_Level_4" Value="256742" />
+  <Preset Label="aspiration_Dust_PerfectlyPristine_Level_3" Value="256743" />
+  <Preset Label="aspiration_Dust_PerfectlyPristine_Level_4" Value="256744" />
+</PresetGroup>

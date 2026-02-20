@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Broadcasters SP22">
+  <Preset Label="broadcaster_VacuumCleaner_OneShot_DestroyNearby" Value="256890" />
+  <Preset Label="broadcaster_NPC_Dust_Embarassed" Value="257299" />
+  <Preset Label="broadcaster_VacuumCleaner_OneShot_DestroyNearby_Larger" Value="257386" />
+  <Preset Label="broadcaster_VacuumCleaner_OneShot_CleanObjects" Value="257424" />
+</PresetGroup>

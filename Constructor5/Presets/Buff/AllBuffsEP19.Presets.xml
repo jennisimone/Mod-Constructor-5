@@ -1,0 +1,485 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Buffs EP19">
+  <Preset Label="Spillover Angry (buff_FairyOccult_SpillOver_Angry)" Value="425230" />
+  <Preset Label="Spillover Bored (buff_FairyOccult_SpillOver_Bored)" Value="425231" />
+  <Preset Label="Spillover Confident (buff_FairyOccult_SpillOver_Confident)" Value="425232" />
+  <Preset Label="Spillover Embarrassed (buff_FairyOccult_SpillOver_Embarrassed)" Value="425233" />
+  <Preset Label="Spillover Energized (buff_FairyOccult_SpillOver_Energized)" Value="425234" />
+  <Preset Label="Spillover Flirty (buff_FairyOccult_SpillOver_Flirty)" Value="425235" />
+  <Preset Label="Spillover Focused (buff_FairyOccult_SpillOver_Focused)" Value="425236" />
+  <Preset Label="Spillover Happy (buff_FairyOccult_SpillOver_Happy)" Value="425237" />
+  <Preset Label="Spillover Inspired (buff_FairyOccult_SpillOver_Inspired)" Value="425238" />
+  <Preset Label="Spillover Playful (buff_FairyOccult_SpillOver_Playful)" Value="425239" />
+  <Preset Label="Spillover Sad (buff_FairyOccult_SpillOver_Sad)" Value="425240" />
+  <Preset Label="Spillover Scared (buff_FairyOccult_SpillOver_Scared)" Value="425241" />
+  <Preset Label="Spillover Tense (buff_FairyOccult_SpillOver_Tense)" Value="425242" />
+  <Preset Label="Rough Rest (buff_NLS_SleepOnGround_Exhausted)" Value="426861" />
+  <Preset Label="Grounded Slumber (buff_NLS_SleepOnGround_Relaxed)" Value="426862" />
+  <Preset Label="buff_BalanceSys_Hidden_MajorImbalance" Value="427281" />
+  <Preset Label="buff_BalanceSys_Hidden_MinorImbalance" Value="427287" />
+  <Preset Label="Emotional Void Ailment (buff_Ailments_MainBuff_EmotionalVoid)" Value="427745" />
+  <Preset Label="Caught in the Void (buff_Ailments_PulseEffect_EmotionalVoid)" Value="428668" />
+  <Preset Label="A Little Bad Luck (buff_BalanceSys_MinorEffect_Luck)" Value="432400" />
+  <Preset Label="Slow Skill Gain (buff_BalanceSys_MinorEffect_Skill)" Value="432401" />
+  <Preset Label="Social Connection (buff_BalanceSys_MinorEffect_Needs_Social)" Value="432687" />
+  <Preset Label="Time for a Soak (buff_BalanceSys_MinorEffect_Needs_Hygiene)" Value="432688" />
+  <Preset Label="Not So Fun (buff_BalanceSys_MinorEffect_Needs_Fun)" Value="432689" />
+  <Preset Label="Luck Magnet Ailment (buff_Ailments_MainBuff_LuckSuck)" Value="432793" />
+  <Preset Label="Greenie Meanie Ailment (buff_Ailments_MainBuff_GreenieMeanie)" Value="432794" />
+  <Preset Label="Gnome Lure Ailment (buff_Ailments_MainBuff_GnomeMagnet)" Value="432795" />
+  <Preset Label="Creation Impulse Ailment (buff_Ailments_MainBuff_CreationImpulse)" Value="432796" />
+  <Preset Label="buff_FairyOccult_NPC_OutsideFairyTown_Restricted" Value="432948" />
+  <Preset Label="buff_Trait_FairyOccult_TYAE" Value="432952" />
+  <Preset Label="buff_Trait_Rogue" Value="433148" />
+  <Preset Label="Why So Gullible (buff_Trait_Rogue_WhySoGullible)" Value="433152" />
+  <Preset Label="Need for Chaos (buff_Trait_Rogue_NeedforChaos)" Value="433153" />
+  <Preset Label="Bundles of Nerves (buff_Trait_Rogue_BundleofNerves)" Value="433154" />
+  <Preset Label="Such a Rebel (buff_Trait_Rogue_SuchaRebel)" Value="433155" />
+  <Preset Label="buff_Trait_Rogue_Hidden" Value="433162" />
+  <Preset Label="buff_Ailments_SleepFlag" Value="433169" />
+  <Preset Label="Feeling Unlucky (buff_Ailments_PulseEffect_LuckSuck_Target)" Value="433240" />
+  <Preset Label="buff_Trait_FairyOccult_HighFaeLineage" Value="433289" />
+  <Preset Label="buff_Trait_FairyOccult_AllAges" Value="433291" />
+  <Preset Label="buff_Trait_FairyOccult_FlyingWalkstyle" Value="433292" />
+  <Preset Label="Creation Itch (buff_Ailments_CreationImpulse_NeedToCreate)" Value="433383" />
+  <Preset Label="Full off Emotions (buff_FairyOccult_FullOffEmotions)" Value="433510" />
+  <Preset Label="Emotional Struggles (buff_FairyOccult_EmotionalStruggles)" Value="433511" />
+  <Preset Label="Emotional Stability (buff_FairyOccult_EmotionalStability)" Value="433512" />
+  <Preset Label="buff_Trait_Mystical" Value="433544" />
+  <Preset Label="Destined (buff_Trait_Mystical_Destined)" Value="433546" />
+  <Preset Label="Aurarific (buff_Trait_Mystical_Aurarific)" Value="433567" />
+  <Preset Label="In My Element (buff_Trait_Mystical_InMyElement)" Value="433568" />
+  <Preset Label="Otherworldly Calling  (buff_Trait_Mystical_OtherworldlyCalling)" Value="433569" />
+  <Preset Label="buff_Trait_Mystical_Hidden" Value="433575" />
+  <Preset Label="Happy Fairy Influence (buff_FairyOccult_Ability_Happy)" Value="433702" />
+  <Preset Label="Inspired Fairy Influence (buff_FairyOccult_Ability_Inspired)" Value="433703" />
+  <Preset Label="Confident Fairy Influence (buff_FairyOccult_Ability_Confident)" Value="433704" />
+  <Preset Label="Energized Fairy Influence (buff_FairyOccult_Ability_Energized)" Value="433705" />
+  <Preset Label="Flirty Fairy Influence (buff_FairyOccult_Ability_Flirty)" Value="433706" />
+  <Preset Label="Playful Fairy Influence (buff_FairyOccult_Ability_Playful)" Value="433707" />
+  <Preset Label="Focused Fairy Influence (buff_FairyOccult_Ability_Focused)" Value="433708" />
+  <Preset Label="Sad Fairy Influence (buff_FairyOccult_Ability_Sad)" Value="433709" />
+  <Preset Label="Angry Fairy Influence (buff_FairyOccult_Ability_Angry)" Value="433710" />
+  <Preset Label="Embarrassed Fairy Influence (buff_FairyOccult_Ability_Embarrassed)" Value="433711" />
+  <Preset Label="Tense Fairy Influence (buff_FairyOccult_Ability_Tense)" Value="433712" />
+  <Preset Label="Scared Fairy Influence (buff_FairyOccult_Ability_Scared)" Value="433713" />
+  <Preset Label="Bored Fairy Influence (buff_FairyOccult_Ability_Bored)" Value="433714" />
+  <Preset Label="Natures Vessel (buff_PlantSims_Improvements_NaturesVessel)" Value="433804" />
+  <Preset Label="Plagued Peck (buff_PlantSims_Improvements_ContactDeadly)" Value="433805" />
+  <Preset Label="PlantSimpremacy (buff_PlantSims_Improvements_PlantSupremacy)" Value="433806" />
+  <Preset Label="To Plant or Not to Plant (buff_PlantSims_Improvements_ToPlantOrNotToPlant)" Value="433807" />
+  <Preset Label="buff_PlantSims_Improvements_FruitGiven_Invisible" Value="433808" />
+  <Preset Label="Better Luck (buff_FairyOccult_Ability_Luck_Positive)" Value="433954" />
+  <Preset Label="Worse Luck (buff_FairyOccult_Ability_Luck_Negative)" Value="433956" />
+  <Preset Label="Emotional Boost (buff_FairyOccult_EmotionalBoost)" Value="434005" />
+  <Preset Label="buff_FairyOccult_Hidden_PC_Sleep_EmotionalBuffTracker" Value="434068" />
+  <Preset Label="buff_FairyOccult_HelpManageEmotions_Cooldown" Value="434072" />
+  <Preset Label="Gnome Madness (buff_GnomeFunc_GnomeMadness)" Value="434400" />
+  <Preset Label="buff_GnomeFunc_GrimScared" Value="434401" />
+  <Preset Label="Imbalanced and Exposed (buff_BalanceSys_MajorEffect_Cooldown)" Value="434451" />
+  <Preset Label="Power-Sip, Anyone? (buff_BalanceSys_MinorEffect_Needs_Energy)" Value="434803" />
+  <Preset Label="Feeling Peckish (buff_BalanceSys_MinorEffect_Needs_Hunger)" Value="434804" />
+  <Preset Label="Weird Digestion (buff_BalanceSys_MinorEffect_Needs_Bladder)" Value="434805" />
+  <Preset Label="Angry Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura1_Angry)" Value="434918" />
+  <Preset Label="Sad Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura1_Sad)" Value="434919" />
+  <Preset Label="Embarrassed Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura1_Embarrassed)" Value="434920" />
+  <Preset Label="Bored Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura1_Bored)" Value="434921" />
+  <Preset Label="Tense Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura1_Tense)" Value="434922" />
+  <Preset Label="Happy Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura1_Happy)" Value="434923" />
+  <Preset Label="Inspired Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura1_Inspired)" Value="434924" />
+  <Preset Label="Focused Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura1_Focused)" Value="434925" />
+  <Preset Label="Playful Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura1_Funny)" Value="434926" />
+  <Preset Label="Confident Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura1_Confident)" Value="434927" />
+  <Preset Label="Energized Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura1_Energized)" Value="434928" />
+  <Preset Label="buff_BalanceSys_Hidden_Balance" Value="435003" />
+  <Preset Label="Impending Overload (buff_FairyOccult_ImpendingOverload)" Value="435241" />
+  <Preset Label="Scared Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura1_Scared)" Value="435321" />
+  <Preset Label="buff_FairyJourney_MeetMotherNature" Value="435330" />
+  <Preset Label="Angry Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura2_Angry)" Value="435363" />
+  <Preset Label="Bored Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura2_Bored)" Value="435364" />
+  <Preset Label="Confident Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura2_Confident)" Value="435365" />
+  <Preset Label="Embarrassed Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura2_Embarrassed)" Value="435366" />
+  <Preset Label="Energized Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura2_Energized)" Value="435367" />
+  <Preset Label="Focused Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura2_Focused)" Value="435368" />
+  <Preset Label="Playful Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura2_Funny)" Value="435369" />
+  <Preset Label="Playful Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura2_Happy)" Value="435370" />
+  <Preset Label="Inspired Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura2_Inspired)" Value="435371" />
+  <Preset Label="Sad Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura2_Sad)" Value="435372" />
+  <Preset Label="Scared Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura2_Scared)" Value="435373" />
+  <Preset Label="Tense Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura2_Tense)" Value="435374" />
+  <Preset Label="Delightful Absorption (buff_FairyOccult_DelightfulSiphon)" Value="435429" />
+  <Preset Label="Flirty Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura1_Flirty)" Value="435441" />
+  <Preset Label="Flirty Emotional Aura (buff_EP19Gardening_MoodBush_MoodAura2_Flirty)" Value="435442" />
+  <Preset Label="Blossoming Delight (buff_EP19Gardening_AuraBlossom_Aura1_Majesty)" Value="435535" />
+  <Preset Label="buff_FairyJourney_AutonomyMod_MotherNature" Value="435631" />
+  <Preset Label="Blossoming Bad Luck (buff_EP19Gardening_AuraBlossom_Aura1_BadLuck)" Value="435639" />
+  <Preset Label="Blossoming Good Luck (buff_EP19Gardening_AuraBlossom_Aura1_GoodLuck)" Value="435640" />
+  <Preset Label="Blossoming Bad Luck (buff_EP19Gardening_AuraBlossom_Aura2_BadLuck)" Value="435641" />
+  <Preset Label="Blossoming Good Luck (buff_EP19Gardening_AuraBlossom_Aura2_GoodLuck)" Value="435642" />
+  <Preset Label="Blossoming Delight (buff_EP19Gardening_AuraBlossom_Aura2_Majesty)" Value="435643" />
+  <Preset Label="Blossom's Revenge (buff_EP19Gardening_AuraBlossom_Vengeful_Scared)" Value="435696" />
+  <Preset Label="Blossom's Revenge (buff_EP19Gardening_AuraBlossom_Vengeful_Uncomfortable)" Value="435697" />
+  <Preset Label="Blossom's Revenge (buff_EP19Gardening_AuraBlossom_Vengeful_Embarrassed)" Value="435698" />
+  <Preset Label="Into the Fold (buff_FairyJourney_Marking)" Value="435938" />
+  <Preset Label="Feeling Replenished (buff_FairyOccult_FeelingReplenished)" Value="435990" />
+  <Preset Label="Emotionally Starving (buff_FairyOccult_EmotionallyStarving)" Value="435991" />
+  <Preset Label="Emotionally Ravenous (buff_FairyOccult_EmotionallyRavenous)" Value="435992" />
+  <Preset Label="buff_FairyOccult_RegenerateEmotionalAppetite_Cooldown" Value="435995" />
+  <Preset Label="Holistic Health (buff_Career_Naturopathic_Trait_NaturalProtection)" Value="436479" />
+  <Preset Label="The Right Approach (buff_Career_Naturopathic_TheRightApproach)" Value="436480" />
+  <Preset Label="Reluctant Client (buff_Career_Naturopathic_ReluctantPatient)" Value="436481" />
+  <Preset Label="Plant-Based Euphoria (buff_Career_Naturopathic_PlantBasedEuphoria)" Value="436482" />
+  <Preset Label="Balance Advocate (buff_Career_Naturopathic_HealthAdvocate)" Value="436483" />
+  <Preset Label="Client Confidence (buff_Career_Naturopathic_PatientFirst)" Value="436484" />
+  <Preset Label="Holistic Hiccup (buff_Career_Naturopathic_HolisticNonbeliever)" Value="436485" />
+  <Preset Label="No Good Deed (buff_Career_Naturopathic_BelieveInNature)" Value="436486" />
+  <Preset Label="Client Letdown (buff_Career_Naturopathic_PatientLetdown)" Value="436487" />
+  <Preset Label="Nature Trials (buff_Career_Naturopathic_NatureTrials)" Value="436488" />
+  <Preset Label="Holistically Vibing (buff_Career_Naturopathic_HolisticAdvisor)" Value="436489" />
+  <Preset Label="Nature's Champion (buff_Career_Naturopathic_NatureCompanion)" Value="436490" />
+  <Preset Label="Natural Naturopath (buff_Career_Naturopathic_PlantPurity)" Value="436491" />
+  <Preset Label="Potion-Induced Happiness (Apothecary_BottledEmotions_Buff_Happy)" Value="436582" />
+  <Preset Label="Enhanced Eyes (Apothecary_CuresAndElixirs_Buff_EnhancedEyes)" Value="436683" />
+  <Preset Label="Enchanted Beginnings (buff_FairyJourney_FairyComplete)" Value="436772" />
+  <Preset Label="buff_LunarCycle_FairyOccult_0_NewMoon" Value="436874" />
+  <Preset Label="buff_LunarCycle_FairyOccult_1_WaxingCrescent" Value="436875" />
+  <Preset Label="buff_LunarCycle_FairyOccult_3_WaxingGibbous" Value="436886" />
+  <Preset Label="buff_LunarCycle_FairyOccult_4_FullMoon" Value="436887" />
+  <Preset Label="buff_LunarCycle_FairyOccult_5_WaningGibbous" Value="436888" />
+  <Preset Label="buff_LunarCycle_FairyOccult_7_WaningCrescent" Value="436889" />
+  <Preset Label="buff_Trait_EP19Quests_GreenMan" Value="436925" />
+  <Preset Label="Pixie Mischief (buff_EP19Gardening_Pixies_Mischief)" Value="437172" />
+  <Preset Label="Potion-Induced Sadness (Apothecary_BottledEmotions_Buff_Sad)" Value="437258" />
+  <Preset Label="Potion-Induced Anger (Apothecary_BottledEmotions_Buff_Angry)" Value="437259" />
+  <Preset Label="Potion-Induced Embarrassment (Apothecary_BottledEmotions_Buff_Embarrassed)" Value="437260" />
+  <Preset Label="Potion-Induced Tenseness (Apothecary_BottledEmotions_Buff_Tense)" Value="437261" />
+  <Preset Label="Potion-Induced Scaredness (Apothecary_BottledEmotions_Buff_Scared)" Value="437262" />
+  <Preset Label="Potion-Induced Boredom (Apothecary_BottledEmotions_Buff_Bored)" Value="437263" />
+  <Preset Label="Potion-Induced Inspiration (Apothecary_BottledEmotions_Buff_Inspired)" Value="437264" />
+  <Preset Label="Potion-Induced Confidence (Apothecary_BottledEmotions_Buff_Confident)" Value="437265" />
+  <Preset Label="Potion-Induced Energy (Apothecary_BottledEmotions_Buff_Energized)" Value="437266" />
+  <Preset Label="Potion-Induced Focus (Apothecary_BottledEmotions_Buff_Focused)" Value="437267" />
+  <Preset Label="Potion-Induced Playfulness (Apothecary_BottledEmotions_Buff_Playful)" Value="437268" />
+  <Preset Label="Potion-Induced Flirtatiousness (Apothecary_BottledEmotions_Buff_Flirty)" Value="437311" />
+  <Preset Label="Forager's Dread (buffs_Foraging_CreepyCrawlies)" Value="437567" />
+  <Preset Label="Stinky Bug (buffs_Foraging_StinkBug)" Value="437568" />
+  <Preset Label="Sand Flea-be-jeebies (buffs_Foraging_SandFleas)" Value="437569" />
+  <Preset Label="Freezing Fingers (buffs_Foraging_FreezingFingers)" Value="437570" />
+  <Preset Label="Nature's Couch Cushions (buffs_Foraging_PocketChange)" Value="437571" />
+  <Preset Label="Forager's Legacy (buffs_Foraging_Apothecary)" Value="437572" />
+  <Preset Label="Exfoliated Hands  (buffs_Foraging_ExfoliatedHands)" Value="437573" />
+  <Preset Label="buff_AutonomyMod_GreenMan" Value="438409" />
+  <Preset Label="Relaxing Potted Plants (buff_PottedPlants_RelaxationBuff_EP19)" Value="438453" />
+  <Preset Label="Uncontrollable Laughter (buff_FairyOccult_UncontrollableLaughter)" Value="438676" />
+  <Preset Label="Am I Even Funny...? (buff_FairyOccult_AmIEvenFunny)" Value="438677" />
+  <Preset Label="Beast Soothed (buff_FairyOccult_Crosspack_BeastSoothed)" Value="438827" />
+  <Preset Label="Absorbing Vampires (buff_FairyOccult_Crosspack_SiphoningVampires)" Value="438828" />
+  <Preset Label="Nature is Nurtured (buff_FairyOccult_Crosspack_NatureIsNurtured)" Value="438829" />
+  <Preset Label="buff_Trait_FairyOccult_FairyForm" Value="439202" />
+  <Preset Label="buff_Ailments_SpreadFromTouch_Cooldown" Value="439588" />
+  <Preset Label="buff_Career_Naturopathic_Ailment_Commodity_States_Stage0" Value="439761" />
+  <Preset Label="buff_Career_Naturopathic_Ailment_Commodity_States_Stage1" Value="439762" />
+  <Preset Label="buff_Career_Naturopathic_Ailment_Commodity_States_Stage3" Value="439763" />
+  <Preset Label="buff_Career_Naturopathic_Ailment_Commodity_States_Stage4" Value="439764" />
+  <Preset Label="buff_Career_Naturopathic_Ailment_Commodity_States_Stage2" Value="439765" />
+  <Preset Label="buff_Career_Naturopathic_Diagnosed_Ailment_None" Value="439788" />
+  <Preset Label="buff_Career_Naturopathic_Diagnosed_Ailment_LuckSuck" Value="439789" />
+  <Preset Label="buff_Career_Naturopathic_Diagnosed_Ailment_GnomeMagnet" Value="439790" />
+  <Preset Label="buff_Career_Naturopathic_Diagnosed_Ailment_CreationImpulse" Value="439791" />
+  <Preset Label="buff_Career_Naturopathic_Diagnosed_Ailment_EmotionalVoid" Value="439792" />
+  <Preset Label="buff_Career_Naturopathic_Diagnosed_Ailment_GreenieMeanie" Value="439793" />
+  <Preset Label="buff_FairyOccult_Ability_Passive_ImprovedForagingAndGathering" Value="439939" />
+  <Preset Label="buff_FairyOccult_Ability_Passive_EmotionalEnergyFromPositiveSocials" Value="439940" />
+  <Preset Label="buff_FairyOccult_Ability_Passive_EmotionalEnergyFromNegativeSocials" Value="439941" />
+  <Preset Label="buff_FairyOccult_Ability_Passive_EmotionalEnergyFromSiphonPositiveMoods" Value="439942" />
+  <Preset Label="buff_FairyOccult_Ability_Passive_EmotionalEnergyFromSiphonNegativeMoods" Value="439943" />
+  <Preset Label="buff_FairyOccult_Ability_Passive_ResistSpilloverBuffs" Value="439944" />
+  <Preset Label="buff_FairyOccult_Ability_Passive_EmbraceSpilloverBuffs" Value="439945" />
+  <Preset Label="buff_FairyOccult_Ability_Passive_ImprovedRegenerateEmotionalEnergy" Value="439946" />
+  <Preset Label="buff_FairyOccult_Ability_Passive_EmotionalEnergyFromSleep" Value="439947" />
+  <Preset Label="Sprucing Things Up (buff_GreenMan_HelpWithGardening)" Value="440003" />
+  <Preset Label="buff_Role_TeleportStone_TravelWith_GoToStone" Value="440122" />
+  <Preset Label="Raw Rumble (buff_NLS_Yikes)" Value="440141" />
+  <Preset Label="Wild Gourmet (buff_NLS_Tasty)" Value="440142" />
+  <Preset Label="Green Vitality (buff_NLS_AmazingWhimsical)" Value="440143" />
+  <Preset Label="Nature's Bounty Boost (buff_NLS_FunFun)" Value="440144" />
+  <Preset Label="One-Sided Conversation (buff_NLS_Weird)" Value="440145" />
+  <Preset Label="A Natural Muse (buff_NLS_InspiredByNature)" Value="440146" />
+  <Preset Label="Bathing Bravery (buff_NLS_NotUsedToThis)" Value="440147" />
+  <Preset Label="Energizing Splash (buff_NLS_BestBath)" Value="440148" />
+  <Preset Label="Natural Living Adept (buff_NLS_ConfidentProud)" Value="440150" />
+  <Preset Label="Natural Relief (buff_NLS_Relieved)" Value="440151" />
+  <Preset Label="Harsh Re-leaf (buff_NLS_Sigh)" Value="440152" />
+  <Preset Label="Meditative Novice (buff_NLS_Meh)" Value="440153" />
+  <Preset Label="Mindful Enjoyment (buff_NLS_AmazingJourney)" Value="440154" />
+  <Preset Label="Collectible Captured (buff_NLS_GorgeousCollectibles)" Value="440155" />
+  <Preset Label="Botanical Beginner (buff_NLS_MehPlants)" Value="440156" />
+  <Preset Label="buff_FairyOccult_Ability_Passive_EmbraceRelationshipChanges" Value="440463" />
+  <Preset Label="buff_FairyOccult_Ability_Passive_NegateRelationshipChanges" Value="440464" />
+  <Preset Label="buff_EP19Quests_Hidden_Ring" Value="440852" />
+  <Preset Label="Tylwyth Teg (buff_EP19Quests_Story4)" Value="440873" />
+  <Preset Label="Ring, Ring! (buff_EP19Quests_Story8)" Value="440874" />
+  <Preset Label="Fae Caught {0.SimPronounObjective|xxUpper} Slipping (buff_EP19World_PerformedMagicEmbarrassed)" Value="440938" />
+  <Preset Label="Fabulous Restroom (buff_EP19World_FairyBathroom)" Value="440939" />
+  <Preset Label="Splendid Snooping (buff_EP19World_SplendidSnooping)" Value="440940" />
+  <Preset Label="Not Meant for My Eyes (buff_EP19World_ShouldNotHaveSeen)" Value="440941" />
+  <Preset Label="Donated Books (buff_EP19World_DonatedBooks)" Value="440942" />
+  <Preset Label="Great Gnome's Boon (buff_EP19World_BlessedGreatGnome)" Value="440943" />
+  <Preset Label="Out-Gnomed (buff_EP19World_OutGnomed)" Value="440944" />
+  <Preset Label="Great Gnome's Judgment (buff_EP19World_CursedGreatGnome)" Value="440945" />
+  <Preset Label="Closer to Cured (buff_EP19World_AilmentReduced)" Value="440946" />
+  <Preset Label="Overwhelmed with Emotions (buff_EP19World_OverwhelmedwithEmotions)" Value="440947" />
+  <Preset Label="Mystical Waters (buff_EP19World_InspiredbySprings)" Value="440948" />
+  <Preset Label="Feeling...Emotional (buff_EP19World_FeelingEmotional)" Value="440949" />
+  <Preset Label="Empowering Waters (buff_EP19World_EmpoweringEmotions)" Value="440950" />
+  <Preset Label="Lucky Duck! (buff_EP19Quests_Lucky)" Value="441027" />
+  <Preset Label="No Fuss, Just Dust! (buff_EP19Quests_Dusted)" Value="441028" />
+  <Preset Label="buff_Trait_EP19Quests_Gnome" Value="441059" />
+  <Preset Label="buff_Trait_EP19Quests_Apothecary" Value="441288" />
+  <Preset Label="Enchanted Hearts (buff_FairyWoohoo_EnchantedHearts)" Value="441353" />
+  <Preset Label="Whispers of Magic (buff_FairyWoohoo_WhispersOfMagic)" Value="441354" />
+  <Preset Label="Forbidden Twilight (buff_FairyWoohoo_ForbiddenTwilight)" Value="441355" />
+  <Preset Label="Moonlight Romance (buff_FairyWoohoo_MoonlightRomance)" Value="441356" />
+  <Preset Label="Spellbound Harmony (buff_FairyWoohoo_SpellboundHarmony)" Value="441357" />
+  <Preset Label="Blossoming Love (buff_FairyWoohoo_BlossomingLove)" Value="441358" />
+  <Preset Label="Amorous Waves (buff_FairyWoohoo_AmorousWaves)" Value="441359" />
+  <Preset Label="Gnome Worries, Be Happy (buff_EP19Quests_Gnome)" Value="441435" />
+  <Preset Label="buff_FairyJourney_AutonomyMod_MotherNature_Fairy" Value="441509" />
+  <Preset Label="Mundane Calling (buff_FairyJourney_Mortal)" Value="441510" />
+  <Preset Label="buff_FairyJourney_MeetMotherNature_Fairy" Value="441512" />
+  <Preset Label="buff_Trait_EP19Quests_Trade" Value="441730" />
+  <Preset Label="buff_Trait_EP19Quests_Fairy" Value="441731" />
+  <Preset Label="buff_Trait_EP19Quests_Liaison" Value="441778" />
+  <Preset Label="buff_EP19Quests_ItemA" Value="441887" />
+  <Preset Label="buff_EP19Quests_ItemB" Value="441888" />
+  <Preset Label="buff_EP19Quests_ItemC" Value="441889" />
+  <Preset Label="buff_EP19Quests_ItemD" Value="441890" />
+  <Preset Label="buff_Trait_Mystical_Auras_Red" Value="442479" />
+  <Preset Label="buff_Trait_Mystical_Auras_Blue" Value="442481" />
+  <Preset Label="buff_Trait_Mystical_Auras_Pink" Value="442482" />
+  <Preset Label="buff_Trait_Mystical_Auras_Yellow" Value="442483" />
+  <Preset Label="buff_Trait_Mystical_Auras_Grey" Value="442484" />
+  <Preset Label="buff_Trait_Mystical_Auras_Green" Value="442485" />
+  <Preset Label="buff_Trait_Mystical_Auras_Purple" Value="442486" />
+  <Preset Label="buff_Trait_Mystical_Auras_Orange" Value="442487" />
+  <Preset Label="Tales Told (buff_EP19NPCs_Happy)" Value="442654" />
+  <Preset Label="Story Seeker (buff_EP19NPCs_Inspired)" Value="442655" />
+  <Preset Label="A Wee Drink (Apothecary_CuresAndElixirs_Buff_SappyGoop)" Value="442913" />
+  <Preset Label="Luck Be an Elixir (Apothecary_CuresAndElixirs_Buff_LiquidLuck)" Value="442914" />
+  <Preset Label="Noxious Gas (Apothecary_CuresAndElixirs_Buff_NoxiousGas)" Value="442915" />
+  <Preset Label="Apothecary_CuresAndElixirs_Buff_AuraShield" Value="442916" />
+  <Preset Label="Apothecary_CuresAndElixirs_Buff_CelestialProtection" Value="442917" />
+  <Preset Label="Momentary Happiness (Apothecary_CuresAndElixirs_Buff_MomentaryHappiness)" Value="442918" />
+  <Preset Label="buff_EP19World_Hidden_FairyDustCooldown" Value="443188" />
+  <Preset Label="buff_AutonomyMod_NaturopathCareer_Afflicted" Value="443196" />
+  <Preset Label="buff_Role_NaturopathCareer_AfflictedState_Diagnosed" Value="443199" />
+  <Preset Label="buff_Role_NaturopathCareer_AfflictedState_Treated" Value="443200" />
+  <Preset Label="buff_Naturopath_Afflicted" Value="443290" />
+  <Preset Label="Disenchanted (buff_FairyJourney_MortalComplete)" Value="443303" />
+  <Preset Label="buff_FairyStories_FearOfMagic" Value="443436" />
+  <Preset Label="buff_AutonomyMod_OpenStreet_EP19World_PlantSim" Value="443604" />
+  <Preset Label="buff_AutonomyMod_OpenStreet_EP19World_CoastalTourist" Value="443605" />
+  <Preset Label="buff_AutonomyMod_OpenStreet_EP19World_Fairy" Value="443606" />
+  <Preset Label="buff_Trait_EP19NPC_MotherNature" Value="443796" />
+  <Preset Label="Minor Enraged Overload (buff_FairyOccult_Overload_Enraged_Minor)" Value="444008" />
+  <Preset Label="Major Enraged Overload (buff_FairyOccult_Overload_Enraged_Major)" Value="444009" />
+  <Preset Label="Critical Enraged Overload (buff_FairyOccult_Overload_Enraged_Critical)" Value="444010" />
+  <Preset Label="Minor Hysterical Overload (buff_FairyOccult_Overload_Hysterical_Minor)" Value="444011" />
+  <Preset Label="Major Hysterical Overload (buff_FairyOccult_Overload_Hysterical_Major)" Value="444012" />
+  <Preset Label="Critical Hysterical Overload (buff_FairyOccult_Overload_Hysterical_Critical)" Value="444013" />
+  <Preset Label="Minor Mortified Overload (buff_FairyOccult_Overload_Mortified_Minor)" Value="444018" />
+  <Preset Label="Major Mortified Overload (buff_FairyOccult_Overload_Mortified_Major)" Value="444019" />
+  <Preset Label="Critical Mortified Overload (buff_FairyOccult_Overload_Mortified_Critical)" Value="444020" />
+  <Preset Label="buff_EP19World_Hidden_BottleEmotionSprings_Cooldown" Value="444030" />
+  <Preset Label="Hooked on Nature (Apothecary_CuresAndElixirs_Buff_PlantPerson)" Value="444042" />
+  <Preset Label="buff_FairyDust_AskForCooldown" Value="444057" />
+  <Preset Label="buff_EP19Quests_Gnome_successcoffee" Value="444099" />
+  <Preset Label="buff_EP19Quests_Gnome_failcoffee" Value="444100" />
+  <Preset Label="buff_EP19Quests_Gnome_cooldown" Value="444101" />
+  <Preset Label="buff_EP19Quests_Gnome_failpie" Value="444104" />
+  <Preset Label="buff_EP19Quests_Gnome_successpie" Value="444106" />
+  <Preset Label="buff_EP19Quests_Gnome_successtoy" Value="444107" />
+  <Preset Label="buff_EP19World_Hidden_AskMotherNature_EnchantedSprings_Cooldown" Value="444205" />
+  <Preset Label="buff_EP19Quests_ElixirConsumed" Value="444267" />
+  <Preset Label="buff_TeleportStone_TravelWith_FlagBuff_Glade" Value="444399" />
+  <Preset Label="buff_TeleportStone_TravelWith_FlagBuff_Grotto" Value="444400" />
+  <Preset Label="buff_BeGhost_EmotionalStarvation" Value="444439" />
+  <Preset Label="buff_EP19World_Hidden_AskGreatGnomeGoodLuck_Cooldown" Value="444489" />
+  <Preset Label="Enchanted Slumber (buff_FairyHome_Sleeping)" Value="444563" />
+  <Preset Label="Sparkling Clean (buff_FairyHome_Cleansing)" Value="444564" />
+  <Preset Label="Magical Boogie (buff_FairyHome_DanceParty_Fairy)" Value="444565" />
+  <Preset Label="Rejuvenated (buff_FairyHome_EmotionalAppetite)" Value="444566" />
+  <Preset Label="Dust Collector (buff_FairyHome_ShakingSuccess)" Value="444567" />
+  <Preset Label="Fairy Dust Fiasco (buff_FairyHome_ShakingFail)" Value="444568" />
+  <Preset Label="Wonderous Footwork (buff_FairyHome_DanceParty_NonFairy)" Value="444569" />
+  <Preset Label="Fairy Tale Whisperer (buff_FairyHome_ReadBook)" Value="444570" />
+  <Preset Label="buff_AutonomyMod_EP19Quests_Trade" Value="444647" />
+  <Preset Label="buff_AutonomyMod_EP19Quests_Fairy" Value="444648" />
+  <Preset Label="buff_AutonomyMod_EP19Quests_Liaison" Value="444649" />
+  <Preset Label="Elevated Elixirs (buffs_Mentoree_ApothecarySkill)" Value="444931" />
+  <Preset Label="I Hate Apothecary! (buff_SimPreference_Dislikes_Activities_Apothecary)" Value="444985" />
+  <Preset Label="buff_SimPreference_Recent_Dislikes_Apothecary" Value="444987" />
+  <Preset Label="Trader Amongst Us (buff_EP19Quests_Trader)" Value="445089" />
+  <Preset Label="buff_Trait_BohemianStyle_NaturesBestBud_BalanceTimer" Value="445181" />
+  <Preset Label="buff_Trait_BohemianStyle_NaturesBestBud_Offlot" Value="445184" />
+  <Preset Label="Garden Pal Fan (buff_Trait_BohemianStyle_NaturesBestBud_IAmABigFan)" Value="445185" />
+  <Preset Label="buff_EP19World_Hidden_EnchantedSprings_AilmentRelief_Cooldown" Value="445315" />
+  <Preset Label="buff_NLS_ExtremeWeather_Hidden" Value="445361" />
+  <Preset Label="I Love Apothecary! (buff_SimPreference_Likes_Activities_Apothecary)" Value="445366" />
+  <Preset Label="buff_SimPreference_Recent_Likes_Apothecary" Value="445367" />
+  <Preset Label="Feeling Fined (buff_EP19NPCs_tense)" Value="445390" />
+  <Preset Label="Behavior Savior (buff_EP19NPCs_confident)" Value="445391" />
+  <Preset Label="Yapping Yips (buff_EP19NPCs_embarrassed)" Value="445392" />
+  <Preset Label="Buff_FairyStories_LightPixie_RelGain" Value="445425" />
+  <Preset Label="buff_FairyHome_Hidden_FairyCooldown" Value="445574" />
+  <Preset Label="Buff_FairyStories_FayImpresser_RelBoost" Value="445628" />
+  <Preset Label="buff_Fear_Magic_Trait_Effects" Value="445705" />
+  <Preset Label="Paranoid From Magic (buff_Fear_Magic_ParanoidFromMagic)" Value="445748" />
+  <Preset Label="buff_Career_Naturopathic_WorkingOvertime" Value="445811" />
+  <Preset Label="buff_ApothecaryCraftTable_ClubRules_AutonomousCooldown" Value="445828" />
+  <Preset Label="buff_ClubPerks_SkillBoost_AdultMajor_Apothecary" Value="445831" />
+  <Preset Label="Mystical Connection (buff_Sentiment_Close_Happy_Primary_EnchantedBond_MysticalConnection)" Value="445912" />
+  <Preset Label="Soul-Bound Sillies (buff_Sentiment_Close_Playful_EnchantedBond_SoulBoundSillies)" Value="445913" />
+  <Preset Label="Safe and Sound (buff_Sentiment_Adoring_Happy_Primary_HealingHelper_SafeAndSound)" Value="445914" />
+  <Preset Label="Close to Curer (buff_Sentiment_Adoring_Inspired_HealingHelper_CloseToCurer)" Value="445915" />
+  <Preset Label="Fairy Fiend (buff_Sentiment_Furious_Angry_Primary_FeyFoe_FairyFiend)" Value="445916" />
+  <Preset Label="Suspicious Sighting (buff_Sentiment_Furious_Tense_FeyFoe_SuspiciousSighting)" Value="445917" />
+  <Preset Label="GO GO GO! (buff_Sentiment_Motivating_Energized_Primary_GreenMan_Gogogo)" Value="445918" />
+  <Preset Label="My Best Self! (buff_Sentiment_Motivating_Confident_GreenMan_MyBestSelf)" Value="445919" />
+  <Preset Label="Focused for My Hero (buff_Sentiment_Motivating_Focused_GreenMan_FocusedForMyHero)" Value="445920" />
+  <Preset Label="A Special Connection (buff_Sentiment_Close_Flirty_EnchantedBond_EnchantingPresence)" Value="445921" />
+  <Preset Label="Luck Is Looking Up! (buff_GreenMan_HelpWithLuck_Success)" Value="446225" />
+  <Preset Label="Luck... Stays the Same? (buff_GreenMan_HelpWithLuck_Fail1)" Value="446226" />
+  <Preset Label="Lowly Luck (buff_GreenMan_HelpWithLuck_Fail2)" Value="446227" />
+  <Preset Label="Green Magic (buff_GreenMan_BeCurious)" Value="446228" />
+  <Preset Label="Floral Delight (buff_Object_FlowerPress_LoveIt)" Value="446563" />
+  <Preset Label="Blossoming Balance (buff_EP19Gardening_AuraBlossom_Aura_Balance)" Value="446849" />
+  <Preset Label="Blossoming Imbalance (buff_EP19Gardening_AuraBlossom_Aura_Imbalance)" Value="446850" />
+  <Preset Label="Apothecary_CuresAndElixirs_Buff_AllCure_Timer" Value="446949" />
+  <Preset Label="Apothecary_CuresAndElixirs_Buff_Timer" Value="446978" />
+  <Preset Label="Big Brain (buff_Object_ApothecaryCraftObject_BigBrain)" Value="447279" />
+  <Preset Label="Odorous Overwhelm (buff_Object_ApothecaryCraftObject_OverwhelmedSmell)" Value="447280" />
+  <Preset Label="Kind-Hearted Curer (buff_Object_Apothecary_Crafting_HappyToHelp)" Value="447758" />
+  <Preset Label="Time for a Soak (buff_BalanceSys_MinorEffect_Needs_Hydration)" Value="447968" />
+  <Preset Label="Feeling Peckish (buff_BalanceSys_MinorEffect_Needs_Thirst)" Value="447969" />
+  <Preset Label="buff_EP19Quests_Ring_cooldown" Value="448400" />
+  <Preset Label="Spongey Success (buff_NLS_ShinyAndClean!)" Value="450533" />
+  <Preset Label="Spongey Struggle (buff_NLS_WetAndUnclean)" Value="450552" />
+  <Preset Label="Doing Better (prototype_AilmentNaturopath_GoodNotGreat)" Value="451359" />
+  <Preset Label="Feeling Brand New (prototype_AilmentNaturopath_FeelingBrandNew)" Value="451360" />
+  <Preset Label="Inquisitive Insight (buff_FairyOccult_InquisitiveInsight)" Value="451426" />
+  <Preset Label="Intricate Discussion (buff_FairyOccult_IntricateDiscussion)" Value="451427" />
+  <Preset Label="Comedic Gold  (buff_FairyOccult_ComedicGold)" Value="451428" />
+  <Preset Label="Sonic Sinuses Ailment (buff_Ailments_MainBuff_SonicSinuses)" Value="452107" />
+  <Preset Label="Simoleon Fever Ailment (buff_Ailments_MainBuff_SimoleonFever)" Value="452108" />
+  <Preset Label="Burning Passion Ailment (buff_Ailments_MainBuff_BurningPassion)" Value="452109" />
+  <Preset Label="buff_LuckSys_SkillRate_BadLuck" Value="452309" />
+  <Preset Label="buff_LuckSys_SkillRate_GoodLuck" Value="452311" />
+  <Preset Label="buff_FairyJourney_ResearchCooldown" Value="452344" />
+  <Preset Label="buff_FairyJourney_AskCooldown" Value="452345" />
+  <Preset Label="buff_FairyJourney_Purchase_Cooldown" Value="452348" />
+  <Preset Label="buff_FairyJourney_SeedGift_Cooldown" Value="452353" />
+  <Preset Label="Emotions Drained (buff_FairyOccult_SimWasSiphoned)" Value="452577" />
+  <Preset Label="Ethereal Embrace (buff_FairyWoohoo_Ghost)" Value="452728" />
+  <Preset Label="Out of this World Romance (buff_FairyWoohoo_Alien)" Value="452729" />
+  <Preset Label="Lucky Find! (buff_LuckSys_Collectibles_Good)" Value="452762" />
+  <Preset Label="Bad Luck Bauble (buff_LuckSys_Collectibles_Bad)" Value="452763" />
+  <Preset Label="Foraging Fiasco (buff_LuckSys_Foraging_Bad)" Value="452764" />
+  <Preset Label="Fortuitous Foraging (buff_LuckSys_Foraging_Good)" Value="452765" />
+  <Preset Label="Poor Condition (buff_LuckSys_CraftingQuality_Bad)" Value="452766" />
+  <Preset Label="Charming Craftsmanship (buff_LuckSys_CraftingQuality_Good)" Value="452767" />
+  <Preset Label="Smoldering Setback (buff_LuckSys_KitchenFires_Bad)" Value="452768" />
+  <Preset Label="Evil Gnomes Came to Play (buff_LuckSys_Gnomes_Bad)" Value="452769" />
+  <Preset Label="Serendipitous Simoleons (buff_LuckSys_FoundSimoleons_Good)" Value="452770" />
+  <Preset Label="Freezer Bunny Foot Found (buff_LuckSys_LuckInfusedObject_Found_Good)" Value="452771" />
+  <Preset Label="Cowplant Horn Found (buff_LuckSys_LuckInfusedObject_Found_Bad)" Value="452772" />
+  <Preset Label="Handcrafted Cowplant Horn (buff_LuckSys_LuckInfusedObject_Crafted_Bad)" Value="452773" />
+  <Preset Label="Forged Freezer Bunny Foot (buff_LuckSys_LuckInfusedObject_Crafted_Good)" Value="452774" />
+  <Preset Label="Got Cowplant Horn (buff_LuckSys_LuckInfusedObject_Purchased_Bad)" Value="452775" />
+  <Preset Label="Got Freezer Bunny Foot (buff_LuckSys_LuckInfusedObject_Purchased_Good)" Value="452776" />
+  <Preset Label="Burning with Passion (buff_Ailments_BurningPassion_BurningUp)" Value="452849" />
+  <Preset Label="Need Stop (Apothecary_CuresAndElixirs_Buff_NeedStop)" Value="452918" />
+  <Preset Label="buff_AutonomyMod_Naturopath_NPC_Client" Value="453306" />
+  <Preset Label="buff_Career_Naturopathic_Diagnosed_Ailment_Physical" Value="453311" />
+  <Preset Label="buff_Career_Naturopathic_Diagnosed_Ailment_Emotional" Value="453312" />
+  <Preset Label="buff_Trait_PlantLover" Value="453557" />
+  <Preset Label="buff_Trait_PlantLover_SocialHidden" Value="454061" />
+  <Preset Label="Growing Apart? (buff_Trait_PlantLover_Social_Tense)" Value="454405" />
+  <Preset Label="Full Cycle Moment (buff_Trait_PlantLover_PlantSim_Happy)" Value="454407" />
+  <Preset Label="Ailed No Longer (Apothecary_CuresAndElixirs_Buff_GotCured)" Value="454720" />
+  <Preset Label="Tasted the Goods (buff_Object_Apothecary_CuresAndElixirs_TastedTheGoods_Happy)" Value="454723" />
+  <Preset Label="Tasted the Goods (buff_Object_Apothecary_CuresAndElixirs_TastedTheGoods_Inspired)" Value="454947" />
+  <Preset Label="Tasted the Goods (buff_Object_Apothecary_CuresAndElixirs_TastedTheGoods_Confident)" Value="454948" />
+  <Preset Label="Tasted the Goods (buff_Object_Apothecary_CuresAndElixirs_TastedTheGoods_Energized)" Value="454949" />
+  <Preset Label="Tasted the Goods (buff_Object_Apothecary_CuresAndElixirs_TastedTheGoods_Flirty)" Value="454950" />
+  <Preset Label="Tasted the Goods (buff_Object_Apothecary_CuresAndElixirs_TastedTheGoods_Focused)" Value="454951" />
+  <Preset Label="Tasted the Goods (buff_Object_Apothecary_CuresAndElixirs_TastedTheGoods_Playful)" Value="454952" />
+  <Preset Label="Tasted the Goods (buff_Object_Apothecary_CuresAndElixirs_TastedTheGoods_Sad)" Value="454953" />
+  <Preset Label="Tasted the Goods (buff_Object_Apothecary_CuresAndElixirs_TastedTheGoods_Angry)" Value="454954" />
+  <Preset Label="Tasted the Goods (buff_Object_Apothecary_CuresAndElixirs_TastedTheGoods_Embarrassed)" Value="454955" />
+  <Preset Label="Tasted the Goods (buff_Object_Apothecary_CuresAndElixirs_TastedTheGoods_Tense)" Value="454978" />
+  <Preset Label="Tasted the Goods (buff_Object_Apothecary_CuresAndElixirs_TastedTheGoods_Scared)" Value="454979" />
+  <Preset Label="buff_SimPreference_Recent_Likes_NLS" Value="455115" />
+  <Preset Label="buff_SimPreference_Recent_Dislikes_NLS" Value="455116" />
+  <Preset Label="I Love Natural Living! (buff_SimPreference_Likes_Activities_NLS)" Value="455117" />
+  <Preset Label="I Hate Natural Living! (buff_SimPreference_Dislikes_Activities_NLS)" Value="455118" />
+  <Preset Label="Plant One on Me! (buff_Trait_PlantLover_Flirty)" Value="455129" />
+  <Preset Label="Beleaf in Yourself (buff_Trait_PlantLover_Confident)" Value="455130" />
+  <Preset Label="Dirt in the Wound (buff_Trait_PlantLover_Uncomfy)" Value="455131" />
+  <Preset Label="Ideas Planted (buff_Trait_PlantLover_Inspired)" Value="455179" />
+  <Preset Label="Physical Distress (buff_Career_Naturopathic_NoAilment_Physical)" Value="455198" />
+  <Preset Label="Emotional Distress (buff_Career_Naturopathic_NoAilment_Emotional)" Value="455199" />
+  <Preset Label="Best Fronds (buff_Trait_PlantLover_PlantHappy)" Value="455567" />
+  <Preset Label="Tiny Adventures (buff_FairyOccult_TinyAdventures)" Value="455664" />
+  <Preset Label="buff_Career_Naturopathic_Diagnosed_Ailment_BurningPassion" Value="455752" />
+  <Preset Label="buff_Career_Naturopathic_Diagnosed_Ailment_SimoleonFever" Value="455753" />
+  <Preset Label="buff_Career_Naturopathic_Diagnosed_Ailment_SonicSinuses" Value="455754" />
+  <Preset Label="Deep Cut (buff_Trait_PlantLover_Sad_Hurt)" Value="456684" />
+  <Preset Label="Identity Chrysalis (buff_Trait_PlantLover_Uncomfy_PlantSim)" Value="456686" />
+  <Preset Label="Plants Are Friends, Not Food (buff_Trait_PlantLover_Embarrassed)" Value="456688" />
+  <Preset Label="Rock Candy (buff_Apothecary_EatEmotionStone)" Value="456788" />
+  <Preset Label="Bench Bliss (buff_NLS_HappyBenchNap)" Value="456831" />
+  <Preset Label="Stone's Glow (buff_Object_Apothecary_CuresAndElixirs_ShowOffEmotionStone_CoolRock)" Value="457027" />
+  <Preset Label="I Saw a Rock (buff_Object_Apothecary_CuresAndElixirs_ShowOffEmotionStone_ThatsIt)" Value="457028" />
+  <Preset Label="The Shame in the Stone (buff_Object_Apothecary_CuresAndElixirs_ShowOffEmotionStone_SecondHandEmbarrassment)" Value="457029" />
+  <Preset Label="Stone Cold Focus (buff_Object_Apothecary_CuresAndElixirs_ShowOffEmotionStone_InterestingStone)" Value="457030" />
+  <Preset Label="The Power of the Stone (buff_Object_Apothecary_CuresAndElixirs_ShowOffEmotionStone_FeltThePower)" Value="457031" />
+  <Preset Label="buff_Apothecary_EmotionStone_InInventory" Value="457469" />
+  <Preset Label="Feeling Great (buff_FairyOccult_Motives_AllMotivesHigh)" Value="458320" />
+  <Preset Label="Feeling Good (buff_FairyOccult_Motives_AllMotivesPrettyHigh)" Value="458321" />
+  <Preset Label="Where's the Water? (buff_BalanceSys_MinorEffect_Needs_Water)" Value="458761" />
+  <Preset Label="Coughed Up Cash (buff_Ailments_SimoleonFever_CoughedUpCash)" Value="458803" />
+  <Preset Label="buff_FairyHome_Hidden_DanceParty" Value="458989" />
+  <Preset Label="buff_FairyOccult_AlwaysOn_ProblemFairySupport" Value="459049" />
+  <Preset Label="buff_GreenMan_Summoner_CanBeGreeted" Value="459403" />
+  <Preset Label="Reel Shock (buff_LuckSys_Fishing_Bad)" Value="460176" />
+  <Preset Label="A Lucky Lure (buff_LuckSys_Fishing_Good)" Value="460177" />
+  <Preset Label="buff_FairyDust_ExtractCooldown" Value="460275" />
+  <Preset Label="buff_FairyOccult_EmotionalStruggles_SuppressAfterHelpManageEmotions" Value="460584" />
+  <Preset Label="buff_Trait_Mystical_Hidden_CosmosCooldown" Value="460885" />
+  <Preset Label="buff_Career_Naturopathic_Hidden_ClientIntake" Value="461389" />
+  <Preset Label="buff_Career_Naturopathic_Hidden_HolisticAssessment" Value="461390" />
+  <Preset Label="buff_EP19Quests_TalkTrade_cooldown" Value="464856" />
+  <Preset Label="buff_EP19Quests_TalkNature_cooldown" Value="464857" />
+  <Preset Label="buff_NLS_ExtremeWeather_WithoutRain_Hidden" Value="465443" />
+  <Preset Label="buff_Ailments_HasAilmentIncubation_BurningPassion" Value="465523" />
+  <Preset Label="buff_Ailments_HasAilmentIncubation_SonicSinus" Value="465526" />
+  <Preset Label="buff_Ailments_HasAilmentIncubation_LuckSuck" Value="465527" />
+  <Preset Label="buff_Ailments_HasAilmentIncubation_GnomeMagnet" Value="465528" />
+  <Preset Label="buff_Ailments_HasAilmentIncubation_GreenieMeanie" Value="465529" />
+  <Preset Label="buff_Ailments_HasAilmentIncubation_CreationImpulse" Value="465530" />
+  <Preset Label="buff_Ailments_HasAilmentIncubation_EmotionalVoid" Value="465531" />
+  <Preset Label="buff_Ailments_HasAilmentIncubation_SimoleonFever" Value="465532" />
+  <Preset Label="buff_PlantSims_Water_Increase" Value="466205" />
+  <Preset Label="buff_Role_TeleportStone_Host_Teleport" Value="467147" />
+  <Preset Label="buff_Ailments_GnomeMagnet_PushReact" Value="468120" />
+  <Preset Label="buff_NLS_OnboardingCooldown" Value="468870" />
+  <Preset Label="buff_Role_Appropriateness_Naturopath_Client" Value="469305" />
+  <Preset Label="buff_ClubPerks_SkillBoost_AdultMajor_NaturalLiving" Value="469659" />
+  <Preset Label="buff_BalanceSys_Hidden_AilmentCooldown" Value="471522" />
+  <Preset Label="buff_Object_Apothecary_CuresAndElixirs_hidden_ShowOffEmotionStone_IsShowing" Value="472040" />
+  <Preset Label="buff_Career_Naturopathic_Hidden_RevitalizeNeeds" Value="472775" />
+  <Preset Label="buff_PlantSims_MainBuff_Visible_NPC_Improvements" Value="472960" />
+  <Preset Label="Emotionally Ravenous (buff_FairyOccult_EmotionallyRavenous_Ghost)" Value="475451" />
+  <Preset Label="buff_Debug_Ailments_GuaranteedSpread" Value="484213" />
+</PresetGroup>

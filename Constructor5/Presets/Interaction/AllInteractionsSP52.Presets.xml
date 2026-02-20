@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interactions SP52">
+  <Preset Label="Restock Tray (villaJuiceTray_Restock)" Value="374028" />
+  <Preset Label="Grab Drink (villaJuiceTray_TakeDrink)" Value="374029" />
+</PresetGroup>

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Template Choosers EP21">
+  <Preset Label="templateChooser_RobinHood" Value="485289" />
+  <Preset Label="templateChooser_InformationBroker" Value="488438" />
+</PresetGroup>

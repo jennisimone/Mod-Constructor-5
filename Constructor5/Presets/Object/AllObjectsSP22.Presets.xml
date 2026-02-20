@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP22">
+  <Preset Label="object_DustFriend_Bunny" Value="254682" />
+  <Preset Label="object_DustFriend_Fiend" Value="254683" />
+  <Preset Label="Object_VacuumCleaner_Handheld_Medium" Value="254687" />
+  <Preset Label="Object_VacuumCleaner_Handheld_High" Value="254688" />
+  <Preset Label="Object_VacuumCleaner_Upright_High" Value="254689" />
+  <Preset Label="Object_VacuumCleaner_Upright_Medium" Value="254690" />
+  <Preset Label="object_DustPile" Value="254692" />
+  <Preset Label="Object_VacuumCleaner_Upright_Low" Value="258032" />
+</PresetGroup>

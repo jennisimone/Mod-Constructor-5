@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Situation Jobs EP20">
+  <Preset Label="jobs_HideAndSeek_Hider" Value="442003" />
+  <Preset Label="jobs_HideAndSeek_Seeker" Value="442004" />
+  <Preset Label="Neighbor (jobs_WelcomeWagon_FruitBearer_Neighbor_EP20World)" Value="446185" />
+  <Preset Label="Spinning Instructor (jobs_SpinningClass_Instructor_Service)" Value="446574" />
+  <Preset Label="Spinning Instructor (job_SpinningClass_Instructor)" Value="447911" />
+  <Preset Label="Spinning Class Member (job_SpinningClass_classMember)" Value="447912" />
+  <Preset Label="Peculiar Plumbird (jobs_Cryptid_Nest)" Value="448960" />
+  <Preset Label="Festival Goer (situationJob_EP20Festival_ChildNPC_SunriseSunset)" Value="449556" />
+  <Preset Label="Festival Goer (situationJob_EP20Festival_ElderNPC_SunriseSunset)" Value="449557" />
+  <Preset Label="Festival Goer (situationJob_EP20Festival_GlowandFlow_NPC)" Value="449736" />
+  <Preset Label="Festival Goer (situationJob_EP20Festival_FashionAndFitness_NPC)" Value="449747" />
+  <Preset Label="Festival Goer (situationJob_EP20Festival_RoundTheFire_NPC)" Value="449748" />
+  <Preset Label="Jellyfish Griller (situationJob_EP20Festival_GlowAndFlow_Griller)" Value="449831" />
+  <Preset Label="Astral Pro-Jelly-Vangelist (job_EP20World_Walkby_Busker)" Value="450008" />
+  <Preset Label="job_EP20World_Walkby_Guitar" Value="450009" />
+  <Preset Label="job_EP20World_Walkby_Crafter" Value="450010" />
+  <Preset Label="job_EP20World_Walkby_Painter" Value="450011" />
+  <Preset Label="job_EP20World_Walkby_Kayaker" Value="450012" />
+  <Preset Label="job_EP20World_Walkby_Cryptid" Value="450013" />
+  <Preset Label="{0.String} (job_CustomSchedule_Participant)" Value="450432" />
+  <Preset Label="Keeper of Lore (situationJob_EP20Festival_RoundTheFire_StoryTeller)" Value="454691" />
+  <Preset Label="Imaginary Friend (jobs_EP20_IF_ImaginaryFriend)" Value="455653" />
+  <Preset Label="jobs_EP20_IF_Creator" Value="455722" />
+  <Preset Label="Storyteller (situationJob_BasicTrait_EP20World_NPC_Storyteller)" Value="456574" />
+  <Preset Label="Lost Adventurer (situationJob_BasicTrait_EP20World_NPC_LostAdventurer)" Value="456575" />
+  <Preset Label="Butterfly Conservationist (situationJob_BasicTrait_EP20World_NPC_ButterflyConservationist)" Value="456576" />
+  <Preset Label="{0.String} (job_Getaway_Participant)" Value="456714" />
+  <Preset Label="Gibbi Point Collector (jobs_EP20World_NPCs_Collector)" Value="456741" />
+  <Preset Label="Butterfly Conservationist (jobs_EP20World_NPCs_ButterflyConservationist)" Value="456742" />
+  <Preset Label="Lost Adventurer (jobs_EP20World_NPCs_LostAdventurer)" Value="456743" />
+  <Preset Label="Storyteller (jobs_EP20World_NPCs_Storyteller)" Value="456744" />
+  <Preset Label="Gibbi Point Collector (situationJob_BasicTrait_EP20World_NPC_Collector)" Value="456755" />
+  <Preset Label="job_Getaway_Household_Participant" Value="456974" />
+  <Preset Label="job_EP20World_Walkby_Campfire" Value="457533" />
+  <Preset Label="job_EP20World_Walkby_Tourists" Value="457534" />
+  <Preset Label="Neighbor (jobs_WelcomeWagon_DoorKnocker_Neighbor_EP20World)" Value="458494" />
+  <Preset Label="Neighbor (jobs_WelcomeWagon_Welcoming_Neighbor_EP20World)" Value="458495" />
+  <Preset Label="Spinning Instructor (job_SpinningClass_Instructor_PlayerLed)" Value="461025" />
+  <Preset Label="job_EP20World_Walkby_Playground" Value="461891" />
+  <Preset Label="Plumbird Expert (situationJob_EP20Festival_RoundTheFire_CrypidFan)" Value="462787" />
+  <Preset Label="Peculiar Plumbird (situationJob_EP20Festival_RoundTheFire_CrypidHerself)" Value="462992" />
+  <Preset Label="situationJob_ChildhoodSentiment_NowWereCooking_Target" Value="463493" />
+  <Preset Label="situationJob_ChildhoodSentiment_FestivalTime" Value="463508" />
+  <Preset Label="Archery Champion (situationJob_EP20Festival_FashionAndFitness_Archer)" Value="463683" />
+  <Preset Label="Spinning Instructor (situationJob_EP20Festival_FashionAndFitness_SpinningInstructor)" Value="463763" />
+  <Preset Label="Spinning Class Member (situationJob_EP20Festival_FashionAndFitness_SpinningStudent)" Value="463784" />
+  <Preset Label="job_EP20World_Locals" Value="465320" />
+  <Preset Label="jobs_EP20_IF_CorporealTeen" Value="466458" />
+  <Preset Label="job_EP20World_Papercraft_PaperMache_Mask" Value="474752" />
+  <Preset Label="Festival Goer (situationJob_EP20Festival_FashionAndFitness_NPC_Regular)" Value="482870" />
+  <Preset Label="Guitar Player (situationJob_EP20Festival_RoundTheFire_Guitar)" Value="485167" />
+</PresetGroup>

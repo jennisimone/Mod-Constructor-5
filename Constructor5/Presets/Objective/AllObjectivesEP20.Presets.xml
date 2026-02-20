@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objectives EP20">
+  <Preset Label="Ask Gibbi Point Locals about Unusual Bird (objective_CryptidQuest_LocalLegends_AskLocal)" Value="447436" />
+  <Preset Label="Rehome a Butterfly or Moth (objective_CryptidQuest_FeedingFrenzy_ExplorePOI)" Value="447437" />
+  <Preset Label="Socialize with the Lost Adventurer (objective_CryptidQuest_TangibleTraces_ExplorePOI)" Value="447438" />
+  <Preset Label="Ask about Plumbird at 'Round the Fire Festival (Weekends 7 PM) (objective_CryptidQuest_CommunitySpirit_AttendFestival)" Value="447439" />
+  <Preset Label="Examine Plumbird Cave Painting (objective_CryptidQuest_CommunitySpirit_LocateEvidence)" Value="447444" />
+  <Preset Label="Ask Gibbi Point Locals about Unusual Bird (objective_CryptidQuest_CommunitySpirit_AskLocal)" Value="447445" />
+  <Preset Label="Reveal Peculiar Plumbird's Truth (objective_CryptidQuest_CommunitySpirit_RevealTruth)" Value="447446" />
+  <Preset Label="Catch a Delicious Fish (objective_CryptidQuest_FeedingFrenzy_CatchFish)" Value="447447" />
+  <Preset Label="Deliver Fish to Peculiar Plumbird (objective_CryptidQuest_FeedingFrenzy_GiveFish)" Value="447448" />
+  <Preset Label="Search and Investigate Plumbird Evidence in Crystal Valley (objective_CryptidQuest_FeedingFrenzy_LocateEvidence)" Value="447449" />
+  <Preset Label="Touch Glowworm near the Electric Lagoon (objective_CryptidQuest_LocalLegends_ExplorePOI)" Value="447450" />
+  <Preset Label="Search for and Investigate Plumbird Evidence in Jellyfish Junction (objective_CryptidQuest_LocalLegends_LocateEvidence)" Value="447451" />
+  <Preset Label="Discuss Plumbird Evidence with Gibbi Point Locals (objective_CryptidQuest_LocalLegends_DiscussEvidence)" Value="447452" />
+  <Preset Label="Locate Plumbird Evidence in Wanderwood Wilds (objective_CryptidQuest_TangibleTraces_LocateEvidence)" Value="447453" />
+  <Preset Label="Discuss Plumbird Evidence with Gibbi Point Locals (objective_CryptidQuest_TangibleTraces_AskLocal)" Value="447454" />
+  <Preset Label="&quot;Time for an incredible getaway in Gibbi Point&quot; (objectives_UnfinishedBusiness_Travel_EP20World)" Value="450403" />
+  <Preset Label="&quot;I bet I can trade up my collectable {1.Number} times!&quot; (objective_ChildhoodInspiration_BeACompletionist_1)" Value="451776" />
+  <Preset Label="&quot;I'm going to try to win {1.Number} collectibles off of Buddy Scoop!&quot; (objective_ChildhoodInspiration_BeACompletionist_2)" Value="451777" />
+  <Preset Label="&quot;I want to go swimming and explore the ocean!&quot; (objective_ChildhoodInspiration_ExploreOcean_1)" Value="452014" />
+  <Preset Label="&quot;I'm going to go for a ride in a Kayak &lt;i&gt;so many&lt;/i&gt; times!&quot; (objective_ChildhoodInspiration_ExploreOcean_2)" Value="452015" />
+  <Preset Label="&quot;If I'm going to be away from home and survive, I need to make a friend at a Getaway.&quot; (objective_ChildhoodInspiration_FormBondsAwayFromHome_1)" Value="452253" />
+  <Preset Label="&quot;I don't want to be homesick when I leave home anymore!&quot; (objective_ChildhoodInspiration_FormBondsAwayFromHome_2)" Value="452254" />
+  <Preset Label="&quot;My Imaginary Friend is the best! I want us to become BFFs!&quot; (objective_ChildhoodInspiration_HaveBestImaginaryFriend_1)" Value="452257" />
+  <Preset Label="&quot;I should do a bunch of things with my Imaginary Friend!&quot; (objective_ChildhoodInspiration_HaveBestImaginaryFriend_2)" Value="452258" />
+  <Preset Label="Play Rock, Paper, Scissors for a Collectible {1.Number} Times (objectives_EP20_Asp_Child_Social_CoolestKid_A1_1)" Value="452438" />
+  <Preset Label="Win Rock, Paper, Scissors {1.Number} Times (objectives_EP20_Asp_Child_Social_CoolestKid_A1_2)" Value="452439" />
+  <Preset Label="Befriend {1.Number} Children (objectives_EP20_Asp_Child_Social_CoolestKid_A1_3)" Value="452440" />
+  <Preset Label="Achieve Level {1.Number} Social Skill (objectives_EP20_Asp_Child_Social_CoolestKid_A1_4)" Value="452441" />
+  <Preset Label="Find {1.Number} Hiding Sims during Hide and Seek (objectives_EP20_Asp_Child_Social_CoolestKid_A2_1)" Value="452442" />
+  <Preset Label="Trade for {1.Number} New Collectibles  (objectives_EP20_Asp_Child_Social_CoolestKid_A2_2)" Value="452443" />
+  <Preset Label="Achieve Level {1.Number} Social Skill (objectives_EP20_Asp_Child_Social_CoolestKid_A2_3)" Value="452444" />
+  <Preset Label="Win an Archery Competition (objectives_EP20_Asp_Child_Social_CoolestKid_A2_4)" Value="452445" />
+  <Preset Label="Make a BFF (objectives_EP20_Asp_Child_Social_CoolestKid_A3_1)" Value="452446" />
+  <Preset Label="Win {1.Number} Competitive Games  (objectives_EP20_Asp_Child_Social_CoolestKid_A3_2)" Value="452447" />
+  <Preset Label="Complete any Collection (objectives_EP20_Asp_Child_Social_CoolestKid_A3_3)" Value="452448" />
+  <Preset Label="&quot;I'm going to learn how to be the best diver ever!&quot; (objective_ChildhoodInspiration_LearnToDive_1)" Value="452521" />
+  <Preset Label="&quot;I'm going to do everything a Sim can do in water! &lt;i&gt;Everything.&lt;/i&gt;&quot; (objective_ChildhoodInspiration_LearnToDive_2)" Value="452522" />
+  <Preset Label="Purchase a Butterfly &amp; Moth Habitat (objectives_EP20_Asp_Nature_CritterHunter_A1_1)" Value="452621" />
+  <Preset Label="Catch {1.Number} Butterflies (objectives_EP20_Asp_Nature_CritterHunter_A1_2)" Value="452622" />
+  <Preset Label="Examine {1.Number} Common Butterflies (objectives_EP20_Asp_Nature_CritterHunter_A1_3)" Value="452623" />
+  <Preset Label="Craft {1.Number} Paper Butterflies (objectives_EP20_Asp_Nature_CritterHunter_A1_4)" Value="452624" />
+  <Preset Label="Catch {1.Number} Fish while Bowfishing (objectives_EP20_Asp_Nature_CritterHunter_A2_2)" Value="452625" />
+  <Preset Label="Go Fishing with a Buddy (objectives_EP20_Asp_Nature_CritterHunter_A2_3)" Value="452626" />
+  <Preset Label="Give a Pet Fish a Name (objectives_EP20_Asp_Nature_CritterHunter_A2_4)" Value="452627" />
+  <Preset Label="Craft {1.Number} Paper Mache Animals (objectives_EP20_Asp_Nature_CritterHunter_A2_1)" Value="452628" />
+  <Preset Label="Catch and Examine a Rare Butterfly (objectives_EP20_Asp_Nature_CritterHunter_A3_1)" Value="452629" />
+  <Preset Label="Rehome Butterfly at a Gibbi Point Topiary (objectives_EP20_Asp_Nature_CritterHunter_A3_2)" Value="452630" />
+  <Preset Label="View Butterfly in a Butterfly &amp; Moth Habitat (objectives_EP20_Asp_Nature_CritterHunter_A3_3)" Value="452631" />
+  <Preset Label="Start Raising a Caterpillar (objectives_EP20_Asp_Nature_CritterHunter_A3_4)" Value="452632" />
+  <Preset Label="Craft a Magical Origami Butterfly (objectives_EP20_Asp_Nature_CritterHunter_A4_1)" Value="452633" />
+  <Preset Label="Complete the Butterflies &amp; Moths Collection (objectives_EP20_Asp_Nature_CritterHunter_A4_2)" Value="452634" />
+  <Preset Label="Research Mating Rituals of Butterflies (objectives_EP20_Asp_Nature_CritterHunter_A4_3)" Value="452635" />
+  <Preset Label="objective_HomeFromWork_ParkWorker" Value="453000" />
+  <Preset Label="&quot;I want to go to a Getaway and stay away from home for a &lt;i&gt;really&lt;/i&gt; long time!&quot; (objective_ChildhoodInspiration_BeAwayFromHome)" Value="453480" />
+  <Preset Label="&quot;I bet I can win {1.Number} Archery contests! That'd prove how good I am!&quot; (objective_ChildhoodInspiration_MasterArchery_1)" Value="453932" />
+  <Preset Label="&quot;I want a super cool bow like all the heroes have!&quot; (objective_ChildhoodInspiration_MasterArchery_2)" Value="453933" />
+  <Preset Label="Raise a Butterfly in Caterpillar Incubator (objective_EP20World_Quests_ButterflyConservationist_RaiseButterfly)" Value="455991" />
+  <Preset Label="Talk about Experience Raising a Butterfly with Butterfly Conservationist (objective_EP20World_Quests_ButterflyConservationist_TalktoConservationist)" Value="455992" />
+  <Preset Label="Investigate Lost Adventurer Bootprints (objective_EP20World_Quests_SecretsoftheTown_FindFootprints)" Value="455993" />
+  <Preset Label="Ask about Adventure Markings (objective_EP20World_Quests_SecretsoftheTown_TalktoAdventurer)" Value="455994" />
+  <Preset Label="Investigate Jellyfish Junction Town Model (objective_EP20World_Quests_SecretsoftheTown_FindAdventureMarkings)" Value="455995" />
+  <Preset Label="Ask About Great Adventurers (objective_EP20World_Quests_SecretsoftheTown_TalktoNPCs)" Value="455996" />
+  <Preset Label="Chat with Peculiar Plumbird (objective_EP20World_Quests_SecretsoftheTown_TalktoCryptid)" Value="455997" />
+  <Preset Label="Investigate Story Map (objective_EP20World_Quests_SecretsoftheTown_ViewCompletedMap)" Value="455998" />
+  <Preset Label="Investigate Ranger's Station (objective_EP20World_Quests_MelodyoftheGeyser_DiscoverClue)" Value="455999" />
+  <Preset Label="Listen to the Story of the Melody of the Geyser (objective_EP20World_Quests_MelodyoftheGeyser_ListentoStory)" Value="456000" />
+  <Preset Label="Smack the Strange Boulder (objective_EP20World_Quests_MelodyoftheGeyser_SmackBoulder)" Value="456001" />
+  <Preset Label="Touch Glowworms near the Electric Lagoon (objective_EP20World_Quests_NeighborhoodAdventure_InteractwithWorms)" Value="456002" />
+  <Preset Label="Neon Jellyfish Swim in Electric Lagoon (objective_EP20World_Quests_NeighborhoodAdventure_SwimJellyfishPond)" Value="456003" />
+  <Preset Label="Participate in a Special Swim during the Glow and Flow Festival (objective_EP20World_Quests_NeighborhoodAdventure_DoSpecialSwim)" Value="456005" />
+  <Preset Label="Gather any Gibbi Point Harvestable or Collectable Items (objective_EP20World_Quests_NeighborhoodAdventure_GatherCollectibles)" Value="456007" />
+  <Preset Label="Pan for Crystals in Crystal Valley (objective_EP20World_Quests_NeighborhoodAdventure_PanforCrystals)" Value="456008" />
+  <Preset Label="Visit Hothead Rock Geyser and Bask in the Glory of the Geyser (objective_EP20World_Quests_NeighborhoodAdventure_GotoGeyser)" Value="456009" />
+  <Preset Label="Watch Geyser Blow (objective_EP20World_Quests_NeighborhoodAdventure_WatchGeyserBlow)" Value="456010" />
+  <Preset Label="Talk to Butterfly Conservationist about Raising Butterflies (objective_EP20World_Quests_ButterflyConservationist_TalkAboutRaising)" Value="456011" />
+  <Preset Label="Investigate Strange Boulder near Geyser (objective_EP20World_Quests_MelodyoftheGeyser_InvestigateBoulder)" Value="456012" />
+  <Preset Label="Investigate Story Map (objective_EP20World_Quests_MelodyoftheGeyser_UpdateStoryMap)" Value="456013" />
+  <Preset Label="&quot;These hands shall mold an epic papercraft creation!&quot; (objectives_UnfinishedBusiness_Create_Papercraft)" Value="456941" />
+  <Preset Label="Reach Level 2 of any Outdoor Activity Skill (objective_Career_ParkWorker_ActivitySkill_2)" Value="458144" />
+  <Preset Label="Reach Level 3 of any Outdoor Activity Skill (objective_Career_ParkWorker_ActivitySkill_3)" Value="458145" />
+  <Preset Label="Reach Level 4 of any Outdoor Activity Skill (objective_Career_ParkWorker_ActivitySkill_4)" Value="458146" />
+  <Preset Label="Complete Park Lore (objective_Career_ParkWorker_ParkLore)" Value="458280" />
+  <Preset Label="Discuss Plumbird Evidence with Gibbi Point Locals (objective_CryptidQuest_FeedingFrenzy_DiscussEvidence)" Value="460924" />
+  <Preset Label="&quot;I'd like to &quot;attune&quot; to the water, if you catch my drift.&quot; (objectives_UnfinishedBusiness_Woohoo_SwimmingWooHoo)" Value="470305" />
+  <Preset Label="&quot;Buying books gives me a library of reading opportunities!&quot; (objective_ChildhoodInspiration_AspiringAuthor_3)" Value="472815" />
+  <Preset Label="&quot;Reading is the second thing writers do the most after, well... Writing!&quot; (objective_ChildhoodInspiration_AspiringAuthor_1)" Value="472816" />
+  <Preset Label="&quot;Writing a book is the ultimate preparation for a Writing career.&quot; (objective_ChildhoodInspiration_AspiringAuthor_2)" Value="472817" />
+  <Preset Label="&quot;Gifts mean more when you make them.&quot; (objective_ChildhoodInspiration_BeCrafty_2)" Value="472818" />
+  <Preset Label="&quot;I want my crafts to be the best ever!&quot; (objective_ChildhoodInspiration_BeCrafty_1)" Value="472819" />
+  <Preset Label="&quot;Playing together is way more fun!&quot; (objective_ChildhoodInspiration_ShareSiblingAdventures_3)" Value="472820" />
+  <Preset Label="&quot;Let's watch something together!&quot; (objective_ChildhoodInspiration_ShareSiblingAdventures_1)" Value="472821" />
+  <Preset Label="&quot;Cooking outside is way cooler than a stove.&quot; (objective_ChildhoodInspiration_BeASurvivalist_2)" Value="472825" />
+  <Preset Label="Reach Level 4 Charisma Skill (objective_Career_ParkWorker_Skill_NoTeen_Charisma)" Value="472937" />
+  <Preset Label="Reach Level 4 Logic Skill (objective_Career_ParkWorker_Skill_NoTeen_Logic)" Value="472938" />
+  <Preset Label="Purchase a Caterpillar Incubator from Butterfly Ranger Station (objective_EP20World_Quests_ButterflyConservationist_PurchaseIncubator)" Value="475382" />
+  <Preset Label="&quot;I can prove how strong and fast I am! Just watch!&quot; (objective_ChildhoodInspiration_BeActive_1)" Value="479621" />
+  <Preset Label="&quot;An Outdoorsy kid like me should really do a bunch of outdoorsy things to show just how outdoorsy I really am.&quot; (objective_ChildhoodInspiration_BeAnOutdoorEnthusiast_1)" Value="479622" />
+  <Preset Label="&quot;Nature is all around. I'm going to discover as much as I can and start a collection!&quot; (objective_ChildhoodInspiration_ExploreNature_1)" Value="479623" />
+  <Preset Label="&quot;I'd be so tough if I ate spoiled food! I bet I can do it {1.Number} times!&quot; (objective_ChildhoodInspiration_LiveDangerously_1)" Value="479624" />
+  <Preset Label="&quot;If I can withstand extreme temperatures I'll prove how risky and wild I really am!&quot; (objective_ChildhoodInspiration_LiveDangerously_2)" Value="479625" />
+  <Preset Label="&quot;I want to catch the rarest, most hardest to catch fish that ever existed!&quot; (objective_ChildhoodInspiration_MasterFishing_1)" Value="479626" />
+  <Preset Label="&quot;I'm going to have at least 5 plants at once...but they all have to be alive or it doesn't count.&quot; (objective_ChildhoodInspiration_NurturePlants_1)" Value="479627" />
+  <Preset Label="&quot;I want to harvest a plant that I grew all by myself!&quot; (objective_ChildhoodInspiration_NurturePlants_2)" Value="479628" />
+  <Preset Label="&quot;I bet I could swipe {1.Number} things without getting caught!&quot; (objective_ChildhoodInspiration_BeARogue_1)" Value="479629" />
+  <Preset Label="&quot;I need to let everyone know what a rogue I really am!&quot; (objective_ChildhoodInspiration_BeARogue_2)" Value="479630" />
+  <Preset Label="&quot;A &lt;i&gt;real&lt;/i&gt; traveler has left home at least {1.Number} times. So I'm going to do that.&quot; (objective_ChildhoodInspiration_BeATraveler_1)" Value="479631" />
+  <Preset Label="&quot;I bet I can earn {1.Number} Simoleons! That'd prove I'm a successful business kid.&quot; (objective_ChildhoodInspiration_BeEntrepreneurial_1)" Value="479632" />
+  <Preset Label="&quot;I can show how useful I am by helping out and cleaning up!&quot; (objective_ChildhoodInspiration_BeUseful_1)" Value="479633" />
+  <Preset Label="&quot;I'm going to plan the coolest, most stylish outfit there ever was!&quot; (objective_ChildhoodInspiration_EstablishAnImage_1)" Value="479634" />
+  <Preset Label="&quot;I need to be seen around in my &lt;i&gt;amaaazing&lt;/i&gt; outfits.&quot; (objective_ChildhoodInspiration_EstablishAnImage_2)" Value="479635" />
+  <Preset Label="&quot;What colors do I love and what colors do I hate? Need to figure that out!&quot; (objective_ChildhoodInspiration_EstablishAnImage_3)" Value="479636" />
+  <Preset Label="&quot;If I'm going to learn to feed myself, I should probably cook with someone older than me first. To learn.&quot; (objective_ChildhoodInspiration_FeedYourself_1)" Value="479637" />
+  <Preset Label="&quot;I'm going to make my own food {1.Number} times all by myself! That'll prove I can do it.&quot; (objective_ChildhoodInspiration_FeedYourself_2)" Value="479638" />
+  <Preset Label="&quot;I'm going to try food and drinks from &lt;i&gt;pretty much&lt;/i&gt; everywhere!&quot; (objective_ChildhoodInspiration_AboutCuisine_1)" Value="479639" />
+  <Preset Label="&quot;Muahaha! I'm gonna create some &lt;i&gt;strange&lt;/i&gt; science potions!&quot; (objective_ChildhoodInspiration_AboutScience_1)" Value="479640" />
+  <Preset Label="&quot;I need to collect at least {1.Number} science thingies to study! It's called research!&quot; (objective_ChildhoodInspiration_AboutScience_2)" Value="479641" />
+  <Preset Label="&quot;I should practice my Photography by taking a bunch of pictures of Sims and other artsy things.&quot; (objective_ChildhoodInspiration_AmateurPhotographer_1)" Value="479642" />
+  <Preset Label="&quot;I bet I could sell my photographs just like a real grown up photographer!&quot; (objective_ChildhoodInspiration_AmateurPhotographer_2)" Value="479643" />
+  <Preset Label="&quot;So... what kind of music do I even like? I need to figure that out first.&quot; (objective_ChildhoodInspiration_BeTheGeek_1)" Value="479644" />
+  <Preset Label="&quot;To be good at gaming, I need to prove it and win at least {1.Number} games on a gaming console.&quot; (objective_ChildhoodInspiration_BeTheGeek_2)" Value="479645" />
+  <Preset Label="&quot;I'm going to get really good at playing music so I can be like the Sims from that scrapbook!&quot; (objective_ChildhoodInspiration_FollowInFootsteps_OnTour_1)" Value="479646" />
+  <Preset Label="&quot;I'm going to create my own art! Just like the sketches I found in that scrapbook!&quot; (objective_ChildhoodInspiration_FollowInFootsteps_Sketches_1)" Value="479647" />
+  <Preset Label="&quot;That Swim Team Scrapbook was so neat! I bet I can swim that much too!&quot; (objective_ChildhoodInspiration_FollowInFootsteps_SwimTeam_1)" Value="479648" />
+  <Preset Label="&quot;Ghosts know &lt;i&gt;a lot&lt;/i&gt; about the past. I bet if I made friends with one, I'd learn a lot about it too!&quot; (objective_ChildhoodInspiration_LearnFromThePast_1)" Value="479649" />
+  <Preset Label="&quot;I want to have a really special connection with a Ghost!&quot; (objective_ChildhoodInspiration_LearnFromThePast_2)" Value="479650" />
+  <Preset Label="&quot;I bet I could get along really well with a real live baby!&quot; (objective_ChildhoodInspiration_BeACaregiver_1)" Value="479651" />
+  <Preset Label="&quot;I want to be an Infant's favorite Sim! At least, &lt;i&gt;one&lt;/i&gt; of their favorite Sims!&quot; (objective_ChildhoodInspiration_BeACaregiver_2)" Value="479652" />
+  <Preset Label="&quot;I want to get at &lt;i&gt;least&lt;/i&gt; a B in school, but an A would be even better!&quot; (objective_ChildhoodInspiration_BeAGoodStudent_1)" Value="479653" />
+  <Preset Label="&quot;I should do my homework {1.Number} times. That'll show that I am the best student, for sure!&quot; (objective_ChildhoodInspiration_BeAGoodStudent_2)" Value="479654" />
+  <Preset Label="&quot;I've gotta find someone who will watch me play my instrument!&quot; (objective_ChildhoodInspiration_BeAnEntertainer_1)" Value="479655" />
+  <Preset Label="&quot;I know some good stories. I should tell them to a bunch of Sims!&quot; (objective_ChildhoodInspiration_BeAnEntertainer_2)" Value="479656" />
+  <Preset Label="&quot;It'd be so funny to see my family's reaction when I prank them!&quot; (objective_ChildhoodInspiration_BeAnnoying_1)" Value="479657" />
+  <Preset Label="&quot;Hehe. I'm going to prank &lt;i&gt;so many&lt;/i&gt; things!&quot; (objective_ChildhoodInspiration_BeAnnoying_2)" Value="479658" />
+  <Preset Label="&quot;I will fill an entire habitat with butterflies and moths!&quot; (objectives_UnfinishedBusiness_Success_ButterflyCollection)" Value="479838" />
+  <Preset Label="&quot;I'm interested in imaginative fiction, but what to read?&quot; (objective_ChildhoodInspiration_BeTheGeek_3)" Value="479848" />
+  <Preset Label="&quot;I'm going to plan a cool stage outfit!&quot; (objective_ChildhoodInspiration_FollowInFootsteps_OnTour_2)" Value="479849" />
+  <Preset Label="Achieve Level {1.Number} Entomology Skill (objectives_EP20_Asp_Nature_CritterHunter_A4_4)" Value="482530" />
+  <Preset Label="&quot;I'd like to be a master archer.&quot; (objectives_UnfinishedBusiness_Success_Archery)" Value="486085" />
+  <Preset Label="&quot;I want to look super cool at a pool!&quot; (objectives_UnfinishedBusiness_Success_Diving)" Value="486267" />
+</PresetGroup>

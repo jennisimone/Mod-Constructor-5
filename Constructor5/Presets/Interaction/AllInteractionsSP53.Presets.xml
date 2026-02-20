@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interactions SP53">
+  <Preset Label="Have a Quick Meal or Drink (bar_Bistro_StartCrafting_Food)" Value="373445" />
+  <Preset Label="Grab Quick Drinks (bar_Bistro_StartCrafting_Drink)" Value="373462" />
+  <Preset Label="bar_ChooseDelivery_Bistro" Value="373758" />
+</PresetGroup>

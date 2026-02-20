@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Lot Traits EP19">
+  <Preset Label="zoneModifier_lotTrait_FairyPassage" Value="440962" />
+  <Preset Label="zoneModifiers_EP19World_Coastal" Value="445665" />
+</PresetGroup>

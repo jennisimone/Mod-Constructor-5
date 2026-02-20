@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interaction Lists EP21">
+  <Preset Label="affordanceList_Swordsmanship_Duels" Value="486646" />
+  <Preset Label="affordanceList_ScandalSecret_Blackmail" Value="490431" />
+</PresetGroup>

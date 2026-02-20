@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Commodity Based Object State Values EP19">
+  <Preset Label="state_EP19Gardening_Enchanted_0_Off" Value="434663" />
+  <Preset Label="state_EP19Gardening_Enchanted_1_RunningLow" Value="434665" />
+  <Preset Label="state_EP19Gardening_Enchanted_2_FullStrength" Value="434666" />
+  <Preset Label="state_EP19Gardening_CanCollect_True" Value="435118" />
+  <Preset Label="state_EP19Gardening_CanCollect_False" Value="435119" />
+  <Preset Label="state_EP19Gardening_AuraBlossom_Vengeful_On" Value="435538" />
+  <Preset Label="state_EP19Gardening_AuraBlossom_Vengeful_Off" Value="435539" />
+  <Preset Label="state_EP19Gardening_Enchantment_Pixies_On" Value="435650" />
+  <Preset Label="state_EP19Gardening_Enchantment_Pixies_Off" Value="435663" />
+  <Preset Label="apothecary_CommodityStateValues_Crafting_Done" Value="438860" />
+  <Preset Label="apothecary_CommodityStateValues_Crafting_InProgress" Value="439676" />
+  <Preset Label="apothecary_CommodityStateValues_Crafting_NotStarted" Value="439677" />
+  <Preset Label="fairyHome_Values_DanceParty_No" Value="444940" />
+  <Preset Label="fairyHome_Values_DanceParty_Yes" Value="444941" />
+  <Preset Label="flowerPress_commodityStateValue_NotInUse" Value="446562" />
+  <Preset Label="state_EP19Gardening_Pixies_PushSpread_True" Value="451419" />
+  <Preset Label="state_EP19Gardening_Pixies_PushSpread_False" Value="451420" />
+  <Preset Label="luckInfusedObjects_LuckSys_Values_Active_Yes" Value="452250" />
+  <Preset Label="luckInfusedObjects_LuckSys_Values_Active_No" Value="452304" />
+  <Preset Label="fairyHome_Values_Sleeping_No" Value="455809" />
+  <Preset Label="fairyHome_Values_Sleeping_Yes" Value="455810" />
+  <Preset Label="EmotionStone_Brokenness_Fine" Value="457972" />
+  <Preset Label="EmotionStone_Brokenness_AlmostBroken" Value="457973" />
+  <Preset Label="EmotionStone_Brokenness_Broken" Value="457974" />
+  <Preset Label="fairyHome_Values_FairyDustAmt_Low" Value="462947" />
+  <Preset Label="fairyHome_Values_FairyDustAmt_Med" Value="462948" />
+  <Preset Label="fairyHome_Values_FairyDustAmt_Max" Value="462949" />
+  <Preset Label="fairyHome_Values_FairyDustAmt_Lrg" Value="462950" />
+  <Preset Label="fairyHome_Values_FairyDustAmt_None" Value="462953" />
+  <Preset Label="fairyHome_Values_EmotionalForce_Off" Value="468064" />
+  <Preset Label="fairyHome_Values_EmotionalForce_On" Value="468065" />
+</PresetGroup>

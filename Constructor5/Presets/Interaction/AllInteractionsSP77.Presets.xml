@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interactions SP77">
+  <Preset Label="Restock with Tea (SP77_Solarium_TeaTray_Restock)" Value="497851" />
+  <Preset Label="Grab Drink (SP77_Solarium_TeaTray_TakeDrink)" Value="497853" />
+  <Preset Label="Restock with Tea (sP77_Solarium_TeaTray_Restock_Set2)" Value="499854" />
+  <Preset Label="Restock with Tea (sP77_Solarium_TeaTray_Restock_Set3)" Value="499855" />
+  <Preset Label="Restock with Tea (sP77_Solarium_TeaTray_Restock_Set4)" Value="499856" />
+  <Preset Label="Restock with Tea (sP77_Solarium_TeaTray_Restock_Set5)" Value="499857" />
+  <Preset Label="Restock with Tea (sP77_Solarium_TeaTray_Restock_Set6)" Value="499858" />
+  <Preset Label="Restock with Tea (sP77_Solarium_TeaTray_Restock_Set7)" Value="499859" />
+  <Preset Label="Restock with Tea (sP77_Solarium_TeaTray_Restock_Set8)" Value="499860" />
+  <Preset Label="Restock with Tea (sP77_Solarium_TeaTray_Restock_Set9)" Value="499861" />
+  <Preset Label="Restock with Tea (sP77_Solarium_TeaTray_Restock_Set10)" Value="499862" />
+  <Preset Label="Restock with Tea (sP77_Solarium_TeaTray_Restock_Set11)" Value="499863" />
+  <Preset Label="Restock with Tea (sP77_Solarium_TeaTray_Restock_Set12)" Value="499864" />
+</PresetGroup>

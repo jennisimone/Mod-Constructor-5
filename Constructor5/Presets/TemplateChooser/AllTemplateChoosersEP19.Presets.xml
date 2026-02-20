@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Template Choosers EP19">
+  <Preset Label="template_Chooser_EP19NPC_MotherNature" Value="435628" />
+  <Preset Label="template_Chooser_EP19NPC_GreenMan" Value="436932" />
+  <Preset Label="template_Chooser_EP19Quests_Gnome" Value="440788" />
+  <Preset Label="template_Chooser_EP19NPC_Zhaleh" Value="441035" />
+  <Preset Label="template_Chooser_EP19Quests_Apothecary" Value="441270" />
+  <Preset Label="template_Chooser_EP19Quests_Trade" Value="441740" />
+  <Preset Label="template_Chooser_EP19Quests_Liaison" Value="441772" />
+  <Preset Label="fairy_template_chooser_EP19World" Value="443788" />
+  <Preset Label="tunableTemplateChooser_EP19World_Plantsim" Value="444279" />
+</PresetGroup>

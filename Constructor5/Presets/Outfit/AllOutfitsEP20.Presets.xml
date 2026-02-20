@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Outfits EP20">
+  <Preset Label="outfit_Uniform_Career_ParkWorker_Main" Value="453023" />
+  <Preset Label="outfit_Uniform_Career_ParkWorker_ParkRanger" Value="453024" />
+  <Preset Label="outfit_Uniform_Career_ParkWorker_ParkCounselor" Value="453025" />
+  <Preset Label="outfits_EP20World_JellyfishHat" Value="458627" />
+  <Preset Label="outfit_uniform_getaway" Value="481963" />
+  <Preset Label="outfit_uniform_getaway_notChosen" Value="481964" />
+  <Preset Label="outfits_EP20Festival_CryptidFan" Value="483768" />
+  <Preset Label="outfits_EP20Festival_Griller" Value="484160" />
+  <Preset Label="outfit_Outfit_Category_Athletic_Getaway_StyleAdded" Value="491354" />
+  <Preset Label="outfit_Outfit_Category_Everyday_Getaway_StyleAdded" Value="491356" />
+  <Preset Label="outfit_Outfit_Category_Formal_Getaway_StyleAdded" Value="491358" />
+  <Preset Label="outfit_Outfit_Category_Party_Getaway_StyleAdded" Value="491360" />
+  <Preset Label="outfit_Outfit_Category_Sleep_Getaway_StyleAdded" Value="491362" />
+  <Preset Label="outfit_Outfit_Category_ColdWeather_StyleAdded_Getaway" Value="491661" />
+  <Preset Label="outfit_Outfit_Category_ColdWeather_NoStyle_Getaway" Value="491662" />
+  <Preset Label="outfit_Outfit_Category_HotWeather_HotWeather_StyleAdded" Value="491663" />
+  <Preset Label="outfit_Outfit_Category_HotWeather_NoStyleAdded_Getaway" Value="491664" />
+  <Preset Label="outfit_Outfit_Category_Athletic_Getaway_NoStyle" Value="491665" />
+  <Preset Label="outfit_Outfit_Category_Everyday_Getaway_NoStyle_Getaway" Value="491666" />
+  <Preset Label="outfit_Outfit_Category_Party_NoStyle_Getaway" Value="491668" />
+  <Preset Label="outfit_Outfit_Category_Formal_NoStyle_Getaway" Value="491669" />
+  <Preset Label="outfit_Outfit_Category_Sleep_NoStyle_Getaway" Value="491670" />
+</PresetGroup>

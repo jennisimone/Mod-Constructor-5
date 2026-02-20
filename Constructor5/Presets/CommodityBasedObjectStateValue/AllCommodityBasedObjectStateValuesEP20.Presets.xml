@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Commodity Based Object State Values EP20">
+  <Preset Label="campfire_Stewpot_Progress_NotStarted" Value="447625" />
+  <Preset Label="campfire_Stewpot_Progress_Starting" Value="447646" />
+  <Preset Label="campfire_Stewpot_Progress_InProgress" Value="447647" />
+  <Preset Label="campfire_Stewpot_Progress_Done" Value="447648" />
+  <Preset Label="campfire_Stewpot_Servings_Empty" Value="447653" />
+  <Preset Label="campfire_Stewpot_Servings_Full" Value="447654" />
+  <Preset Label="campfire_Stewpot_Servings_PartiallyFull" Value="447655" />
+  <Preset Label="eP20World_FirewatchTower_Values_Open" Value="469247" />
+  <Preset Label="eP20World_FirewatchTower_Values_Closed" Value="469248" />
+  <Preset Label="commodityStateValue_ButterflyCollection_Incubator_01_Empty" Value="469633" />
+  <Preset Label="commodityStateValue_ButterflyCollection_Incubator_02_Larva" Value="469634" />
+  <Preset Label="commodityStateValue_ButterflyCollection_Incubator_03_Cocoon" Value="469635" />
+  <Preset Label="commodityStateValue_ButterflyCollection_Incubator_04_Hatched" Value="469650" />
+  <Preset Label="upgrade_Blender_NotStarted_NeverBreak" Value="471635" />
+  <Preset Label="upgrade_Blender_NotStarted_NeverFail" Value="471636" />
+  <Preset Label="upgrade_Blender_Partial_NeverBreak" Value="471638" />
+  <Preset Label="upgrade_Blender_Partial_NeverFail" Value="471639" />
+  <Preset Label="upgrade_Blender_Completed_NeverBreak" Value="471641" />
+  <Preset Label="upgrade_Blender_Completed_NeverFail" Value="471642" />
+  <Preset Label="eP20World_FirewatchTower_Values_NoNote" Value="472066" />
+  <Preset Label="eP20World_FirewatchTower_Values_NoteReady" Value="472067" />
+  <Preset Label="papercraft_CommodityValues_PaperAirplane_Default" Value="481656" />
+  <Preset Label="papercraft_CommodityValues_PaperAirplane_Destroy" Value="481657" />
+  <Preset Label="papercraft_CommodityValues_PaperAirplane_Thrown" Value="481658" />
+  <Preset Label="hideAndSeek_CommodityValues_Box_Default" Value="490599" />
+  <Preset Label="hideAndSeek_CommodityValues_Box_Destroy" Value="490600" />
+</PresetGroup>

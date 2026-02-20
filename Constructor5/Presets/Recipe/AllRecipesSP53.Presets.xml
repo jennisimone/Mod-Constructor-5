@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Recipes SP53">
+  <Preset Label="Chips (Recipe_Food_Bar_Bistro_Chips)" Value="373448" />
+  <Preset Label="Eggs and Toast (recipe_Food_Bar_Bistro_EggsAndToast)" Value="373453" />
+  <Preset Label="Classic Vanilla Cupcake (recipe_Food_Bar_Bistro_Cupcake)" Value="373455" />
+  <Preset Label="BLT (recipe_Food_Bar_Bistro_BLT)" Value="373522" />
+  <Preset Label="Yogurt (recipe_Food_Bar_Bistro_Yogurt)" Value="373527" />
+  <Preset Label="Garden Salad (recipe_Food_Bar_Bistro_Salad)" Value="373530" />
+  <Preset Label="Black Tea (recipe_Drink_Brewed_Tea_Black_Bistro)" Value="373682" />
+  <Preset Label="Plumberry Nectar (recipe_Drink_Nectar_RedBistro_MenuAndBar)" Value="373752" />
+  <Preset Label="White Llama Nectar  (recipe_Drink_Nectar_WhiteBistro_MenuAndBar)" Value="373753" />
+  <Preset Label="Coffee (recipe_Drink_Bar_Coffee_Bistro)" Value="373755" />
+</PresetGroup>

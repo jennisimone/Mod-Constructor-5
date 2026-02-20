@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interaction Lists EP20">
+  <Preset Label="affordanceList_EP20_IF_Autonomy_Generic" Value="443451" />
+  <Preset Label="affordanceList_Papercraft" Value="458595" />
+  <Preset Label="affordanceList_EP20_IF_Autonomy_Fun_Competitive" Value="462403" />
+  <Preset Label="affordanceList_EP20_IF_Autonomy_Fun_Creative" Value="462404" />
+  <Preset Label="affordanceList_EP20_IF_Autonomy_Fun_Evil" Value="462405" />
+  <Preset Label="affordanceList_EP20_IF_Autonomy_Fun_Goofball" Value="462406" />
+  <Preset Label="affordanceList_EP20_IF_Autonomy_Social_Creative" Value="462407" />
+  <Preset Label="affordanceList_EP20_IF_Autonomy_Social_Evil" Value="462408" />
+  <Preset Label="affordanceList_EP20_IF_Autonomy_Social_Goofball" Value="462409" />
+  <Preset Label="affordanceList_EP20_IF_Autonomy_Social_Competitive" Value="462410" />
+  <Preset Label="affordanceList_EP20_IF_Autonomy_Social_Generic" Value="462411" />
+  <Preset Label="affordanceList_EP20_IF_Autonomy_Fun_Generic" Value="462412" />
+  <Preset Label="affordanceList_Competitive_ProhibitReaction" Value="464045" />
+  <Preset Label="affordanceList_ParkWorker_OutdoorActivities" Value="477574" />
+  <Preset Label="affordanceList_Getaway_Introductions" Value="482808" />
+  <Preset Label="affordanceList_Leftovers_Getaway" Value="485198" />
+  <Preset Label="affordanceList_Getaway_Pottery" Value="486359" />
+  <Preset Label="affordanceList_Getaway_Write" Value="486361" />
+  <Preset Label="affordanceList_Getaway_Wellness" Value="486362" />
+  <Preset Label="affordanceList_Getaway_OceanDiving" Value="486363" />
+  <Preset Label="affordanceList_Getaway_CollectingFrogs" Value="486364" />
+  <Preset Label="affordanceList_ModularPlayground" Value="486720" />
+  <Preset Label="affordanceList_SleepOnly_Getaway" Value="489434" />
+</PresetGroup>

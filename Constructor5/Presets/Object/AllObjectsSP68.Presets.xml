@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP68">
+  <Preset Label="object_AlarmClock_SP68_fogHorn" Value="488066" />
+  <Preset Label="object_stereoTable_SP68_recordPlayer" Value="488096" />
+</PresetGroup>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP67">
+  <Preset Label="object_GroceryBag" Value="451599" />
+  <Preset Label="object_CerealBox" Value="451602" />
+  <Preset Label="object_CookieJar" Value="451604" />
+  <Preset Label="object_AlarmClock_SP67_KitchenTimer" Value="455554" />
+</PresetGroup>

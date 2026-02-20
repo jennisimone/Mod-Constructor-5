@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Mixer Interactions SP46">
+  <Preset Label="mixer_StreetFoodTable_Tend" Value="337943" />
+  <Preset Label="mixer_StreetFoodTable_Tend_ComeBuy" Value="337944" />
+  <Preset Label="mixer_StreetFoodTable_Tend_ShowOffWares" Value="337945" />
+  <Preset Label="mixer_StreetFoodTable_Tend_AutoStock" Value="337960" />
+  <Preset Label="mixer_StreetFoodTable_Tend_Passive" Value="338315" />
+  <Preset Label="mixer_StreetFoodTable_Tend_ShowOffWares_Child" Value="346315" />
+  <Preset Label="mixer_StreetFoodTable_Tend_Passive_Child" Value="346326" />
+  <Preset Label="mixer_StreetFoodTable_Tend_ComeBuy_Child" Value="346327" />
+  <Preset Label="mixer_StreetFoodTable_Tend_AutoStock_Child" Value="346328" />
+  <Preset Label="mixer_StreetFoodTable_Tend_Child" Value="346329" />
+</PresetGroup>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Whims EP21">
+  <Preset Label="want_NobleFavor_CriticizeRoyal_Alignment" Value="472719" />
+  <Preset Label="want_NobleFavor_Criticize_CommonerAlignment" Value="472991" />
+  <Preset Label="want_NobleFavor_AskAboutFavor" Value="472994" />
+  <Preset Label="want_NobleFavor_SuccesfullyMock_CommonerAlignment" Value="472995" />
+  <Preset Label="want_NobleFavor_SuccessfullyAppreciateFavor" Value="473052" />
+  <Preset Label="want_NobleFavor_SuccesfullyMock_RoyalAlignment" Value="473577" />
+  <Preset Label="want_BallroomEvent_OrganizeGrandBall" Value="474654" />
+  <Preset Label="want_LikedMusic_Listen_Ballroom" Value="479932" />
+  <Preset Label="want_LikedMusic_Listen_AfroBeats" Value="480291" />
+  <Preset Label="want_SecretPassageway_Woohoo" Value="481468" />
+  <Preset Label="want_SecretPassageway_Explore" Value="482580" />
+  <Preset Label="want_SecretPassageway_Explore_Children" Value="482583" />
+  <Preset Label="want_Dynasty_Leave" Value="485443" />
+  <Preset Label="want_Dynasty_Start" Value="485444" />
+  <Preset Label="want_Dynasty_BecomeHeir" Value="485447" />
+  <Preset Label="want_Dynasty_BecomeHead" Value="485448" />
+  <Preset Label="want_Dynasty_SelectHeir" Value="485449" />
+  <Preset Label="want_NobleCareer_EarlyPromote" Value="491236" />
+  <Preset Label="want_NobleCareer_LaterPromote" Value="491241" />
+  <Preset Label="want_BallroomEvent_MoodMatchWithPartner" Value="500047" />
+  <Preset Label="want_Swordsmanship_SkillUp" Value="500176" />
+  <Preset Label="want_Swordsmanship_WinDuel" Value="500291" />
+  <Preset Label="want_Swordsmanship_BuyTrainingDummy" Value="500292" />
+  <Preset Label="want_HireUpgradeService" Value="500295" />
+  <Preset Label="want_AnswerWorkEmails" Value="500313" />
+  <Preset Label="want_TakePTO_NobleCareer" Value="502379" />
+</PresetGroup>

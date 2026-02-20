@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Simple Want Sets EP19">
+  <Preset Label="whimset_HasTraitRogue" Value="433538" />
+  <Preset Label="whimset_HasTraitMystical" Value="433590" />
+  <Preset Label="whimSet_NLS_Energy" Value="445161" />
+  <Preset Label="whimset_FairyHome_HasTraitFairy" Value="445575" />
+  <Preset Label="objectivelessWhimSet_FairyJourney_Fairy" Value="445617" />
+  <Preset Label="whimSet_NLS_Hunger" Value="448968" />
+  <Preset Label="whimSet_NLS_Hygiene" Value="448969" />
+  <Preset Label="whimSet_NLS_Bladder" Value="448970" />
+  <Preset Label="whimset_HasTraitPlantLover" Value="453583" />
+  <Preset Label="Whimset_Asp_BohemianStyle" Value="459010" />
+</PresetGroup>

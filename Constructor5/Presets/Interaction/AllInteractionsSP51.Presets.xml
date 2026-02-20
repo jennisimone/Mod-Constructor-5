@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interactions SP51">
+  <Preset Label="Turn On Fog (immediate_ToggleDanceFloorVFX)" Value="371463" />
+</PresetGroup>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Simple Want Sets EP21">
+  <Preset Label="whimSet_NobleFavor_FavorLvl_3" Value="472990" />
+  <Preset Label="whimSet_NobleFavor_FavorLvl_2" Value="472992" />
+  <Preset Label="whimSet_NobleFavor_FavorLvl_1" Value="472997" />
+  <Preset Label="objectivelessWhimSet_Career_Noble" Value="477242" />
+  <Preset Label="whimset_Trait_LikedMusic_Ballroom" Value="479920" />
+  <Preset Label="whimset_Trait_LikedMusic_AfroBeats" Value="480279" />
+  <Preset Label="objectivelessWhimSet_SecretPassageway_Unlocked" Value="483131" />
+  <Preset Label="whimSet_Dynasty_General" Value="485451" />
+  <Preset Label="whimSet_Dynasty_BlackSheep" Value="485452" />
+  <Preset Label="whimSet_Ballroom_MoodMatchWithPartner" Value="500077" />
+  <Preset Label="whimSet_Dynasty_Values_Ideal_Mysterious" Value="500110" />
+  <Preset Label="whimSet_Dynasty_Values_Ideal_Vicious" Value="500111" />
+  <Preset Label="whimSet_Dynasty_Values_Ideal_Passionate" Value="500112" />
+  <Preset Label="whimSet_Dynasty_Values_Ideal_Bold" Value="500113" />
+  <Preset Label="whimSet_Dynasty_Values_Ideal_Caring" Value="500114" />
+  <Preset Label="whimSet_Dynasty_Values_Ideal_Diplomatic" Value="500115" />
+  <Preset Label="whimSet_Dynasty_Values_Ideal_Hardworking" Value="500116" />
+  <Preset Label="whimSet_Dynasty_Values_Ideal_Scholarly" Value="500117" />
+  <Preset Label="whimSet_Dynasty_Values_Ideal_Artistic" Value="500118" />
+  <Preset Label="whimSet_Dynasty_Values_Ideal_Nature" Value="500119" />
+  <Preset Label="whimSet_Dynasty_Values_Ideal_Jolly" Value="500120" />
+  <Preset Label="whimSet_Dynasty_Values_Ideal_Devious" Value="500121" />
+  <Preset Label="whimSet_Dynasty_Values_Ideal_Connoisseur" Value="500122" />
+  <Preset Label="whimSet_Dynasty_Values_Skill_HomestyleCooking" Value="500124" />
+  <Preset Label="whimSet_Dynasty_Values_Skill_GourmetCooking" Value="500125" />
+  <Preset Label="whimSet_Dynasty_Values_Skill_Dance" Value="500148" />
+  <Preset Label="whimSet_Dynasty_Values_Skill_Gemology" Value="500149" />
+  <Preset Label="whimSet_Dynasty_Values_Skill_Archery" Value="500150" />
+  <Preset Label="whimSet_Dynasty_Values_Skill_Swordsmanship" Value="500154" />
+</PresetGroup>

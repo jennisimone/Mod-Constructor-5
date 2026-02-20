@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Commodities SP22">
+  <Preset Label="commodity_Dust" Value="254463" />
+  <Preset Label="commodity_DustPile" Value="254694" />
+  <Preset Label="commodity_DustFriends_Bunny_Happiness" Value="254717" />
+  <Preset Label="commodity_DustFriends_Fiend_Mischief" Value="254720" />
+  <Preset Label="commodity_VacuumCleaner_BagFill" Value="254910" />
+  <Preset Label="commodity_Dust_ObjectSpawner" Value="258476" />
+  <Preset Label="commodity_Dust_ObjectSpawner_NoDustPiles_Debug" Value="259898" />
+</PresetGroup>

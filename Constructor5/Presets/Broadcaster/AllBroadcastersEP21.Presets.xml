@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Broadcasters EP21">
+  <Preset Label="broadcaster_ScandalSecret_Catch" Value="467450" />
+  <Preset Label="broadcaster_PowerShifts_Sword_SwordbearersAura" Value="468612" />
+  <Preset Label="broadcaster_NobleCareer_AskRoyalHelp" Value="477930" />
+  <Preset Label="broadcaster_Ballroom_GrandWaltz_AudienceWatch" Value="478829" />
+  <Preset Label="broadcaster_EP21World_Lighthouse_BeautifulCoastline" Value="480735" />
+  <Preset Label="broadcaster_EP21World_ScaredOfSpiders" Value="480890" />
+  <Preset Label="broadcaster_NobleCareer_ListenToSpeech" Value="482113" />
+  <Preset Label="broadcaster_EP21World_DefaceReaction" Value="483129" />
+  <Preset Label="broadcaster_EP21World_DefacedStateReaction" Value="483143" />
+  <Preset Label="broadcaster_SecretPassageway_Upgrade_Cuckoo" Value="483476" />
+  <Preset Label="broadcaster_Swordsmanship_WatchDuel" Value="484281" />
+  <Preset Label="broadcaster_NobleFavor_FavorReaction" Value="487466" />
+  <Preset Label="broadcaster_NobleCareer_Throne" Value="488577" />
+  <Preset Label="broadcaster_ScandalSecret_InScandal" Value="493434" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_BladderFail" Value="497126" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_SecretLover" Value="497127" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_SwordDuelLoss" Value="497128" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_VoodooDoll" Value="497129" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_WooHooWithStaff" Value="497130" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_BadDogNoBiscuit" Value="497131" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_Bloodsucker" Value="497132" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_LeftTheAltar" Value="497133" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_KissedFrog" Value="497134" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_UnfairFairy" Value="497136" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_VandalizedMonument" Value="497137" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_WooHooPublic" Value="497138" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_Stealing" Value="497297" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_Ballroom" Value="497657" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_Dynasty_ForbiddenRomance" Value="497667" />
+  <Preset Label="broadcaster_ScandalSecret_Witness_Cheating" Value="497821" />
+  <Preset Label="broadcaster_Ballroom_GrandWaltz_ForceChannelChange" Value="498369" />
+  <Preset Label="broadcaster_ScandalSecret_Exposed" Value="499410" />
+  <Preset Label="broadcaster_NobleCareer_ListenToSpeech_PreWatch" Value="502837" />
+</PresetGroup>

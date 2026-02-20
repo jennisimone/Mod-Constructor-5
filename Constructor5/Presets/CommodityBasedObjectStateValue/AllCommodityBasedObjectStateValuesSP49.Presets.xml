@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Commodity Based Object State Values SP49">
+  <Preset Label="crystalCharge_Status_Neutral" Value="351244" />
+  <Preset Label="crystalCharge_Status_Drained" Value="351245" />
+  <Preset Label="crystalCharge_Status_Charged" Value="352000" />
+  <Preset Label="gemology_BadEnergy_CommodityStateValues_On" Value="361609" />
+  <Preset Label="gemology_BadEnergy_CommodityStateValues_Off" Value="361610" />
+</PresetGroup>

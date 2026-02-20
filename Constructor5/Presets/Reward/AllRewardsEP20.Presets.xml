@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Rewards EP20">
+  <Preset Label="Coolest Kid (Reward_Child_Social_EP20_Asp_CoolKid)" Value="452432" />
+  <Preset Label="Critter Enthusiast (Reward_Nature_EP20_Asp_CritterHunter)" Value="452450" />
+  <Preset Label=" (careerRewards_Career_ParkWorker_Level2)" Value="453061" />
+  <Preset Label=" (careerRewards_Career_ParkWorker_Level3)" Value="453062" />
+  <Preset Label=" (careerRewards_Career_ParkWorker_Level4)" Value="453063" />
+  <Preset Label=" (careerRewards_Career_ParkWorker_Level5)" Value="453064" />
+  <Preset Label=" (careerRewards_Career_ParkWorker_Level6)" Value="453065" />
+  <Preset Label=" (careerRewards_Career_ParkWorker_Level7)" Value="453066" />
+  <Preset Label=" (careerRewards_Career_ParkWorker_ParkRanger_Level1)" Value="453067" />
+  <Preset Label=" (careerRewards_Career_ParkWorker_ParkRanger_Level2)" Value="453068" />
+  <Preset Label=" (careerRewards_Career_ParkWorker_ParkRanger_Level3)" Value="453069" />
+  <Preset Label=" (careerRewards_Career_ParkWorker_ParkCounselor_Level1)" Value="453070" />
+  <Preset Label=" (careerRewards_Career_ParkWorker_ParkCounselor_Level2)" Value="453071" />
+  <Preset Label=" (careerRewards_Career_ParkWorker_ParkCounselor_Level3)" Value="453072" />
+  <Preset Label="Careers (simReward_ButterflyCollection_BrandedKingShoemaker)" Value="454487" />
+  <Preset Label="Careers (simReward_ButterflyCollection_Cordelian)" Value="454488" />
+  <Preset Label="Careers (simReward_ButterflyCollection_CryptidMoth)" Value="454489" />
+  <Preset Label="Careers (simReward_ButterflyCollection_DeathsHeadHawkMoth)" Value="454490" />
+  <Preset Label="Careers (simReward_ButterflyCollection_DineYellow)" Value="454491" />
+  <Preset Label="Careers (simReward_ButterflyCollection_Glasswing)" Value="454492" />
+  <Preset Label="Careers (simReward_ButterflyCollection_GoliathSilkMoth)" Value="454533" />
+  <Preset Label="Careers (simReward_ButterflyCollection_JellyButterfly)" Value="454534" />
+  <Preset Label="Careers (simReward_ButterflyCollection_JorjanBirdwing)" Value="454535" />
+  <Preset Label="Careers (simReward_ButterflyCollection_Owl)" Value="454536" />
+  <Preset Label="Careers (simReward_ButterflyCollection_RedAdmiral)" Value="454537" />
+  <Preset Label="Careers (simReward_ButterflyCollection_RichmondBirdwing)" Value="454538" />
+  <Preset Label="Careers (simReward_ButterflyCollection_SphinxMoth)" Value="454539" />
+  <Preset Label="Careers (simReward_ButterflyCollection_UltimateOrigami)" Value="454540" />
+  <Preset Label="Child Scientist (reward_Trait_ChildhoodInspiration_AboutScience)" Value="455878" />
+  <Preset Label="Honorary Childhood Swim Team Member (reward_Trait_ChildhoodInspiration_FollowInFootsteps_SwimTeam)" Value="455879" />
+  <Preset Label="Inspired Childhood Artist (reward_Trait_ChildhoodInspiration_FollowInFootsteps_Sketches)" Value="455880" />
+  <Preset Label="Little Enthusiast (reward_Trait_ChildhoodInspiration_BeTheGeek)" Value="455881" />
+  <Preset Label="Miniature Photographer (reward_Trait_ChildhoodInspiration_AmateurPhotographer)" Value="455882" />
+  <Preset Label="Learned from the Past (reward_Trait_ChildhoodInspiration_LearnFromThePast)" Value="455883" />
+  <Preset Label="Expanded Taste Buds (reward_Trait_ChildhoodInspiration_AboutCuisine)" Value="455884" />
+  <Preset Label="Danger Kid (reward_Trait_ChildhoodInspiration_LiveDangerously)" Value="455885" />
+  <Preset Label="Into Archery as a Kid (reward_Trait_ChildhoodInspiration_MasterArchery)" Value="455886" />
+  <Preset Label="Childhood Naturalist (reward_Trait_ChildhoodInspiration_ExploreNature)" Value="455887" />
+  <Preset Label="Childhood Collector (reward_Trait_ChildhoodInspiration_BeACompletionist)" Value="455888" />
+  <Preset Label="Had a Green Thumb as a Kid (reward_Trait_ChildhoodInspiration_NurturePlants)" Value="455889" />
+  <Preset Label="Fisher-kid (reward_Trait_ChildhoodInspiration_MasterFishing)" Value="455890" />
+  <Preset Label="Childhood Ocean Explorer (reward_Trait_ChildhoodInspiration_ExploreOcean)" Value="455891" />
+  <Preset Label="Action-Packed Childhood (reward_Trait_ChildhoodInspiration_BeActive)" Value="455892" />
+  <Preset Label="Rough'n Tumble Childhood (reward_Trait_ChildhoodInspiration_BeAnOutdoorEnthusiast)" Value="455893" />
+  <Preset Label="Center of Attention (reward_Trait_ChildhoodInspiration_BeAnEntertainer)" Value="455894" />
+  <Preset Label="Annoyed Everyone and Everything (reward_Trait_ChildhoodInspiration_BeAnnoying)" Value="455895" />
+  <Preset Label="Good Student (reward_Trait_ChildhoodInspiration_BeAGoodStudent)" Value="455896" />
+  <Preset Label="Child Caregiver (reward_Trait_ChildhoodInspiration_BeACaregiver)" Value="455897" />
+  <Preset Label="Formed Bonds Away from Home (reward_Trait_ChildhoodInspiration_FormBondsAwayFromHome)" Value="455898" />
+  <Preset Label="Had a Goofball Best Imaginary Friend (reward_Trait_ChildhoodInspiration_HaveBestImaginaryFriend_Monster)" Value="455899" />
+  <Preset Label="Had an Evil Best Imaginary Friend (reward_Trait_ChildhoodInspiration_HaveBestImaginaryFriend_Pegacorn)" Value="455900" />
+  <Preset Label="Had a Competitive Best Imaginary Friend (reward_Trait_ChildhoodInspiration_HaveBestImaginaryFriend_WildChild)" Value="455901" />
+  <Preset Label="Had a Creative Best Imaginary Friend (reward_Trait_ChildhoodInspiration_HaveBestImaginaryFriend_SpookyKid)" Value="455902" />
+  <Preset Label="Practically a Fish (reward_Trait_ChildhoodInspiration_LearnToDive)" Value="455903" />
+  <Preset Label="Explorer Extraordinaire (reward_Trait_ChildhoodInspiration_BeATraveler)" Value="455904" />
+  <Preset Label="Fed Myself as a Kid (reward_Trait_ChildhoodInspiration_FeedYourself)" Value="455905" />
+  <Preset Label="Business-kid (reward_Trait_ChildhoodInspiration_BeEntrepreneurial)" Value="455906" />
+  <Preset Label="Everyone's Little Helper (reward_Trait_ChildhoodInspiration_BeUseful)" Value="455907" />
+  <Preset Label="Childhood of Crime (reward_Trait_ChildhoodInspiration_BeARogue)" Value="455908" />
+  <Preset Label="Getaway Champion (reward_Trait_ChildhoodInspiration_BeAwayFromHome)" Value="455909" />
+  <Preset Label="Honorary Childhood Touring Musician (reward_Trait_ChildhoodInspiration_FollowInFootsteps_OnTour)" Value="455910" />
+  <Preset Label="Archery (reward_Archery_CASPart_Gloves)" Value="458897" />
+  <Preset Label="Archery (reward_Archery_Deco)" Value="458898" />
+  <Preset Label="Archery (reward_Archery_CASPart_ArmGuard)" Value="458909" />
+  <Preset Label="Established Image as a Child (reward_Trait_ChildhoodInspiration_EstablishAnImage)" Value="472307" />
+  <Preset Label="Aspiring Author (reward_Trait_ChildhoodInspiration_AspiringAuthor)" Value="472617" />
+  <Preset Label="Crafty Kid (reward_Trait_ChildhoodInspiration_BeCrafty)" Value="472618" />
+  <Preset Label="Super Sibling (reward_Trait_ChildhoodInspiration_ShareSiblingAdventures)" Value="472619" />
+  <Preset Label="Natural Survivalist (reward_Trait_ChildhoodInspiration_BeASurvivalist)" Value="472620" />
+  <Preset Label="Imaginary Friend (simReward_EP20_IF_WildChild)" Value="477467" />
+  <Preset Label="Imaginary Friend (simReward_EP20_IF_SpookyKid)" Value="477468" />
+  <Preset Label="Imaginary Friend (simReward_EP20_IF_Pegacorn)" Value="477469" />
+  <Preset Label="Imaginary Friend (simReward_EP20_IF_LilMonster)" Value="477470" />
+  <Preset Label="Satisfaction Points! (simReward_Getaway_SatisfactionPoints)" Value="486138" />
+</PresetGroup>

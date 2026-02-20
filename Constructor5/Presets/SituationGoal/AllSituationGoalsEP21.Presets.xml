@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Situation Goals EP21">
+  <Preset Label="Start the Grand Waltz (Goal_BallroomParty_StartGrandWaltz)" Value="461961" />
+  <Preset Label="Ask to Be Dance Partner (goal_BallroomParty_FindPartner_AskToDance)" Value="461979" />
+  <Preset Label="lifeMilestoneGoal_Actor_PowerShifts_Sword" Value="465001" />
+  <Preset Label="Criticize Favor Alignment (whim_NobleFavor_CriticizeRoyals)" Value="472721" />
+  <Preset Label="Criticize Favor Alignment (whim_NobleFavor_CriticizeCommoners)" Value="472722" />
+  <Preset Label="Ask about Favor Alignment (whim_NobleFavor_AskAboutFavor)" Value="472993" />
+  <Preset Label="Mock a Sim with the opposite Favor Alignment (whim_NobleFavor_MockCommoners)" Value="472996" />
+  <Preset Label="Appreciate another Noble Sim's Favor (whim_NobleFavor_AppreciateFavor)" Value="473051" />
+  <Preset Label="Mock a Sim with the opposite Favor Alignment (whim_NobleFavor_MockRoyal)" Value="473315" />
+  <Preset Label="lifeMilestoneGoal_Actor_PowerShifts_Frog" Value="474013" />
+  <Preset Label="Organize and Attend a Grand Ball (whim_BallroomEvent_OrganizeGrandBall)" Value="474653" />
+  <Preset Label="Perform Coronation Duties (situationGoalRanInteractionOnTargetedSim_NobleCareer_CoronateNoble)" Value="476391" />
+  <Preset Label="Be Friendly with Guests (situationGoalRanInteractionOnTargetedSim_NobleCareer_GreetVisitors)" Value="479428" />
+  <Preset Label="Ask Noble Advisor for Advice (situationGoalRanInteractionOnTargetedSim_NobleCareer_AskNobleAdvisor)" Value="479430" />
+  <Preset Label="Chat with Guests (situationGoalRanInteractionOnTargetedSim_NobleCareer_ChatWithGuests)" Value="479431" />
+  <Preset Label="Learn another Noble's Favor Alignment (situationGoalRanInteractionOnTargetedSim_NobleCareer_LearnFavor)" Value="479433" />
+  <Preset Label="Discuss Noble Life (situationGoalRanInteractionOnTargetedSim_NobleCareer_DiscussNobleLife)" Value="479435" />
+  <Preset Label="Listen to Visitor Concerns (eventGoal_IntObject_NobleCareer_ListenToVisitor)" Value="479476" />
+  <Preset Label="eventGoal_IntObject_NobleCareer_PlanCoronation" Value="479477" />
+  <Preset Label="Perform Coronation Duties (situationGoalCompound_NobleCareer_CoronationDuties)" Value="479478" />
+  <Preset Label="Listen to Alternative Music (whim_LikedMusic_ListenTo_Ballroom)" Value="479929" />
+  <Preset Label="WooHoo in Secret Passageway (whim_SecretPassageway_Woohoo)" Value="480146" />
+  <Preset Label="Listen to Alternative Music (whim_LikedMusic_ListenTo_AfroBeats)" Value="480288" />
+  <Preset Label="Give Noble Speech (eventGoal_IntObject_NobleCareer_GiveNobleSpeech)" Value="481212" />
+  <Preset Label="Explore Secret Passageway (whim_SecretPassageway_Explore)" Value="482581" />
+  <Preset Label="Play in Secret Passageway (whim_SecretPassageway_Explore_Children)" Value="482582" />
+  <Preset Label="Present New Kingdom Strategies (eventGoal_IntObject_NobleCareer_PresentNewKingdomStrategies)" Value="482601" />
+  <Preset Label="Promise to Always Serve the Kingdom (eventGoal_IntObject_NobleCareer_PromiseToAlwaysServeKingdom)" Value="482602" />
+  <Preset Label="Help your Dance Partner get in the Right Mood (Goal_Ballroom_MoodMatch)" Value="482617" />
+  <Preset Label="Publicly Address Scandals (eventGoal_IntObject_NobleCareer_PubliclyAddressScandals)" Value="482653" />
+  <Preset Label="Duel {2.SimName} (goal_IntOnTargetSim_Competition_SwordsmanshipTournament_Duel)" Value="482674" />
+  <Preset Label="Win Duels (goal_IntOnTargetSim_Competition_SwordsmanshipTournament_MainGoal)" Value="482912" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_Joined" Value="483571" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_Founded" Value="483572" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_Left" Value="483573" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_KickedOut" Value="483574" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_BlackSheepStart" Value="483575" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_BlackSheepEnd" Value="483576" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_HeadStart_Default" Value="483577" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_HeadLost" Value="483578" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_HeadSteppedDown" Value="483579" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_HeirStart" Value="483580" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_HeirEnd" Value="483581" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_HeadStart_Chess" Value="483600" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_HeadStart_Sword" Value="483611" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_HeadStart_Fight" Value="483612" />
+  <Preset Label="lifeMilestoneGoal_Dynasty_HeadStart_Demand" Value="483613" />
+  <Preset Label="Practice Swordsmanship on the Practice Dummy (situationGoalObjectInteraction_SwordsmanshipTournament_TrainDummy)" Value="484839" />
+  <Preset Label="Stretch Before Duelling (situationGoalObjectInteraction_SwordsmanshipTournament_Stretch)" Value="484840" />
+  <Preset Label="Have a Snack (situationGoalObjectInteraction_SwordsmanshipTournament_EatSnack)" Value="484841" />
+  <Preset Label="Offer a Rose to a Spectator (goal_IntOnTargetSim_Competition_SwordsmanshipTournament_OfferRose)" Value="484843" />
+  <Preset Label="Insult an Opponent (goal_IntOnTargetSim_Competition_SwordsmanshipTournament_BeMeanOpponent)" Value="484844" />
+  <Preset Label="Be Nice to an Opponent (goal_IntOnTargetSim_Competition_SwordsmanshipTournament_BeNiceOpponent)" Value="484845" />
+  <Preset Label="Leave Dynasty (whimGoal_Dynasty_Leave)" Value="485438" />
+  <Preset Label="Found a Dynasty (whimGoal_Dynasty_Start)" Value="485439" />
+  <Preset Label="Become Dynasty Heir (whimGoal_Dynasty_BecomeHeir)" Value="485440" />
+  <Preset Label="Become Dynasty Head (whimGoal_Dynasty_BecomeHead)" Value="485441" />
+  <Preset Label="Select Dynasty Heir (whim_Dynasty_SelectHeir)" Value="485442" />
+  <Preset Label="Found a Dynasty (pivotalMomentGoal_Onboarding_EP21_Dynasty_CreateADynasty)" Value="488709" />
+  <Preset Label="Declare an Heir (pivotalMomentGoal_Onboarding_EP21_Dynasty_SetAnHeir)" Value="488801" />
+  <Preset Label="Perform Encouraged Activities (pivotalMomentGoal_Onboarding_EP21_Dynasty_IncreasePrestige)" Value="488804" />
+  <Preset Label="Purchase a Dynasty Perk (pivotalMomentGoal_Onboarding_EP21_Dynasty_PurchasePerk)" Value="489053" />
+  <Preset Label="Promise to Keep a Secret (pivotalMomentsGoal_Onboarding_EP21_ScandalSecrets_PromiseToKeepSecret)" Value="489770" />
+  <Preset Label="Expose a Scandal (pivotalMomentsGoal_Onboarding_EP21_ScandalSecrets_RevealSecret)" Value="489771" />
+  <Preset Label="Extort a Sim (pivotalMomentsGoal_Onboarding_EP21_ScandalSecrets_BlackmailSim)" Value="489772" />
+  <Preset Label="Increase Dynasty Unity (pivotalMomentsGoal_Onboarding_EP21_Dynasty_FriendlyInteractions)" Value="489800" />
+  <Preset Label="Promote in Noble Career (whim_NobleCareer_EarlyPromote)" Value="491237" />
+  <Preset Label="Promote in Noble Career (whim_NobleCareer_LaterPromote)" Value="491239" />
+  <Preset Label="pivotalMomentGoal_Onboarding_EP21_Dynasty_CreateADynasty_Hidden" Value="491386" />
+  <Preset Label="pivotalMomentGoal_Onboarding_EP21_Dynasty_CreateADynasty_Hidden_2" Value="491390" />
+  <Preset Label="Buy a Secret from the Information Broker (pivotalMomentGoal_EP21_Onboarding_ScandalSecrets_PurchaseSecretFromBroker)" Value="491888" />
+  <Preset Label="Ask a Sim for a secret (pivotalMomentGoal_EP21_Onboarding_ScandalSecrets_AskSimForSecret)" Value="491889" />
+  <Preset Label="Hack for Secrets (pivotalMomentGoal_EP21_Onboarding_ScandalSecrets_HackComputerForSecret)" Value="491890" />
+  <Preset Label="Search for Scandals in a Trash Can (pivotalMomentGoal_EP21_Onboarding_ScandalSecrets_RummageTrashForSecret)" Value="491891" />
+  <Preset Label="Practice Swordsmanship (situationGoalActor_HobbyClass_PracticeSwordsmanship)" Value="497757" />
+  <Preset Label="Duel Someone (eventGoal_IntObject_HobbyClass_SwordsmanshipDuel)" Value="497758" />
+  <Preset Label="Become Confident (situationGoal_Actor_SwordsmanshipTournament_BecomeConfident)" Value="499491" />
+  <Preset Label="Become Focused (situationGoal_Actor_SwordsmanshipTournament_BecomeFocused)" Value="499492" />
+  <Preset Label="Become Energized (situationGoal_Actor_SwordsmanshipTournament_BecomeEnergized)" Value="499493" />
+  <Preset Label="lifeMilestoneGoal_Actor_FirstScandal" Value="499713" />
+  <Preset Label="lifeMilestoneGoal_Actor_FirstSwordTournamentWin" Value="499714" />
+  <Preset Label="lifeMilestoneGoal_Actor_FirstSwordDuelWin" Value="499717" />
+  <Preset Label="Ask to Dance for Romance or Social Status (Goal_Ballroom_DanceIntentUpdate)" Value="500048" />
+  <Preset Label="Get your Dance Partner in the perfect mood at a Grand Ball. (whim_BallroomEvent_MoodMatchWithPartner)" Value="500049" />
+  <Preset Label="Level Up in Swordsmanship Skill (whim_SkillUpSwordsmanship)" Value="500167" />
+  <Preset Label="Win a Duel (whim_Swordsmanship_WinDuel)" Value="500177" />
+  <Preset Label="Buy Swordsmanship Practice Dummy (whim_Swordsmanship_BuyTrainingDummy)" Value="500178" />
+  <Preset Label="Hire Upgrade Technician (whim_HireUpgradeService)" Value="500296" />
+  <Preset Label="Answer Work Email (whim_AnswerWorkEmails)" Value="500314" />
+  <Preset Label="Hold Welcome Speech (situationGoalActor_NobleCareer_WelcomeSpeech)" Value="502232" />
+  <Preset Label="Take a Vacation Day (whim_Careers_TakePTO_NobleCareer)" Value="502378" />
+  <Preset Label="Congratulate Noble on New Title (situationGoalActor_NobleCareer_CongratulateNoble)" Value="502807" />
+</PresetGroup>

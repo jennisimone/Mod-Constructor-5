@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Sim Filters EP19">
+  <Preset Label="filter_GnomeFunc_Enemies" Value="434078" />
+  <Preset Label="filter_GnomeFunc_GrimReaper" Value="434079" />
+  <Preset Label="filter_MotherNature" Value="435626" />
+  <Preset Label="situationFilters_EP19World_NPC_GreenMan" Value="436883" />
+  <Preset Label="filter_Naturopath_NPC" Value="440247" />
+  <Preset Label="situationFilters_EP19World_NPC_EP19QuestGnome" Value="440786" />
+  <Preset Label="situationFilters_EP19World_NPC_Zhaleh" Value="441034" />
+  <Preset Label="filter_Walker_FairyPassage" Value="441147" />
+  <Preset Label="situationFilters_EP19World_NPC_EP19QuestApoth" Value="441268" />
+  <Preset Label="situationFilters_EP19World_NPC_EP19QuestTrade" Value="441734" />
+  <Preset Label="situationFilters_EP19World_NPC_EP19QuestsLiaison" Value="441776" />
+  <Preset Label="filter_Situation_Background_Walkbys_EP19World_Fairy" Value="442785" />
+  <Preset Label="filter_Situation_Background_Walkbys_EP19World_PlantSim" Value="442786" />
+  <Preset Label="filter_WelcomeWagon_EP19World_NPCLiaison" Value="443764" />
+  <Preset Label="filter_SimPicker_HasMet_TYAE_Fairy" Value="445156" />
+  <Preset Label="DramaNodeFilters_FairyOccult_Crosspack_HealingHelp" Value="448142" />
+  <Preset Label="dramaNodeFilters_FairyOccult_Crosspack_SootheMe" Value="448143" />
+  <Preset Label="barfly_Filters_FairyPassage" Value="466351" />
+  <Preset Label="filter_Venue_Lounge_Sims_FairyPassage" Value="466352" />
+</PresetGroup>

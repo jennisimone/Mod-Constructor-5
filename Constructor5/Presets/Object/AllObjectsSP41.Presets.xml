@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP41">
+  <Preset Label="object_light_floorobject_light_floor_SP41GEN" Value="334096" />
+  <Preset Label="object_light_table_SP41GEN" Value="334098" />
+  <Preset Label="object_tvSurface1x1_SP41GEN" Value="334138" />
+  <Preset Label="object_sculpture_SP41GENtrophy" Value="334338" />
+  <Preset Label="prototype_RetailCompatible_SP41GENmattress" Value="334339" />
+  <Preset Label="object_sitSofa3x1_SP41GENworn" Value="334780" />
+  <Preset Label="object_sitLiving_SP41GENworn" Value="334781" />
+</PresetGroup>

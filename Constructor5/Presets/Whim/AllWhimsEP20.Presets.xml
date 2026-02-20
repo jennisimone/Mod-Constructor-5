@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Whims EP20">
+  <Preset Label="want_TakePTO_ParkWorker" Value="453021" />
+  <Preset Label="want_ParkWorker_OutdoorActivities" Value="453216" />
+  <Preset Label="want_ParkWorker_StudyParkLore" Value="453217" />
+  <Preset Label="want_ParkWorker_AllParkLore" Value="453218" />
+  <Preset Label="want_ChildhoodInspiration_LookForInspiration" Value="455778" />
+  <Preset Label="want_ChildhoodInspiration_FulfilMissedOpportunity" Value="455783" />
+  <Preset Label="want_ButterflyCollection_CraftUltimateButterfly" Value="457410" />
+  <Preset Label="want_ButterflyCollection_PlaceInAtrium" Value="457910" />
+  <Preset Label="want_ButterflyCollection_CatchCryptidMoth" Value="457914" />
+  <Preset Label="want_ButterflyCollection_CatchJellyButterfly" Value="457985" />
+  <Preset Label="want_ButterflyCollection_CatchRedAdmiral" Value="457986" />
+  <Preset Label="want_PlayHideAndSeek" Value="458698" />
+  <Preset Label="want_Competitive_BefriendCompetitiveSims" Value="460896" />
+  <Preset Label="want_Competitive_WinAGame" Value="460898" />
+  <Preset Label="want_Competitive_LevelUpASkill" Value="460901" />
+  <Preset Label="want_Competitive_GameMetas" Value="460937" />
+  <Preset Label="want_Competitive_MaxOutSkill" Value="460939" />
+  <Preset Label="want_Competitive_Inspire" Value="460940" />
+  <Preset Label="want_Competitive_Rematch" Value="460943" />
+  <Preset Label="want_EP20Festival_Reactionary_Butterfly" Value="463885" />
+  <Preset Label="want_EP20Festival_Reactionary_Waters" Value="463886" />
+  <Preset Label="want_EP20Festival_Reactionary_Cryptid" Value="463887" />
+  <Preset Label="want_EP20Festival_Reactionary_Costume" Value="463888" />
+  <Preset Label="want_EP20Festival_Reactionary_SpinBike" Value="463889" />
+  <Preset Label="want_EP20Festival_Reactionary_HighFive" Value="463890" />
+  <Preset Label="want_EP20_IF_ImagineUpFriend" Value="464826" />
+</PresetGroup>

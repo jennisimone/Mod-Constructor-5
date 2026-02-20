@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Mixer Interactions EP19">
+  <Preset Label="mixer_Ailments_Idle_EmotionalVoid" Value="427747" />
+  <Preset Label="mixer_Ailments_Idle_LuckSuck" Value="432799" />
+  <Preset Label="mixer_Ailments_Idle_GnomeMagnet" Value="432800" />
+  <Preset Label="mixer_Ailments_Idle_GreenieMeanie" Value="432801" />
+  <Preset Label="Idle_Trait_Rogue" Value="433211" />
+  <Preset Label="idle_Buff_FairyOccult_EmotionalStability" Value="433513" />
+  <Preset Label="idle_Buff_FairyOccult_EmotionalStruggles" Value="433514" />
+  <Preset Label="Idle_Trait_Mystical" Value="433542" />
+  <Preset Label="idle_Buff_BalanceSys_ReturnToBalance" Value="435045" />
+  <Preset Label="idle_Buff_FairyJourney_MotherNature" Value="438429" />
+  <Preset Label="mixer_Ailments_Idle_GiveNausea" Value="439315" />
+  <Preset Label="mixer_Ailments_Idle_CreationImpulse_IncrementItchTimer" Value="439595" />
+  <Preset Label="Summoning a bush (mixer_NLS_SummonABush_Use)" Value="440043" />
+  <Preset Label="Sleep on the Ground (mixer_NLS_SleepOnGround_TossAndTurn)" Value="440044" />
+  <Preset Label="Sleep on the Ground (mixer_NLS_SleepOnGround_BodyTensing)" Value="440045" />
+  <Preset Label="Sleep on the Ground (mixer_NLS_SleepOnGround_Idle)" Value="440046" />
+  <Preset Label="Meditate in Nature (mixer_NLS_MeditateInNature_PeekAround_Distracted)" Value="440047" />
+  <Preset Label="Talking to Nature (mixer_NLS_TalkToNature_Comfortable)" Value="440050" />
+  <Preset Label="Talking to Nature (mixer_NLS_TalkToNature_UnComfortable)" Value="440081" />
+  <Preset Label="idle_Trait_FairyOccult_TYAE" Value="440795" />
+  <Preset Label="Stress Plant-Based Care (mixer_Naturopath_WFH_social_StressPlantBasedCare)" Value="444300" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_Apothecary" Value="444981" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_Apothecary" Value="444988" />
+  <Preset Label="apothecaryCraftTable_Action_NPC_Craft" Value="445826" />
+  <Preset Label="apothecaryCraftTable_Action_NPC_TestTube" Value="445827" />
+  <Preset Label="mixer_Ailments_Idle_SimoleonFever" Value="452135" />
+  <Preset Label="mixer_Ailments_Idle_BurningPassion" Value="452136" />
+  <Preset Label="mixer_Ailments_Idle_SonicSinuses" Value="452137" />
+  <Preset Label="Idle_Trait_PlantLover" Value="453556" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_NLS" Value="455110" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_NLS" Value="455111" />
+  <Preset Label="mixer_NLS_TalkToNature_Chat" Value="459109" />
+  <Preset Label="mixer_AtWork_FairyOccult_RegenerateEmotionalForce" Value="465190" />
+  <Preset Label="Meditate in Nature (mixer_NLS_MeditateInNature_Idle)" Value="466062" />
+  <Preset Label="Sleep on the Ground (mixer_NLS_SleepOnGround_Comfortable_StomachRolling)" Value="466225" />
+  <Preset Label="apothecary_CuresandElixirs_Cured_Reaction" Value="466468" />
+  <Preset Label="Regenerate Emotional Force (shellActions_SolveEmotionalForce_FairyOccult)" Value="471686" />
+  <Preset Label="Regenerate Emotional Force (shellActions_SolveEmotionalForce_FairyOccult_UserDirected)" Value="471687" />
+</PresetGroup>

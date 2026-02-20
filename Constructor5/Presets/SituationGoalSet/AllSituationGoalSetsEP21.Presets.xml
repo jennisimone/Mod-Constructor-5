@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Situation Goal Sets EP21">
+  <Preset Label="goalSet_SwordsmanshipTournament_Physical" Value="460503" />
+  <Preset Label="goalSet_SwordsmanshipTournament_Social" Value="460504" />
+  <Preset Label="goalSet_SwordsmanshipTournament_Mental" Value="460505" />
+  <Preset Label="goalSet_BallroomParty_Host2" Value="461963" />
+  <Preset Label="goalSet_BallroomParty_Host1" Value="461964" />
+  <Preset Label="goalSet_BallroomParty_Host1_2" Value="461966" />
+  <Preset Label="goalSet_BallroomParty_Host1_3" Value="461967" />
+  <Preset Label="goalSet_BallroomParty_Host2_2" Value="473347" />
+  <Preset Label="goalSet_BallroomParty_Host2_3" Value="473348" />
+  <Preset Label="goalSet_NobleCareer_HoldCourt_Intro" Value="479421" />
+  <Preset Label="goalSet_NobleCareer_HoldCourt_MainPersonal" Value="479423" />
+  <Preset Label="goalSet_NobleCareer_HoldCourt_MainSocial" Value="479424" />
+  <Preset Label="goalSet_NobleCareer_HoldCourt_Coronation" Value="479425" />
+  <Preset Label="goalSet_NobleCareer_HoldCourt_Congratulate" Value="479427" />
+  <Preset Label="goalSet_NobleCareer_HoldPressConference_PresentNewKingdomStrategies" Value="481215" />
+  <Preset Label="goalSet_NobleCareer_HoldPressConference_PromiseToAlwaysServeKingdom" Value="481216" />
+  <Preset Label="goalSet_NobleCareer_HoldPressConference_PubliclyAddressScandals" Value="481217" />
+  <Preset Label="goalSet_NobleCareer_HoldPressConference_MainSocial" Value="481218" />
+  <Preset Label="goalSet_NobleCareer_HoldPressConference_MainPersonal" Value="481219" />
+  <Preset Label="goalSet_NobleCareer_HoldPressConference_Intro" Value="481220" />
+  <Preset Label="situationGoalSet_Competition_SwordsmanshipTournament" Value="482914" />
+  <Preset Label="goalSet_PivotalMoment_EP21_Onboarding_Dynasty_CreateDynasty_1" Value="488715" />
+  <Preset Label="goalSet_PivotalMoment_EP21_Onboarding_Dynasty_IncreaseUnity_1" Value="489054" />
+  <Preset Label="goalSet_PivotalMoment_EP21_Onboarding_Dynasty_CreateDynasty_2" Value="489055" />
+  <Preset Label="goalSet_PivotalMoment_EP21_Onboarding_Dynasty_IncreasePrestige_1" Value="489056" />
+  <Preset Label="goalSet_PivotalMoment_EP21_Onboarding_Dynasty_IncreasePrestige_2" Value="489057" />
+  <Preset Label="goalSet_PivotalMoment_EP21_Onboarding_Dynasty_IncreaseUnity_2" Value="489058" />
+  <Preset Label="goalSet_PivotalMoment_EP21_Onboarding_Dynasty_PurchasePerk" Value="491387" />
+  <Preset Label="goalSet_PivotalMoment_EP21_Onboarding_ScandalSecrets_AskSimForSecret" Value="491728" />
+  <Preset Label="goalSet_PivotalMoment_EP21_Onboarding_ScandalSecrets_RummageORHackForSecret" Value="491730" />
+  <Preset Label="goalSet_PivotalMoment_EP21_Onboarding_ScandalSecrets_PurchaseSecretFromBroker" Value="491731" />
+  <Preset Label="goalSet_PivotalMoment_EP21_Onboarding_ScandalSecrets_BlackmailSim" Value="491734" />
+  <Preset Label="goalSet_PivotalMoment_EP21_Onboarding_ScandalSecrets_RevealSecret" Value="491735" />
+  <Preset Label="goalSet_PivotalMoment_EP21_Onboarding_ScandalSecrets_PromiseKeepSecret" Value="491857" />
+  <Preset Label="goalSet_HobbyClass_SkillActivitySwordsmanship_1" Value="497755" />
+  <Preset Label="goalSet_HobbyClass_SkillActivitySwordsmanship_2" Value="497756" />
+  <Preset Label="goalSet_BallroomParty_Host3" Value="498979" />
+  <Preset Label="goalSet_BallroomParty_Host3_2" Value="498980" />
+  <Preset Label="goalSet_BallroomParty_Host3_3" Value="498981" />
+  <Preset Label="goalSet_BallroomParty_Host2_4" Value="498982" />
+</PresetGroup>

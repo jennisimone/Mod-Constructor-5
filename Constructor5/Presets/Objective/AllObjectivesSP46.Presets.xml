@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objectives SP46">
+  <Preset Label="Run a Food Sale from a residential lot (objective_Asp_Fortune_C1_1)" Value="335220" />
+  <Preset Label="Sell {1.Number} excellent Pizzas or Waffles during a Food Sale (objective_Asp_Fortune_C1_2)" Value="335221" />
+  <Preset Label="Earn {1.Money} during a single Food Sale (objective_Asp_Fortune_C3_1)" Value="335222" />
+  <Preset Label="Tend a Food Stand for more than {1.Number} hours (objective_Asp_Fortune_C3_2)" Value="335223" />
+  <Preset Label="Run Food Sales from {1.Number} different lots (objective_Asp_Fortune_C2_1)" Value="335224" />
+  <Preset Label="Resurrect a Ghost by selling Ambrosia (objective_Asp_Fortune_C4_2)" Value="335225" />
+  <Preset Label="Earn {1.Money} by completing Food Sales (objective_Asp_Fortune_C4_3)" Value="335226" />
+  <Preset Label="Sell one meal for §300 (objective_Asp_Fortune_C3_3)" Value="335227" />
+  <Preset Label="Sell a poor quality item for §100 (objective_Asp_Fortune_C4_1)" Value="335228" />
+  <Preset Label="Convince customers to buy something {1.Number} times during a Food Sale (objective_Asp_Fortune_C2_2)" Value="335229" />
+  <Preset Label="objective_Asp_Fortune_MarketMagnate" Value="337263" />
+  <Preset Label="Collect Prepped Ingredients {1.Number} times while Inspired (objective_Asp_Food_C1_1)" Value="339003" />
+  <Preset Label="Collect {1.Number} Prepped Ingredients that were made using Fresh Ingredients (objective_Asp_Food_C1_2)" Value="339004" />
+  <Preset Label="Own {1.Number} small kitchen {S1.appliance}{P1.appliances} (objective_Asp_Food_C2_1)" Value="339005" />
+  <Preset Label="Experience Sped Up Cooking {1.Number} times (objective_Asp_Food_C2_2)" Value="339006" />
+  <Preset Label="Collect {1.Number} excellent quality Prepped Ingredient (objective_Asp_Food_C3_1)" Value="339007" />
+  <Preset Label="Cook {1.Number} times while listening to music (objective_Asp_Food_C3_2)" Value="339008" />
+  <Preset Label="Cook {1.Number} Pizzas or Waffles at a single Goaled Social Event after reaching Silver (objective_Asp_Food_C3_3)" Value="339009" />
+  <Preset Label="Make Pleasantly-Unpleasant Waffles (objective_Asp_Food_C4_1)" Value="339010" />
+  <Preset Label="Cook meals using 6 unique Prepped Ingredients (objective_Asp_Food_C4_2)" Value="339011" />
+  <Preset Label="Make a Prepped Ingredient using a Stand Mixer with at least one Upgrade (objective_Asp_Food_C4_3)" Value="339012" />
+  <Preset Label="objective_Asp_Food_ApplianceWiz" Value="340199" />
+  <Preset Label="Food_ApplianceWiz" Value="361217" />
+  <Preset Label="Fortune_MarketMagnate" Value="361218" />
+</PresetGroup>

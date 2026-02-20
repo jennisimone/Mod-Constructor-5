@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Aspiration Tracks EP19">
+  <Preset Label="Fairy Stories (Fairy_FairyStories_Initiation)" Value="443381" />
+  <Preset Label="Discordant Fairy (Fairy_FairyStories_DarkPath)" Value="443429" />
+  <Preset Label="Harmonious Fairy (Fairy_FairyStories_LightPath)" Value="443430" />
+  <Preset Label="Elixir Enthusiast (Track_Knowledge_NatureMeds)" Value="444082" />
+  <Preset Label="Nature Nomad (Track_Nature_BohemianStyle)" Value="444083" />
+</PresetGroup>

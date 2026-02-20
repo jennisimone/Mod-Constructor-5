@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Situation Goal Sets SP49">
+  <Preset Label="goalSet_HobbyClass_Social_1_Gemology" Value="396829" />
+  <Preset Label="goalSet_HobbyClass_SkillActivityGemology" Value="420393" />
+</PresetGroup>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Loot Actions SP49">
+  <Preset Label="loot_Buff_Gemology_Rainborz_Brave_Add" Value="351446" />
+  <Preset Label="loot_Buff_Gemology_Rainborz_Brave_Remove" Value="351447" />
+  <Preset Label="loot_Buff_Gemology_Amethyst_LucidDreams" Value="352113" />
+  <Preset Label="loot_SimPreference_Dislikes_Activities_GemologySkill" Value="352380" />
+  <Preset Label="loot_SimPreference_Likes_Activities_GemologySkill" Value="352381" />
+  <Preset Label="loot_SimPreference_Gain_Activities_GemologySkill_Like" Value="352389" />
+  <Preset Label="loot_SimPreference_Gain_Activities_GemologySkill_Dislike" Value="352390" />
+  <Preset Label="loot_SimPreference_NoOpinion_Activities_GemologySkill" Value="352391" />
+  <Preset Label="loot_ObjectReward_Gemology_Effects" Value="354192" />
+  <Preset Label="loot_Gemology_Amber_Success" Value="355936" />
+  <Preset Label="loot_Buff_Gemology_Alexandrite_RefreshWhims" Value="356798" />
+  <Preset Label="loot_Gemology_CraftFail" Value="356951" />
+  <Preset Label="loot_ObjectState_CrystalCharge_Depletion_Slow" Value="356969" />
+  <Preset Label="loot_Trait_Attuned_AbsorbEnergy" Value="356973" />
+  <Preset Label="loot_Gemology_Notification_Masterpiece" Value="358432" />
+  <Preset Label="loot_Aspiration_CrystalCrafter_WearChargedJewelry" Value="360973" />
+  <Preset Label="loot_Gemology_CrystalCrafter_GemCutValueBuff" Value="361033" />
+  <Preset Label="loot_Lightning_CrystalGrid" Value="361837" />
+  <Preset Label="lootActions_EP16World_flowerShop_purchaseFixup" Value="372938" />
+  <Preset Label="Loot_LearnSkill_LearnAboutTarget_Gemology" Value="377667" />
+  <Preset Label="Loot_LearnSkill_LearnAboutActor_Gemology" Value="377681" />
+  <Preset Label="loot_State_Jewlery_SetMetalCrystal" Value="500710" />
+  <Preset Label="loot_Jewlery_SetInitialState_Metal" Value="500711" />
+  <Preset Label="loot_Jewlery_SetInitialState_Crystal" Value="500712" />
+</PresetGroup>

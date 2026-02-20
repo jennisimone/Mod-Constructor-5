@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interaction Lists EP18">
+  <Preset Label="affordanceList_TattooingTable_PerformingServicesIncludingOffer" Value="383868" />
+  <Preset Label="affordanceList_Tattooing_SkillBuildingInteractions" Value="395078" />
+  <Preset Label="affordanceList_TattooingTable_ReceivingServicesIncludingRequest" Value="442107" />
+  <Preset Label="affordanceList_HobbyClass_Lecture" Value="465602" />
+</PresetGroup>

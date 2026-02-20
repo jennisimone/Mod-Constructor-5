@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP23">
+  <Preset Label="object_Fountain_SP23" Value="268920" />
+  <Preset Label="object_sitSofa3x1_SP23ISLwood" Value="268929" />
+  <Preset Label="object_sitLiving_SP23ISLwood" Value="268930" />
+  <Preset Label="object_lightFloor_SP23ISLlantern" Value="268934" />
+</PresetGroup>

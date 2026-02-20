@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objectives SP49">
+  <Preset Label="Nature_CrystalCrafter" Value="356977" />
+  <Preset Label="Cut a Gemstone Valued at §2,500 (objectives_Asp_Nature_CrystalCrafter_CutGemValue)" Value="360845" />
+  <Preset Label="Achieve Level 10 Gemology Skill (objectives_Asp_Nature_CrystalCrafter_GemologySkill)" Value="360846" />
+  <Preset Label="Summon the Grim Reaper with Jet Gemstone or Jewelry (objectives_Asp_Nature_CrystalCrafter_SummonGrimReaper)" Value="360847" />
+  <Preset Label="Buy a Crystal Grid (objectives_Asp_Nature_CrystalCrafter_ChargingGrid)" Value="360867" />
+  <Preset Label="Wear a Fully Charged Jewelry Piece (objectives_Asp_Nature_CrystalCrafter_WearChargedJewelry)" Value="360868" />
+  <Preset Label="Plant a Crystal Seed (objectives_Asp_Nature_CrystalCrafter_PlantCrystalTree)" Value="360869" />
+  <Preset Label="Buy a Gemology Table (objectives_Asp_Nature_CrystalCrafter_GemologyTable)" Value="360986" />
+  <Preset Label="Collect {1.Number} Crystals or Metals (objectives_Asp_Nature_CrystalCrafter_CollectGemsMetals)" Value="360987" />
+  <Preset Label="Complete Crafting Gemstones or Jewelry {1.Number} Times While Focused (objectives_Asp_Nature_CrystalCrafter_FocusedCrafting)" Value="360988" />
+  <Preset Label="Grow a Magnificent Crystal Tree (objectives_Asp_Nature_CrystalCrafter_GrowQualityCrystalTree)" Value="360989" />
+  <Preset Label="Make {1.Number} pieces of Excellent Jewelry (objectives_Asp_Nature_CrystalCrafter_CraftOutstandingJewelry)" Value="360990" />
+  <Preset Label="Gift Jewelry or Successfully Propose with Crafted Ring (objectives_Asp_Nature_CrystalCrafter_GiftJewelry)" Value="360991" />
+</PresetGroup>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objective Sets SP46">
+  <Preset Label="aspiration_Fortune_C1" Value="335215" />
+  <Preset Label="aspiration_Fortune_C2" Value="335216" />
+  <Preset Label="aspiration_Fortune_C3" Value="335217" />
+  <Preset Label="aspiration_Fortune_C4" Value="335218" />
+  <Preset Label="aspiration_Food_C1" Value="338995" />
+  <Preset Label="aspiration_Food_C2" Value="338996" />
+  <Preset Label="aspiration_Food_C3" Value="338997" />
+  <Preset Label="aspiration_Food_C4" Value="338998" />
+  <Preset Label="Whimset_Asp_Fortune_MarketMagnate" Value="338999" />
+  <Preset Label="Whimset_Asp_Food_ApplianceWiz" Value="339000" />
+</PresetGroup>

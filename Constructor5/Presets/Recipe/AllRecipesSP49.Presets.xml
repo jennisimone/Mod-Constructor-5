@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Recipes SP49">
+  <Preset Label="Brilliant-Cut Gemstone (recipe_Gemology_CutGemstone_Brilliant)" Value="352892" />
+  <Preset Label="Cabochon-Shaped Gemstone (recipe_Gemology_CutGemstone_Cabochon)" Value="352893" />
+  <Preset Label="Emerald-Cut Gemstone (recipe_Gemology_CutGemstone_Emerald)" Value="352894" />
+  <Preset Label="Heart-Shaped Gemstone (recipe_Gemology_CutGemstone_Heart)" Value="352895" />
+  <Preset Label="Pear-Shaped Gemstone (recipe_Gemology_CutGemstone_Pear)" Value="352896" />
+  <Preset Label="Plumbob-Shaped Gemstone (recipe_Gemology_CutGemstone_Plumbob)" Value="352897" />
+  <Preset Label="Seed-Shaped Gemstone (recipe_Gemology_CutGemstone_Seed)" Value="352898" />
+  <Preset Label="Skull-Shaped Gemstone (recipe_Gemology_CutGemstone_Skull)" Value="352899" />
+  <Preset Label="Spire-Shaped Gemstone (recipe_Gemology_CutGemstone_Spire)" Value="352900" />
+  <Preset Label="Star-Shaped Gemstone (recipe_Gemology_CutGemstone_Star)" Value="352901" />
+  <Preset Label="Crafty Chopping (sp49Placeholder_Recipe_Necklace)" Value="354306" />
+  <Preset Label="phaseSimple_GemologyTable_CutGemstone" Value="354864" />
+  <Preset Label="phaseMulti_GemologyTable_CutGemstone" Value="354872" />
+  <Preset Label="Plumbob Bracelet (recipe_Gemology_Jewelry_Bracelet_12)" Value="355261" />
+  <Preset Label="Basic Bracelet (recipe_Gemology_Jewelry_Bracelet_1)" Value="355262" />
+  <Preset Label="Chunky Bracelet (recipe_Gemology_Jewelry_Bracelet_2)" Value="355263" />
+  <Preset Label="Raw Bracelet (recipe_Gemology_Jewelry_Bracelet_3)" Value="355264" />
+  <Preset Label="Delicate Bracelet (recipe_Gemology_Jewelry_Bracelet_4)" Value="355265" />
+  <Preset Label="Lunar Goddess Bracelet (recipe_Gemology_Jewelry_Bracelet_5)" Value="355266" />
+  <Preset Label="Eye Bracelet (recipe_Gemology_Jewelry_Bracelet_6)" Value="355267" />
+  <Preset Label="Bling Bracelet (recipe_Gemology_Jewelry_Bracelet_7)" Value="355268" />
+  <Preset Label="Mystical Bracelet (recipe_Gemology_Jewelry_Bracelet_8)" Value="355269" />
+  <Preset Label="Botanical Bracelet (recipe_Gemology_Jewelry_Bracelet_9)" Value="355270" />
+  <Preset Label="Edwardian Gothic Bracelet (recipe_Gemology_Jewelry_Bracelet_10)" Value="355271" />
+  <Preset Label="Plumbob Earrings (recipe_Gemology_Jewelry_Earring_12)" Value="355272" />
+  <Preset Label="Basic Earrings (recipe_Gemology_Jewelry_Earring_1)" Value="355273" />
+  <Preset Label="Chunky Earrings (recipe_Gemology_Jewelry_Earring_2)" Value="355274" />
+  <Preset Label="Raw Earrings (recipe_Gemology_Jewelry_Earring_3)" Value="355275" />
+  <Preset Label="Delicate Earrings (recipe_Gemology_Jewelry_Earring_4)" Value="355276" />
+  <Preset Label="Lunar Goddess Earrings (recipe_Gemology_Jewelry_Earring_5)" Value="355277" />
+  <Preset Label="Eye Earrings (recipe_Gemology_Jewelry_Earring_6)" Value="355278" />
+  <Preset Label="Bling Earrings (recipe_Gemology_Jewelry_Earring_7)" Value="355279" />
+  <Preset Label="Mystical Earrings (recipe_Gemology_Jewelry_Earring_8)" Value="355280" />
+  <Preset Label="Botanical Earrings (recipe_Gemology_Jewelry_Earring_9)" Value="355281" />
+  <Preset Label="Edwardian Gothic Earrings (recipe_Gemology_Jewelry_Earring_10)" Value="355282" />
+  <Preset Label="Starry Sailor Earrings (recipe_Gemology_Jewelry_Earring_11)" Value="355283" />
+  <Preset Label="Starry Sailor Bracelet (recipe_Gemology_Jewelry_Bracelet_11)" Value="355284" />
+  <Preset Label="Plumbob Necklace (recipe_Gemology_Jewelry_Necklace_12)" Value="355285" />
+  <Preset Label="Basic Necklace (recipe_Gemology_Jewelry_Necklace_1)" Value="355286" />
+  <Preset Label="Chunky Necklace (recipe_Gemology_Jewelry_Necklace_2)" Value="355287" />
+  <Preset Label="Raw Necklace (recipe_Gemology_Jewelry_Necklace_3)" Value="355288" />
+  <Preset Label="Delicate Necklace (recipe_Gemology_Jewelry_Necklace_4)" Value="355289" />
+  <Preset Label="Lunar Goddess Necklace (recipe_Gemology_Jewelry_Necklace_5)" Value="355290" />
+  <Preset Label="Eye Necklace (recipe_Gemology_Jewelry_Necklace_6)" Value="355291" />
+  <Preset Label="Bling Necklace (recipe_Gemology_Jewelry_Necklace_7)" Value="355292" />
+  <Preset Label="Mystic Necklace (recipe_Gemology_Jewelry_Necklace_8)" Value="355293" />
+  <Preset Label="Botanical Necklace (recipe_Gemology_Jewelry_Necklace_9)" Value="355294" />
+  <Preset Label="Edwardian Gothic Necklace (recipe_Gemology_Jewelry_Necklace_10)" Value="355295" />
+  <Preset Label="Starry Sailor Necklace (recipe_Gemology_Jewelry_Necklace_11)" Value="355296" />
+  <Preset Label="Plumbob Ring (recipe_Gemology_Jewelry_Ring_12)" Value="355297" />
+  <Preset Label="Basic Ring (recipe_Gemology_Jewelry_Ring_1)" Value="355298" />
+  <Preset Label="Chunky Ring (recipe_Gemology_Jewelry_Ring_2)" Value="355299" />
+  <Preset Label="Raw Ring (recipe_Gemology_Jewelry_Ring_3)" Value="355300" />
+  <Preset Label="Delicate Ring (recipe_Gemology_Jewelry_Ring_4)" Value="355301" />
+  <Preset Label="Lunar Goddess Ring (recipe_Gemology_Jewelry_Ring_5)" Value="355302" />
+  <Preset Label="Eye Ring (recipe_Gemology_Jewelry_Ring_6)" Value="355303" />
+  <Preset Label="Bling Ring (recipe_Gemology_Jewelry_Ring_7)" Value="355304" />
+  <Preset Label="Mystical Ring (recipe_Gemology_Jewelry_Ring_8)" Value="355305" />
+  <Preset Label="Botanical Ring (recipe_Gemology_Jewelry_Ring_9)" Value="355306" />
+  <Preset Label="Edwardian Gothic Ring (recipe_Gemology_Jewelry_Ring_10)" Value="355307" />
+  <Preset Label="Starry Sailor Ring (recipe_Gemology_Jewelry_Ring_11)" Value="355308" />
+  <Preset Label="phaseMulti_GemologyTable_CraftJewelry" Value="355343" />
+  <Preset Label="phaseSimple_GemologyTable_CraftJewelry" Value="355344" />
+  <Preset Label="Guidebook to Gemology (recipe_Book_Manual_GemologySkill)" Value="355409" />
+  <Preset Label="Gnome-Shaped Gemstone (recipe_Gemology_CutGemstone_Gnome)" Value="361122" />
+</PresetGroup>

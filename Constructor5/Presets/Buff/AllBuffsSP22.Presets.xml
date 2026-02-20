@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Buffs SP22">
+  <Preset Label="Sparkling Clean Surroundings (buff_Dust_State_Clean)" Value="254476" />
+  <Preset Label="Someone Lives Here (buff_Dust_State_Dusty)" Value="254477" />
+  <Preset Label="Everything Feels a Bit Dirty (buff_Dust_State_Dirty)" Value="254478" />
+  <Preset Label="Unbelievably Filthy! (buff_Dust_State_Filthy)" Value="254479" />
+  <Preset Label="Fresh N' Frisky (buff_Dust_Clean_FreshNFrisky)" Value="254485" />
+  <Preset Label="Perfectionist Zeal (buff_Dust_Clean_PerfectionistZeal_1)" Value="254489" />
+  <Preset Label="Perfectionist Zeal (buff_Dust_Clean_PerfectionistZeal_2)" Value="254490" />
+  <Preset Label="Perfectionist Zeal (buff_Dust_Clean_PerfectionistZeal_3)" Value="254491" />
+  <Preset Label="Perfectionist Zeal (buff_Dust_Clean_PerfectionistZeal_4)" Value="254492" />
+  <Preset Label="Chore Galore! (buff_Dust_Dusty_ChoreGalore)" Value="254493" />
+  <Preset Label="It's Not Usually Like This! (buff_Dust_Dirty_NotUsuallyLikeThis)" Value="254494" />
+  <Preset Label="Messiness Kills the Mood (buff_Dust_Dirty_MessinessKillsTheMood)" Value="254495" />
+  <Preset Label="Do Not Disturb: Rage Cleaning (buff_Dust_Filthy_RageCleaning_1)" Value="254497" />
+  <Preset Label="Do Not Disturb: Rage Cleaning (buff_Dust_Filthy_RageCleaning_2)" Value="254498" />
+  <Preset Label="Do Not Disturb: Rage Cleaning (buff_Dust_Filthy_RageCleaning_3)" Value="254499" />
+  <Preset Label="Chore Shamed! (buff_Dust_Interactions_ChoreShamed)" Value="254501" />
+  <Preset Label="I'm Not Your Housekeeper! (buff_Dust_Interactions_NotYourHousekeeper)" Value="254502" />
+  <Preset Label="Dust Bunny Caretaker (buff_DustFriends_Bunny_Care)" Value="255314" />
+  <Preset Label="Bunny Friends Forever! (buff_DustFriends_Bunny_BFF)" Value="255315" />
+  <Preset Label="From Dust Friends to Dust (buff_DustFriends_Bunny_Sad)" Value="255316" />
+  <Preset Label="Slayer of Filth Fiends (buff_DustFriends_Fiend_Slayer)" Value="255317" />
+  <Preset Label="I'll Just Keep My Distance (buff_DustFriends_Fiend_Scared)" Value="255318" />
+  <Preset Label="buff_Dust_Enabled" Value="256481" />
+  <Preset Label="No Dust Left Behind! (buff_VacuumCleaner_NoDustLeftBehind)" Value="256898" />
+  <Preset Label="buff_Dust_State_NPC_DirtyFilthy" Value="257298" />
+  <Preset Label="Filth Kills the Fun (buff_Dust_Dirty_MessinessKillsTheMood_Filthy)" Value="257324" />
+  <Preset Label="filthyFabulous_Toilet_Buffs_UsedToilet" Value="257335" />
+  <Preset Label="filthyFabulous_Toilet_Buffs_DidntWashHands" Value="257336" />
+  <Preset Label="filthyFabulous_Toilet_Buffs_WashedHands" Value="257337" />
+  <Preset Label="All Messes Terminated (buff_VacuumCleaner_AllMessesTerminated)" Value="257419" />
+  <Preset Label="What Can't Be Vacuumed? (buff_VacuumCleaner_WhatCantBeVacuumed)" Value="257797" />
+  <Preset Label="buff_VacuumCleaner_VaporizingPulse" Value="258473" />
+  <Preset Label="buff_VacuumCleaner_Autonomous_Cooldown" Value="258689" />
+  <Preset Label="buff_Dust_State_Slob_Filthy" Value="270223" />
+  <Preset Label="buff_Dust_State_Slob_Dirty" Value="270224" />
+  <Preset Label="buff_Dust_AskCleanCooldown" Value="303735" />
+  <Preset Label="buff_Dust_ReactionCooldown" Value="318706" />
+</PresetGroup>

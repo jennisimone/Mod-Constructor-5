@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Balloon Sets EP21">
+  <Preset Label="balloonCategory_CareerNoble_Speech" Value="466596" />
+  <Preset Label="balloonCategory_CareerNoble_Thought" Value="466597" />
+  <Preset Label="balloonCategory_CareerNoble_NobleFavor_Commoner_Speech" Value="470805" />
+  <Preset Label="balloonCategory_CareerNoble_NobleFavor_Royal_Speech" Value="470806" />
+  <Preset Label="balloon_Book_Swordsmanship" Value="470927" />
+  <Preset Label="balloonCategory_Skill_Swordsmanship_Speech" Value="497320" />
+  <Preset Label="balloonCategory_Skill_Swordsmanship_Thought" Value="497321" />
+</PresetGroup>

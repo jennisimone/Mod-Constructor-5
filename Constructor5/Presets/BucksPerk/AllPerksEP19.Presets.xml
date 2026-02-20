@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Perks EP19">
+  <Preset Label="Cure or Apply Ailment (fairyPerks_CureAilment)" Value="437333" />
+  <Preset Label="Nurture Nature (fairyPerks_NurtureNature_1)" Value="437335" />
+  <Preset Label="Enchant Plant (fairyPerks_NurtureNature_2)" Value="437336" />
+  <Preset Label="Sway Another's Emotion (fairyPerks_PlayWithTheirMood)" Value="437337" />
+  <Preset Label="Warm Force Gain (fairyPerks_EmotionalEnergyFromPositiveSocials)" Value="437338" />
+  <Preset Label="Wicked Force Gain (fairyPerks_EmotionalEnergyFromNegativeSocials)" Value="437339" />
+  <Preset Label="Fairy Insight (fairyPerks_FairyInsight)" Value="437340" />
+  <Preset Label="Bottle Emotion (fairyPerks_BottleMood_1)" Value="437341" />
+  <Preset Label="Bottle Another's Emotion (fairyPerks_BottleMood_2)" Value="437342" />
+  <Preset Label="Manifest Seed (fairyPerks_CreateSeed)" Value="437343" />
+  <Preset Label="Forager Fae and Duplicate Harvestable (fairyPerks_ImprovedForagingAndDuplicateHarvestable)" Value="437344" />
+  <Preset Label="Malicious Absorber (fairyPerks_EmotionalEnergyFromSiphonPositiveMoods)" Value="437345" />
+  <Preset Label="Benevolent Absorber (fairyPerks_EmotionalEnergyFromSiphonNegativeMoods)" Value="437346" />
+  <Preset Label="Shift Luck (fairyPerks_PlayWithLuck_1)" Value="437347" />
+  <Preset Label="Shift Another's Luck (fairyPerks_PlayWithLuck_2)" Value="437348" />
+  <Preset Label="Project Emotion (fairyPerks_ProjectMyMood)" Value="437349" />
+  <Preset Label="Growth Eruption (fairyPerks_PlantGrowth)" Value="437350" />
+  <Preset Label="Sense Harvestables (fairyPerks_DetectHarvestables)" Value="437351" />
+  <Preset Label="Spillover Resistance (fairyPerks_ResistSpilloverBuffs)" Value="437352" />
+  <Preset Label="Spillover Sensitivity (fairyPerks_EmbraceSpilloverBuffs)" Value="437353" />
+  <Preset Label="Manipulate Object (fairyPerks_ManipulateObject)" Value="437354" />
+  <Preset Label="Influence Relationship (fairyPerks_InfluenceRelationship_1)" Value="437355" />
+  <Preset Label="Influence Another's Relationship (fairyPerks_InfluenceRelationship_2)" Value="437356" />
+  <Preset Label="Bloom Plant (fairyPerks_BloomPlant)" Value="437357" />
+  <Preset Label="Expert Regeneration (fairyPerks_ImprovedRegenerateEmotionalEnergy)" Value="437358" />
+  <Preset Label="Energetic Dreamer (fairyPerks_EmotionalEnergyFromSleep)" Value="437359" />
+  <Preset Label="Bring Gnome to Life (fairyPerks_BringGnomesToLife)" Value="437360" />
+  <Preset Label="Age Up Another (fairyPerks_AgeThemUp)" Value="437361" />
+  <Preset Label="Influence Sentiment (fairyPerks_InfluenceSentiment_1)" Value="437362" />
+  <Preset Label="Influence Another's Sentiment (fairyPerks_InfluenceSentiment_2)" Value="437363" />
+  <Preset Label="Transform into Fairy (fairyPerks_TurnTargetSimToFairy)" Value="437364" />
+  <Preset Label="Embrace Relationship Changes (fairyPerks_EmbraceRelationshipChanges)" Value="440461" />
+  <Preset Label="Negate Relationship Changes (fairyPerks_NegateRelationshipChanges)" Value="440462" />
+  <Preset Label="Apothecary Boost (clubPerks_SkillBoost_AdultMajor_Apothecary)" Value="445832" />
+  <Preset Label="Natural Living Boost (clubPerks_SkillBoost_AdultMajor_NaturalLiving)" Value="469658" />
+</PresetGroup>

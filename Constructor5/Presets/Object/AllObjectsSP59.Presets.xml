@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP59">
+  <Preset Label="object_door_double_bookcase" Value="430414" />
+  <Preset Label="object_Goth_TeaTray" Value="430424" />
+  <Preset Label="object_drink_Shadowberry_Tea" Value="430429" />
+  <Preset Label="object_StereoTable_SP59_Goth" Value="430430" />
+  <Preset Label="object_tvWallHigh_Painting_SP59" Value="430578" />
+</PresetGroup>

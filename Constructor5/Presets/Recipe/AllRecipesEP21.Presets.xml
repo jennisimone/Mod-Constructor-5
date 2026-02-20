@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Recipes EP21">
+  <Preset Label="Verdemar Falcata (recipe_sword_VerdemarFalcata)" Value="466828" />
+  <Preset Label="Dambele Saber (recipe_Sword_DambeleSaber)" Value="466829" />
+  <Preset Label="Classic Longsword (recipe_Sword_ClassicLongsword)" Value="466830" />
+  <Preset Label="Bellacorde Rapier (recipe_Sword_BellacordeRapier)" Value="466831" />
+  <Preset Label="Wooden Sword (recipe_Sword_WoodenSword)" Value="466832" />
+  <Preset Label="Pastel De Nata (recipe_Food_Homestyle_PastelDeNata_Single)" Value="474943" />
+  <Preset Label="Pastel De Nata (recipe_Food_Homestyle_PastelDeNata_Large)" Value="474944" />
+  <Preset Label="Pastel De Nata (recipe_Food_Homestyle_PastelDeNata_Medium)" Value="474945" />
+  <Preset Label="phaseSimple_Food_BakingPan_Rising_PastelDeNata" Value="474946" />
+  <Preset Label="Bolinhos De Bacalhau (recipe_Food_Homestyle_BolinhosDeBachalhau_Single)" Value="475803" />
+  <Preset Label="Bolinhos De Bacalhau (recipe_Food_Homestyle_BolinhosDeBachalhau_Medium)" Value="475804" />
+  <Preset Label="Bolinhos De Bacalhau (recipe_Food_Homestyle_BolinhosDeBachalhau_Large)" Value="475805" />
+  <Preset Label="Panna Cotta (recipe_Food_Homestyle_PannaCotta_Single)" Value="476368" />
+  <Preset Label="Panna Cotta (recipe_Food_Homestyle_PannaCotta_Medium)" Value="476369" />
+  <Preset Label="Panna Cotta (recipe_Food_Homestyle_PannaCotta_Large)" Value="476370" />
+  <Preset Label="Crab Linguine (recipe_Food_Homestyle_GreenCrabLinguine_Single)" Value="477324" />
+  <Preset Label="Crab Linguine (recipe_Food_Homestyle_GreenCrabLinguine_Medium)" Value="477325" />
+  <Preset Label="Crab Linguine (recipe_Food_Homestyle_GreenCrabLinguine_Large)" Value="477326" />
+  <Preset Label="Puff Puff (recipe_Food_Homestyle_PuffPuff_Single)" Value="477784" />
+  <Preset Label="spawners_PirateTreasureChests" Value="477881" />
+  <Preset Label="Palm Nut Soup (recipe_Food_Homestyle_PalmNutSoup_Large)" Value="478693" />
+  <Preset Label="Palm Nut Soup (recipe_Food_Homestyle_PalmNutSoup_Medium)" Value="478694" />
+  <Preset Label="Palm Nut Soup (recipe_Food_Homestyle_PalmNutSoup_Single)" Value="478695" />
+  <Preset Label="Kontomire Soup (recipe_Food_Homestyle_KontomireSoup_Large)" Value="478860" />
+  <Preset Label="Kontomire Soup (recipe_Food_Homestyle_KontomireSoup_Medium)" Value="478861" />
+  <Preset Label="Kontomire Soup (recipe_Food_Homestyle_KontomireSoup_Single)" Value="478862" />
+  <Preset Label="Egusi Soup (recipe_Food_Homestyle_EgusiSoup_Large)" Value="479007" />
+  <Preset Label="Egusi Soup (recipe_Food_Homestyle_EgusiSoup_Medium)" Value="479008" />
+  <Preset Label="Egusi Soup (recipe_Food_Homestyle_EgusiSoup_Small)" Value="479009" />
+  <Preset Label="Crab Linguine (recipe_Food_MarketStalls_Bellacorde_GreenCrabLinguine)" Value="481832" />
+  <Preset Label="Panna Cotta (recipe_Food_MarketStalls_Bellacorde_PannaCotta)" Value="481833" />
+  <Preset Label="Pastel De Nata (recipe_Food_MarketStalls_Verdemar_PastelDeNata)" Value="481834" />
+  <Preset Label="Bolinhos De Bacalhau (recipe_Food_MarketStalls_Verdemar_BolinhosDeBachalau)" Value="481835" />
+  <Preset Label="Puff Puff (recipe_Food_MarketStalls_Dambele_PuffPuff)" Value="481836" />
+  <Preset Label="Egusi Soup (recipe_Food_MarketStalls_Dambele_EgusiSoup)" Value="481837" />
+  <Preset Label="Palm Nut Soup (recipe_Food_MarketStalls_Dambele_PalmNutSoup)" Value="481848" />
+  <Preset Label="Kontomire Soup (recipe_Food_MarketStalls_Dambele_KontomireSoup)" Value="481849" />
+  <Preset Label="Pizza Quattro Formaggi (recipe_Food_MarketStalls_Bellacorde_PizzaQuattro)" Value="483500" />
+  <Preset Label="Pizza Diavola (recipe_Food_MarketStalls_Bellacorde_PizzaDiavola)" Value="483501" />
+  <Preset Label="paintingStyle_Dambele" Value="489997" />
+  <Preset Label="Freestyle Painting (Recipe_Painting_Dambele)" Value="490342" />
+  <Preset Label="spawner_Public_Tuber_Cassava_wild" Value="494167" />
+  <Preset Label="Guidebook to Swordsmanship (recipe_Book_Manual_Swordsmanship)" Value="497954" />
+  <Preset Label="Scandal Exposé (recipe_Book_ScandalSecret)" Value="498058" />
+</PresetGroup>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Animations SP22">
+  <Preset Label="dustFriend_Idles_Bunny_Burrow" Value="254827" />
+  <Preset Label="dustFriend_Idles_Bunny_Jump" Value="254830" />
+  <Preset Label="dustFriend_Idles_Bunny_Dance" Value="254832" />
+  <Preset Label="dustFriend_Idles_Bunny_Idle" Value="254833" />
+  <Preset Label="dustFriend_Idles_Fiend_Idle" Value="254834" />
+  <Preset Label="dustFriend_Idles_Fiend_Burrow" Value="254835" />
+  <Preset Label="dustFriend_Idles_Fiend_Jump" Value="254836" />
+  <Preset Label="dustFriend_Idles_Fiend_Combust" Value="254837" />
+  <Preset Label="dustFriend_Idles_Fiend_KickFilth" Value="254838" />
+  <Preset Label="dustFriend_Idles_Bunny_Destroy" Value="254841" />
+  <Preset Label="dustFriend_Idles_Fiend_Destroy" Value="254842" />
+  <Preset Label="vacuumCleaner_Upright_DustFriend_Fiend" Value="255103" />
+  <Preset Label="vacuumCleaner_Upright_DustFriend_Bunny" Value="255104" />
+  <Preset Label="vacuumCleaner_Handheld_Child_DustBunny" Value="255105" />
+  <Preset Label="vacuumCleaner_Handheld_Adult_Vacuum_Looping" Value="255106" />
+  <Preset Label="vacuumCleaner_Handheld_Adult_Break" Value="255107" />
+  <Preset Label="vacuumCleaner_Handheld_Adult_Overflow" Value="255108" />
+  <Preset Label="vacuumCleaner_Upright_Vacuum_Looping" Value="255109" />
+  <Preset Label="vacuumCleaner_Upright_Break" Value="255110" />
+  <Preset Label="vacuumCleaner_Upright_Overflow" Value="255111" />
+  <Preset Label="dustFriend_Bunny_Feed" Value="255217" />
+  <Preset Label="dustFriend_Fiend_Appease" Value="255218" />
+  <Preset Label="dustFriend_Bunny_Pet" Value="255219" />
+  <Preset Label="dustFriend_Bunny_Befriend" Value="255220" />
+  <Preset Label="dustFriend_Bunny_StepOn" Value="255221" />
+  <Preset Label="dustFriend_Fiend_StepOn" Value="255222" />
+  <Preset Label="dustFriend_Fiend_BegForMercy" Value="255223" />
+  <Preset Label="dustFriend_Fiend_TryToPet" Value="255224" />
+  <Preset Label="vacuumCleaner_Handheld_Toddler" Value="257552" />
+  <Preset Label="vacuumCleaner_Handheld_Child_DustFiend" Value="257557" />
+  <Preset Label="dustFriend_Idles_Bunny_Exit" Value="258919" />
+  <Preset Label="dustFriend_Idles_Fiend_Exit" Value="258920" />
+</PresetGroup>

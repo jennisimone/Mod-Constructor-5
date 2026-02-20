@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interactions SP49">
+  <Preset Label="Discuss Crystal Properties (mixer_Social_DiscussCrystalProperties_Targeted_Friendly_alwaysOn_GemologySkill)" Tags="TestUnsafe" Value="352248" />
+  <Preset Label="Mentor {2.String} (mentor_GemologySkill)" Value="352323" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_GemologySkill" Value="352385" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_GemologySkill" Value="352386" />
+  <Preset Label="Take the Shine Off Gemology (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_GemologySkill)" Tags="TestUnsafe" Value="352387" />
+  <Preset Label="Enthuse About Gemology (socials_Targeted_Friendly_SimPreference_Recent_Likes_GemologySkill)" Tags="TestUnsafe" Value="352388" />
+  <Preset Label="Cut Gemstone (gemologyTable_StartCrafting_CutGemstone)" Value="353017" />
+  <Preset Label="Design Random Jewelry (startCraftingRandomJewelSuperInteraction)" Value="354680" />
+  <Preset Label="jewelryCraftingMaterialPickerInteractions_Shape" Tags="TestUnsafe" Value="354778" />
+  <Preset Label="jewelryCraftingMaterialPickerInteractions_Crystal" Tags="TestUnsafe" Value="354779" />
+  <Preset Label="jewelryCraftingMaterialPickerInteractions_Metal" Tags="TestUnsafe" Value="354780" />
+  <Preset Label="gemologyTable_InProgress_CutGemstone" Value="354868" />
+  <Preset Label="gemologyTable_CreateObjectInSlot_CutGemstone" Value="354869" />
+  <Preset Label="gemologyTable_Staging_CutGemstone" Value="354874" />
+  <Preset Label="gemologyTable_Action_CutGemstone_Collect" Value="354876" />
+  <Preset Label="gemologyTable_Action_CutGemstone_Cut" Value="354877" />
+  <Preset Label="Resume {0.String} (craftingResume_GemologyTable_CutGemstone)" Value="354878" />
+  <Preset Label="gemologyTable_Action_CutGemstone_Discard" Value="354941" />
+  <Preset Label="gemologyTable_Action_CutGemstone_Examine" Value="354942" />
+  <Preset Label="Charge (Debug) (debugImmediate_GemologyTable_Objects_Charge)" Value="355109" />
+  <Preset Label="Drain (Debug) (debugImmediate_GemologyTable_Objects_Drain)" Value="355110" />
+  <Preset Label="gemologyTable_Action_CraftJewelry_Collect" Value="355323" />
+  <Preset Label="gemologyTable_Action_CraftJewelry_Craft" Value="355324" />
+  <Preset Label="gemologyTable_Action_CraftJewelry_Discard" Value="355326" />
+  <Preset Label="gemologyTable_Action_CraftJewelry_Examine" Value="355327" />
+  <Preset Label="gemologyTable_Action_CraftJewelry_Hammer" Value="355328" />
+  <Preset Label="gemologyTable_Action_CraftJewelry_Measure" Value="355330" />
+  <Preset Label="gemologyTable_Action_CraftJewelry_Solder" Value="355333" />
+  <Preset Label="gemologyTable_CreateObjectInSlot_CraftJewelry" Value="355334" />
+  <Preset Label="gemologyTable_InProgress_CraftJewelry" Value="355335" />
+  <Preset Label="gemologyTable_Staging_CraftJewelry" Value="355336" />
+  <Preset Label="Wear with Current Outfit (gemologyTable_CraftedJewelry_Wear_CurrentOutfit)" Value="355370" />
+  <Preset Label="Wear with All Outfits (gemologyTable_CraftedJewelry_Wear_AllOutfits)" Value="355371" />
+  <Preset Label="Remove Jewelry from All Outfits (gemologyTable_CraftedJewelry_Wear_Remove)" Value="355372" />
+  <Preset Label="Wear with Current Outfit (si_SwipeIntoSimInventory_GemologyTable_CraftedJewelry_WearWithCurrent)" Value="355374" />
+  <Preset Label="Wear with All Outfits (si_SwipeIntoSimInventory_GemologyTable_CraftedJewelry_WearWithAll)" Value="355376" />
+  <Preset Label="Design Jewelry (gemologyTable_StartCrafting_CraftJewelry)" Value="355422" />
+  <Preset Label="Charge Gemstones and Jewelry (crystalGrid_CrystalCharge_ChargeItemsPicker)" Tags="TestUnsafe" Value="355691" />
+  <Preset Label="Charge Gemstones and Jewelry (crystalGrid_CrystalCharge_SlotObjectFromInventory_Basic)" Value="355694" />
+  <Preset Label="Charge Gemstones and Jewelry (crystalGrid_CrystalCharge_SlotObjectFromInventory_FromGemJewelry)" Value="355698" />
+  <Preset Label="Charge on Crystal Grid (crystalGrid_CrystalCharge_PutInInventoryToCharge_OnGemJewelry_Small)" Value="355700" />
+  <Preset Label="autonomous_ObjectPicker_CrystalGrid_CrystalCharge_Small" Tags="TestUnsafe" Value="355702" />
+  <Preset Label="Charge on Crystal Grid (crystalGrid_CrystalCharge_AlreadyInInventory_OnGemJewelry_Small)" Value="355746" />
+  <Preset Label="Collect Fully Charged Items (crystalGrid_CrystalCharge_CollectAllCharged)" Value="355747" />
+  <Preset Label="Collect Items (objectInSlotPicker_CrystalGrid_CrystalCharge_CollectItems)" Tags="TestUnsafe" Value="355748" />
+  <Preset Label="Collect Items (crystalGrid_CrystalCharge_CollectPickedItems)" Value="355749" />
+  <Preset Label="Resume {0.String} (craftingResume_GemologyTable_CraftJewelry)" Value="355855" />
+  <Preset Label="Cut Gemstone (jewelryCraftingMaterialPickerInteractions_Gemstone)" Tags="TestUnsafe" Value="355905" />
+  <Preset Label="Design Jewelry (gemologyTable_ClubRules_AutonomousCreateICO)" Value="355996" />
+  <Preset Label="Design Jewelry (gemologyTable_ClubRules_AutonomousWorkOnJewelry)" Value="355999" />
+  <Preset Label="gemologyTable_Action_NPC_Craft" Value="356001" />
+  <Preset Label="gemologyTable_Action_NPC_Hammer" Value="356002" />
+  <Preset Label="gemologyTable_Action_NPC_Measure" Value="356003" />
+  <Preset Label="gemologyTable_Action_NPC_Solder" Value="356004" />
+  <Preset Label="Remove Jewelry from Current Outfit (gemologyTable_CraftedJewelry_Wear_Remove_Current_Outfit)" Value="356082" />
+  <Preset Label="Scrap Jewelry (gemologyTable_CraftingObject_ScrapInProgress)" Value="356102" />
+  <Preset Label="Give Gift (si_Touching_BG_GiveGift_Jewelry)" Value="356216" />
+  <Preset Label="Gift Jewelry (objectInInventoryPicker_GiveGift_Jewelry)" Tags="TestUnsafe" Value="356217" />
+  <Preset Label="Gift to (simPickerInteraction_GiveGift_Jewelry_OnItem)" Tags="TestUnsafe" Value="356218" />
+  <Preset Label="Give Gift (si_Touching_BG_GiveGift_Jewelry_FromSimPicker)" Value="356220" />
+  <Preset Label="Cut Gemstone (gemologyTable_FromObjects_CutGemstone)" Value="356285" />
+  <Preset Label="Design Jewelry (gemologyTable_FromObjects_CraftJewelry)" Value="356286" />
+  <Preset Label="gemologyTable_FindTable_CutGemstone" Tags="TestUnsafe" Value="356288" />
+  <Preset Label="gemologyTable_FindTable_CraftJewelry" Tags="TestUnsafe" Value="356289" />
+  <Preset Label="Propose (objectInInventoryPickerInteraction_ProposeWithCraftedRing)" Tags="TestUnsafe" Value="356368" />
+  <Preset Label="Propose (mixer_social_Propose_targeted_romance_relationship_CraftedRing)" Tags="TestUnsafe" Value="356369" />
+  <Preset Label="Propose with Crafted Ring... (mixer_social_Propose_targeted_romance_relationship_CraftedRing_PrePicker)" Tags="TestUnsafe" Value="356371" />
+  <Preset Label="Design Jewelry (gemologyTable_FromObjects_InWorld_CraftJewelry)" Value="356586" />
+  <Preset Label="Cut Gemstone (gemologyTable_FromObjects_InWorld_CutGemstone)" Value="356587" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_Gemology_CutGemstone)" Value="356589" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_Gemology_CraftJewelry)" Value="356590" />
+  <Preset Label="Summon Grim Reaper (Gemology_Jet_SummonGrimReaper)" Value="356797" />
+  <Preset Label="Propose To (simPicker_GemologyTable_ProposeTo_RingCrafted)" Tags="TestUnsafe" Value="356910" />
+  <Preset Label="Propose (mixer_social_Propose_targeted_romance_relationship_CraftedRing_FromObject)" Tags="TestUnsafe" Value="356912" />
+  <Preset Label="Show Off Jewelry (mixer_social_GemologyShowOffJewelry_Targeted_Friendly_AlwaysOn)" Tags="TestUnsafe" Value="356914" />
+  <Preset Label="Ask to See Jewelry (mixer_social_GemologyAskToShowOff_Targeted_Friendly_AlwaysOn)" Tags="TestUnsafe" Value="356915" />
+  <Preset Label="Absorb Energy (Gemology_AbsorbEnergy)" Value="356971" />
+  <Preset Label="gemologyTable_Action_CraftJewelry_React" Value="357082" />
+  <Preset Label="Scrap Gemstone (gemologyTable_CutGemstoneObject_ScrapInProgress)" Value="358064" />
+  <Preset Label="Ask for Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_AskFor_Gemology)" Tags="TestUnsafe" Value="383036" />
+  <Preset Label="simPicker_Mentoring_AskFor_Gemology" Tags="TestUnsafe" Value="383037" />
+  <Preset Label="simPicker_Mentoring_Offer_Paid_Gemology" Tags="TestUnsafe" Value="383042" />
+  <Preset Label="simPicker_Mentoring_Offer_Unpaid_Gemology" Tags="TestUnsafe" Value="383043" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Paid_Gemology)" Tags="TestUnsafe" Value="383044" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Unpaid_Gemology)" Tags="TestUnsafe" Value="383130" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartLecture_Gemology)" Value="396515" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_ListenToLecture_Gemology)" Value="396516" />
+  <Preset Label="**DEBUG** (social_HobbyClass_Whiteboard_Lecture_Gemology)" Value="396517" />
+  <Preset Label="&lt;font color='#FF0000'&gt;Only up to {0.Number} listeners can be selected.&lt;/font&gt; (simPicker_HobbyClass_Whiteboard_LectureFor_Gemology)" Tags="TestUnsafe" Value="396518" />
+  <Preset Label="**DEBUG** (si_HobbyClass_StartClass_Gemology)" Value="397525" />
+  <Preset Label="simPicker_HobbyClass_RequestClass_Gemology" Tags="TestUnsafe" Value="398529" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_PrepareLecture_Gemology_1)" Value="414368" />
+  <Preset Label="Mentor {2.String} (mentor_GemologySkill_Getaway)" Value="487445" />
+</PresetGroup>

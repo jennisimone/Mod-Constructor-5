@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP43">
+  <Preset Label="object_sitLiving_SP43GENcushion" Value="340762" />
+  <Preset Label="object_sitLoveseat2x1_SP43MODtileable" Value="340763" />
+  <Preset Label="object_sitSofa3x1_SP43GEN" Value="340764" />
+  <Preset Label="object_light_table_candle_SP43Jar" Value="342069" />
+</PresetGroup>

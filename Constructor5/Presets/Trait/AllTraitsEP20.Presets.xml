@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Traits EP20">
+  <Preset Label="trait_Hidden_EP20World_isNPC" Value="440756" />
+  <Preset Label="trait_Hidden_EP20_IF_Goofball" Value="442976" />
+  <Preset Label="Competitive (trait_Competitive)" Value="443222" />
+  <Preset Label="trait_SpecialNPCs_Cryptid" Value="447353" />
+  <Preset Label="Peculiar Plumbird Baby (trait_SpecialNPCs_CryptidBaby)" Value="447354" />
+  <Preset Label="trait_Hidden_CryptidQuest_OnQuest_LocalLegends" Value="447456" />
+  <Preset Label="trait_Hidden_CryptidQuest_OnQuest_FeedingFrenzy" Value="447457" />
+  <Preset Label="trait_Hidden_CryptidQuest_OnQuest_TangibleTraces" Value="447458" />
+  <Preset Label="trait_Hidden_CryptidQuest_OnQuest_CommunitySpirit" Value="447459" />
+  <Preset Label="trait_Hidden_CompetitiveSpirit_Frozen" Value="448041" />
+  <Preset Label="trait_Hidden_CompetitiveSpirit_Abysmal_DontAskAgain" Value="448042" />
+  <Preset Label="trait_Hidden_CompetitiveSpirit_Great_DontAskAgain" Value="448044" />
+  <Preset Label="trait_RockPaperScissors_Preference_Rock" Value="449632" />
+  <Preset Label="trait_RockPaperScissors_Preference_Paper" Value="449633" />
+  <Preset Label="trait_RockPaperScissors_Preference_Scissors" Value="449634" />
+  <Preset Label="trait_ButterflyCollection_Debug" Value="451607" />
+  <Preset Label="Coolest Kid (trait_Aspiration_EP20_Asp_CoolKid)" Value="452433" />
+  <Preset Label="Critter Enthusiast (trait_Nature_EP20_Asp_CritterHunter_CritterEnthusiast)" Value="452451" />
+  <Preset Label="Cut? Park Worker (trait_CAS_Story_Career_ParkWorker_Level_1)" Value="453018" />
+  <Preset Label="Cut? Park Worker (trait_CAS_Story_Career_ParkWorker_Level_2)" Value="453019" />
+  <Preset Label="Cut? Park Worker (trait_CAS_Story_Career_ParkWorker_Level_3)" Value="453020" />
+  <Preset Label="Previously a Peculiar Plumbird (trait_SpecialNPCs_Cryptid_FormerCryptid)" Value="453381" />
+  <Preset Label="trait_SpecialNPCs_Cryptid_SocialUnlocked" Value="453382" />
+  <Preset Label="trait_Hidden_EP20_IF_Creative" Value="453524" />
+  <Preset Label="trait_Hidden_EP20_IF_Evil" Value="453525" />
+  <Preset Label="trait_Hidden_EP20_IF_Competitive" Value="453526" />
+  <Preset Label="trait_Hidden_EP20_IF" Value="453528" />
+  <Preset Label="Child Scientist (trait_Reward_ChildhoodInspiration_AboutScience)" Value="454313" />
+  <Preset Label="Inspired Childhood Artist (trait_Reward_ChildhoodInspiration_FollowInFootsteps_Sketches)" Value="454314" />
+  <Preset Label="Little Enthusiast (trait_Reward_ChildhoodInspiration_BeTheGeek)" Value="454315" />
+  <Preset Label="Miniature Photographer (trait_Reward_ChildhoodInspiration_AmateurPhotographer)" Value="454316" />
+  <Preset Label="Learned from the Past (trait_Reward_ChildhoodInspiration_LearnFromThePast)" Value="454337" />
+  <Preset Label="Expanded Taste Buds (trait_Reward_ChildhoodInspiration_AboutCuisine)" Value="454338" />
+  <Preset Label="Danger Kid (trait_Reward_ChildhoodInspiration_LiveDangerously)" Value="454339" />
+  <Preset Label="Into Archery as a Kid (trait_Reward_ChildhoodInspiration_MasterArchery)" Value="454340" />
+  <Preset Label="Childhood Naturalist (trait_Reward_ChildhoodInspiration_ExploreNature)" Value="454341" />
+  <Preset Label="Childhood Collector (trait_Reward_ChildhoodInspiration_BeACompletionist)" Value="454342" />
+  <Preset Label="Had a Green Thumb as a Kid (trait_Reward_ChildhoodInspiration_NurturePlants)" Value="454343" />
+  <Preset Label="Fisher-kid (trait_Reward_ChildhoodInspiration_MasterFishing)" Value="454344" />
+  <Preset Label="Childhood Ocean Explorer (trait_Reward_ChildhoodInspiration_ExploreOcean)" Value="454345" />
+  <Preset Label="Action-Packed Childhood (trait_Reward_ChildhoodInspiration_BeActive)" Value="454346" />
+  <Preset Label="Rough'n Tumble Childhood (trait_Reward_ChildhoodInspiration_BeAnOutdoorEnthusiast)" Value="454347" />
+  <Preset Label="Center of Attention (trait_Reward_ChildhoodInspiration_BeAnEntertainer)" Value="454348" />
+  <Preset Label="Annoyed Everyone and Everything (trait_Reward_ChildhoodInspiration_BeAnnoying)" Value="454349" />
+  <Preset Label="Good Student (trait_Reward_ChildhoodInspiration_BeAGoodStudent)" Value="454350" />
+  <Preset Label="Child Caregiver (trait_Reward_ChildhoodInspiration_BeACaregiver)" Value="454351" />
+  <Preset Label="Formed Bonds Away from Home (trait_Reward_ChildhoodInspiration_FormBondsAwayFromHome)" Value="454352" />
+  <Preset Label="Had a Goofball Best Imaginary Friend (trait_Reward_ChildhoodInspiration_HaveBestImaginaryFriend_Monster)" Value="454353" />
+  <Preset Label="Practically a Fish (trait_Reward_ChildhoodInspiration_LearnToDive)" Value="454354" />
+  <Preset Label="Explorer Extraordinaire (trait_Reward_ChildhoodInspiration_BeATraveler)" Value="454355" />
+  <Preset Label="Fed Myself as a Kid (trait_Reward_ChildhoodInspiration_FeedYourself)" Value="454356" />
+  <Preset Label="Business-kid (trait_Reward_ChildhoodInspiration_BeEntrepreneurial)" Value="454357" />
+  <Preset Label="Everyone's Little Helper (trait_Reward_ChildhoodInspiration_BeUseful)" Value="454358" />
+  <Preset Label="Childhood of Crime (trait_Reward_ChildhoodInspiration_BeARogue)" Value="454359" />
+  <Preset Label="Getaway Champion (trait_Reward_ChildhoodInspiration_BeAwayFromHome)" Value="454360" />
+  <Preset Label="trait_Hidden_EP20_Asp_BeforeCritterEnthusiast" Value="454700" />
+  <Preset Label="Honorary Childhood Swim Team Member (trait_Reward_ChildhoodInspiration_FollowInFootsteps_SwimTeam)" Value="454845" />
+  <Preset Label="Honorary Childhood Touring Musician (trait_Reward_ChildhoodInspiration_FollowInFootsteps_OnTour)" Value="454846" />
+  <Preset Label="Had an Evil Best Imaginary Friend (trait_Reward_ChildhoodInspiration_HaveBestImaginaryFriend_Pegacorn)" Value="454847" />
+  <Preset Label="Had a Creative Best Imaginary Friend (trait_Reward_ChildhoodInspiration_HaveBestImaginaryFriend_SpookyKid)" Value="454848" />
+  <Preset Label="Had a Competitive Best Imaginary Friend (trait_Reward_ChildhoodInspiration_HaveBestImaginaryFriend_WildChild)" Value="454849" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NigelGomezRalston" Value="455018" />
+  <Preset Label="trait_Hidden_EP20World_NPC_SaraGomezRalston" Value="455019" />
+  <Preset Label="trait_Hidden_EP20World_NPC_ErinGomezRalston" Value="455020" />
+  <Preset Label="trait_Hidden_EP20World_NPC_AerisGomezRalston" Value="455021" />
+  <Preset Label="trait_Hidden_EP20World_NPC_StarrAdam" Value="455022" />
+  <Preset Label="trait_Hidden_EP20World_NPC_JaneAddam" Value="455023" />
+  <Preset Label="trait_Hidden_EP20World_NPC_SkipBroke" Value="455024" />
+  <Preset Label="trait_Hidden_EP20World_NPC_AgoraTchotchke" Value="455025" />
+  <Preset Label="trait_Hidden_EP20World_NPC_FreedaPerry" Value="455026" />
+  <Preset Label="trait_Hidden_EP20World_NPC_DougiePerry" Value="455027" />
+  <Preset Label="trait_Hidden_EP20World_NPC_BuddyScoop" Value="455028" />
+  <Preset Label="trait_Hidden_EP20World_NPC_RaheelKunal" Value="455029" />
+  <Preset Label="trait_Hidden_EP20World_NPC_LaxmiKunal" Value="455030" />
+  <Preset Label="trait_Hidden_EP20World_NPC_ToshiAkamine" Value="455031" />
+  <Preset Label="Honorary Gibbi Point Local (trait_Hidden_EP20World_HonoraryLocal)" Value="455032" />
+  <Preset Label="trait_Hidden_EP20_IF_Body_LilMonster" Value="455630" />
+  <Preset Label="trait_Hidden_EP20_IF_Body_Pegacorn" Value="455631" />
+  <Preset Label="trait_Hidden_EP20_IF_Body_SpookyKid" Value="455632" />
+  <Preset Label="trait_Hidden_EP20_IF_Body_WildChild" Value="455633" />
+  <Preset Label="trait_Hidden_EP20World_Quests_Completed_ButterflyParent" Value="456022" />
+  <Preset Label="trait_Hidden_EP20World_Quests_Completed_TownAdventurer" Value="456023" />
+  <Preset Label="trait_Hidden_EP20World_Quests_OnQuest_MelodyoftheGeyser" Value="456024" />
+  <Preset Label="trait_Hidden_EP20World_Quests_OnQuest_SecretsoftheTown" Value="456025" />
+  <Preset Label="trait_Hidden_EP20World_Quests_OnQuest_ButterflyConservationists" Value="456026" />
+  <Preset Label="trait_Hidden_EP20World_Quests_OnQuest_NeighborhoodAdventures" Value="456027" />
+  <Preset Label="trait_Hidden_EP20World_Quests_GeyserWhisperer" Value="456028" />
+  <Preset Label="trait_Hidden_EP20World_Quests_TownSecretKeeper" Value="456029" />
+  <Preset Label="trait_Hidden_EP20World_Quests_Storyteller" Value="456333" />
+  <Preset Label="trait_Hidden_EP20World_Quests_LostAdventurer" Value="456335" />
+  <Preset Label="trait_Hidden_EP20World_Quests_Conservationist" Value="456336" />
+  <Preset Label="trait_Hidden_EP20World_Quests_CampDirector" Value="456337" />
+  <Preset Label="trait_Hidden_EP20World_Quests_Collector" Value="456443" />
+  <Preset Label="trait_Hidden_Career_ParkWorker_ParkLoreComplete" Value="458281" />
+  <Preset Label="trait_Hidden_EP20World_Quests_Completed_MelodyofGeyser" Value="460746" />
+  <Preset Label="trait_Hidden_EP20World_Quests_Completed_SecretsofTown" Value="460747" />
+  <Preset Label="trait_HIdden_CryptidQuest_QuestComplete_LocalLegends" Value="461190" />
+  <Preset Label="trait_HIdden_CryptidQuest_QuestComplete_FeedingFrenzy" Value="461191" />
+  <Preset Label="trait_HIdden_CryptidQuest_QuestComplete_TangibleTraces" Value="461192" />
+  <Preset Label="trait_Hidden_CryptidQuest_ReadyforTruth" Value="461319" />
+  <Preset Label="trait_Hidden_EP20World_Quests_OnQuest_ButterflyRaisedTrack" Value="462358" />
+  <Preset Label="trait_Hidden_EP20World_Quests_OnQuest_SecretsoftheTownProgressionTrait" Value="462512" />
+  <Preset Label="trait_Reward_ChildhoodInspiration_ImaginaryFriendTracker" Value="464274" />
+  <Preset Label="Likes Archery (trait_SimPreference_Likes_Activities_Archery)" Value="464658" />
+  <Preset Label="Dislikes Archery (trait_SimPreference_Dislikes_Activities_Archery)" Value="464659" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_Archery" Value="464667" />
+  <Preset Label="Dislikes Diving (trait_SimPreference_Dislikes_Activities_DivingBoard)" Value="465078" />
+  <Preset Label="Likes Diving (trait_SimPreference_Likes_Activities_DivingBoard)" Value="465079" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_DivingBoard" Value="465081" />
+  <Preset Label="trait_Hidden_EP20_IF_HasBeenCreated" Value="465583" />
+  <Preset Label="Artfully Enriched (trait_Getaway_Reward_ArtMusic)" Value="469042" />
+  <Preset Label="Taste Refined (trait_Getaway_Reward_FoodDrink)" Value="469043" />
+  <Preset Label="Growth Kindled (trait_Getaway_Reward_KidActvities)" Value="469044" />
+  <Preset Label="Hobbyist (trait_Getaway_Reward_Hobbies)" Value="469045" />
+  <Preset Label="Clever Rogue (trait_Getaway_Reward_Mischief)" Value="469046" />
+  <Preset Label="Rooted Wanderer (trait_Getaway_Reward_Outdoor)" Value="469047" />
+  <Preset Label="Suave Speaker (trait_Getaway_Reward_Social)" Value="469048" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Skip_onroute" Value="469745" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Skip_good1" Value="469746" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Skip_bad1" Value="469747" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Skip_good2" Value="469748" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Skip_bad2" Value="469749" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Skip_finished" Value="469750" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Laxmi_onroute" Value="469752" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Laxmi_good1" Value="469753" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Laxmi_bad1" Value="469754" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Laxmi_good2" Value="469755" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Laxmi_bad2" Value="469756" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Laxmi_finished" Value="469757" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Laxmi_Ready" Value="469984" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Skip_Ready" Value="469985" />
+  <Preset Label="trait_Hidden_WorldPOI_BuddyScoop_CrystalCollectingDone" Value="470106" />
+  <Preset Label="trait_Hidden_WorldPOI_BuddyScoop_JellyfishPondDone" Value="470107" />
+  <Preset Label="trait_Hidden_ChildhoodInspiration_Discovery" Value="470711" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_01" Value="471038" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_Walkstyle" Value="471039" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_02" Value="471051" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_03" Value="471052" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_04" Value="471053" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_05" Value="471054" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_06" Value="471055" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_07" Value="471056" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_08" Value="471057" />
+  <Preset Label="Established Image as a Child (trait_Reward_ChildhoodInspiration_EstablishAnImage)" Value="472308" />
+  <Preset Label="Aspiring Author (trait_Reward_ChildhoodInspiration_AspiringAuthor)" Value="472605" />
+  <Preset Label="Crafty Kid (trait_Reward_ChildhoodInspiration_BeCrafty)" Value="472609" />
+  <Preset Label="Super Sibling (trait_Reward_ChildhoodInspiration_ShareSiblingAdventures)" Value="472610" />
+  <Preset Label="Natural Survivalist (trait_Reward_ChildhoodInspiration_BeASurvivalist)" Value="472611" />
+  <Preset Label="Dislikes Papercrafting (trait_SimPreference_Dislikes_Activities_Papercraft)" Value="472901" />
+  <Preset Label="Likes Papercrafting (trait_SimPreference_Likes_Activities_Papercraft)" Value="472902" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_Papercraft" Value="472903" />
+  <Preset Label="trait_Hidden_EP20_IF_RelStatus_BFF" Value="474871" />
+  <Preset Label="trait_Hidden_EP20_IF_RelStatus_Frienemy" Value="474872" />
+  <Preset Label="trait_Hidden_EP20_IF_Former" Value="474887" />
+  <Preset Label="Budding Evil Persona (trait_Human_EP20_IF_BuddingEvilPersona)" Value="474898" />
+  <Preset Label="trait_Hidden_EP20_IF_BadInfluence_StartFire" Value="475088" />
+  <Preset Label="trait_Hidden_EP20_IF_BadInfluence_SleepingBagPrank" Value="475199" />
+  <Preset Label="Competitive Spirit:\nAbysmal (trait_Hidden_CompetitiveSpirit_01_Abysmal)" Value="475331" />
+  <Preset Label="Competitive Spirit:\nBad (trait_Hidden_CompetitiveSpirit_02_Bad)" Value="475332" />
+  <Preset Label="Competitive Spirit:\nGood (trait_Hidden_CompetitiveSpirit_03_Good)" Value="475333" />
+  <Preset Label="Competitive Spirit:\nExcellent (trait_Hidden_CompetitiveSpirit_04_Great)" Value="475334" />
+  <Preset Label="Seasoned Camper (trait_Hidden_Getaway_NPC_Camp_Camper)" Value="478628" />
+  <Preset Label="Seasoned Camp Counselor (trait_Hidden_Getaway_NPC_Camp_Counselor)" Value="478629" />
+  <Preset Label="Seasoned Camp Director (trait_Hidden_Getaway_NPC_Camp_Director)" Value="478630" />
+  <Preset Label="Seasoned Fitness Retreat Guest (trait_Hidden_Getaway_NPC_FitnessRetreat_Guest)" Value="478631" />
+  <Preset Label="Seasoned Retreat Leader (trait_Hidden_Getaway_NPC_FitnessRetreat_Host)" Value="478652" />
+  <Preset Label="Seasoned Fitness Trainer (trait_Hidden_Getaway_NPC_FitnessRetreat_Trainer)" Value="478653" />
+  <Preset Label="Seasoned Romantic Single (trait_Hidden_Getaway_NPC_RomanticGetaway_Singles)" Value="478655" />
+  <Preset Label="Seasoned Romantic Host (trait_Hidden_Getaway_NPC_RomanticGetaway_Host)" Value="478656" />
+  <Preset Label="Dislikes Entomology (trait_SimPreference_Dislikes_Activities_Entomology)" Value="483104" />
+  <Preset Label="Likes Entomology (trait_SimPreference_Likes_Activities_Entomology)" Value="483105" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_Entomology" Value="483106" />
+  <Preset Label="trait_Hidden_EP20_IF_Body_Pegacorn_Voice" Value="484061" />
+  <Preset Label="trait_Hidden_Getaway_InCustomSchedule" Value="491008" />
+</PresetGroup>

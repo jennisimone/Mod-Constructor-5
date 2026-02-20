@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interactions SP65">
+  <Preset Label="Ponder Next Project (art_View_Sculpture_WoodworkingSupplies)" Value="450937" />
+  <Preset Label="Restore (restoreSalvage_SP65_Stove)" Value="452930" />
+  <Preset Label="Restore (restoreSalvage_SP65_Microwave)" Value="452935" />
+  <Preset Label="Restore (restoreSalvage_SP65_Fridge)" Value="453276" />
+  <Preset Label="Restore (restoreSalvage_SP65_CoffeeMaker)" Value="453277" />
+</PresetGroup>

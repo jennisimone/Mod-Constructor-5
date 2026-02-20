@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Whims EP19">
+  <Preset Label="want_Rogue_PrankAFairy" Value="433534" />
+  <Preset Label="want_Rogue_ShareGrandDelusion" Value="433535" />
+  <Preset Label="want_Rogue_MuddleAPlant" Value="433536" />
+  <Preset Label="want_Rogue_CreateFalseNarrative" Value="433537" />
+  <Preset Label="want_Rogue_ExposeFairyCouncil" Value="433540" />
+  <Preset Label="want_Mystical_GoodFriends_Fairy" Value="433586" />
+  <Preset Label="want_Mystical_GrantSacredBlessing" Value="433587" />
+  <Preset Label="want_Mystical_EnchantPlants" Value="433588" />
+  <Preset Label="want_Mystical_ReadAura" Value="433589" />
+  <Preset Label="want_TakePTO_Naturopathic" Value="436196" />
+  <Preset Label="want_Naturopathic_EducateInBalanceTherapy" Value="436351" />
+  <Preset Label="want_GnomeFunc_BringGnomeToLife" Value="441006" />
+  <Preset Label="want_NLS_SleepOnGround" Value="445162" />
+  <Preset Label="want_NLS_EatFrogFish" Value="445163" />
+  <Preset Label="want_NLS_SummonABush" Value="445355" />
+  <Preset Label="want_NLS_BatheInWater" Value="445356" />
+  <Preset Label="want_BuyObject_FairyHome" Value="445576" />
+  <Preset Label="want_FairyJourney_Fairy" Value="445616" />
+  <Preset Label="fear_ConfrontationGoal_TalkAboutDebunkingMagic" Value="445772" />
+  <Preset Label="want_PlantLover_NamePlants" Value="454408" />
+  <Preset Label="want_PlantLover_GiveAdvice" Value="454409" />
+  <Preset Label="want_PlantLover_PlantSim" Value="454410" />
+  <Preset Label="want_CollectNew_ApothecaryIngredients" Value="458866" />
+</PresetGroup>

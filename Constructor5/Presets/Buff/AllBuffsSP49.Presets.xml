@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Buffs SP49">
+  <Preset Label="Valor (buff_Gemology_Rainborz_Brave)" Value="351440" />
+  <Preset Label="Frown Turnaround (buff_Gemology_Alabaster_NegativeMoodlets)" Value="351441" />
+  <Preset Label="Wishmaker (buff_Gemology_Alexandrite_WantsRefresh)" Value="351442" />
+  <Preset Label="Archeologist's Fortune (buff_Gemology_Amazonite_QualityArtifacts)" Value="351443" />
+  <Preset Label="Aspiration Ascendance (buff_Gemology_Quartz_AspirationPoints)" Value="351448" />
+  <Preset Label="Good Decision Making (buff_Gemology_Emerald_ChanceCards)" Value="351449" />
+  <Preset Label="Dreamweaver's Rest (buff_Gemology_Amethyst_LucidDreams)" Value="351451" />
+  <Preset Label="Shimmering Riches (buff_Gemology_Citrine_FindSimoleons)" Value="351453" />
+  <Preset Label="Weak-Willed (buff_Gemology_Crandestine_WeakWill)" Value="351454" />
+  <Preset Label="Fearless Lovers (buff_Gemology_Diamond_PartnersBond)" Value="351455" />
+  <Preset Label="Feeling Hot (buff_Gemology_FireOpal_DateSuccess)" Value="351456" />
+  <Preset Label="Total Immortal (buff_Gemology_Hematite_Immortal)" Value="351457" />
+  <Preset Label="Crystal Seeker (buff_Gemology_Jade_FindCrystals)" Value="351458" />
+  <Preset Label="Shadow-Worker (buff_Gemology_Jet_GrimWoohoo)" Value="351489" />
+  <Preset Label="Everlasting Merriment (buff_Gemology_Jonquilyst_TenseMoodlets)" Value="351490" />
+  <Preset Label="Arcane Ascendance (buff_Gemology_Moonstone_Occults)" Value="351491" />
+  <Preset Label="Extraterrestrial Energy (buff_Gemology_Nitelite_AlienPowers)" Value="351492" />
+  <Preset Label="Artisan's Flourish (buff_Gemology_OrangeTopaz_CreativeSkills)" Value="351493" />
+  <Preset Label="Calm Fury (buff_Gemology_PeachQuartz_FamilyBond)" Value="351494" />
+  <Preset Label="Om za gleb? Shashoobee! (buff_Gemology_Plumbite_MotivesIncrease)" Value="351495" />
+  <Preset Label="Fire Away, Fire Away (buff_Gemology_Rose_PartnerLoss)" Value="351496" />
+  <Preset Label="Ruby, Ruby, Ruby! (buff_Gemology_Ruby_BadWoohoo)" Value="351497" />
+  <Preset Label="Mental Brilliance (buff_Gemology_Sapphire_MentalSkills)" Value="351498" />
+  <Preset Label="Fertility Boost (buff_Gemology_Shinolite_Fertility)" Value="351499" />
+  <Preset Label="Growth Mindset (buff_Gemology_Simanite_CareerProgress)" Value="351500" />
+  <Preset Label="Charismatic Charm (buff_Gemology_Turquoise_ConfidentSkills)" Value="351502" />
+  <Preset Label="Finding Facets of Gemology (buffs_Mentoree_GemologySkill)" Value="352321" />
+  <Preset Label="I Hate Gemology! (buff_SimPreference_Dislikes_Activities_GemologySkill)" Value="352328" />
+  <Preset Label="I Love Gemology! (buff_SimPreference_Likes_Activities_GemologySkill)" Value="352329" />
+  <Preset Label="buff_SimPreference_Recent_Dislikes_GemologySkill" Value="352383" />
+  <Preset Label="buff_SimPreference_Recent_Likes_GemologySkill" Value="352384" />
+  <Preset Label="Lucid Dreaming (buff_Gemology_Effects_Amethyst_LucidDreams)" Value="354165" />
+  <Preset Label="One Kid's Bad Enough... (buff_Gemology_Shinolite_Fertility_HatesChildren)" Value="355552" />
+  <Preset Label="Walking on Sunshine (buff_Gemology_Amber_SuccessClearSkies)" Value="355896" />
+  <Preset Label="Plumbite Aura Contentedness (buff_Gemology_Effects_Plumbite_TargetedHappiness)" Value="356009" />
+  <Preset Label="buff_GemologyTable_ClubRules_AutonomousCooldown" Value="356103" />
+  <Preset Label="buff_Gemology_Effects_Alexandrite_RefreshCooldown" Value="356799" />
+  <Preset Label="Crystal Energy (buff_Gemology_Effects_AbsorbEnergy)" Value="356972" />
+  <Preset Label="buff_ClubPerks_SkillBoost_AdultMajor_Gemology" Value="358413" />
+  <Preset Label="Ouch! (buff_Skill_Gemology_Fail)" Value="358532" />
+  <Preset Label="Feeling Powerless (buff_Gemology_Drained_Tense)" Value="358745" />
+  <Preset Label="buff_WearChargedJewelry" Value="360972" />
+  <Preset Label="buff_Gemology_CrystalCrafter_GemCutValue" Value="361032" />
+  <Preset Label="Feeling Powerless (buff_Gemology_Drained_Tense_Jewelry)" Value="362158" />
+</PresetGroup>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP53">
+  <Preset Label="object_barPro4x1_SP53" Value="373443" />
+  <Preset Label="object_CoffeeMaker_TopQuality_SP53" Value="373531" />
+  <Preset Label="drink_Nectar_Red_Bistro" Value="373750" />
+  <Preset Label="drink_Nectar_White_Bistro" Value="373751" />
+</PresetGroup>

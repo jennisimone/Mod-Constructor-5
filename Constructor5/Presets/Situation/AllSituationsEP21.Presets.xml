@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Situations EP21">
+  <Preset Label="groupPairedDanceSituation_BallroomLarge" Value="458731" />
+  <Preset Label="tutorService_Situation" Value="466126" />
+  <Preset Label="upgradeService_Situation" Value="466674" />
+  <Preset Label="groupPairedDanceSituation_BallroomSmall" Value="469177" />
+  <Preset Label="Grand Ball (situation_CustomState_BallroomDance)" Value="469578" />
+  <Preset Label="Noble Court (situation_NobleCareer_HoldCourt)" Value="473670" />
+  <Preset Label="situation_DambeleMarket_aggregate_ShopperParentsWithKid" Value="474374" />
+  <Preset Label="situation_DambeleMarket_aggregate_Shoppers" Value="474375" />
+  <Preset Label="situation_Singlejob_DambeleMarket_Shopper" Value="474382" />
+  <Preset Label="situation_DambeleMarket_Cook" Value="474962" />
+  <Preset Label="staffedSalesTableVendorSituation_Vendor_DambeleMarket" Value="475531" />
+  <Preset Label="situation_Dynasty_BecomeHeirOffer" Value="477593" />
+  <Preset Label="staffedSalesTableVendorSituation_Vendor_DambeleMarket_Swords" Value="477681" />
+  <Preset Label="situation_Dynasty_UnmakeHeir" Value="477890" />
+  <Preset Label="situation_Dynasty_AllianceOffer" Value="478761" />
+  <Preset Label="situation_Dynasty_RivalRomanceVisit" Value="478976" />
+  <Preset Label="situation_Dynasty_NPCVisit_BlackSheepDeclare" Value="479798" />
+  <Preset Label="situation_Dynasty_NPCVisit_BlackSheepUndeclare" Value="479807" />
+  <Preset Label="situation_Dynasty_NPCVisit_RivalryDeclare" Value="480026" />
+  <Preset Label="situation_Dynasty_NPCVisit_RivalVisit" Value="480032" />
+  <Preset Label="situation_Dynasty_RivalPartyCrasher" Value="480242" />
+  <Preset Label="openStreetsAutonomySituation_GoldWorld_Recite" Value="480618" />
+  <Preset Label="situation_Walkby_Ambient_EP21World_SchoolCommuter" Value="480828" />
+  <Preset Label="Noble Press Conference (situation_NobleCareer_HoldPressConference)" Value="480951" />
+  <Preset Label="aggregateSituation_EP21World_DambeleRoyalWalk" Value="481235" />
+  <Preset Label="aggregateSituation_EP21World_SecretLovers" Value="481459" />
+  <Preset Label="aggregateSituation_EP21World_MeanChildren" Value="482135" />
+  <Preset Label="Gunther Goth's Cup (simCompetitionSituation_SwordsmanshipTournament_Level1)" Value="482374" />
+  <Preset Label="openStreets_StallVendor_EP21World" Value="483358" />
+  <Preset Label="situation_VendorStall_EP21World_Marketstalls" Value="483499" />
+  <Preset Label="preWelcomeWagon_EP21World" Value="483735" />
+  <Preset Label="A Royal Welcome (situation_welcomeWagon_EP21World)" Value="483741" />
+  <Preset Label="Situation_RobinHood_Chest" Value="484494" />
+  <Preset Label="Regional Ondarion Invitational (simCompetitionSituation_SwordsmanshipTournament_Level2)" Value="484626" />
+  <Preset Label="SimNation Grand Masters (simCompetitionSituation_SwordsmanshipTournament_Level3)" Value="484627" />
+  <Preset Label="Noble Favor (situation_NobleFavor_NobleGifts_Negative_Commoner)" Value="485068" />
+  <Preset Label="Noble Favor (situation_NobleFavor_NobleGifts_Negative_Royal)" Value="485069" />
+  <Preset Label="Noble Favor (situation_NobleFavor_NobleGifts_Positive_Commoner)" Value="485080" />
+  <Preset Label="Noble Favor (situation_NobleFavor_NobleGifts_Positive_Royal)" Value="485081" />
+  <Preset Label="openStreetsAutonomySituation_GoldWorld_Swordsmanship" Value="487221" />
+  <Preset Label="aggregateSituation_EP21World_Bonfire" Value="488188" />
+  <Preset Label="aggregateSituation_EP21World_Swordsmanship" Value="488191" />
+  <Preset Label="aggregateSituation_EP21World_CriminalMeetup" Value="488431" />
+  <Preset Label="aggregateSituation_EP21World_SecretFriends" Value="488494" />
+  <Preset Label="Dynasty Discovery Quest (pivotalMomentSituation_EP21_Onboarding_DynastySystem)" Value="488700" />
+  <Preset Label="Situation_EP21World_Walkby_AngryGhost" Value="488738" />
+  <Preset Label="situation_walkby_ambient_GardenDistrict_Park_Relaxer_Noble" Value="488751" />
+  <Preset Label="openStreetsAutonomySituation_GoldWorld_NobleRebel" Value="489050" />
+  <Preset Label="aggregateSituation_EP21World_Swordsmanship_NoblesOnly" Value="489256" />
+  <Preset Label="aggregateSituation_EP21World_BellacordeRoyalWalk" Value="489261" />
+  <Preset Label="situation_walkby_ambient_GardenDistrict_Park_AfterDark_Nobles" Value="489338" />
+  <Preset Label="situation_Dynasty_NPCVisit_CrisisProtest" Value="489455" />
+  <Preset Label="Scandals Discovery Quest (pivotalMomentSituation_EP21_Onboarding_ScandalSecrets)" Value="489766" />
+  <Preset Label="openStreetsAutonomySituation_EP21_DambelePainting" Value="490708" />
+  <Preset Label="openStreetsAutonomySituation_GoldWorld_DefaceStatue" Value="495009" />
+  <Preset Label="situation_autonomous_OpenStreet_Swimmer_RobinHood" Value="496591" />
+  <Preset Label="situation_autonomous_OpenStreets_Jogger_RobinHood" Value="496592" />
+  <Preset Label="aggregateSituation_EP21World_Swordsmanship_RobinHood" Value="496595" />
+  <Preset Label="situation_regularBarfly_RobinHood" Value="496597" />
+  <Preset Label="situationWaterScooterWalkby_RoyalCanoe" Value="498337" />
+  <Preset Label="situation_regularBarfly_Backroom" Value="498551" />
+  <Preset Label="situation_player_NightBackroom" Value="498557" />
+  <Preset Label="situation_player_DayBackroom" Value="498573" />
+  <Preset Label="Situation_InformationBroker_Replacement" Value="500451" />
+</PresetGroup>

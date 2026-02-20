@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Pie Menu Categories EP19">
+  <Preset Label="Bring Gnome to Life with Fairy Dust (pieMenuCategory_GnomeFunc_BringToLife)" Value="417243" />
+  <Preset Label="Fairy (pieMenuCategory_FairyOccult)" Value="424680" />
+  <Preset Label="Appease the Gnome (pieMenuCategory_GnomeFunc_GiveGift)" Value="433442" />
+  <Preset Label="Shift Luck (pieMenuCategory_FairyOccult_Ability_Luck)" Value="433953" />
+  <Preset Label="Forage for (pieMenuCategory_Foraging)" Value="434119" />
+  <Preset Label="Manipulate Object (pieMenuCategory_FairyOccult_Ability_ManipulateObject)" Value="434668" />
+  <Preset Label="EP19 - Enchanted by Nature (pieMenuCategory_Cheats_EP19)" Value="434727" />
+  <Preset Label="Fairy Insight (pieMenuCategory_FairyOccult_Ability_FairyInsight)" Value="435662" />
+  <Preset Label="Naturopath (pieMenuCategory_NaturopathicCareer_Computer)" Value="436734" />
+  <Preset Label="Naturopath (pieMenuCategory_NaturopathicCareer_Friendly)" Value="436735" />
+  <Preset Label="Spruce Almighty (pieMenuCategory_GreenMan_Socials)" Value="437097" />
+  <Preset Label="Bring Gnome to Life (pieMenuCategory_GnomeFunc_BringToLife_FairyOccult_Ability)" Value="438141" />
+  <Preset Label="Identify Root Cause (pieMenuCategory_NaturopathicCareer_DiscussRootCause)" Value="438974" />
+  <Preset Label="Heal Afflicted (pieMenuCategory_NaturopathicCareer_HealPatient)" Value="439904" />
+  <Preset Label="Client Assessment (pieMenuCategory_NaturopathicCareer_AssessAfflicted)" Value="439905" />
+  <Preset Label="Natural Living (pieMenuCategory_NLS)" Value="440277" />
+  <Preset Label="I Believe In (pieMenuCategory_EP19Quests_NarrativeRing)" Value="440887" />
+  <Preset Label="Apothecary (pieMenuCategory_Apothecary)" Value="442988" />
+  <Preset Label="Ask Innisgreen Local (pieMenuCategory_EP19NPCs_AskAbout)" Value="443300" />
+  <Preset Label="Appease (pieMenuCategory_EP19Quests_AppeaseGnome)" Value="444041" />
+  <Preset Label="Ask to Change Emotional State to (PieMenuCategory_EP19World_EnchantedSprings_AskMotherNaturetoChange)" Value="444120" />
+  <Preset Label="Naturopath Care (pieMenuCategory_NaturopathicCareer_Guidance)" Value="447588" />
+  <Preset Label="Balance &amp; Imbalance (pieMenuCategory_Cheats_BalanceSys)" Value="451896" />
+  <Preset Label="Discuss (pieMenuCategory_NaturopathicCareer_Discuss)" Value="455767" />
+  <Preset Label="Plant Lover (pieMenuCategory_PlantLover_Trait)" Value="457253" />
+  <Preset Label="Social (pieMenuCategory_FairyOccult_Socials)" Value="460678" />
+</PresetGroup>

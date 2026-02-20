@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objective Sets SP49">
+  <Preset Label="crystalCrafter_Level_4" Value="356976" />
+  <Preset Label="Whimset_Asp_Nature_CrystalCrafter" Value="357203" />
+  <Preset Label="crystalCrafter_Level_2" Value="360865" />
+  <Preset Label="crystalCrafter_Level_1" Value="360982" />
+  <Preset Label="crystalCrafter_Level_3" Value="360983" />
+</PresetGroup>

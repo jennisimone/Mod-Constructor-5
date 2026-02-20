@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Broadcasters EP19">
+  <Preset Label="broadcaster_GnomeFunc_Gardening" Value="419204" />
+  <Preset Label="broadcaster_GnomeFunc_RepairingUpgrades" Value="419205" />
+  <Preset Label="broadcaster_GnomeFunc_Protecting" Value="419206" />
+  <Preset Label="broadcaster_GnomeFunc_Clean" Value="419207" />
+  <Preset Label="broadcaster_GnomeFunc_Evil" Value="419208" />
+  <Preset Label="broadcaster_FairyOccult_DetectMood" Value="424653" />
+  <Preset Label="broadcaster_Ailments_EmotionalVoid" Value="428052" />
+  <Preset Label="broadcaster_Ailments_LuckSuck" Value="433223" />
+  <Preset Label="broadcaster_Ailments_GreenieMeanie" Value="433241" />
+  <Preset Label="broadcaster_FairyOccult_EmotionalStruggles" Value="434003" />
+  <Preset Label="broadcaster_FairyOccult_EmotionalStability" Value="434004" />
+  <Preset Label="broadcaster_FairyOccult_Ability_ProjectMyMood" Value="434087" />
+  <Preset Label="broadcaster_FairyOccult_Ability_PositiveRel" Value="434700" />
+  <Preset Label="broadcaster_FairyOccult_Ability_NegativeRel" Value="434701" />
+  <Preset Label="broadcaster_EP19Gardening_MoodBush_MoodAura" Value="434884" />
+  <Preset Label="broadcaster_FairyOccult_Ability_PlantGrowth" Value="434890" />
+  <Preset Label="broadcaster_EP19Gardening_AuraBlossom_Aura" Value="435693" />
+  <Preset Label="broadcaster_EP19Gardening_Pixies_Mischief" Value="437171" />
+  <Preset Label="broadcaster_EP19Gardening_Pixies_Spread" Value="437173" />
+  <Preset Label="broadcaster_EP19Gardening_EnchantGarden" Value="438184" />
+  <Preset Label="broadcaster_EP19Quests_ProxRing" Value="440848" />
+  <Preset Label="broadcaster_EP19World_MagicCoastalNeighborhood" Value="444654" />
+  <Preset Label="broadcaster_Fear_Magic_CheckNearbyManifestedOccults" Value="446114" />
+  <Preset Label="broadcaster_Trait_Mystical_ConsultWithTheCosmos" Value="446155" />
+  <Preset Label="broadcaster_ShowOffEmotionStone" Value="456781" />
+  <Preset Label="broadcaster_EP19Gardening_AuraBlossom_Aura_Balance" Value="464867" />
+  <Preset Label="broadcaster_EP19Gardening_AuraBlossom_Aura_GoodLuck" Value="464868" />
+  <Preset Label="broadcaster_EP19Gardening_AuraBlossom_Aura_Imbalance" Value="464869" />
+  <Preset Label="broadcaster_EP19Gardening_AuraBlossom_Aura_BadLuck" Value="464870" />
+  <Preset Label="broadcaster_EP19Gardening_AuraBlossom_Aura_Warding" Value="464871" />
+  <Preset Label="broadcaster_EP19Gardening_AuraBlossom_Aura_Enchantment" Value="464872" />
+  <Preset Label="broadcaster_EP19Gardening_AuraBlossom_Aura_Vengeful" Value="464873" />
+  <Preset Label="broadcaster_Reaction_LoudNoises_FairyHome" Value="472420" />
+</PresetGroup>

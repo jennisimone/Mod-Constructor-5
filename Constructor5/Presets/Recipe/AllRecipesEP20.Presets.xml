@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Recipes EP20">
+  <Preset Label="Salt-Baked Fish (recipe_Food_Homestyle_SaltBakedFish-Small)" Value="447553" />
+  <Preset Label="Salt-Baked Fish (recipe_Food_Homestyle_SaltBakedFish-Medium)" Value="447554" />
+  <Preset Label="Salt-Baked Fish (recipe_Food_Homestyle_SaltBakedFish-Large)" Value="447555" />
+  <Preset Label="Jellyfish Salad (recipe_Food_Homestyle_PreppedIngredient_Seafood_JellyfishSalad-Single)" Value="447557" />
+  <Preset Label="Jellyfish Salad (recipe_Food_Homestyle_PreppedIngredient_Seafood_JellyfishSalad-Medium)" Value="447558" />
+  <Preset Label="Jellyfish Salad (recipe_Food_Homestyle_PreppedIngredient_Seafood_JellyfishSalad-Large)" Value="447559" />
+  <Preset Label="Getaway Goulash (recipe_Food_Campfire_Serving-Single_CampStew)" Value="447617" />
+  <Preset Label="Campfire Chili (recipe_Food_Campfire_Serving-Single_CampfireChili)" Value="447618" />
+  <Preset Label="Campfire Frog Hot Pot (recipe_Food_Campfire_Serving-Single_FrogHotPot)" Value="447619" />
+  <Preset Label="Campfire Chili (recipe_Food_Campfire_Create_CampfireChili)" Value="447663" />
+  <Preset Label="Getaway Goulash (recipe_Food_Campfire_Create_CampStew)" Value="447664" />
+  <Preset Label="Campfire Frog Hot Pot (recipe_Food_Campfire_Create_FrogHotPot)" Value="447665" />
+  <Preset Label="Fairy Bread (recipe_Food_Homestyle_Fairy_Bread-Single)" Value="448250" />
+  <Preset Label="Fairy Bread (recipe_Food_Homestyle_Fairy_Bread-Large)" Value="448251" />
+  <Preset Label="Fairy Bread (recipe_Food_Homestyle_Fairy_Bread-Medium)" Value="448252" />
+  <Preset Label="Grilled Jellyfish (recipe_Food_Homestyle_Grill_GrilledJellyfish-Large)" Value="448441" />
+  <Preset Label="Grilled Jellyfish (recipe_Food_Homestyle_Grill_GrilledJellyfish-Single)" Value="448443" />
+  <Preset Label="phaseSimple_Food_Grill_Jellyfish" Value="450684" />
+  <Preset Label="Blurple Drink (recipe_Drink_Snack_Blurple_Powersip)" Value="450786" />
+  <Preset Label="Power-Sip Power-Sweat (recipe_Drink_Snack_Fitness_Powersip)" Value="450967" />
+  <Preset Label="Magical Origami Butterfly (recipe_Papercraft_Origami_Butterfly_UltimateButterfly)" Value="451857" />
+  <Preset Label="Doodle Cootie Catcher (recipe_Papercraft_Origami_CootieCatcher_01)" Value="452264" />
+  <Preset Label="Voidcritter Cootie Catcher (recipe_Papercraft_Origami_CootieCatcher_02)" Value="452265" />
+  <Preset Label="Fun Time Cootie Catcher (recipe_Papercraft_Origami_CootieCatcher_03)" Value="452266" />
+  <Preset Label="White Paper Airplane (recipe_Papercraft_Origami_PaperAirplane_01)" Value="452807" />
+  <Preset Label="Black Paper Airplane (recipe_Papercraft_Origami_PaperAirplane_02)" Value="452808" />
+  <Preset Label="Red Paper Airplane (recipe_Papercraft_Origami_PaperAirplane_03)" Value="452809" />
+  <Preset Label="Yellow Paper Airplane (recipe_Papercraft_Origami_PaperAirplane_04)" Value="452810" />
+  <Preset Label="Green Paper Airplane (recipe_Papercraft_Origami_PaperAirplane_05)" Value="452811" />
+  <Preset Label="Blue Paper Airplane (recipe_Papercraft_Origami_PaperAirplane_06)" Value="452812" />
+  <Preset Label="Purple Paper Airplane (recipe_Papercraft_Origami_PaperAirplane_07)" Value="452813" />
+  <Preset Label="X-TREME Muscle! Protein Smoothie (recipe_Drink_Smoothie_XtremeMuscle)" Value="452946" />
+  <Preset Label="Athletic Boost Protein Smoothie (recipe_Drink_Smoothie_AthleticBoost)" Value="452947" />
+  <Preset Label="Eagle Eye Carrot Smoothie (recipe_Drink_Smoothie_Archers)" Value="452948" />
+  <Preset Label="Vitamin Focus Smoothie (recipe_Drink_Smoothie_VitaminFocus)" Value="453222" />
+  <Preset Label="Energizing Apple Spinach Smoothie (recipe_Drink_Smoothie_Energizer)" Value="453223" />
+  <Preset Label="Meal Replacement Peanut Butter Smoothie (recipe_Drink_Smoothie_MealReplacement)" Value="453224" />
+  <Preset Label="Berry Banana Blitz Smoothie (recipe_Drink_Smoothie_BerryBanana)" Value="453225" />
+  <Preset Label="Have a Beautiful Day (recipe_Papercraft_Card_Friendship_01)" Value="456159" />
+  <Preset Label="Winter Greetings (recipe_Papercraft_Card_Friendship_02)" Value="456160" />
+  <Preset Label="Don't You Gnome You're My Friend (recipe_Papercraft_Card_Friendship_03)" Value="456161" />
+  <Preset Label="Blooming Friendship (recipe_Papercraft_Card_Friendship_04)" Value="456162" />
+  <Preset Label="Haunted Hello (recipe_Papercraft_Card_Friendship_05)" Value="456163" />
+  <Preset Label="Fluttering Friendship (recipe_Papercraft_Card_Friendship_06)" Value="456164" />
+  <Preset Label="Two-Hearts (recipe_Papercraft_Card_Love_01)" Value="456165" />
+  <Preset Label="Love is in the Air (recipe_Papercraft_Card_Love_02)" Value="456166" />
+  <Preset Label="Fairy Bread (recipe_Food_MarketStalls_EP20Festival_FairyBread)" Value="457488" />
+  <Preset Label="Jellyfish Salad (recipe_Food_MarketStalls_EP20Festival_JellyfishSalad)" Value="457489" />
+  <Preset Label="Power-Sip Power-Sweat (recipe_Drink_MarketStalls_PowerSipFitness)" Value="458652" />
+  <Preset Label="Blurple Drink (recipe_Drink_MarketStalls_PowerSipKid)" Value="458653" />
+  <Preset Label="phaseSimple_Food_BakingPan_SaltBakedFish" Value="459372" />
+  <Preset Label="Fairy Bread (recipe_Food_Snack_Fairy_Bread)" Value="461476" />
+  <Preset Label="Bear-y Fond of You (recipe_Papercraft_Card_Love_03)" Value="471023" />
+  <Preset Label="Tied to My Heart (recipe_Papercraft_Card_Love_04)" Value="471024" />
+  <Preset Label="Blue 'Peculiar Plumbird' Mask (recipe_Papercraft_PaperMache_Mask_01)" Value="471026" />
+  <Preset Label="Green 'Peculiar Plumbird' Mask (recipe_Papercraft_PaperMache_Mask_02)" Value="471027" />
+  <Preset Label="Pink 'Peculiar Plumbird' Mask (recipe_Papercraft_PaperMache_Mask_03)" Value="471028" />
+  <Preset Label="Teal 'Peculiar Plumbird' Mask (recipe_Papercraft_PaperMache_Mask_04)" Value="471029" />
+  <Preset Label="Purple 'Peculiar Plumbird' Mask (recipe_Papercraft_PaperMache_Mask_05)" Value="471030" />
+  <Preset Label="Red 'Peculiar Plumbird' Mask (recipe_Papercraft_PaperMache_Mask_06)" Value="471031" />
+  <Preset Label="White 'Peculiar Plumbird' Mask (recipe_Papercraft_PaperMache_Mask_07)" Value="471032" />
+  <Preset Label="Black 'Peculiar Plumbird' Mask (recipe_Papercraft_PaperMache_Mask_08)" Value="471033" />
+  <Preset Label="Celebration Card (recipe_Papercraft_Card_Themed_01_Celebration)" Value="473462" />
+  <Preset Label="Consolation Card (recipe_Papercraft_Card_Themed_02_Consolation)" Value="473463" />
+  <Preset Label="The Rainbow Calamity (recipe_Drink_Smoothie_Rainbow)" Value="473723" />
+  <Preset Label="The Purge Sequence (recipe_Drink_Smoothie_Purge)" Value="473724" />
+  <Preset Label="Slim Chocolate Shake (recipe_Drink_Smoothie_Slim)" Value="473725" />
+  <Preset Label="Papercraft 101: From Sheet to Masterpiece (recipe_Book_Manual_Papercraft)" Value="487297" />
+  <Preset Label="phaseSimple_Food_FinalProduct_PlaceOnCounter_FairyBread" Value="488587" />
+</PresetGroup>

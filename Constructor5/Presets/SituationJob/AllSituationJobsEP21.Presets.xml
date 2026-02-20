@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Situation Jobs EP21">
+  <Preset Label="{M0.Guest}{F0.Guest} (job_Guest_Ballroom)" Value="461959" />
+  <Preset Label="{M0.Host}{F0.Host} (job_Host_Ballroom)" Value="461960" />
+  <Preset Label="Tutor (job_TutorService)" Value="466127" />
+  <Preset Label="Upgrade Technician (job_UpgradeService)" Value="466669" />
+  <Preset Label="Coronator (job_Career_Noble_Coronator)" Value="473612" />
+  <Preset Label="Court Guest (job_Career_Noble_GuestCommoner_Court)" Value="473912" />
+  <Preset Label="Court Guest (job_Career_Noble_GuestNoble_Court)" Value="473913" />
+  <Preset Label="Court Host (job_Career_Noble_Host_Court)" Value="473914" />
+  <Preset Label="Noble Advisor (job_Career_Noble_NobleAdvisor)" Value="473915" />
+  <Preset Label="jobs_Venue_DambeleMarket_ShopperGroup" Value="474376" />
+  <Preset Label="jobs_Venue_DambeleMarket_Shopper" Value="474384" />
+  <Preset Label="jobs_Venue_DambeleMarket_Cook" Value="479053" />
+  <Preset Label="Party Crasher (job_Dynasty_RivalPartyCrasher)" Value="480226" />
+  <Preset Label="jobs_Open_Streets_GoldWorld_Recite" Value="480622" />
+  <Preset Label="walker_Job_EP21World_SchoolCommuter" Value="480838" />
+  <Preset Label="Press Conference Host (job_Career_Noble_Host_PressConference)" Value="480950" />
+  <Preset Label="Press Conference Guest (job_Career_Noble_GuestCommoner_PressConference)" Value="481022" />
+  <Preset Label="Press Conference Guest (job_Career_Noble_GuestNoble_PressConference)" Value="481023" />
+  <Preset Label="Duellist (job_SimCompetition_Actor_SwordsmanshipTournament)" Value="482376" />
+  <Preset Label="job_SimCompetition_SwordsmanshipTournament_Spectator" Value="483315" />
+  <Preset Label="Vendor (situationJob_MarketStalls_Vendor_EP21World)" Value="483359" />
+  <Preset Label="Neighbor (jobs_WelcomeWagon_FoodBearer_Neighbour_EP21World)" Value="483734" />
+  <Preset Label="Neighbor (jobs_WelcomeWagon_DoorKnocker_Neighbor_EP21World)" Value="483736" />
+  <Preset Label="Neighbor (jobs_WelcomeWagon_Welcoming_Neighbor_EP21World)" Value="483739" />
+  <Preset Label="Burglar? (Job_RobinHood)" Value="484492" />
+  <Preset Label="Duellist (job_SimCompetition_NPC_SwordsmanshipTournament_Level1)" Value="484622" />
+  <Preset Label="Duellist (job_SimCompetition_NPC_SwordsmanshipTournament_Level2)" Value="484623" />
+  <Preset Label="Duellist (job_SimCompetition_NPC_SwordsmanshipTournament_Level3)" Value="484624" />
+  <Preset Label="Happy Commoner (jobs_NobleFavor_NobleGifts_Commoner_Positive)" Value="485059" />
+  <Preset Label="Angry Commoner (jobs_NobleFavor_NobleGifts_Commoner_Negative)" Value="485060" />
+  <Preset Label="Angry Royal (jobs_NobleFavor_NobleGifts_Royal_Negative)" Value="485061" />
+  <Preset Label="Happy Royal (jobs_NobleFavor_NobleGifts_Royal_Positive)" Value="485062" />
+  <Preset Label="job_EP21World_Swordsmanship" Value="487265" />
+  <Preset Label="job_EP21World_CriminalMeetup" Value="488455" />
+  <Preset Label="job_EP21World_AngryGhost" Value="488741" />
+  <Preset Label="walker_Job_Park_Relaxer_Noble" Value="488750" />
+  <Preset Label="jobs_Open_Streets_Autonomy_GoldWorld_NobleRebel" Value="489052" />
+  <Preset Label="job_EP21World_Swordsmanship_Noble" Value="489257" />
+  <Preset Label="walker_Job_GardenDistrict_Park_AfterDark_Nobles" Value="489336" />
+  <Preset Label="job_EP21World_Commoners" Value="489352" />
+  <Preset Label="job_visitor_Angry_NoGoodbye_CrisisProtest" Value="489463" />
+  <Preset Label="job_visitor_Angry_NoGoodbye_CrisisProtest_Additional" Value="489754" />
+  <Preset Label="jobs_Open_Streets_Autonomy_GoldWorld_AnyCommoner" Value="495010" />
+  <Preset Label="walkby_jobs_Swimmer_RobinHood" Value="496590" />
+  <Preset Label="job_open_streets_jogger_RobinHood" Value="496593" />
+  <Preset Label="job_barfly_regulars_RobinHood" Value="497961" />
+  <Preset Label="walkby_jobs_RoyalBoat" Value="498338" />
+  <Preset Label="job_barfly_regulars_Backroom" Value="498552" />
+  <Preset Label="job_barfly_player_BackroomNight" Value="498559" />
+  <Preset Label="job_barfly_player_BackroomDay" Value="498572" />
+  <Preset Label="Job_InformationBroker" Value="500452" />
+</PresetGroup>

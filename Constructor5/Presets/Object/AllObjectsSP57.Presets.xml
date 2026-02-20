@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP57">
+  <Preset Label="object_sitLiving_SP57retro" Value="422971" />
+  <Preset Label="object_light_Candle_SP57" Value="423338" />
+</PresetGroup>

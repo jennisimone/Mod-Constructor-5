@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Situation Jobs EP19">
+  <Preset Label="{1.String} (job_Career_Naturopath_Player)" Value="434734" />
+  <Preset Label="job_MotherNature" Value="435355" />
+  <Preset Label="Garden Pal (situationJob_BasicTrait_EP19Quests_GreenMan)" Value="436927" />
+  <Preset Label="situationJob_GreenMan" Value="437099" />
+  <Preset Label="Client (situationJob_NaturopathCareer_AfflictedAdmitted)" Value="439359" />
+  <Preset Label="jobs_EP19Quests_Fairy" Value="441032" />
+  <Preset Label="Gnome Enthusiast (situationJob_BasicTrait_EP19Quests_Gnome)" Value="441057" />
+  <Preset Label="walker_job_RingDoorbell_FairyPassage" Value="441146" />
+  <Preset Label="Vendor (situationJob_MarketStalls_Vendor_EP19World_GnomeShop)" Value="441237" />
+  <Preset Label="Vendor (situationJob_MarketStalls_Vendor_EP19World_ApothecaryShop)" Value="441264" />
+  <Preset Label="Apothecary Vendor (situationJob_BasicTrait_EP19Quests_Apothecary)" Value="441272" />
+  <Preset Label="Tradesperson (situationJob_BasicTrait_EP19Quests_Trade)" Value="441736" />
+  <Preset Label="Mystical Fairy (situationJob_BasicTrait_EP19Quests_Fairy)" Value="441737" />
+  <Preset Label="Fairy Council Liaison (situationJob_BasicTrait_EP19Quests_Liaison)" Value="441774" />
+  <Preset Label="jobs_Open_Streets_Autonomy_EP19World_CoastalTourist" Value="443586" />
+  <Preset Label="jobs_Open_Streets_Autonomy_EP19World_PlantSim" Value="443587" />
+  <Preset Label="jobs_Open_Streets_Autonomy_EP19World_Fairy" Value="443588" />
+  <Preset Label="Fairy Council Liaison (jobs_WelcomeWagon_EP19World_NPCLiaison)" Value="443763" />
+  <Preset Label="Mother Nature (situationJob_BasicTrait_EP19NPC_MotherNature)" Value="443793" />
+  <Preset Label="jobs_OpenStreets_EP19Quests_Trade" Value="444643" />
+  <Preset Label="jobs_OpenStreets_EP19Quests_Fairy" Value="444644" />
+  <Preset Label="jobs_OpenStreets_EP19Quests_Liaison" Value="444645" />
+  <Preset Label="walkby_job_EP19World_FairyNotFairyForm" Value="445984" />
+  <Preset Label="job_MotherNature_Ring" Value="464619" />
+  <Preset Label="job_barfly_FairyPassage" Value="466353" />
+  <Preset Label="job_barfly_lounge_FairyPassage" Value="466354" />
+</PresetGroup>

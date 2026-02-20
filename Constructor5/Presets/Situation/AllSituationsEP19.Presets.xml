@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Situations EP19">
+  <Preset Label="situation_GnomeFunc_BringToLife_Gardening" Value="414684" />
+  <Preset Label="situation_GnomeFunc_BringToLife_Protecting" Value="417250" />
+  <Preset Label="situation_GnomeFunc_BringToLife_Cleaning" Value="417251" />
+  <Preset Label="situation_GnomeFunc_BringToLife_RepairingUpgrades" Value="417252" />
+  <Preset Label="Situation_GnomeFunc_EvilGnomes" Value="428741" />
+  <Preset Label="situation_GnomeFunc_EvilGnomes_Beserk" Value="433598" />
+  <Preset Label="situation_GnomeFunc_BringToLife_Cleaning_CreateGnomes" Value="433842" />
+  <Preset Label="situation_GnomeFunc_BringToLife_Gardening_CreateGnomes" Value="433844" />
+  <Preset Label="situation_GnomeFunc_BringToLife_Protecting_CreateGnomes" Value="433846" />
+  <Preset Label="situation_GnomeFunc_BringToLife_RepairingUpgrades_CreateGnomes" Value="433848" />
+  <Preset Label="Seeing Clients at Home (eventSituation_NaturopathCareer_Day01)" Value="434730" />
+  <Preset Label="basicTraitSitaution_EP19Quests_GreenMan" Value="436928" />
+  <Preset Label="Client (situation_Career_Naturopath_NPC_Afflicted_Admitted)" Value="439378" />
+  <Preset Label="basicTraitSitaution_EP19Quests_Gnome" Value="441056" />
+  <Preset Label="situation_walkby_RingDoorbell_FairyPassage" Value="441145" />
+  <Preset Label="villageVendorSpecificSimSituation_EP19World_GnomeShop" Value="441236" />
+  <Preset Label="villageVendorSpecificSimSituation_EP19World_ApothecaryShop" Value="441243" />
+  <Preset Label="basicTraitSitaution_EP19Quests_Apothecary" Value="441271" />
+  <Preset Label="basicTraitSitaution_EP19Quests_Trade" Value="441738" />
+  <Preset Label="basicTraitSitaution_EP19Quests_Fairy" Value="441739" />
+  <Preset Label="basicTraitSitaution_EP19Quests_Liaison" Value="441773" />
+  <Preset Label="situation_TeleportStone_TravelWith" Value="443124" />
+  <Preset Label="situation_Career_Naturopathic_Afflicted" Value="443195" />
+  <Preset Label="openStreetsAutonomySituation_EP19World_PlantSim" Value="443600" />
+  <Preset Label="openStreetsAutonomySituation_AffectedByWeather_EP19World_CoastalTourist" Value="443601" />
+  <Preset Label="openStreetsAutonomySituation_AffectedByWeather_EP19World_FairyForm" Value="443602" />
+  <Preset Label="Welcome Wagon  (situation_welcomeWagon_EP19World)" Value="443689" />
+  <Preset Label="preWelcomeWagon_EP19World" Value="443762" />
+  <Preset Label="situation_EP19NPC_MotherNature_FairyJourney_Human" Value="443791" />
+  <Preset Label="situation_EP19NPC_MotherNature_FairyJourney_Fairy" Value="443792" />
+  <Preset Label="basicTraitSitaution_EP19NPC_MotherNature" Value="443794" />
+  <Preset Label="situation_EP19Quests_OpenStreet_Trade" Value="444639" />
+  <Preset Label="situation_EP19Quests_OpenStreet_Fairy" Value="444640" />
+  <Preset Label="situation_EP19Quests_OpenStreet_Liaison" Value="444641" />
+  <Preset Label="situation_EP19Quests_Zhaleh_Ring" Value="444650" />
+  <Preset Label="situation_EP19Quests_MotherNature_Ring" Value="444651" />
+  <Preset Label="situation_EP19Quests_OpenStreet_Trade_coastal" Value="444698" />
+  <Preset Label="situation_GreenMan_Summon" Value="445902" />
+  <Preset Label="situation_walkby_ambientFairyNotFairyForm" Value="445985" />
+  <Preset Label="Seeing Clients at Home (careerEventSituation_NaturopathCareer_Low_Ailments)" Value="449166" />
+  <Preset Label="situation_GreenMan_Summon_OpenStreet" Value="461209" />
+  <Preset Label="situation_BarBarfly_FairyPassage" Value="466355" />
+  <Preset Label="situation_LoungeVenue_Barfly_FairyPassage" Value="466356" />
+</PresetGroup>

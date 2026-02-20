@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Test Based Scores EP21">
+  <Preset Label="testBasedScore_Dynasty_Membership_JoinWillingness_PickedSim" Value="471351" />
+  <Preset Label="testBasedScore_Dynasty_Membership_JoinWillingness_TargetSim" Value="471352" />
+  <Preset Label="testBasedScore_Dynasty_Membership_InviteWillingness_PickedSim" Value="471423" />
+  <Preset Label="testBasedScore_Dynasty_Membership_InviteWillingness_Actor" Value="471424" />
+  <Preset Label="testBasedScore_Dynasty_Titles_Heir_TargetDeclaresActor" Value="473904" />
+  <Preset Label="testBasedScore_Dynasty_Titles_Heir_ActorDeclaresTarget" Value="473905" />
+  <Preset Label="testBasedScore_Dynasty_Titles_Heir_ActorUnmakesTarget" Value="474993" />
+  <Preset Label="testBasedScore_Dynasty_Membership_Leave" Value="475181" />
+  <Preset Label="scores_socialoutcomes_mean_ScandalSecret_Blackmail" Value="475515" />
+  <Preset Label="testBasedScore_Dynasty_Alliance_Willingness_ActorTowardsTargetSim" Value="479345" />
+  <Preset Label="testBasedScore_Dynasty_Alliance_Willingness_TargetSimTowardsActor" Value="479451" />
+  <Preset Label="testBasedScore_Dynasty_Rivalry_Willingness_TargetSimTowardsActor" Value="479760" />
+  <Preset Label="testBasedScore_Dynasty_Rivalry_Willingness_MemberAsk_TargetSimTowardsActorHead" Value="480259" />
+  <Preset Label="testBasedScore_Dynasty_Rivalry_Willingness_MemberAsk_TargetSimTowardsPickedSim" Value="480265" />
+  <Preset Label="testBasedScore_Dynasty_Titles_BlackSheepReaction_TargetSimTowardsActor" Value="480447" />
+  <Preset Label="testBasedScore_Dynasty_AskPermissionToMarry_FromActorFamily" Value="481344" />
+  <Preset Label="testBasedScore_Dynasty_AskPermissionToMarry_FromSOFamily" Value="481346" />
+  <Preset Label="testBasedScore_Dynasty_AskPermissionToMarry_PostEngagementCheck" Value="487288" />
+  <Preset Label="testBasedScore_Dynasty_Membership_InviteWillingness_ActorDynastyHeadToTarget" Value="490707" />
+  <Preset Label="testBasedScore_Dynasty_Encourage" Value="491198" />
+  <Preset Label="testBasedScore_Dynasty_Encourage_WithPickedSim_Romance" Value="491218" />
+  <Preset Label="testBasedScore_Dynasty_Encourage_WithPickedSim_Friendship" Value="491229" />
+  <Preset Label="testBasedScore_Dynasty_Encourage_WithPickedSim_Anti_Friendship" Value="491230" />
+  <Preset Label="testBasedScore_Dynasty_Encourage_WithPickedSim_Anti_Romance" Value="491231" />
+  <Preset Label="testBasedScore_Dynasty_Titles_Heir_ActorBecomesHead" Value="491560" />
+  <Preset Label="testBasedScore_Dynasty_MockDynasty" Value="496729" />
+  <Preset Label="testBasedScore_Dynasty_Membership_ExcludeWillingness_PickedSim" Value="500630" />
+  <Preset Label="testBasedScore_Dynasty_Rivalry_Willingness_ActorTowardsTargetSim" Value="500668" />
+  <Preset Label="testBasedScore_Dynasty_DeclareBlackSheep_ActorTowardsTarget" Value="502073" />
+  <Preset Label="testBasedScore_Dynasty_DeclareBlackSheep_ActorDynastyHeadTowardsActor" Value="502074" />
+</PresetGroup>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Buffs SP46">
+  <Preset Label="Kaching! (buff_StreetFoodTable_Kaching)" Value="336130" />
+  <Preset Label="Agent of Chaos (buff_StreetFoodTable_AgentOfChaos)" Value="336131" />
+  <Preset Label="Satisfied Customer (buff_StreetFoodTable_SatisfiedCustomer)" Value="336132" />
+  <Preset Label="buff_StreetFoodTable_ItemSimoleonGain" Value="337607" />
+  <Preset Label="Prepped for Success (buff_PreppedIngredient_PhaseSkip_Meat)" Value="337740" />
+  <Preset Label="Prepped for Success (buff_PreppedIngredient_PhaseSkip_Seafood)" Value="337741" />
+  <Preset Label="Prepped for Success (buff_PreppedIngredient_PhaseSkip_Vegetables)" Value="337742" />
+  <Preset Label="Prepped for Success (buff_PreppedIngredient_PhaseSkip_Dough)" Value="337743" />
+  <Preset Label="Prepped for Success (buff_PreppedIngredient_PhaseSkip_Batter)" Value="337744" />
+  <Preset Label="Prepped for Success (buff_PreppedIngredient_PhaseSkip_CookieDough)" Value="337745" />
+  <Preset Label="What Have I Done (buff_StreetFoodTable_AgentOfChaos_Good)" Value="338306" />
+  <Preset Label="Pizza is Out There (buff_Food_PizzaCurious)" Value="339863" />
+  <Preset Label="Carbspiration (buff_Food_FocacciaArtful)" Value="339865" />
+  <Preset Label="Desirable Snack (buff_Food_WaffleValentine)" Value="340184" />
+  <Preset Label="That Waffle was Heavenly! (buff_Food_WafflePositivePleasant)" Value="340185" />
+  <Preset Label="That Waffle had Horns! (buff_Food_WaffleNegativePleasant)" Value="340186" />
+  <Preset Label="{0.SimFirstName}'s business? Your unfinished business! (buff_StreetFoodTable_AmbrosiaSold)" Value="340475" />
+  <Preset Label="buff_StreetFoodTable_ConviceToBuy_Cooldown" Value="341381" />
+  <Preset Label="Buff_Role_Appropriateness_AllowEating" Value="341707" />
+  <Preset Label="Sometimes things that are expensive, are worse... (buff_StreetFoodTable_PoorQualitySold)" Value="341749" />
+  <Preset Label="Fang-Tastic Deal! (buff_StreetFoodTable_FangtasticDeal)" Value="341750" />
+  <Preset Label="Fang Fixer (buff_StreetFoodTable_FangFixer)" Value="341751" />
+  <Preset Label="Bon App the Teeth! (buff_StreetFoodTable_VampireGarlicSold)" Value="341752" />
+  <Preset Label="Prepped for Success (buff_PreppedIngredient_PhaseSkip_MeatSubstitute)" Value="342602" />
+  <Preset Label="Veggie Victory (buff_StreetFoodTable_VeggieVictory)" Value="343225" />
+  <Preset Label="Live Fast, Eat Trash! (buff_StreetFoodTable_TrashSold)" Value="343226" />
+  <Preset Label="Coolest Vendor on the Street (buff_StreetFoodTable_CoolestVendor)" Value="343227" />
+  <Preset Label="The food is out there... (buff_StreetFoodTable_PizzaCuriousSold)" Value="343228" />
+  <Preset Label="Buff_Role_Appropriateness_AllowEating_TimeLimited" Value="343572" />
+  <Preset Label="Meat the Beast (buff_StreetFoodTable_MeatTheBeast)" Value="343745" />
+  <Preset Label="buff_PreppedIngredient_NoPhaseSkip_Batter" Value="344534" />
+  <Preset Label="buff_PreppedIngredient_NoPhaseSkip_Dough" Value="344535" />
+  <Preset Label="Prepped for Success (buff_PreppedIngredient_PhaseSkip_BatterLactoseFree)" Value="344866" />
+  <Preset Label="buff_StreetFoodTable_ConvinceToBuy_BlockBrowse" Value="345286" />
+  <Preset Label="Tamed the Beast (buff_StreetFoodTable_WerewolfCureSold)" Value="345926" />
+  <Preset Label="More Soup For You! (buff_StreetFoodTable_SoupSold)" Value="347608" />
+  <Preset Label="buff_TrashFruit" Value="351459" />
+</PresetGroup>

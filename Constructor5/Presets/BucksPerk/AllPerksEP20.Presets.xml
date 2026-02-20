@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Perks EP20">
+  <Preset Label="Diving Skill Boost (clubPerks_SkillBoost_AdultMinor_DivingBoard)" Value="486288" />
+  <Preset Label="Papercrafting Boost (clubPerks_SkillBoost_AdultMajor_Papercraft)" Value="486307" />
+  <Preset Label="Entomology Boost (clubPerks_SkillBoost_AdultMinor_Entomology)" Value="486308" />
+  <Preset Label="Archery Boost (clubPerks_SkillBoost_AdultMinor_Archery)" Value="486338" />
+</PresetGroup>

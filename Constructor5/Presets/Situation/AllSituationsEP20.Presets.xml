@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Situations EP20">
+  <Preset Label="preWelcomeWagon_EP20World" Value="440491" />
+  <Preset Label="Welcome Wagon  (situation_welcomeWagon_EP20World)" Value="440492" />
+  <Preset Label="situation_CustomState_HideAndSeek" Value="442955" />
+  <Preset Label="situation_SpinningClass_Instructor" Value="446573" />
+  <Preset Label="spinningClassSituation" Value="447796" />
+  <Preset Label="situation_Cryptid_Nest" Value="448959" />
+  <Preset Label="situation_GreetedNPCVisitingPlayerSituation_ChildhoodSentiment__NowWereCooking" Value="449217" />
+  <Preset Label="situation_EP20World_Walkbys_Artisans_Painter" Value="450014" />
+  <Preset Label="situation_EP20World_Walkbys_Artisans_Crafter" Value="450015" />
+  <Preset Label="eP20Festival_Employee_GlowAndFlow_Grill" Value="450016" />
+  <Preset Label="festival_EP20Festival_RoundTheFire_NPC" Value="450317" />
+  <Preset Label="festival_EP20Festival_SunriseSunset_Child" Value="450318" />
+  <Preset Label="festival_EP20Festival_GlowAndFlow_NPC" Value="450319" />
+  <Preset Label="festival_EP20Festival_FashionAndFitness_NPC" Value="450320" />
+  <Preset Label="festival_EP20Festival_SunriseSunset_Elder" Value="450382" />
+  <Preset Label="festival_PlayerSituations_EP20Festival_FashionAndFitness" Value="450384" />
+  <Preset Label="festival_PlayerSituations_EP20Festival_RoundTheFire" Value="450385" />
+  <Preset Label="festival_PlayerSituations_EP20Festival_GlowAndFlow" Value="451113" />
+  <Preset Label="festival_EP20Festival_RoundTheFire_StoryTeller" Value="454692" />
+  <Preset Label="festival_EP20Festival_MarketStall_Vendor" Value="454961" />
+  <Preset Label="basicTraitSitaution_EP20World_NPCs_Storyteller" Value="456570" />
+  <Preset Label="basicTraitSitaution_EP20World_NPCs_LostAdventurer" Value="456571" />
+  <Preset Label="basicTraitSitaution_EP20World_NPCs_ButterflyConservationist" Value="456572" />
+  <Preset Label="specificSimCustomStatesSituation_EP20World_NPCs_ButterflyConservationist" Value="456577" />
+  <Preset Label="specificSimCustomStatesSituation_EP20World_NPCs_LostAdventurer" Value="456578" />
+  <Preset Label="specificSimCustomStatesSituation_EP20World_NPCs_Storyteller" Value="456579" />
+  <Preset Label="specificSimCustomStatesSituation_EP20World_NPCs_ButterflyConservationist_Vegetation" Value="456670" />
+  <Preset Label="basicTraitSitaution_EP20World_NPCs_Collector" Value="456756" />
+  <Preset Label="Getaway (getawayPlayerFacingSituation)" Value="456972" />
+  <Preset Label="openStreetsAutonomy_TheCollector_EP20" Value="457507" />
+  <Preset Label="openStreetsAutonomySituation_EP20World_Busker" Value="457519" />
+  <Preset Label="openStreetsAutonomySituation_EP20World_Playground" Value="457530" />
+  <Preset Label="openStreetsAutonomySituation_EP20World_Campfire" Value="457531" />
+  <Preset Label="openStreetsAutonomySituation_EP20World_Tourists" Value="457532" />
+  <Preset Label="situation_EP20_IF_SpawnFriend" Value="460865" />
+  <Preset Label="spinningClassSituation_HiredInstructor" Value="461028" />
+  <Preset Label="situation_EP20World_Walkbys_Kayak" Value="461857" />
+  <Preset Label="openStreetsAutonomySituation_EP20World_Walkby_Cryptid" Value="461892" />
+  <Preset Label="festival_EP20Festival_RoundTheFire_CryptidFan" Value="462788" />
+  <Preset Label="festival_EP20Festival_RoundTheFire_CryptidHerself" Value="462989" />
+  <Preset Label="situation_NPCInvites_ChildhoodSentiment_FestivalTime" Value="463507" />
+  <Preset Label="evenSituation_EP20Festival_ArcheryContest" Value="463656" />
+  <Preset Label="situationWaterScooterWalkby_EP20World_Kayak" Value="463699" />
+  <Preset Label="festival_EP20Festival_SpinClass" Value="463865" />
+  <Preset Label="festival_EP20Festival_SpinInstructor" Value="464124" />
+  <Preset Label="festival_EP20Festival_SpinStudent" Value="464125" />
+  <Preset Label="festival_EP20Festival_Archer" Value="464126" />
+  <Preset Label="situation_EP20_IF_SpawnFriend_GoodbyeForever" Value="464190" />
+  <Preset Label="customScheduleBackgroundSituation_1" Value="464260" />
+  <Preset Label="situation_EP20_IF_SpawnFriend_OfferMakeReal" Value="464327" />
+  <Preset Label="openStreetsAutonomySituation_EP20World_Locals" Value="465323" />
+  <Preset Label="festival_PlayerSituations_EP20Festival_SunriseSunset" Value="465817" />
+  <Preset Label="spinningClassSituation_PlayerLed_Free" Value="465920" />
+  <Preset Label="situation_EP20World_Walkbys_Papercraft_PaperMache_Mask" Value="474753" />
+  <Preset Label="openStreetsAutonomySituation_EP20World_Guitar" Value="481883" />
+  <Preset Label="festival_EP20Festival_FashionAndFitness_NPC_Regular" Value="482872" />
+  <Preset Label="festival_EP20Festival_RoundTheFire_Guitar" Value="485168" />
+</PresetGroup>

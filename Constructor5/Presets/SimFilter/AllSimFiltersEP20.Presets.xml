@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Sim Filters EP20">
+  <Preset Label="filter_Cryptid" Value="447370" />
+  <Preset Label="situationFilters_EP20World_Walkbys_Painter" Value="448007" />
+  <Preset Label="situationFilters_EP20World_Walkbys_Crafter" Value="448018" />
+  <Preset Label="situationFilters_EP20World_Walkbys_Guitar" Value="448019" />
+  <Preset Label="filter_Basic_TYAE_EP20Festival_FashionAndFitness_NPC" Value="451348" />
+  <Preset Label="dynamicSimFilter_customSchedule" Value="451880" />
+  <Preset Label="filter_EP20World_NPCs_Collector" Value="456707" />
+  <Preset Label="filter_EP20World_NPCs_Storyteller" Value="456708" />
+  <Preset Label="filter_EP20World_NPCs_ButterflyConservationist" Value="456709" />
+  <Preset Label="filter_EP20World_NPCs_LostAdventurer" Value="456710" />
+  <Preset Label="filter_Situation_PlayerFacing_SpinningInstructor" Value="461021" />
+  <Preset Label="filter_Situation_PlayerFacing_SpinningClass_ClassMember" Value="461022" />
+  <Preset Label="filter_EP20World_Locals" Value="465321" />
+  <Preset Label="filter_Situation_PlayerFacing_SpinningClass_ClassMember_Free" Value="465926" />
+  <Preset Label="dynamicSimFilter_customScheduleHasMet" Value="468950" />
+  <Preset Label="filter_EP20World_NPCs_Laxmi" Value="469978" />
+  <Preset Label="filter_EP20World_NPCs_SkipBroke" Value="469979" />
+  <Preset Label="filter_Situation_Background_Basic_YAE_EP20World_WelcomeWagon" Value="481635" />
+  <Preset Label="filter_Basic_TYAE_EP20Festival_RoundTheFire_Guitar" Value="483767" />
+  <Preset Label="filter_Basic_TYAE_EP20Festival_FashionAndFitness_Archer" Value="485670" />
+  <Preset Label="filter_Situation_PlayerFacing_Getaway_CustomSchedule" Value="491002" />
+</PresetGroup>

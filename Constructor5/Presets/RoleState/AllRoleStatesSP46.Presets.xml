@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Role States SP46">
+  <Preset Label="roleState_StreetFoodTable_Customer" Value="341710" />
+  <Preset Label="roleState_StreetFoodTable_OpenStreetCustomer" Value="341712" />
+  <Preset Label="roleState_StreetFoodTable_Customer_Indoors" Value="351620" />
+</PresetGroup>

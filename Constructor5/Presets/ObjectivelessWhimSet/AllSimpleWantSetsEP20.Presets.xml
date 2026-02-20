@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Simple Want Sets EP20">
+  <Preset Label="objectivelessWhimSet_ChildhoodInspiration_LookForInspiration" Value="455828" />
+  <Preset Label="objectivelessWhimSet_ChildhoodInspiration_FulfilMissedOpportunity" Value="455829" />
+  <Preset Label="whimSet_ButterflyCollection_UltimateButterfly" Value="457412" />
+  <Preset Label="whimSet_ButterflyCollection_PlaceInAtrium" Value="457909" />
+  <Preset Label="whimSet_ButterflyCollection_CatchCryptidMoth" Value="457913" />
+  <Preset Label="whimSet_ButterflyCollection_CatchJellyButterfly" Value="457987" />
+  <Preset Label="whimSet_ButterflyCollection_CatchRedAdmiral" Value="457988" />
+  <Preset Label="whimset_HasTraitCompetitive" Value="460728" />
+  <Preset Label="WhimSet_Competitive_Rematch" Value="460945" />
+  <Preset Label="whimSets_Ep20Festival_RoundTheFire" Value="463892" />
+  <Preset Label="whimSets_Ep20Festival_GlowAndFlow" Value="463893" />
+  <Preset Label="whimSets_Ep20Festival_FashionAndFitness" Value="463894" />
+  <Preset Label="whimSets_Ep20Festival_SunriseSunset" Value="463905" />
+  <Preset Label="whimSets_Ep20Festival_FashionAndFitness_Wednesday" Value="482875" />
+</PresetGroup>

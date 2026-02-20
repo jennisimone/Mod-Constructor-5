@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Situation Goals EP20">
+  <Preset Label="Take a Vacation Day (whim_Careers_TakePTO_ParkWorker)" Value="453004" />
+  <Preset Label="Practice Outdoor Activities (whim_ParkWorker_OutdoorActivities)" Value="453212" />
+  <Preset Label="Learn Everything about the Camp Lore (whim_ParkWorker_AllParkLore)" Value="453969" />
+  <Preset Label="Take on a Formative Challenge (goal_ChildhoodInspiration_LookForInspiration)" Value="455835" />
+  <Preset Label="Acquire a Childhood Formative Moment as an Adult (whim_ChildhoodInspiration_FulfilMissedOpportunity)" Value="455911" />
+  <Preset Label="Craft a Magical Origami Butterfly (eventGoal_Craft_ButterflyCollection_UltimateButterfly)" Value="457407" />
+  <Preset Label="Place Magical Origami Butterfly in the Habitat (situationGoal_ButterflyCollection_PlaceInAtrium)" Value="457911" />
+  <Preset Label="Catch a Cryptid Moth (WantGoal_ButterflyCollection_CatchCryptidMoth)" Value="457916" />
+  <Preset Label="Catch a Jelly Butterfly (wantGoal_ButterflyCollection_CatchJellyButterfly)" Value="457983" />
+  <Preset Label="Catch a Red Admiral Butterfly (wantGoal_ButterflyCollection_CatchRedAdmiral)" Value="457984" />
+  <Preset Label="Play Hide and Seek (whimGoal_HideAndSeek)" Value="458699" />
+  <Preset Label="Meet Other Competitive Sims (whimGoal_Relationship_Competitive_BefriendCompetitiveSims)" Value="460895" />
+  <Preset Label="Win a Game (want_Competitive_WinAGame)" Value="460897" />
+  <Preset Label="Level Up Any Skill (want_Competitive_LevelUpASkill)" Value="460902" />
+  <Preset Label="Research Competitive Metas (want_Competitive_GameMetas)" Value="460936" />
+  <Preset Label="Reach level {0.Number} in any Skill (want_Competitive_MaxOutSkill)" Value="460938" />
+  <Preset Label="Inspire Others to Be Competitive (want_Competitive_Inspire)" Value="460941" />
+  <Preset Label="Win a Game of Blicblock Turbo (want_Competitive_Rematch)" Value="460942" />
+  <Preset Label="Learn More Park Lore (whim_ParkWorker_ParkLore_Study)" Value="462215" />
+  <Preset Label="Make some Jellyfish Salad for an old friend, just like old times! (goal_Actor_ChildhoodSentiment_CookJellyfish)" Value="463494" />
+  <Preset Label="Hop on a Spinning Bike (whim_Ep20Festival_SpinningBike)" Value="463868" />
+  <Preset Label="Find Out More about the Plumbird! (whim_Ep20Festival_Cryptid)" Value="463870" />
+  <Preset Label="High Five a Lil' Buddy (whim_Ep20Festival_HighFive)" Value="463871" />
+  <Preset Label="Wear a Costume (whim_Ep20Festival_Costume)" Value="463872" />
+  <Preset Label="Collect a Rare Butterfly (wantGoal_EP20Festival_Butterfly)" Value="463884" />
+  <Preset Label="Get an Imaginary Friend (Whim_Child_EP20_IF_ImagineUpFriend)" Value="464827" />
+  <Preset Label="Swim the Glowing Waters (situationGoal_EP20Festival_GlowingWater)" Value="466144" />
+</PresetGroup>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Commodity Based Object State Values EP21">
+  <Preset Label="upgrade_SecretPassageway_CuckooBroadcast_Completed" Value="483458" />
+  <Preset Label="upgrade_SecretPassageway_SoundProof_Completed" Value="483459" />
+  <Preset Label="upgrade_SecretPassageway_SoundProof_NotStarted" Value="483461" />
+  <Preset Label="upgrade_SecretPassageway_CuckooBroadcast_NotStarted" Value="483462" />
+  <Preset Label="upgrade_SecretPassageway_SoundProof_Partial" Value="483464" />
+  <Preset Label="upgrade_SecretPassageway_CuckooBroadcast_Partial" Value="483465" />
+  <Preset Label="statueValue_TreasureChests_DestroyObject_Timer_300" Value="500680" />
+  <Preset Label="statueValue_TreasureChests_DestroyObject_Timer_TimesUp" Value="500681" />
+</PresetGroup>

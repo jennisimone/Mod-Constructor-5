@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Social Interactions SP49">
+  <Preset Label="Discuss Crystal Properties (mixer_Social_DiscussCrystalProperties_Targeted_Friendly_alwaysOn_GemologySkill)" Tags="TestUnsafe" Value="352248" />
+  <Preset Label="Take the Shine Off Gemology (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_GemologySkill)" Tags="TestUnsafe" Value="352387" />
+  <Preset Label="Enthuse About Gemology (socials_Targeted_Friendly_SimPreference_Recent_Likes_GemologySkill)" Tags="TestUnsafe" Value="352388" />
+  <Preset Label="Propose (mixer_social_Propose_targeted_romance_relationship_CraftedRing)" Tags="TestUnsafe" Value="356369" />
+  <Preset Label="Propose with Crafted Ring... (mixer_social_Propose_targeted_romance_relationship_CraftedRing_PrePicker)" Tags="TestUnsafe" Value="356371" />
+  <Preset Label="Propose (mixer_social_Propose_targeted_romance_relationship_CraftedRing_FromObject)" Tags="TestUnsafe" Value="356912" />
+  <Preset Label="Show Off Jewelry (mixer_social_GemologyShowOffJewelry_Targeted_Friendly_AlwaysOn)" Tags="TestUnsafe" Value="356914" />
+  <Preset Label="Ask to See Jewelry (mixer_social_GemologyAskToShowOff_Targeted_Friendly_AlwaysOn)" Tags="TestUnsafe" Value="356915" />
+  <Preset Label="Ask for Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_AskFor_Gemology)" Tags="TestUnsafe" Value="383036" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Paid_Gemology)" Tags="TestUnsafe" Value="383044" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Unpaid_Gemology)" Tags="TestUnsafe" Value="383130" />
+</PresetGroup>

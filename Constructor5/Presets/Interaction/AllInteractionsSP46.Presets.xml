@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interactions SP46">
+  <Preset Label="Stock Table (si_StreetFoodTable_StockTable_PushTend)" Value="334995" />
+  <Preset Label="Enable AutoStock (si_StreetFoodTable_Immediate_AutoStock)" Value="335254" />
+  <Preset Label="Place Appliance (objectInInventory_StreetFoodTable_SlotSmallAppliance)" Tags="TestUnsafe" Value="335255" />
+  <Preset Label="Select Small Appliance From {0.SimFirstName}'s Inventory (si_StreetFoodTable_SlotSmallAppliance)" Value="335256" />
+  <Preset Label="Start Food Sale (si_StreetFoodTable_Immediate_FoodSale_StockAndTend)" Value="335458" />
+  <Preset Label="Start Food Sale (si_StreetFoodTable_Immediate_FoodSale_OpenStreet_StockAndTend)" Value="335460" />
+  <Preset Label="Serve Meal (pizzaOven_Grab_PlaceInWorld_Pizza)" Value="336228" />
+  <Preset Label="Serve Meal (pizzaOven_Grab_PlaceInWorld_Focaccia)" Value="336229" />
+  <Preset Label="Collect Meal (pizzaOven_Grab_ToInventory_Pizza)" Value="336230" />
+  <Preset Label="Collect Meal (pizzaOven_Grab_ToInventory_Focaccia)" Value="336231" />
+  <Preset Label="Cook (pizzaOven_StartCrafting)" Value="336238" />
+  <Preset Label="pizzaOven_StartCooking_Pizza" Value="336241" />
+  <Preset Label="Tend Table (si_StreetFoodTable_TendTable)" Value="336346" />
+  <Preset Label="Convince to Buy (objectInSlotPickerInteraction_StreetFoodTable_ConvinceToBuy)" Tags="TestUnsafe" Value="336354" />
+  <Preset Label="autonomous_StreetFoodTable_PurchaseObject_Picker_NPC" Tags="TestUnsafe" Value="336454" />
+  <Preset Label="Purchase {1.ObjectName} (si_StreetFoodTable_PurchaseObject_Autonomous)" Value="336455" />
+  <Preset Label="Speedy Bake (pizzaOven_Upgrade_FasterCooking)" Value="336536" />
+  <Preset Label="Continue Upgrading Speedy Bake (pizzaOven_UpgradeContinue_FasterCooking)" Value="336537" />
+  <Preset Label="Browse Table (StreetFoodTable_BrowseTable)" Value="336543" />
+  <Preset Label="Speedy Bake (pizzaOven_Upgrades_CompletedDisplay_FasterCooking)" Value="336564" />
+  <Preset Label="aggregateSuperInteraction_StreetFoodTable_PurchaseObject" Value="336773" />
+  <Preset Label="autonomous_StreetFoodTable_PurchaseFood_Picker_NPC_Vegetarian" Tags="TestUnsafe" Value="336775" />
+  <Preset Label="autonomous_StreetFoodTable_PurchaseFood_Picker_NPC_NoPreference" Tags="TestUnsafe" Value="336776" />
+  <Preset Label="autonomous_StreetFoodTable_PurchaseFood_Picker_NPC_ChildOcean" Tags="TestUnsafe" Value="336777" />
+  <Preset Label="autonomous_StreetFoodTable_PurchaseFood_Picker_NPC_LactoseIntolerant" Tags="TestUnsafe" Value="336778" />
+  <Preset Label="autonomous_StreetFoodTable_PurchaseFood_Picker_NPC_Vampire" Tags="TestUnsafe" Value="336779" />
+  <Preset Label="autonomous_StreetFoodTable_PurchaseFood_Picker_NPC_WerewolfCarnivore" Tags="TestUnsafe" Value="336780" />
+  <Preset Label="Stock Table (si_StreetFoodTable_StockTable)" Value="336897" />
+  <Preset Label="autonomous_StreetFoodTable_PurchaseFood_Picker_NPC_Ghost" Tags="TestUnsafe" Value="336898" />
+  <Preset Label="Purchase {1.ObjectName} (si_StreetFoodTable_PurchaseEatFood_Autonomous)" Value="336899" />
+  <Preset Label="Purchase {1.ObjectName} (si_StreetFoodTable_DestroyObject_Autonomous)" Value="336902" />
+  <Preset Label="pizzaOven_StartCooking_Focaccia" Value="336915" />
+  <Preset Label="Prepped Ingredient (debugCreateCraftable_PreppedIngredient)" Value="337393" />
+  <Preset Label="Repair (object_Repair_PizzaOven)" Value="337422" />
+  <Preset Label="Insta-Repair! (object_Knack_FixIt_PizzaOven)" Value="337423" />
+  <Preset Label="autonomous_StreetFoodTable_PurchaseFood_Picker_NPC_VegetarianLactose" Tags="TestUnsafe" Value="337431" />
+  <Preset Label="autonomous_StreetFoodTable_PurchaseFood_Picker_NPC_ChildOceanLactose" Tags="TestUnsafe" Value="337432" />
+  <Preset Label="Clean (PizzaOven_Clean)" Value="337516" />
+  <Preset Label="Empty (PizzaOven_Empty)" Value="337518" />
+  <Preset Label="Add Self-Cleaning (pizzaOven_Upgrade_SelfCleaning)" Value="337521" />
+  <Preset Label="Continue Upgrading Self-Cleaning (pizzaOven_UpgradeContinue_SelfCleaning)" Value="337522" />
+  <Preset Label="Add Unbreakable (pizzaOven_Upgrade_Unbreakable)" Value="337523" />
+  <Preset Label="Continue Upgrading Unbreakable (pizzaOven_UpgradeContinue_Unbreakable)" Value="337524" />
+  <Preset Label="Self-Cleaning (pizzaOven_Upgrades_CompletedDisplay_SelfCleaning)" Value="337525" />
+  <Preset Label="Unbreakable (pizzaOven_Upgrades_CompletedDisplay_Unbreakable)" Value="337536" />
+  <Preset Label="Cook (pizzaOven_StartCrafting_RequiredIngredients)" Value="337616" />
+  <Preset Label="Instant Upgrade (object_Knack_MakeAwesome_PizzaOven)" Value="337618" />
+  <Preset Label="Change Business Details... (rename_StreetFoodTable)" Value="337816" />
+  <Preset Label="Serve Waffles (waffleMaker_Grab)" Value="337911" />
+  <Preset Label="Collect Waffles (waffleMaker_Grab_ToInventory)" Value="337912" />
+  <Preset Label="Cook (waffleMaker_StartCrafting)" Value="337918" />
+  <Preset Label="Cook (waffleMaker_StartCrafting_RequiredIngredients)" Value="337919" />
+  <Preset Label="waffleMaker_StartCooking" Value="337920" />
+  <Preset Label="generic_StreetFoodTable_Tend" Value="337929" />
+  <Preset Label="mixer_StreetFoodTable_Tend" Value="337943" />
+  <Preset Label="mixer_StreetFoodTable_Tend_ComeBuy" Value="337944" />
+  <Preset Label="mixer_StreetFoodTable_Tend_ShowOffWares" Value="337945" />
+  <Preset Label="mixer_StreetFoodTable_Tend_AutoStock" Value="337960" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_PizzaOven)" Value="338140" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_WaffleMaker)" Value="338141" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_StandMixer)" Value="338142" />
+  <Preset Label="mixer_StreetFoodTable_Tend_Passive" Value="338315" />
+  <Preset Label="Prep Ingredients (standMixer_StartCrafting)" Value="338566" />
+  <Preset Label="Prep Ingredients (standMixer_StartCrafting_RequiredIngredients)" Value="338567" />
+  <Preset Label="standMixer_StartCooking_Meat" Value="338569" />
+  <Preset Label="standMixer_StartCooking_Seafood" Value="338570" />
+  <Preset Label="standMixer_StartCooking_Vegetables" Value="338571" />
+  <Preset Label="standMixer_StartCooking_Dough" Value="338572" />
+  <Preset Label="standMixer_StartCooking_Batter" Value="338573" />
+  <Preset Label="standMixer_StartCooking_CookieDough" Value="338574" />
+  <Preset Label="Collect Prepped Ingredients (StandMixer_Grab)" Value="338583" />
+  <Preset Label="Add Self-Cleaning (waffleMaker_Upgrade_SelfCleaning)" Value="338757" />
+  <Preset Label="Continue Upgrading Self-Cleaning (waffleMaker_UpgradeContinue_SelfCleaning)" Value="338758" />
+  <Preset Label="Add Unbreakable (waffleMaker_Upgrade_Unbreakable)" Value="338760" />
+  <Preset Label="Continue Upgrading Unbreakable (waffleMaker_UpgradeContinue_Unbreakable)" Value="338761" />
+  <Preset Label="Speedy Bake (waffleMaker_Upgrade_FasterCooking)" Value="338763" />
+  <Preset Label="Repair (object_Repair_StandMixer)" Value="338766" />
+  <Preset Label="Insta-Repair! (object_Knack_FixIt_StandMixer)" Value="338767" />
+  <Preset Label="Clean (standMixer_Clean)" Value="338769" />
+  <Preset Label="Empty (standMixer_Empty)" Value="338771" />
+  <Preset Label="Speedy Mix (StandMixer_Upgrades_CompletedDisplay_FasterCooking)" Value="338773" />
+  <Preset Label="Continue Upgrading Speedy Bake (waffleMaker_UpgradeContinue_FasterCooking)" Value="338784" />
+  <Preset Label="Self-Cleaning (waffleMaker_Upgrades_CompletedDisplay_SelfCleaning)" Value="338786" />
+  <Preset Label="Unbreakable (waffleMaker_Upgrades_CompletedDisplay_Unbreakable)" Value="338787" />
+  <Preset Label="Speedy Bake (waffleMaker_Upgrades_CompletedDisplay_FasterCooking)" Value="338788" />
+  <Preset Label="Instant Upgrade (object_Knack_MakeAwesome_WaffleMaker)" Value="338791" />
+  <Preset Label="Self-Cleaning (StandMixer_Upgrades_CompletedDisplay_SelfCleaning)" Value="338797" />
+  <Preset Label="Unbreakable (StandMixer_Upgrades_CompletedDisplay_Unbreakable)" Value="338798" />
+  <Preset Label="Repair (object_Repair_WaffleMaker)" Value="338837" />
+  <Preset Label="Insta-Repair! (object_Knack_FixIt_WaffleMaker)" Value="338839" />
+  <Preset Label="Clean (waffleMaker_Clean)" Value="338844" />
+  <Preset Label="Empty (waffleMaker_Empty)" Value="338845" />
+  <Preset Label="Continue Upgrading Speedy Mix (standMixer_UpgradeContinue_FasterCooking)" Value="339208" />
+  <Preset Label="Speedy Mix (standMixer_Upgrade_FasterCooking)" Value="339209" />
+  <Preset Label="Continue Upgrading Self-Cleaning (standMixer_UpgradeContinue_SelfCleaning)" Value="339211" />
+  <Preset Label="Add Self-Cleaning (standMixer_Upgrade_SelfCleaning)" Value="339212" />
+  <Preset Label="Continue Upgrading Unbreakable (standMixer_UpgradeContinue_Unbreakable)" Value="339214" />
+  <Preset Label="Add Unbreakable (standMixer_Upgrade_Unbreakable)" Value="339215" />
+  <Preset Label="Instant Upgrade (object_Knack_MakeAwesome_StandMixer)" Value="339216" />
+  <Preset Label="Purchase {1.ObjectName} (si_StreetFoodTable_PurchaseEatFood_Convinced)" Value="343214" />
+  <Preset Label="Convince To Buy (socialSI_StreetFoodTable_ConvinceToBuy)" Value="345053" />
+  <Preset Label="si_StreetFoodTable_Immediate_GiveBlockBrowseBuff" Value="345295" />
+  <Preset Label="mixer_StreetFoodTable_Tend_ShowOffWares_Child" Value="346315" />
+  <Preset Label="mixer_StreetFoodTable_Tend_Passive_Child" Value="346326" />
+  <Preset Label="mixer_StreetFoodTable_Tend_ComeBuy_Child" Value="346327" />
+  <Preset Label="mixer_StreetFoodTable_Tend_AutoStock_Child" Value="346328" />
+  <Preset Label="mixer_StreetFoodTable_Tend_Child" Value="346329" />
+  <Preset Label="Tend Table (si_StreetFoodTable_TendTable_Child)" Value="346331" />
+  <Preset Label="Start Food Sale (si_StreetFoodTable_Immediate_FoodSale_Indoors_StockAndTend)" Value="350781" />
+  <Preset Label="Stock Table (si_StreetFoodTable_StockTable_Child)" Value="353080" />
+  <Preset Label="Clear Table (si_StreetFoodTable_CloseTable)" Value="353081" />
+  <Preset Label="Clear Table (si_StreetFoodTable_CloseTable_Child)" Value="353082" />
+  <Preset Label="Cook (pizzaOven_StartCraftingAutonomously)" Value="354289" />
+  <Preset Label="Cook (waffleMaker_StartCraftingAutonomously)" Value="354291" />
+  <Preset Label="Cook (pizzaOven_StartCraftingAutonomously_RequiredIngredients)" Value="354294" />
+  <Preset Label="Cook (waffleMaker_StartCraftingAutonomously_RequiredIngredients)" Value="354296" />
+  <Preset Label="Eat {1.ObjectName} (generic_consume_food_PreppedIngredient)" Value="492722" />
+</PresetGroup>

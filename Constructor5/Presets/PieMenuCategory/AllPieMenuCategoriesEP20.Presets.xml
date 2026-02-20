@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Pie Menu Categories EP20">
+  <Preset Label="Customize Stickers (pieMenuCategory_Kayak_Customization)" Value="449605" />
+  <Preset Label="Competitive Trait (pieMenuCategory_Competitive)" Value="449699" />
+  <Preset Label="Set Rock Paper Scissors Preference (pieMenuCategory_RockPaperScissors_Preference)" Value="450477" />
+  <Preset Label="Play Rock Paper Scissors (pieMenuCategory_RockPaperScissors_Play)" Value="450478" />
+  <Preset Label="Spawn Butterflies or Moths (pieMenuCategory_ButterflyCollection_Debug)" Value="451387" />
+  <Preset Label="Completion State Debug (pieMenuCategory_debug_WorldPOI_storyMap_mapStates)" Value="454739" />
+  <Preset Label="Choose Personality (pieMenuCategory_EP20_IF_ImagineUpNewPersonality)" Value="455225" />
+  <Preset Label="Imaginary Friend (pieMenuCategory_EP20_IF_Interact)" Value="456723" />
+  <Preset Label="Focus Camera On (pieMenuCategory_WorldPOI_FocusCameraOn_GoldenRetreat)" Value="457096" />
+  <Preset Label="Focus Camera On (pieMenuCategory_WorldPOI_FocusCameraOn_Wilderness)" Value="457097" />
+  <Preset Label="Getaways (pieMenuCategory_Getaway)" Value="457483" />
+  <Preset Label="Butterfly Cheats (pieMenuCategory_ButterflyCollection_Debug_Parent)" Value="459364" />
+  <Preset Label="Teach Spinning Class (pieMenuCategory_SpinningClass_PlayerLed)" Value="465927" />
+  <Preset Label="Place Butterflies or Moths (pieMenuCategory_ButterflyCollection_Slotting)" Value="469541" />
+  <Preset Label="Remember (pieMenuCategory_Getaway_Reward)" Value="469951" />
+  <Preset Label="Formative Moments (pieMenuCategory_ChildhoodInspiration)" Value="472462" />
+  <Preset Label="Recall Park Lore (pieMenuCategory_ParkWorker_RecallParkLore)" Value="479317" />
+  <Preset Label="Play Pretend (pieMenuCategory_EP20_IF_PlayPretend)" Value="485116" />
+  <Preset Label="Plan a Getaway (pieMenuCategory_Getaway_Phone_Social)" Value="485217" />
+  <Preset Label="Join a Getaway (pieMenuCategory_Getaway_Phone_Travel)" Value="485218" />
+  <Preset Label="Spinning Class (pieMenuCategory_SpinningClass)" Value="485644" />
+</PresetGroup>

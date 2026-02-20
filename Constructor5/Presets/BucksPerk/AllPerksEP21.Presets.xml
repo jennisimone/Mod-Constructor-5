@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Perks EP21">
+  <Preset Label="Arrange Promotion (dynastyPerks_ArrangePromo)" Value="465886" />
+  <Preset Label="Market Manipulator (dynastyPerks_MarketManipulator)" Value="465887" />
+  <Preset Label="Tutor (dynastyPerks_Tutor)" Value="465948" />
+  <Preset Label="Respected Head (dynastyPerks_Respected1)" Value="465949" />
+  <Preset Label="Easier Alliances (dynastyPerks_EasyAlliances1)" Value="465950" />
+  <Preset Label="Nepotism (dynastyPerks_Nepotism1)" Value="465951" />
+  <Preset Label="Grade Boost (dynastyPerks_GradeBoost1)" Value="465952" />
+  <Preset Label="Discreet (dynastyPerks_Secretive1)" Value="465953" />
+  <Preset Label="Gracious Host (dynastyPerks_PartyPlanner1)" Value="465955" />
+  <Preset Label="Mental Affinity (dynastyPerks_AffinityMental)" Value="465956" />
+  <Preset Label="Social Affinity (dynastyPerks_AffinitySocial)" Value="465957" />
+  <Preset Label="Physical Affinity (dynastyPerks_AffinityPhysical)" Value="465958" />
+  <Preset Label="Creative Affinity (dynastyPerks_AffinityCreative)" Value="465959" />
+  <Preset Label="Matchmaker (dynastyPerks_Matchmaker1)" Value="465960" />
+  <Preset Label="Friends in High Places (dynastyPerks_EasyFriends1)" Value="465961" />
+  <Preset Label="Easier Alliances (dynastyPerks_EasyAlliances2)" Value="467038" />
+  <Preset Label="Easier Alliances (dynastyPerks_EasyAlliances3)" Value="467039" />
+  <Preset Label="Friends in High Places (dynastyPerks_EasyFriends2)" Value="467040" />
+  <Preset Label="Friends in High Places (dynastyPerks_EasyFriends3)" Value="467041" />
+  <Preset Label="Grade Boost (dynastyPerks_GradeBoost2)" Value="467042" />
+  <Preset Label="Grade Boost (dynastyPerks_GradeBoost3)" Value="467043" />
+  <Preset Label="Matchmaker (dynastyPerks_Matchmaker2)" Value="467044" />
+  <Preset Label="Matchmaker (dynastyPerks_Matchmaker3)" Value="467045" />
+  <Preset Label="Nepotism (dynastyPerks_Nepotism2)" Value="467046" />
+  <Preset Label="Nepotism (dynastyPerks_Nepotism3)" Value="467047" />
+  <Preset Label="Gracious Host (dynastyPerks_PartyPlanner2)" Value="467048" />
+  <Preset Label="Gracious Host (dynastyPerks_PartyPlanner3)" Value="467049" />
+  <Preset Label="Respected Head (dynastyPerks_Respected2)" Value="467050" />
+  <Preset Label="Respected Head (dynastyPerks_Respected3)" Value="467051" />
+  <Preset Label="Discreet (dynastyPerks_Secretive2)" Value="467052" />
+  <Preset Label="Discreet (dynastyPerks_Secretive3)" Value="467053" />
+  <Preset Label="Swordsmanship Boost (clubPerks_SkillBoost_AdultMajor_Swordsmanship)" Value="497952" />
+</PresetGroup>

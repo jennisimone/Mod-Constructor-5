@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Situation Goals EP19">
+  <Preset Label="Prank a Fairy (whim_Rogue_PrankAFairy)" Value="433529" />
+  <Preset Label="Throw Off a Sim's Balance (whim_Rogue_ShareGrandDelusion)" Value="433530" />
+  <Preset Label="Disturb Plants (whim_Rogue_MuddleAPlant)" Value="433531" />
+  <Preset Label="Distort an Obvious Truth (whim_Rogue_CreateFalseNarrative)" Value="433532" />
+  <Preset Label="Create Fairy Propaganda (whim_Rogue_ExposeFairyCouncil)" Value="433539" />
+  <Preset Label="Become Friends with a Fairy (Whim_Relationship_Mystical_GoodFriendFairy)" Value="433580" />
+  <Preset Label="Grant Sacred Blessing (whim_Mystical_GrantSacredBlessing)" Value="433582" />
+  <Preset Label="Read a Sim's Aura (whim_Mystical_ReadAura)" Value="433583" />
+  <Preset Label="Enchant 3 Plants (Whim_Mystical_EnchantPlants)" Value="433584" />
+  <Preset Label="Take a Vacation Day (whim_Careers_TakePTO_Naturopathic)" Value="436179" />
+  <Preset Label="Educate about Balance (whim_Naturopathic_EducateInBalanceTherapy)" Value="436348" />
+  <Preset Label="lifeMilestoneGoal_Trait_BecameFairyOccult" Value="438399" />
+  <Preset Label="career_Naturopath_AdmitAfflicted" Value="439375" />
+  <Preset Label="Holistically Examine Client Sim (career_Naturopath_HolisticAssessment)" Value="439381" />
+  <Preset Label="Conduct Client Intake (career_Naturopath_PatientIntake)" Value="439386" />
+  <Preset Label="career_Naturopath_EducateinBalanceTherapy" Value="439388" />
+  <Preset Label="Identify Root Cause (career_Naturopath_DiscussRootCause)" Value="439389" />
+  <Preset Label="Give Cure (career_Naturopath_GiveCure)" Value="440131" />
+  <Preset Label="Revitalize {1.SimFirstName}'s Needs (career_Naturopath_InfuseWithVitality)" Value="440132" />
+  <Preset Label="Bring a Gnome to Life (whimGoal_GnomeFunc_BringGnomeToLife)" Value="441007" />
+  <Preset Label="Treat Client Sim's Issues (situationGoalInteractionSim_Career_Naturopath_MainGoal)" Value="441017" />
+  <Preset Label="career_Naturopath_StressPlantBasedCare" Value="444302" />
+  <Preset Label="Craft Apothecary Elixirs  (eventGoal_Craft_HobbyClass_Apothecary)" Value="444935" />
+  <Preset Label="Enthuse about Crafting Elixirs (situationGoalSim_HobbyClass_SkillSocialApothecary)" Value="444937" />
+  <Preset Label="Eat Foraged Food (whim_NLS_EatFrogFish)" Value="445164" />
+  <Preset Label="Sleep on the Ground (whim_NLS_SleepOnGround)" Value="445165" />
+  <Preset Label="Bathe Outdoors (whim_NLS_BatheInWater)" Value="445166" />
+  <Preset Label="Summon a Privy Bush (whim_NLS_SummonABush)" Value="445167" />
+  <Preset Label="Buy a Fairy Home (whim_Buy_FairyHome)" Value="445577" />
+  <Preset Label="Become a Fairy (Whim_FairyJourney_Fairy)" Value="445615" />
+  <Preset Label="Discuss Debunking Magic (whim_FearConfrontation_Magic_TalkAboutDebunkingMagic)" Value="445773" />
+  <Preset Label="Ask about Sleep Patterns (career_Naturopath_Ask_SleepPatterns)" Value="450824" />
+  <Preset Label="Ask about Lifestyle Habits (career_Naturopath_Ask_LifestyleHabits)" Value="450825" />
+  <Preset Label="Ask about Symptoms (career_Naturopath_Ask_Symptoms)" Value="450826" />
+  <Preset Label="Ask about Recent Mood (career_Naturopath_Ask_MoodShifts)" Value="450827" />
+  <Preset Label="Ask about Aura Changes (career_Naturopath_Ask_AuraChanges)" Value="450828" />
+  <Preset Label="Discuss Recent Dreams (career_Naturopath_Discuss_RecentDreams)" Value="450830" />
+  <Preset Label="Discuss Uses of Tree Sap (career_Naturopath_Discuss_TreeSap)" Value="450831" />
+  <Preset Label="Discuss Forces of Nature (career_Naturopath_Discuss_ForcesNature)" Value="450832" />
+  <Preset Label="Suggest Supplemental Elixirs (career_Naturopath_Suggest_HerbalSupplements)" Value="450834" />
+  <Preset Label="Suggest Foraging for Food (career_Naturopath_Suggest_RawFoods)" Value="450835" />
+  <Preset Label="Ask Client to Do Push Ups (career_Naturopath_AskTo_PushUps)" Value="450837" />
+  <Preset Label="Ask Client to Let Out a Primal Yell (career_Naturopath_AskTo_Yell)" Value="450838" />
+  <Preset Label="Suggest Daily Walks through Nature (career_Naturopath_Cure_NatureWalks)" Value="450840" />
+  <Preset Label="Discuss Healing Frequencies (career_Naturopath_Cure_HealingFrequencies)" Value="450841" />
+  <Preset Label="Provide Emotional Regulation (career_Naturopath_Cure_EmotionalRegulation)" Value="450842" />
+  <Preset Label="Sympathetic Hug (career_Naturopath_Social_ExpressSympathy)" Value="453983" />
+  <Preset Label="Name Plants (Whim_PlantLover_NamePlants)" Value="454413" />
+  <Preset Label="Give Unsolicited Plant Care Advice (whim_PlantLover_GiveAdvice)" Value="454414" />
+  <Preset Label="career_Naturopath_Hidden_01" Value="454428" />
+  <Preset Label="Become a PlantSim (situationGoalActorTrait_Whim_PlantLover_Plant)" Value="454438" />
+  <Preset Label="career_Naturopath_Hidden_02" Value="454451" />
+  <Preset Label="career_Naturopath_Hidden_03" Value="455268" />
+  <Preset Label="career_Naturopath_Hidden_04" Value="455275" />
+  <Preset Label="Find an Item from the Innisgreen Ingredient Collection (whim_CollectNew_ApothecaryIngredients)" Value="458868" />
+</PresetGroup>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Recipes SP75">
+  <Preset Label="Brew Tea (recipe_Drink_PretendTea)" Value="494978" />
+  <Preset Label="Brew Tea (recipe_Drink_PretendTea_Set2)" Value="499689" />
+  <Preset Label="Brew Tea (recipe_Drink_PretendTea_Set3)" Value="499690" />
+  <Preset Label="Brew Tea (recipe_Drink_PretendTea_Set4)" Value="499691" />
+  <Preset Label="Brew Tea (recipe_Drink_PretendTea_Set5)" Value="499692" />
+  <Preset Label="Brew Tea (recipe_Drink_PretendTea_Set6)" Value="499693" />
+</PresetGroup>

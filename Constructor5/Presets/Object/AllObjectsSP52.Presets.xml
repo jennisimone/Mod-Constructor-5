@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP52">
+  <Preset Label="object_VillaJuiceTray" Value="374025" />
+  <Preset Label="object_drink_VillaJuice" Value="374678" />
+  <Preset Label="object_lightWall_SP52classical" Value="381668" />
+</PresetGroup>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objectives EP21">
+  <Preset Label="Reply to Noble Mail (objective_CareerAssignments_Noble_ReplyNobleMail)" Value="463548" />
+  <Preset Label="Reach level 4 in Swordsmanship Skill (career_Skill_Swordsmanship_Level4)" Value="475843" />
+  <Preset Label="Reach level 5 in Swordsmanship Skill (career_Skill_Swordsmanship_Level5)" Value="475844" />
+  <Preset Label="Reach Level 2 in Swordsmanship Skill (career_Skill_Swordsmanship_Level2)" Value="475845" />
+  <Preset Label="Reach Level 3 in Swordsmanship Skill (career_Skill_Swordsmanship_Level3)" Value="475846" />
+  <Preset Label="&quot;I'd like to WooHoo in a Secret Passageway!&quot; (objectives_UnfinishedBusiness_Woohoo_SecretPassageway)" Value="480144" />
+  <Preset Label="Give Noble Speech (objective_CareerAssignments_Noble_HoldSpeechPressConference)" Value="486741" />
+  <Preset Label="Help a Court Visitor with a Dilemma (objective_CareerAssignments_Noble_HelpVisitorWithDilemma)" Value="486743" />
+  <Preset Label="Ask Noble Advisor for Advice (objective_CareerAssignments_Noble_AskForNobleAdvice)" Value="487559" />
+  <Preset Label="Enact a Noble Decree (objective_CareerAssignments_Noble_EnactDecree)" Value="487561" />
+  <Preset Label="Donate to Kingdom Funds (objective_CareerAssignments_Noble_DonateToKingdom)" Value="487563" />
+  <Preset Label="Adjust the Tax Level of the Kingdom (objective_CareerAssignments_Noble_SetKingdomTaxLevel)" Value="487565" />
+  <Preset Label="Attend a Grand Ball (objective_CareerAssignments_Noble_AttendBall)" Value="487902" />
+  <Preset Label="Dance at a Grand Ball (objective_CareerAssignments_Noble_DanceAtBall)" Value="487904" />
+  <Preset Label="Visit Ondarion (objective_CareerAssignments_Noble_VisitEP21World)" Value="487906" />
+  <Preset Label="Discuss Noble Life (objective_CareerAssignments_Noble_DiscussNobleLife)" Value="487908" />
+  <Preset Label="Use Noble Introduction to meet a new Sim (objective_CareerAssignments_Noble_NobleGreeting)" Value="487910" />
+  <Preset Label="Practice Swordsmanship with Practice Dummy (objective_CareerAssignments_Noble_TrainOnDummy)" Value="487959" />
+  <Preset Label="Partake in a Swordsmanship Duel (objective_CareerAssignments_Noble_Duel)" Value="487961" />
+  <Preset Label="Confront Scandal at a Press Conference (objective_CareerAssignments_Noble_ConfrontScandal)" Value="487964" />
+  <Preset Label="Practice Speech on a Mirror (objective_CareerAssignments_Noble_PracticeSpeech)" Value="487965" />
+  <Preset Label="Promise Noble Title Inheritance to Family Member (objective_CareerAssignments_Noble_PromiseInheritance)" Value="487968" />
+  <Preset Label="Promote in Noble Career (objectives_CareerAssignments_Noble_EarlyPromotion)" Value="491406" />
+  <Preset Label="Promote in Noble Career (objectives_CareerAssignments_Noble_LatePromotion)" Value="491407" />
+  <Preset Label="Discover another Sim's secret (objectives_Asp_Deviance_Whistleblower_Level1_2)" Value="495517" />
+  <Preset Label="Share a secret (objectives_Asp_Deviance_Whistleblower_Level1_3)" Value="495518" />
+  <Preset Label="Discover a secret at a Bar (objectives_Asp_Deviance_Whistleblower_Level1_1)" Value="495519" />
+  <Preset Label="Extort a Sim (objectives_Asp_Deviance_Whistleblower_Level2_3)" Value="495520" />
+  <Preset Label="Promise to Keep a secret (objectives_Asp_Deviance_Whistleblower_Level2_2)" Value="495521" />
+  <Preset Label="Find 2 different secrets via Hacking (objectives_Asp_Deviance_Whistleblower_Level2_1)" Value="495522" />
+  <Preset Label="Expose a Scandal (objectives_Asp_Deviance_Whistleblower_Level3_3)" Value="495523" />
+  <Preset Label="Successfully Ask About Another Sim's Secrets (objectives_Asp_Deviance_Whistleblower_Level3_1)" Value="495524" />
+  <Preset Label="Ask for Secrets from 10 Sims (objectives_Asp_Deviance_Whistleblower_Level3_2)" Value="495525" />
+  <Preset Label="Extort, Expose, or Promise to Keep the Secret of the Mysterious &quot;Royal Robber&quot; (objectives_Asp_Deviance_Whistleblower_Level4_1)" Value="495529" />
+  <Preset Label="Become Friends with the Information Broker (objectives_Asp_Deviance_Whistleblower_Level4_2)" Value="495530" />
+  <Preset Label="Extort or Sell 10 Other Sim's Secrets (objectives_Asp_Deviance_Whistleblower_Level4_3)" Value="495531" />
+  <Preset Label="Cut Ribbon at Local Business Opening (objectives_CareerAssignments_Noble_BusinessOpening)" Value="498225" />
+  <Preset Label="Visit Kingdom Heritage Sites (objectives_CareerAssignments_Noble_HeritageSites)" Value="498226" />
+  <Preset Label="Attend Political Conference for Nobles (objectives_CareerAssignments_Noble_NobleConference)" Value="498227" />
+  <Preset Label="Give Interview for Local Newspaper (objectives_CareerAssignments_Noble_TakeInterviews)" Value="498228" />
+  <Preset Label="Visit and Present at Local School (objectives_CareerAssignments_Noble_VisitSchool)" Value="498229" />
+  <Preset Label="Go on a Noble Venture (objectives_CareerAssignments_Noble_GoNobleVenture)" Value="498230" />
+  <Preset Label="Assign a Noble Advisor (objectives_CareerAssignments_Noble_AssignNobleAdvisor)" Value="498931" />
+  <Preset Label="objective_SwordsmanshipSkillUp" Value="500293" />
+  <Preset Label="objective_Swordsmanship_RanSkillInteraction" Value="500294" />
+  <Preset Label="Drink Excellent Drink (objectives_CareerAssignments_Noble_DrinkExcellentDrink)" Value="500930" />
+  <Preset Label="Try On Outfits (objectives_CareerAssignments_Noble_TryOnOutfits)" Value="501242" />
+  <Preset Label="Practice the Waltz (objectives_CareerAssignments_Noble_PracticeBallroomDancing)" Value="501425" />
+  <Preset Label="Take a nap (objectives_CareerAssignments_Noble_Nap)" Value="501427" />
+  <Preset Label="Go for a jog (objectives_CareerAssignments_Noble_GoForJog)" Value="501428" />
+  <Preset Label="Purchase something worth over §600 (objectives_CareerAssignments_Noble_PurchaseSomething)" Value="501429" />
+</PresetGroup>

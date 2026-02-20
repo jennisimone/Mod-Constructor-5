@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Balloon Sets EP20">
+  <Preset Label="balloonCategory_CareerParkWorker_Speech" Value="453027" />
+  <Preset Label="balloonCategory_CareerParkWorker_Thought" Value="453028" />
+  <Preset Label="balloonCategory_EP20_IF_ImagineUp_Evil" Value="455221" />
+  <Preset Label="balloonCategory_EP20_IF_ImagineUp_Creative" Value="455222" />
+  <Preset Label="balloonCategory_EP20_IF_ImagineUp_Competitive" Value="455223" />
+  <Preset Label="balloonCategory_EP20_IF_ImagineUp_Goofball" Value="455224" />
+  <Preset Label="balloonCategory_Papercraft_CootieCatcher_GoodDream" Value="455642" />
+  <Preset Label="balloonCategory_Competitive_GameMetas" Value="458774" />
+  <Preset Label="balloonCategory_Competitive_OfferGameTips" Value="459100" />
+  <Preset Label="balloonCategory_Papercraft_CootieCatcher_Colors" Value="463903" />
+  <Preset Label="balloonCategory_SkillFitness_SpinningClass_Instructor_Speech" Value="464388" />
+  <Preset Label="balloonCategory_Skill_Entomology_Thought" Value="470597" />
+  <Preset Label="balloonCategory_Competitive_TrashTalk" Value="472669" />
+  <Preset Label="balloonCategory_EP20Festivals_TellStory" Value="475645" />
+  <Preset Label="balloonCategory_EP20_IF_ImagineUp_DollBody" Value="485118" />
+  <Preset Label="balloonCategory_Skill_Entomology_Speech" Value="487682" />
+</PresetGroup>

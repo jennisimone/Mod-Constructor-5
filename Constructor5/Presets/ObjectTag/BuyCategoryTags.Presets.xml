@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<PresetGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Label="Buy Category Tags">
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="Buy Category Tags">
   <Preset Value="BuyCatEE" />
   <Preset Value="BuyCatPA" />
   <Preset Value="BuyCatLD" />
@@ -215,6 +215,32 @@
   <Preset Value="BuyCat_Venue_Wedding" />
   <Preset Value="BuyCatEE_LifeEventActivity" />
   <Preset Value="BuyCatEE_VideoGameConsole" />
+  <Preset Value="BuyCat_Collection_Insect" />
+  <Preset Value="BuyCat_Collection_Geode" />
+  <Preset Value="BuyCat_Collection_Egg" />
+  <Preset Value="BuyCat_Collection_FoodPhoto" />
+  <Preset Value="BuyCat_Collection_Voidcritter" />
+  <Preset Value="BuyCat_Collection_SugarSkull" />
+  <Preset Value="BuyCat_Collection_HolidayPlushie" />
+  <Preset Value="BuyCat_Collection_MagicBean" />
+  <Preset Value="BuyCat_Collection_Feather" />
+  <Preset Value="BuyCat_Collection_OmiscanArtifact" />
+  <Preset Value="BuyCat_Collection_PositivityPoster" />
+  <Preset Value="BuyCat_Collection_Seashell" />
+  <Preset Value="BuyCat_Collection_BuriedTreasure" />
+  <Preset Value="BuyCat_Collection_MagicObject" />
+  <Preset Value="BuyCat_Collection_LightSaberParts" />
+  <Preset Value="BuyCat_Collection_BatuuRecord" />
+  <Preset Value="BuyCat_Collection_VillageRibbon" />
+  <Preset Value="BuyCat_Collection_BottleMessage" />
+  <Preset Value="BuyCat_Collection_Marble" />
+  <Preset Value="BuyCat_Collection_WerewolfRelic" />
+  <Preset Value="BuyCat_Collection_Tassel" />
+  <Preset Value="BuyCat_Collection_FreezerBoney" />
+  <Preset Value="BuyCat_Collection_Tarot" />
+  <Preset Value="BuyCat_Collection_Wreath" />
+  <Preset Value="BuyCat_Collection_MilkCarton" />
+  <Preset Value="BuyCat_Collection_Tradeable" />
   <Preset Value="BuyCat_Venue_RelaxationCenter" />
   <Preset Value="BuyCat_Venue_Cafe" />
   <Preset Value="BuyCat_Venue_Chalet" />
@@ -242,4 +268,7 @@
   <Preset Value="BuyCat_Collection_Axolotl" />
   <Preset Value="BuyCat_Venue_Cemetery" />
   <Preset Value="BuyCat_Collection_Apothecary" />
+  <Preset Value="BuyCat_Venue_Backroom" />
+  <Preset Value="BuyCat_Venue_DambeleMarket" />
+  <Preset Value="BuyCatSS_NobleThrone" />
 </PresetGroup>

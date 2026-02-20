@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Template Choosers EP20">
+  <Preset Label="tunableTemplateChooser_Cryptid" Value="447355" />
+  <Preset Label="template_EP20World_NPCs_Collector" Value="456712" />
+  <Preset Label="template_EP20World_NPCs_ButterflyConservationist" Value="456733" />
+  <Preset Label="template_EP20World_NPCs_Storyteller" Value="456734" />
+  <Preset Label="template_EP20World_NPCs_LostAdventurer" Value="456735" />
+  <Preset Label="template_chooser_SpinningClass_Instructor" Value="461409" />
+  <Preset Label="template_EP20World_NPCs_SkipBroke" Value="469980" />
+  <Preset Label="template_EP20World_NPCs_Laxmi" Value="469981" />
+</PresetGroup>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP25">
+  <Preset Label="object_barstool_SP25IND" Value="271988" />
+  <Preset Label="object_chair_living_SP25IND" Value="271989" />
+  <Preset Label="object_sofa_SP25IND" Value="271990" />
+</PresetGroup>

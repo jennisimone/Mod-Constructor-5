@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Social Interactions EP19">
+  <Preset Label="Throw Off {1.SimFirstName}'s Balance (mixer_social_Rogue_ShareGrandDelusion_Targeted_Mischief_alwaysOn)" Tags="TestUnsafe" Value="433207" />
+  <Preset Label="Give Bad Balance Advice (mixer_social_Rogue_OfferHelpWithBalance_Targeted_Mischief_alwaysOn)" Tags="TestUnsafe" Value="433208" />
+  <Preset Label="Distort an Obvious Truth (mixer_social_Rogue_CreateFalseNarrative_Targeted_Mischief_alwaysOn)" Tags="TestUnsafe" Value="433209" />
+  <Preset Label="Grant Sacred Blessing (mixer_social_Mystical_GrantSacredBlessing)" Tags="TestUnsafe" Value="433577" />
+  <Preset Label="Read Aura (mixer_social_Mystical_ReadAura)" Tags="TestUnsafe" Value="433578" />
+  <Preset Label="Poison Kiss (mixer_social_PlantSim_Improvements_PoisonKiss_targeted_friendly_alwaysOn)" Tags="TestUnsafe" Value="433986" />
+  <Preset Label="Praise for Creation (mixer_social_PraiseforGivingLife_targeted_Friendly_alwaysOn)" Tags="TestUnsafe" Value="433987" />
+  <Preset Label="Help Manage Emotions (mixer_social_FairyOccult_HelpManageEmotions_Targeted_Friendly_AlwaysOn)" Tags="TestUnsafe" Value="434071" />
+  <Preset Label="Revitalize {1.SimFirstName}'s Needs (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_InfuseWithVitality)" Tags="TestUnsafe" Value="437440" />
+  <Preset Label="Flood with Laughter (mixer_Social_FairyOccult_FloodWithLaughter_Targeted_Friendly_AlwaysOn)" Tags="TestUnsafe" Value="438672" />
+  <Preset Label="WooHoo in Sky (mixer_Social_FairyWooHoo_targeted_romance_transition)" Tags="TestUnsafe" Value="441386" />
+  <Preset Label="Try for Baby in Sky (mixer_Social_FairyTryForBaby_targeted_romance_transition)" Tags="TestUnsafe" Value="441387" />
+  <Preset Label="Hear Tales (socials_Targeted_Friendly_AlwaysOn_Gossip_EP19NPC)" Tags="TestUnsafe" Value="442293" />
+  <Preset Label="Ask {1.SimFirstName} to Absorb Emotion (mixer_social_FairyOccult_AskFairytoAbsorbEmotion_Targeted_Friendly_AlwaysOn)" Tags="TestUnsafe" Value="443054" />
+  <Preset Label="Stress Plant-Based Care (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_StressPlantBasedCare)" Tags="TestUnsafe" Value="443440" />
+  <Preset Label="Conduct Client Intake (socials_Targeted_Friendly_AlwaysOn_STC_Naturopath_ConductClientIntake)" Tags="TestUnsafe" Value="443593" />
+  <Preset Label="Ask for Fairy Dust (mixer_Social_FairyDust_AskForDust)" Tags="TestUnsafe" Value="444056" />
+  <Preset Label="Enthuse about Crafting Elixirs (mixer_Social_DiscussApothecaries_Targeted_AlwaysOn_ApothecarySkill)" Tags="TestUnsafe" Value="444956" />
+  <Preset Label="Chatter about Apothecary (socials_Targeted_Friendly_SimPreference_Recent_Likes_Apothecary)" Tags="TestUnsafe" Value="444982" />
+  <Preset Label="Gripe about Apothecary Crafting (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_Apothecary)" Tags="TestUnsafe" Value="444989" />
+  <Preset Label="Brag about Apothecary Expertise (mixer_social_BragAboutApothecarySkill_targeted_Friendly_alwaysOn_skill)" Tags="TestUnsafe" Value="445058" />
+  <Preset Label="Form Enchanted Bond (socials_Targeted_Friendly_AlwaysOn_DeepThoughts_EnchantedSprings_EmotionalBond)" Tags="TestUnsafe" Value="445563" />
+  <Preset Label="Amend Negative Sentiments (socials_Targeted_Friendly_AlwaysOn_DeepThoughts_EnchantedSprings_CleanseEnergy)" Tags="TestUnsafe" Value="445564" />
+  <Preset Label="Talk about Debunking Magic (socials_Targeted_Friendly_AlwaysOn_STC_DebunkMagic)" Tags="TestUnsafe" Value="446106" />
+  <Preset Label="Ask for Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_AskFor_Apothecary)" Tags="TestUnsafe" Value="447282" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Paid_Apothecary)" Tags="TestUnsafe" Value="447283" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Unpaid_Apothecary)" Tags="TestUnsafe" Value="447284" />
+  <Preset Label="Identify Root Cause (mixer_Naturopath_WFH_Diagnosis_0_displayOnly)" Tags="TestUnsafe" Value="447359" />
+  <Preset Label="Creation Impulse Ailment (mixer_Naturopath_WFH_Diagnosis_CreationImpulse)" Tags="TestUnsafe" Value="447360" />
+  <Preset Label="Emotional Void Ailment (mixer_Naturopath_WFH_Diagnosis_EmotionalVoid)" Tags="TestUnsafe" Value="447361" />
+  <Preset Label="Gnome Lure Ailment (mixer_Naturopath_WFH_Diagnosis_GnomeMagnet)" Tags="TestUnsafe" Value="447362" />
+  <Preset Label="Greenie Meanie Ailment (mixer_Naturopath_WFH_Diagnosis_GreenieMeanie)" Tags="TestUnsafe" Value="447363" />
+  <Preset Label="Luck Magnet Ailment (mixer_Naturopath_WFH_Diagnosis_LuckSuck)" Tags="TestUnsafe" Value="447364" />
+  <Preset Label="No Ailment (mixer_Naturopath_WFH_Diagnosis_NoAilment)" Tags="TestUnsafe" Value="447365" />
+  <Preset Label="Give Cure (mixer_Naturopath_WFH_Cure_GiveHealingRemedy)" Tags="TestUnsafe" Value="447368" />
+  <Preset Label="Educate about Balance (mixer_Naturopath_WFH_Teach_EducateinBalanceTherapy)" Tags="TestUnsafe" Value="447589" />
+  <Preset Label="Revitalize {1.SimFirstName}'s Needs (mixer_Naturopath_WFH_Teach_InfuseWithVitality)" Tags="TestUnsafe" Value="447590" />
+  <Preset Label="What's Your Favorite Place to Sleep? (mixer_Social_FairyOccult_Ask_Targeted_Friendly_AlwaysOn_FairytoFairy)" Tags="TestUnsafe" Value="451431" />
+  <Preset Label="Where Does Fairy Dust Come From? (mixer_Social_FairyOccult_Ask_Targeted_Friendly_AlwaysOn_NonFairytoFairy)" Tags="TestUnsafe" Value="451432" />
+  <Preset Label="Do Fairies Bother You? (mixer_Social_FairyOccult_Ask_Targeted_Friendly_AlwaysOn_FairytoNonFairy)" Tags="TestUnsafe" Value="451433" />
+  <Preset Label="Discuss Fairy Traditions (mixer_Social_FairyOccult_Discuss_Targeted_Friendly_AlwaysOn_FairytoFairy)" Tags="TestUnsafe" Value="452378" />
+  <Preset Label="Discuss Favorite Emotion (mixer_Social_FairyOccult_Discuss_Targeted_Friendly_AlwaysOn_FairytoNonFairy)" Tags="TestUnsafe" Value="452379" />
+  <Preset Label="Discuss Fairy Magic (mixer_Social_FairyOccult_Discuss_Targeted_Friendly_AlwaysOn_NonFairytoFairy)" Tags="TestUnsafe" Value="452380" />
+  <Preset Label="Discuss Recent Dreams (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Discuss_RecentDreams)" Tags="TestUnsafe" Value="452618" />
+  <Preset Label="Discuss Uses of Tree Sap (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Discuss_TreeSapUses)" Tags="TestUnsafe" Value="452619" />
+  <Preset Label="Discuss Forces of Nature (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Discuss_ForcesOfNature)" Tags="TestUnsafe" Value="452620" />
+  <Preset Label="Suggest Supplemental Elixirs (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_SuggestHerbalSupplements)" Tags="TestUnsafe" Value="452665" />
+  <Preset Label="Suggest Foraging for Food (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_SuggestRawFoods)" Tags="TestUnsafe" Value="452666" />
+  <Preset Label="Discuss Healing Frequencies (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Discuss_HealingFrequencies)" Tags="TestUnsafe" Value="452667" />
+  <Preset Label="Sympathetic Hug (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_ExpressSympathy)" Tags="TestUnsafe" Value="452668" />
+  <Preset Label="Provide Emotional Regulation (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_EmotionalRegulation)" Tags="TestUnsafe" Value="452669" />
+  <Preset Label="Suggest Daily Walks through Nature (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_DailyNatureWalks)" Tags="TestUnsafe" Value="453351" />
+  <Preset Label="Laugh about Flight Fumbles (mixer_Social_FairyOccult_Humor_Targeted_Friendly_AlwaysOn_FairytoFairy)" Tags="TestUnsafe" Value="453505" />
+  <Preset Label="Tease about Clumsy Non-Fairies (mixer_Social_FairyOccult_Humor_Targeted_Friendly_AlwaysOn_FairytoNonFairy)" Tags="TestUnsafe" Value="453506" />
+  <Preset Label="Tell Sneaky Gnome Joke (mixer_Social_FairyOccult_Humor_Targeted_Friendly_AlwaysOn_NonFairytoFairy)" Tags="TestUnsafe" Value="453507" />
+  <Preset Label="Ask Client to Let Out a Primal Yell (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_AskToYell)" Tags="TestUnsafe" Value="453984" />
+  <Preset Label="Enthuse about Natural Living (socials_Targeted_Friendly_SimPreference_Recent_Likes_NLS)" Tags="TestUnsafe" Value="455112" />
+  <Preset Label="Complain about Natural Living (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_NLS)" Tags="TestUnsafe" Value="455113" />
+  <Preset Label="Discuss Plant's Rights (mixer_socials_Friendly_AlwaysOn_DeepThoughts_PlantLover_DiscussRights)" Tags="TestUnsafe" Value="455132" />
+  <Preset Label="Talk about Favorite Plant Child (Socials_Targeted_Friendly_AlwaysOn_PlantLover_Favorite)" Tags="TestUnsafe" Value="455134" />
+  <Preset Label="Give Unsolicited Plant Care Advice (Socials_Targeted_Friendly_AlwaysOn_PlantLover_Advice)" Tags="TestUnsafe" Value="455135" />
+  <Preset Label="Talk about Plant Friend (socials_Targeted_Friendly_AlwaysOn_PlantLover_Favorite_Child)" Tags="TestUnsafe" Value="455177" />
+  <Preset Label="Enthuse about Plants vs. Occults (Socials_Targeted_Friendly_AlwaysOn_PlantLover_Enthuse)" Tags="TestUnsafe" Value="455178" />
+  <Preset Label="Burning Passion Ailment (mixer_Naturopath_WFH_Diagnosis_BurningPassion)" Tags="TestUnsafe" Value="455746" />
+  <Preset Label="Sonic Sinuses Ailment (mixer_Naturopath_WFH_Diagnosis_SonicSinuses)" Tags="TestUnsafe" Value="455747" />
+  <Preset Label="Simoleon Fever Ailment (mixer_Naturopath_WFH_Diagnosis_SimoleonFever)" Tags="TestUnsafe" Value="455748" />
+  <Preset Label="Emotional Distress (mixer_Naturopath_WFH_Diagnosis_Emotional)" Tags="TestUnsafe" Value="455755" />
+  <Preset Label="Physical Distress (mixer_Naturopath_WFH_Diagnosis_Physical)" Tags="TestUnsafe" Value="455766" />
+  <Preset Label="Ask for Help Curing Ailment (mixer_Social_Fairy_AskToCureAilment)" Tags="TestUnsafe" Value="457145" />
+  <Preset Label="Ask about Aura Changes (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Ask_AuraChanges)" Tags="TestUnsafe" Value="459599" />
+  <Preset Label="Ask about Lifestyle Habits (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Ask_LifestyleHabits)" Tags="TestUnsafe" Value="459600" />
+  <Preset Label="Ask about Recent Mood (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Ask_MoodShifts)" Tags="TestUnsafe" Value="459601" />
+  <Preset Label="Ask about Sleep Patterns (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Ask_SleepPatterns)" Tags="TestUnsafe" Value="459602" />
+  <Preset Label="Ask about Symptoms (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Ask_Symptoms)" Tags="TestUnsafe" Value="459603" />
+  <Preset Label="Discuss Healing Frequencies (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_DiscussHealingFrequencies)" Tags="TestUnsafe" Value="472489" />
+  <Preset Label="Rave about Foraged Foods (socials_Targeted_Friendly_AlwaysOn_STC_Naturopath_RaveAboutForagedFoods)" Tags="TestUnsafe" Value="472966" />
+  <Preset Label="Poison Kiss (mixer_social_PlantSim_Improvements_PoisonKiss_targeted_friendly_alwaysOn_teen)" Tags="TestUnsafe" Value="474529" />
+</PresetGroup>

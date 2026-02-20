@@ -1,0 +1,795 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interactions EP19">
+  <Preset Label="For Gardening (superInteraction_GnomeFunc_BringToLife_Gardening)" Value="414679" />
+  <Preset Label="For Cleaning (superInteraction_GnomeFunc_BringToLife_Cleaning)" Value="415538" />
+  <Preset Label="For Repairs and Upgrades (superInteraction_GnomeFunc_BringToLife_RepairingUpgrades)" Value="415539" />
+  <Preset Label="For Protecting (superInteraction_GnomeFunc_BringToLife_Protecting)" Value="415540" />
+  <Preset Label="Turn Into Fairy (debug_FairyOccult_AddOccult)" Value="420055" />
+  <Preset Label="carry_HoldWingProxyObject_Back" Value="422837" />
+  <Preset Label="Detect Emotions (superInteraction_FairyOccult_DetectMood)" Value="424649" />
+  <Preset Label="Manifest Seed (superInteraction_FairyOccult_Ability_CreateSeed)" Value="424682" />
+  <Preset Label="Bottle Emotion (superInteraction_FairyOccult_Ability_BottleMyMood)" Value="424683" />
+  <Preset Label="Growth Eruption (superInteraction_FairyOccult_Ability_PlantGrowth)" Value="424684" />
+  <Preset Label="Reveal Fairy Form (superInteraction_FairyOccult_ChangeForm_AddFairyForm)" Value="425308" />
+  <Preset Label="Conceal Fairy Form (superInteraction_FairyOccult_ChangeForm_RemoveFairyForm)" Value="425311" />
+  <Preset Label="Acquire a Fable (social_EP19Quests_GetQuest)" Value="425388" />
+  <Preset Label="createCarry_FairyWings" Value="425994" />
+  <Preset Label="superInteraction_FairyOccult_Wings_HoldWingProxyObject_Back" Value="426489" />
+  <Preset Label="Sleep Here (si_NLS_SleepOnGround_Uncomfortable)" Value="427090" />
+  <Preset Label="Teleport with (picker_Sim_TeleportStone_TravelWith)" Tags="TestUnsafe" Value="427712" />
+  <Preset Label="Teleport to (picker_Interaction_TeleportStone_TravelTo)" Tags="TestUnsafe" Value="427713" />
+  <Preset Label="Teleport to Sylvan Glade (super_TeleportStone_TeleportTo_Glade)" Value="427714" />
+  <Preset Label="Teleport to Forgotten Grotto (super_TeleportStone_TeleportTo_Grotto)" Value="427716" />
+  <Preset Label="mixer_Ailments_Idle_EmotionalVoid" Value="427747" />
+  <Preset Label="Cleanse in Nature (superInteraction_FairyOccult_MotiveSolving_BatheInNature)" Value="429290" />
+  <Preset Label="si_SatisfyConstraint_Fairy" Value="430587" />
+  <Preset Label="Decorate Enchanted Items with Florals (flowerPress_StartCrafting_EnchantedItems)" Value="432303" />
+  <Preset Label="Decorate Items with Florals (flowerPress_StartCrafting_UnEnchantedItems)" Value="432305" />
+  <Preset Label="mixer_Ailments_Idle_LuckSuck" Value="432799" />
+  <Preset Label="mixer_Ailments_Idle_GnomeMagnet" Value="432800" />
+  <Preset Label="mixer_Ailments_Idle_GreenieMeanie" Value="432801" />
+  <Preset Label="Caught by Emotional Void (super_Ailments_React_EmotionalVoid)" Value="433171" />
+  <Preset Label="Throw Off {1.SimFirstName}'s Balance (mixer_social_Rogue_ShareGrandDelusion_Targeted_Mischief_alwaysOn)" Tags="TestUnsafe" Value="433207" />
+  <Preset Label="Give Bad Balance Advice (mixer_social_Rogue_OfferHelpWithBalance_Targeted_Mischief_alwaysOn)" Tags="TestUnsafe" Value="433208" />
+  <Preset Label="Distort an Obvious Truth (mixer_social_Rogue_CreateFalseNarrative_Targeted_Mischief_alwaysOn)" Tags="TestUnsafe" Value="433209" />
+  <Preset Label="Idle_Trait_Rogue" Value="433211" />
+  <Preset Label="Disturb Plants (sI_Rogue_MuddlePlants)" Value="433213" />
+  <Preset Label="Disturb Plants (sI_Rogue_PottedPlants_MuddlePlants)" Value="433214" />
+  <Preset Label="Caught in Luck Magnet (super_Ailments_React_LuckSuck)" Value="433237" />
+  <Preset Label="Gasp at Greenie Meanie Outburst (super_Ailments_React_GreenieMeanie)" Value="433243" />
+  <Preset Label="Bottle Feed Emotion Potion (fairyOccult_ChooseBottledEmotion_BottleFeed_Picker)" Tags="TestUnsafe" Value="433295" />
+  <Preset Label="Scratch the Creation Itch (super_Ailments_CreationImpulse_Itch)" Value="433300" />
+  <Preset Label="Cure Ailment (variableDistanceInteraction_FairyOccult_Ability_CureAilment)" Value="433308" />
+  <Preset Label="Increase Luck (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirLuck_Positive)" Value="433314" />
+  <Preset Label="Decrease Luck (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirLuck_Negative)" Value="433315" />
+  <Preset Label="Age {1.SimFirstName} Up (variableDistanceInteraction_FairyOccult_Ability_AgeThemUp)" Value="433332" />
+  <Preset Label="Increase Luck (superInteraction_FairyOccult_Ability_PlayWithMyLuck_Positive)" Value="433355" />
+  <Preset Label="Decrease Luck (superInteraction_FairyOccult_Ability_PlayWithMyLuck_Negative)" Value="433356" />
+  <Preset Label="Sense Harvestables (superInteraction_FairyOccult_Ability_DetectHarvestable)" Value="433362" />
+  <Preset Label="Duplicate Harvestable (superInteraction_FairyOccult_Ability_DuplicateHarvestable)" Value="433365" />
+  <Preset Label="Craft Gnome (woodworkingTable_StartCrafting_GnomeFunc_Gnomes)" Value="433392" />
+  <Preset Label="Give Coffee (superInteraction_GnomeFunc_GiveGift_Coffee)" Value="433431" />
+  <Preset Label="Give Fruitcake (superInteraction_GnomeFunc_GiveGift_Fruitcake)" Value="433432" />
+  <Preset Label="Give Future Cube (superInteraction_GnomeFunc_GiveGift_FutureCube)" Value="433433" />
+  <Preset Label="Plead for Forgiveness (superInteraction_GnomeFunc_GiveGift_Good)" Value="433434" />
+  <Preset Label="Give Pie (superInteraction_GnomeFunc_GiveGift_Pie)" Value="433435" />
+  <Preset Label="Give Salad (superInteraction_GnomeFunc_GiveGift_Salad)" Value="433436" />
+  <Preset Label="Give Toy (superInteraction_GnomeFunc_GiveGift_Toy)" Value="433437" />
+  <Preset Label="Appease the Gnome (superInteraction_GnomeFunc_GiveGift_React)" Value="433438" />
+  <Preset Label="Kick Gnome (superInteraction_GnomeFunc_Kick)" Value="433439" />
+  <Preset Label="Tell Jokes (superInteraction_GnomeFunc_TellJokes)" Value="433440" />
+  <Preset Label="Tell Secrets (superInteraction_GnomeFunc_TellSecrets)" Value="433441" />
+  <Preset Label="idle_Buff_FairyOccult_EmotionalStability" Value="433513" />
+  <Preset Label="idle_Buff_FairyOccult_EmotionalStruggles" Value="433514" />
+  <Preset Label="Idle_Trait_Mystical" Value="433542" />
+  <Preset Label="Grant Sacred Blessing (mixer_social_Mystical_GrantSacredBlessing)" Tags="TestUnsafe" Value="433577" />
+  <Preset Label="Read Aura (mixer_social_Mystical_ReadAura)" Tags="TestUnsafe" Value="433578" />
+  <Preset Label="Consult with Cosmos (solo_Trait_Mystical_ConsultWithCosmos)" Value="433579" />
+  <Preset Label="Sway {1.SimFirstName}'s Emotion (interactionPickerSI_FairyOccult_Ability_PlayWithTheirMood)" Tags="TestUnsafe" Value="433663" />
+  <Preset Label="Happy Fairy Influence (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Happy)" Value="433666" />
+  <Preset Label="Inspired Fairy Influence (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Inspired)" Value="433667" />
+  <Preset Label="Confident Fairy Influence (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Confident)" Value="433668" />
+  <Preset Label="Energized Fairy Influence (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Energized)" Value="433670" />
+  <Preset Label="Flirty Fairy Influence (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Flirty)" Value="433671" />
+  <Preset Label="Playful Fairy Influence (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Playful)" Value="433672" />
+  <Preset Label="Focused Fairy Influence (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Focused)" Value="433673" />
+  <Preset Label="Sad Fairy Influence (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Sad)" Value="433674" />
+  <Preset Label="Angry Fairy Influence (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Angry)" Value="433675" />
+  <Preset Label="Embarrassed Fairy Influence (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Embarrassed)" Value="433676" />
+  <Preset Label="Tense Fairy Influence (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Tense)" Value="433677" />
+  <Preset Label="Scared Fairy Influence (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Scared)" Value="433678" />
+  <Preset Label="Bored Fairy Influence (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Bored)" Value="433679" />
+  <Preset Label="Ask for Forbidden Fruit (nonTouching_PlantSim_Improvements_AskForForbiddenFruit)" Value="433981" />
+  <Preset Label="Nature's Breath (nonTouching_PlantSim_Improvements_NaturesBreath)" Value="433982" />
+  <Preset Label="Ask about PlantSim Lore (nonTouching_PlantSim_Improvements_AskAboutOrigins)" Value="433985" />
+  <Preset Label="Poison Kiss (mixer_social_PlantSim_Improvements_PoisonKiss_targeted_friendly_alwaysOn)" Tags="TestUnsafe" Value="433986" />
+  <Preset Label="Praise for Creation (mixer_social_PraiseforGivingLife_targeted_Friendly_alwaysOn)" Tags="TestUnsafe" Value="433987" />
+  <Preset Label="Apply Ailment (interactionPickerSI_FairyOccult_Ability_ApplyAilment)" Tags="TestUnsafe" Value="434057" />
+  <Preset Label="Creation Impulse Ailment (variableDistanceInteraction_FairyOccult_Ability_ApplyAilment_CreationImpulse)" Value="434059" />
+  <Preset Label="Emotional Void Ailment (variableDistanceInteraction_FairyOccult_Ability_ApplyAilment_EmotionalVoid)" Value="434060" />
+  <Preset Label="Gnome Lure Ailment (variableDistanceInteraction_FairyOccult_Ability_ApplyAilment_GnomeMagnet)" Value="434061" />
+  <Preset Label="Greenie Meanie Ailment (variableDistanceInteraction_FairyOccult_Ability_ApplyAilment_GreenieMeanie)" Value="434062" />
+  <Preset Label="Luck Magnet Ailment (variableDistanceInteraction_FairyOccult_Ability_ApplyAilment_LuckSuck)" Value="434063" />
+  <Preset Label="Help Manage Emotions (mixer_social_FairyOccult_HelpManageEmotions_Targeted_Friendly_AlwaysOn)" Tags="TestUnsafe" Value="434071" />
+  <Preset Label="Forage Here (terrain-gohere_Foraging_Forage)" Value="434108" />
+  <Preset Label="Forage for Apothecary Ingredients (terrain-gohere_Foraging_ApothecaryIngredients)" Value="434109" />
+  <Preset Label="Forage for Plants (terrain-gohere_Foraging_Plants)" Value="434110" />
+  <Preset Label="Forage for Food (terrain-gohere_Foraging_Food)" Value="434111" />
+  <Preset Label="Forage for Collectibles (terrain-gohere_Foraging_Collectibles)" Value="434112" />
+  <Preset Label="Forage for Apothecary Ingredients (sI_Foraging_ApothecaryIngredients)" Value="434114" />
+  <Preset Label="Forage for Collectibles (sI_Foraging_Collectibles)" Value="434115" />
+  <Preset Label="Forage for Food (sI_Foraging_Food)" Value="434116" />
+  <Preset Label="Forage Here (sI_Foraging_Forage)" Value="434117" />
+  <Preset Label="Forage for Plants (sI_Foraging_Plants)" Value="434118" />
+  <Preset Label="Turn {1.SimFirstName} Into Fairy (socialSuperInteraction_FairyOccult_Ability_TurnTargetSimIntoFairy)" Value="434251" />
+  <Preset Label="Influence Relationship (simPickerInteraction_FairyOccult_Ability_InfluenceMyRelationship)" Tags="TestUnsafe" Value="434411" />
+  <Preset Label="Influence My Relationship (interactionPickerSI_FairyOccult_Ability_InfluenceMyRelationship)" Tags="TestUnsafe" Value="434413" />
+  <Preset Label="Increase Friendly Relationship (superInteraction_FairyOccult_Ability_InfluenceMyRelationship_FriendlyPositive)" Value="434414" />
+  <Preset Label="Decrease Friendly Relationship (superInteraction_FairyOccult_Ability_InfluenceMyRelationship_FriendlyNegative)" Value="434415" />
+  <Preset Label="Increase Romantic Relationship (superInteraction_FairyOccult_Ability_InfluenceMyRelationship_RomanticPositive)" Value="434416" />
+  <Preset Label="Decrease Romantic Relationship (superInteraction_FairyOccult_Ability_InfluenceMyRelationship_RomanticNegative)" Value="434417" />
+  <Preset Label="Influence Sentiment (simPickerInteraction_FairyOccult_Ability_InfluenceMySentiment)" Tags="TestUnsafe" Value="434443" />
+  <Preset Label="Influence Sentiment (interactionPickerSI_FairyOccult_Ability_InfluenceMySentiment)" Tags="TestUnsafe" Value="434445" />
+  <Preset Label="Adoring (superInteraction_FairyOccult_Ability_InfluenceMySentiment_Adoring)" Value="434449" />
+  <Preset Label="Close (superInteraction_FairyOccult_Ability_InfluenceMySentiment_Close)" Value="434480" />
+  <Preset Label="Enamored (superInteraction_FairyOccult_Ability_InfluenceMySentiment_Enamored)" Value="434481" />
+  <Preset Label="Bitter (superInteraction_FairyOccult_Ability_InfluenceMySentiment_Bitter)" Value="434482" />
+  <Preset Label="Furious (superInteraction_FairyOccult_Ability_InfluenceMySentiment_Furious)" Value="434483" />
+  <Preset Label="Guilty (superInteraction_FairyOccult_Ability_InfluenceMySentiment_Guilty)" Value="434484" />
+  <Preset Label="Hurt (superInteraction_FairyOccult_Ability_InfluenceMySentiment_Hurt)" Value="434485" />
+  <Preset Label="Set to Broken (superInteraction_FairyOccult_Ability_ManipulateObject_Broken)" Value="434640" />
+  <Preset Label="Set to Not Broken (superInteraction_FairyOccult_Ability_ManipulateObject_NotBroken)" Value="434641" />
+  <Preset Label="Set to Clean (superInteraction_FairyOccult_Ability_ManipulateObject_Clean)" Value="434642" />
+  <Preset Label="Set to Dirty (superInteraction_FairyOccult_Ability_ManipulateObject_Dirty)" Value="434643" />
+  <Preset Label="Set to Unburned (superInteraction_FairyOccult_Ability_ManipulateObject_NotBurned)" Value="434644" />
+  <Preset Label="Set to Burned (superInteraction_FairyOccult_Ability_ManipulateObject_Burned)" Value="434645" />
+  <Preset Label="Set to Spoiled (superInteraction_FairyOccult_Ability_ManipulateObject_Spoiled)" Value="434646" />
+  <Preset Label="Set to Fresh (superInteraction_FairyOccult_Ability_ManipulateObject_Fresh)" Value="434647" />
+  <Preset Label="Influence {1.SimFirstName}'s Relationship (interactionPickerSI_FairyOccult_Ability_InfluenceTheirRelationship)" Tags="TestUnsafe" Value="434648" />
+  <Preset Label="Influence {1.SimFirstName}'s Relationship (simPickerInteraction_FairyOccult_Ability_InfluenceTheirRelationship)" Tags="TestUnsafe" Value="434649" />
+  <Preset Label="Enchant Plant (super_EP19Gardening_EnchantPlant)" Value="434658" />
+  <Preset Label="Debug: Give New Plant Seeds (debug_EP19Gardening_GiveSeeds)" Value="434726" />
+  <Preset Label="Bloom Plant (superInteraction_FairyOccult_Ability_BloomPlant)" Value="434750" />
+  <Preset Label="Change Mood to Angry (super_EP19Gardening_MoodBush_SetMood_Angry)" Value="434830" />
+  <Preset Label="Change Shrub's Mood (picker_Interaction_EP19Gardening_MoodBush_SetMood)" Tags="TestUnsafe" Value="434831" />
+  <Preset Label="Change Mood to Bored (super_EP19Gardening_MoodBush_SetMood_Bored)" Value="434833" />
+  <Preset Label="Change Mood to Random (super_EP19Gardening_MoodBush_SetMood_Default)" Value="434834" />
+  <Preset Label="Change Mood to Embarrassed (super_EP19Gardening_MoodBush_SetMood_Embarrassed)" Value="434835" />
+  <Preset Label="Change Mood to Energized (super_EP19Gardening_MoodBush_SetMood_Energized)" Value="434876" />
+  <Preset Label="Change Mood to Focused (super_EP19Gardening_MoodBush_SetMood_Focused)" Value="434877" />
+  <Preset Label="Change Mood to Playful (super_EP19Gardening_MoodBush_SetMood_Funny)" Value="434878" />
+  <Preset Label="Change Mood to Happy (super_EP19Gardening_MoodBush_SetMood_Happy)" Value="434879" />
+  <Preset Label="Change Mood to Inspired (super_EP19Gardening_MoodBush_SetMood_Inspired)" Value="434880" />
+  <Preset Label="Change Mood to Sad (super_EP19Gardening_MoodBush_SetMood_Sad)" Value="434881" />
+  <Preset Label="Change Mood to Tense (super_EP19Gardening_MoodBush_SetMood_Tense)" Value="434882" />
+  <Preset Label="Change Aura to Majesty (super_EP19Gardening_AuraBlossom_SetAura_Majesty)" Value="434938" />
+  <Preset Label="Change Aura (picker_Interaction_EP19Gardening_AuraBlossom_SetAura)" Tags="TestUnsafe" Value="434942" />
+  <Preset Label="Change Aura to Bad Luck (super_EP19Gardening_AuraBlossom_SetAura_BadLuck)" Value="434943" />
+  <Preset Label="Change Aura to Balance (super_EP19Gardening_AuraBlossom_SetAura_Balance)" Value="434944" />
+  <Preset Label="Change Aura to Enchantment (super_EP19Gardening_AuraBlossom_SetAura_Enchantment)" Value="434965" />
+  <Preset Label="Change Aura to Good Luck (super_EP19Gardening_AuraBlossom_SetAura_GoodLuck)" Value="434966" />
+  <Preset Label="Change Aura to Imbalance (super_EP19Gardening_AuraBlossom_SetAura_Imbalance)" Value="434967" />
+  <Preset Label="Change Aura to Warding (super_EP19Gardening_AuraBlossom_SetAura_Warding)" Value="434968" />
+  <Preset Label="idle_Buff_BalanceSys_ReturnToBalance" Value="435045" />
+  <Preset Label="Increase Friendly Relationship (variableDistanceInteraction_FairyOccult_Ability_InfluenceTheirRelationship_Friendly_Positive)" Value="435063" />
+  <Preset Label="Decrease Friendly Relationship (variableDistanceInteraction_FairyOccult_Ability_InfluenceTheirRelationship_Friendly_Negative)" Value="435064" />
+  <Preset Label="Increase Romantic Relationship (variableDistanceInteraction_FairyOccult_Ability_InfluenceTheirRelationship_Romantic_Positive)" Value="435065" />
+  <Preset Label="Decrease Romantic Relationship (variableDistanceInteraction_FairyOccult_Ability_InfluenceTheirRelationship_Romantic_Negative)" Value="435066" />
+  <Preset Label="Influence {1.SimFirstName}'s Sentiment (simPickerInteraction_FairyOccult_Ability_InfluenceTheirSentiment)" Tags="TestUnsafe" Value="435071" />
+  <Preset Label="Influence {1.SimFirstName}'s Sentiment (interactionPickerSI_FairyOccult_Ability_InfluenceTheirSentiment)" Tags="TestUnsafe" Value="435072" />
+  <Preset Label="Bitter (variableDistanceInteraction_FairyOccult_Ability_InfluenceTheirSentiment_Bitter)" Value="435086" />
+  <Preset Label="Furious (variableDistanceInteraction_FairyOccult_Ability_InfluenceTheirSentiment_Furious)" Value="435087" />
+  <Preset Label="Guilty (variableDistanceInteraction_FairyOccult_Ability_InfluenceTheirSentiment_Guilty)" Value="435088" />
+  <Preset Label="Hurt (variableDistanceInteraction_FairyOccult_Ability_InfluenceTheirSentiment_Hurt)" Value="435089" />
+  <Preset Label="Adoring (variableDistanceInteraction_FairyOccult_Ability_InfluenceTheirSentiment_Adoring)" Value="435090" />
+  <Preset Label="Close (variableDistanceInteraction_FairyOccult_Ability_InfluenceTheirSentiment_Close)" Value="435091" />
+  <Preset Label="Enamored (variableDistanceInteraction_FairyOccult_Ability_InfluenceTheirSentiment_Enarmored)" Value="435092" />
+  <Preset Label="Connect to Power Grid (super_EP19Gardening_LightningRoot_HookUp)" Value="435093" />
+  <Preset Label="Disconnect from Power Grid (super_EP19Gardening_LightningRoot_Unhook)" Value="435116" />
+  <Preset Label="Collect Lightning Root Leaves (Super_EP19Gardening_Collect_LightningRoot)" Value="435122" />
+  <Preset Label="Purchase Fairy Seedling (computer_FairyJourney_BuySeedling)" Value="435145" />
+  <Preset Label="Collect Bottled Emotion (super_EP19Gardening_Collect_MoodBush)" Value="435155" />
+  <Preset Label="Collect Aura Petals (super_EP19Gardening_Collect_AuraBlossom)" Value="435156" />
+  <Preset Label="Nurture Nature (superInteraction_FairyOccult_Ability_NurtureNature_Plant)" Value="435163" />
+  <Preset Label="Absorb Emotion (socialSuperInteraction_FairyOccult_SiphonMood)" Value="435235" />
+  <Preset Label="Bottle {1.SimFirstName}'s Emotion (socialSuperInteraction_FairyOccult_Ability_BottleTheirMood)" Value="435245" />
+  <Preset Label="Nurture Nature (socialSuperInteraction_FairyOccult_Ability_NurtureNature_Pet)" Value="435246" />
+  <Preset Label="Nurture Nature (sI_AnimalObjects_FairyOccult_Abilities_NurtureNature_AnimalObject)" Value="435247" />
+  <Preset Label="Restore Lifeforce (solo_PlantSim_Improvements_RefreshLifeForce)" Value="435306" />
+  <Preset Label="Change Mood to Confident (super_EP19Gardening_MoodBush_SetMood_Confident)" Value="435318" />
+  <Preset Label="Change Mood to Scared (super_EP19Gardening_MoodBush_SetMood_Scared)" Value="435319" />
+  <Preset Label="Plant Fairy Seedling (FairyJourney_PlantSeedling_Terrain)" Value="435325" />
+  <Preset Label="Plant Fairy Seedling (fairyJourney_PlantSeedling_PlanterBox)" Value="435327" />
+  <Preset Label="Plant Fairy Seedling (fairyJourney_PlantSeedling_Pot)" Value="435328" />
+  <Preset Label="Change Mood to Flirty (super_EP19Gardening_MoodBush_SetMood_Flirty)" Value="435439" />
+  <Preset Label="Career (socialSuperInteraction_FairyOccult_Ability_FairyInsight_Career)" Value="435488" />
+  <Preset Label="Angry Fairy Influence (superInteraction_FairyOccult_Ability_MoodResponse_Angry)" Value="435510" />
+  <Preset Label="Bored Fairy Influence (superInteraction_FairyOccult_Ability_MoodResponse_Bored)" Value="435511" />
+  <Preset Label="Confident Fairy Influence (superInteraction_FairyOccult_Ability_MoodResponse_Confident)" Value="435512" />
+  <Preset Label="Embarrassed Fairy Influence (superInteraction_FairyOccult_Ability_MoodResponse_Embarrassed)" Value="435513" />
+  <Preset Label="Energized Fairy Influence (superInteraction_FairyOccult_Ability_MoodResponse_Energized)" Value="435514" />
+  <Preset Label="Flirty Fairy Influence (superInteraction_FairyOccult_Ability_MoodResponse_Flirty)" Value="435567" />
+  <Preset Label="Happy Fairy Influence (superInteraction_FairyOccult_Ability_MoodResponse_Happy)" Value="435568" />
+  <Preset Label="Inspired Fairy Influence (superInteraction_FairyOccult_Ability_MoodResponse_Inspired)" Value="435569" />
+  <Preset Label="Playful Fairy Influence (superInteraction_FairyOccult_Ability_MoodResponse_Playful)" Value="435570" />
+  <Preset Label="Sad Fairy Influence (superInteraction_FairyOccult_Ability_MoodResponse_Sad)" Value="435571" />
+  <Preset Label="Scared Fairy Influence (superInteraction_FairyOccult_Ability_MoodResponse_Scared)" Value="435572" />
+  <Preset Label="Tense Fairy Influence (superInteraction_FairyOccult_Ability_MoodResponse_Tense)" Value="435573" />
+  <Preset Label="Traits (socialSuperInteraction_FairyOccult_Ability_FairyInsight_Traits)" Value="435588" />
+  <Preset Label="Focused Fairy Influence (superInteraction_FairyOccult_Ability_MoodResponse_Focused)" Value="435598" />
+  <Preset Label="Project Emotion (superInteraction_FairyOccult_Ability_ProjectMyMood_Negative)" Value="435606" />
+  <Preset Label="Project Emotion (superInteraction_FairyOccult_Ability_ProjectMyMood_Positive)" Value="435608" />
+  <Preset Label="Project Emotion (immediateSuperInteraction_FairyOccult_Ability_ProjectMyMood)" Value="435609" />
+  <Preset Label="Charm Sim (autonomousSimPickerSuperInteraction_FairyJourney_Marking)" Tags="TestUnsafe" Value="435632" />
+  <Preset Label="Charm Sim (social_FairyJourney_Autonomous_Marking)" Value="435634" />
+  <Preset Label="Likes and Dislikes (socialSuperInteraction_FairyOccult_Ability_FairyInsight_LikesDislikes)" Value="435651" />
+  <Preset Label="Sexual Orientation (socialSuperInteraction_FairyOccult_Ability_FairyInsight_SexualOrientation)" Value="435654" />
+  <Preset Label="Drink {1.ObjectName} (apothecary_BottledEmotions_drink)" Value="435757" />
+  <Preset Label="Drink {1.ObjectName} (apothecary_Elixirs_drink)" Value="435775" />
+  <Preset Label="Fairy Dust x20! (debugImmediate_FairyDust)" Value="435779" />
+  <Preset Label="DEBUG Show All Notebook Entries (debugImmediate_EP19Notebook_ShowAll)" Value="435782" />
+  <Preset Label="Regenerate Emotional Force (superInteraction_FairyOccult_RegenerateEmotionalAppetite)" Value="435993" />
+  <Preset Label="Take Vacation Day (Naturopath) (phone_TakePTO_Naturopathic)" Value="436174" />
+  <Preset Label="Debug: Toggle Vengeful On (debug_EP19Gardening_AuraBlossom_SetVengeful)" Value="436377" />
+  <Preset Label="Eat {1.ObjectName} (apothecary_Cures_ball)" Value="436443" />
+  <Preset Label="Have Emotions Absorbed by {1.SimFirstName} (socialSuperInteraction_FairyOccult_SiphonMood_Target)" Value="436599" />
+  <Preset Label="Go to Work (si_Career_Naturopathic)" Value="436609" />
+  <Preset Label="Disable Flying (immediateSuperInteraction_FairyOccult_Enable_Disable_FlyingAllowed)" Value="436711" />
+  <Preset Label="Instantly Fly Here (teleportStyleSuperInteraction_FairyOccult_InstantlyFlyHere)" Value="436745" />
+  <Preset Label="super_FairyJourney_Idle" Value="436756" />
+  <Preset Label="Acquire a Fable (oddJobGigPickerInteraction_EP19Quests_GreenMan)" Tags="TestUnsafe" Value="436766" />
+  <Preset Label="Sleep Here (terrain-gohere_NLS_SleepOnGround)" Value="436785" />
+  <Preset Label="Summon a Privy Bush (terrain-gohere_NLS_SummonABush)" Value="436787" />
+  <Preset Label="Sleep Here (sI_NLS_SleepOnGround_Comfortable)" Value="436789" />
+  <Preset Label="Bathe in Water (sI_NLS_BatheInWater)" Value="436790" />
+  <Preset Label="Summon a Privy Bush (sI_NLS_SummonAPoohooBush_Comfortable)" Value="436791" />
+  <Preset Label="Meditate Here (sI_NLS_MeditateInNature_Comfortable)" Value="436792" />
+  <Preset Label="Talk to Nature (sI_NLS_TalkToNature_Comfortable)" Value="436793" />
+  <Preset Label="Eat Fish (sI_NLS_EatFish)" Value="436794" />
+  <Preset Label="Eat Frog (sI_NLS_EatFrog)" Value="436795" />
+  <Preset Label="View {1.ObjectName} (EP19Quests_ViewBoard)" Value="436958" />
+  <Preset Label="Summon (super_GreenMan_Object_Summon)" Value="437037" />
+  <Preset Label="super_GreenMan_Object_SpawnSim" Value="437101" />
+  <Preset Label="Chase Away Pixies (super_EP19Gardening_ChasePixies)" Value="437176" />
+  <Preset Label="Gently Shoo Away Pixies (super_EP19Gardening_ChasePixies_Fairy)" Value="437177" />
+  <Preset Label="Study Holistic Care (computer_Career_Naturopathic_StudyHolisticTrends)" Value="437201" />
+  <Preset Label="Design Balance Program (computer_Career_Naturopathic_DesignWellnessProgram)" Value="437202" />
+  <Preset Label="Curate Lifestyle Plans (computer_Career_Naturopathic_CurateLifestylePlans)" Value="437203" />
+  <Preset Label="Follow Up with Clients (Naturopath) (phone_Career_Naturopathic_FollowUpWithPatients)" Value="437204" />
+  <Preset Label="Solve My Riddle (EP19Quests_MushroomRiddle)" Value="437391" />
+  <Preset Label="Solve My Riddle (EP19Quests_MushroomRiddle_RedCont)" Value="437394" />
+  <Preset Label="Holistically Examine {1.SimFirstName} (social_Career_Naturopathic_HolisticAssessment)" Value="437420" />
+  <Preset Label="Rave about Foraged Foods (social_Career_Naturopathic_LectureAboutEatingHabits)" Value="437421" />
+  <Preset Label="Educate about Balance (social_Career_Naturopathic_EducateInBalanceTherapy)" Value="437422" />
+  <Preset Label="Revitalize {1.SimFirstName}'s Needs (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_InfuseWithVitality)" Tags="TestUnsafe" Value="437440" />
+  <Preset Label="Solve My Riddle (eP19Quests_MushroomRiddle_BlueCont)" Value="437476" />
+  <Preset Label="Solve My Riddle (eP19Quests_MushroomRiddle_GreenCont)" Value="437477" />
+  <Preset Label="Solve My Riddle (eP19Quests_MushroomRiddle_YellowCont)" Value="437478" />
+  <Preset Label="Nurture Nature (socialSuperInteraction_FairyOccult_Ability_NurtureNature_Pet_MediumHeight)" Value="437620" />
+  <Preset Label="Nurture Nature (sI_AnimalObjects_FairyOccult_Abilities_NurtureNature_AnimalObject_MediumHeight)" Value="437622" />
+  <Preset Label="Nurture Nature (superInteraction_FairyOccult_Ability_NurtureNature_Plant_VerticalGarden)" Value="437624" />
+  <Preset Label="Water (immediate_EP19Gardening_Pixies_NoInteractions)" Value="437762" />
+  <Preset Label="Debug: Toggle Pixies On (debug_EP19Gardening_TogglePixies)" Value="437763" />
+  <Preset Label="Debug: Toggle Enchantment On (debug_EP19Gardening_ToggleEnchantment)" Value="437764" />
+  <Preset Label="Change Aura to Bad Luck (super_EP19Gardening_AuraBlossom_SetAura_BadLuck_VerticalGarden)" Value="437783" />
+  <Preset Label="Change Aura to Balance (super_EP19Gardening_AuraBlossom_SetAura_Balance_VerticalGarden)" Value="437785" />
+  <Preset Label="Change Aura to Enchantment (super_EP19Gardening_AuraBlossom_SetAura_Enchantment_VerticalGarden)" Value="437788" />
+  <Preset Label="Change Aura to Good Luck (super_EP19Gardening_AuraBlossom_SetAura_GoodLuck_VerticalGarden)" Value="437790" />
+  <Preset Label="Change Aura to Imbalance (super_EP19Gardening_AuraBlossom_SetAura_Imbalance_VerticalGarden)" Value="437792" />
+  <Preset Label="Change Aura to Majesty (super_EP19Gardening_AuraBlossom_SetAura_Majesty_VerticalGarden)" Value="437794" />
+  <Preset Label="Change Aura to Warding (super_EP19Gardening_AuraBlossom_SetAura_Warding_VerticalGarden)" Value="437796" />
+  <Preset Label="Collect Aura Petals (super_EP19Gardening_Collect_AuraBlossom_VerticalGarden)" Value="437798" />
+  <Preset Label="Collect Lightning Root Leaves (super_EP19Gardening_Collect_LightningRoot_VerticalGarden)" Value="437800" />
+  <Preset Label="Collect Bottled Emotion (super_EP19Gardening_Collect_MoodBush_VerticalGarden)" Value="437802" />
+  <Preset Label="Change Mood to Angry (super_EP19Gardening_MoodBush_SetMood_Angry_VerticalGarden)" Value="437804" />
+  <Preset Label="Change Mood to Bored (super_EP19Gardening_MoodBush_SetMood_Bored_VerticalGarden)" Value="437806" />
+  <Preset Label="Change Mood to Confident (super_EP19Gardening_MoodBush_SetMood_Confident_VerticalGarden)" Value="437808" />
+  <Preset Label="Change Mood to Random (super_EP19Gardening_MoodBush_SetMood_Default_VerticalGarden)" Value="437810" />
+  <Preset Label="Change Mood to Embarrassed (super_EP19Gardening_MoodBush_SetMood_Embarrassed_VerticalGarden)" Value="437812" />
+  <Preset Label="Change Mood to Energized (super_EP19Gardening_MoodBush_SetMood_Energized_VerticalGarden)" Value="437814" />
+  <Preset Label="Change Mood to Flirty (super_EP19Gardening_MoodBush_SetMood_Flirty_VerticalGarden)" Value="437816" />
+  <Preset Label="Change Mood to Focused (super_EP19Gardening_MoodBush_SetMood_Focused_VerticalGarden)" Value="437818" />
+  <Preset Label="Change Mood to Playful (super_EP19Gardening_MoodBush_SetMood_Funny_VerticalGarden)" Value="437820" />
+  <Preset Label="Change Mood to Happy (super_EP19Gardening_MoodBush_SetMood_Happy_VerticalGarden)" Value="437822" />
+  <Preset Label="Change Mood to Inspired (super_EP19Gardening_MoodBush_SetMood_Inspired_VerticalGarden)" Value="437824" />
+  <Preset Label="Change Mood to Sad (super_EP19Gardening_MoodBush_SetMood_Sad_VerticalGarden)" Value="437826" />
+  <Preset Label="Change Mood to Scared (super_EP19Gardening_MoodBush_SetMood_Scared_VerticalGarden)" Value="437828" />
+  <Preset Label="Change Mood to Tense (super_EP19Gardening_MoodBush_SetMood_Tense_VerticalGarden)" Value="437830" />
+  <Preset Label="Chase Away Pixies (super_EP19Gardening_ChasePixies_VerticalGarden)" Value="437832" />
+  <Preset Label="Gently Shoo Away Pixies (super_EP19Gardening_ChasePixies_Fairy_VerticalGarden)" Value="437834" />
+  <Preset Label="Enchant Plant (super_EP19Gardening_EnchantPlant_VerticalGarden)" Value="437836" />
+  <Preset Label="super_GreenMan_Object_Return" Value="438089" />
+  <Preset Label="For Cleaning (superInteraction_GnomeFunc_BringToLife_Cleaning_FairyOccult_Ability)" Value="438133" />
+  <Preset Label="For Gardening (superInteraction_GnomeFunc_BringToLife_Gardening_FairyOccult_Ability)" Value="438135" />
+  <Preset Label="For Protecting (superInteraction_GnomeFunc_BringToLife_Protecting_FairyOccult_Ability)" Value="438137" />
+  <Preset Label="For Repairs and Upgrades (superInteraction_GnomeFunc_BringToLife_RepairingUpgrades_FairyOccult_Ability)" Value="438139" />
+  <Preset Label="Bloom Plant (superInteraction_FairyOccult_Ability_BloomPlant_VerticalGarden)" Value="438148" />
+  <Preset Label="Enchant Plant (superInteraction_FairyOccult_Ability_NurtureNature_Plant_Enchant)" Value="438150" />
+  <Preset Label="Enchant Plant (superInteraction_FairyOccult_Ability_NurtureNature_Plant_VerticalGarden_Enchant)" Value="438163" />
+  <Preset Label="Enchant All Plants Near {0.SimFirstName} (super_EP19Gardening_EnchantGarden)" Value="438183" />
+  <Preset Label="Become a Fairy (super_FairyJourney_submerge)" Value="438203" />
+  <Preset Label="idle_Buff_FairyJourney_MotherNature" Value="438429" />
+  <Preset Label="NPCLeaveLot_fairyjourney_MotherNature" Value="438431" />
+  <Preset Label="Taste of Failure (fairyOccult-EmotionalAppetite-motive-route-fail)" Value="438459" />
+  <Preset Label="Listen? (EP19Quests_MushroomPuns)" Value="438561" />
+  <Preset Label="flowerPress_PressingOnDecoratedObjects" Value="438600" />
+  <Preset Label="Flood with Laughter (mixer_Social_FairyOccult_FloodWithLaughter_Targeted_Friendly_AlwaysOn)" Tags="TestUnsafe" Value="438672" />
+  <Preset Label="Absorb Vampirism (socialSuperInteraction_FairyOccult_Crosspack_SiphonVampirism)" Value="438815" />
+  <Preset Label="Water Healing (socialSuperInteraction_FairyOccult_Crosspack_WaterHealing)" Value="438816" />
+  <Preset Label="Soothe the Beast (socialSuperInteraction_FairyOccult_Crosspack_SootheTheBeast)" Value="438817" />
+  <Preset Label="Resume {0.String} (craftingResume_ApothecaryCraftTable_CuresandElixirs)" Value="438911" />
+  <Preset Label="ApothecaryCraftTable_Staging_CruesAndElixirs" Value="439227" />
+  <Preset Label="Craft (apothecaryCraftTable_StartCrafting_CuresAndElixirs)" Value="439228" />
+  <Preset Label="apothecaryCraftTable_Action_CraftCuresAndElixirs_TestTube" Value="439230" />
+  <Preset Label="mixer_Ailments_Idle_GiveNausea" Value="439315" />
+  <Preset Label="apothecaryCraftTable_Action_CraftCuresAndElixirs_Craft" Value="439346" />
+  <Preset Label="Ask Moondrop Springs How It's Feeling (sI_EnchantedSprings_AskFeeling)" Value="439529" />
+  <Preset Label="mixer_Ailments_Idle_CreationImpulse_IncrementItchTimer" Value="439595" />
+  <Preset Label="Emotionally Starving (sim_FairyOccult_EmotionalAppetiteDistress_EmotionallyStarving)" Value="439669" />
+  <Preset Label="Emotionally Ravenous (sim_FairyOccult_EmotionalAppetiteDistress_EmotionallyRavenous)" Value="439670" />
+  <Preset Label="ApothecaryCraftTable_StartCraftingProcess" Value="439678" />
+  <Preset Label="Discard In-Progress Elixir (ApothecaryCraftTable_DiscardElixir)" Value="439680" />
+  <Preset Label="siCrafting_ApothecaryCraftTable_CreateObject" Value="439685" />
+  <Preset Label="Meditate Here (sI_NLS_MeditateInNature_Uncomfortable)" Value="439892" />
+  <Preset Label="Client Assessment (Naturopath_Career_WFH_Socials_Assess)" Value="439903" />
+  <Preset Label="Purchase Basic Apothecary Ingredients (purchase_ApothecaryCraftTable_Ingredients)" Tags="TestUnsafe" Value="439910" />
+  <Preset Label="Summoning a bush (mixer_NLS_SummonABush_Use)" Value="440043" />
+  <Preset Label="Sleep on the Ground (mixer_NLS_SleepOnGround_TossAndTurn)" Value="440044" />
+  <Preset Label="Sleep on the Ground (mixer_NLS_SleepOnGround_BodyTensing)" Value="440045" />
+  <Preset Label="Sleep on the Ground (mixer_NLS_SleepOnGround_Idle)" Value="440046" />
+  <Preset Label="Meditate in Nature (mixer_NLS_MeditateInNature_PeekAround_Distracted)" Value="440047" />
+  <Preset Label="Summon a Privy Bush (sI_NLS_SummonAPoohooBush_Uncomfortable)" Value="440048" />
+  <Preset Label="Talk to Nature (sI_NLS_TalkToNature_Uncomfortable)" Value="440049" />
+  <Preset Label="Talking to Nature (mixer_NLS_TalkToNature_Comfortable)" Value="440050" />
+  <Preset Label="Get Ready to Teleport (super_TeleportStone_GoToStone)" Value="440063" />
+  <Preset Label="Teleport to Sylvan Glade (super_TeleportStone_TravelWith_Glade_Start)" Value="440069" />
+  <Preset Label="Talking to Nature (mixer_NLS_TalkToNature_UnComfortable)" Value="440081" />
+  <Preset Label="Teleport to (picker_Interaction_TeleportStone_TravelWith)" Tags="TestUnsafe" Value="440238" />
+  <Preset Label="Meditate in Nature (terrain-gohere_NLS_MeditateOnGround)" Value="440278" />
+  <Preset Label="Bathe in Water (terrain-gohere_NLS_BatheInWater)" Value="440279" />
+  <Preset Label="Shrink and Sleep (superInteraction_FairyOccult_MotiveSolving_ShrinkandSleep_Piano)" Value="440444" />
+  <Preset Label="Shrink and Sleep (superInteraction_FairyOccult_MotiveSolving_ShrinkandSleep_Dollhouse)" Value="440445" />
+  <Preset Label="Acquire a Fable (oddJobGigPickerInteraction_EP19Quests_Gnome)" Tags="TestUnsafe" Value="440790" />
+  <Preset Label="Acquire a Fable (oddJobGigPickerInteraction_EP19Quests_Fairy)" Tags="TestUnsafe" Value="440791" />
+  <Preset Label="Acquire a Fable (oddJobGigPickerInteraction_EP19Quests_Liaison)" Tags="TestUnsafe" Value="440792" />
+  <Preset Label="Acquire a Fable (oddJobGigPickerInteraction_EP19Quests_Apothecary)" Tags="TestUnsafe" Value="440793" />
+  <Preset Label="Acquire a Fable (oddJobGigPickerInteraction_EP19Quests_Trade)" Tags="TestUnsafe" Value="440794" />
+  <Preset Label="idle_Trait_FairyOccult_TYAE" Value="440795" />
+  <Preset Label="What Fairies Do You Believe In? (social_EP19Quests_HearFolklore)" Value="440857" />
+  <Preset Label="Peris (EP19Quests_Narrative_Ring_Story1)" Value="440875" />
+  <Preset Label="Bereginy (eP19Quests_Narrative_Ring_Story2)" Value="440888" />
+  <Preset Label="Sidhe (eP19Quests_Narrative_Ring_Story3)" Value="440889" />
+  <Preset Label="The Fair Family (eP19Quests_Narrative_Ring_Story4)" Value="440890" />
+  <Preset Label="Moss Maidens (eP19Quests_Narrative_Ring_Story5)" Value="440891" />
+  <Preset Label="Seelie (eP19Quests_Narrative_Ring_Story6)" Value="440892" />
+  <Preset Label="Yumboes (eP19Quests_Narrative_Ring_Story7)" Value="440893" />
+  <Preset Label="Dryads (eP19Quests_Narrative_Ring_Story8)" Value="440894" />
+  <Preset Label="View Historical Monument (superInteraction_EP19WorldPOI_PonderShipwreck)" Value="441188" />
+  <Preset Label="Read Statue Description (superInteraction_EP19WorldPOI_GnomeStatue_ReadDescription)" Value="441190" />
+  <Preset Label="Ask Great Gnome for Good Luck (superInteraction_EP19WorldPOI_GnomeStatue_AskforLuck)" Value="441191" />
+  <Preset Label="Attempt to Kick Great Gnome (superInteraction_EP19WorldPOI_GnomeStatue_Kick)" Value="441192" />
+  <Preset Label="EP19World_Rabbithole_HideSim" Value="441219" />
+  <Preset Label="John &amp; Gio's (purchasePickerInteraction_EP19World_Grocery)" Tags="TestUnsafe" Value="441221" />
+  <Preset Label="Clover's Seeds and Supplies (purchasePickerInteraction_EP19World_GardenStore)" Tags="TestUnsafe" Value="441222" />
+  <Preset Label="Captain's Quarters (purchasePickerInteraction_EP19World_FishStore)" Tags="TestUnsafe" Value="441223" />
+  <Preset Label="Purchase Books (purchase_Books_EP19World_Bookstore)" Tags="TestUnsafe" Value="441224" />
+  <Preset Label="Purchase Used Books (EP19World_Rabbitholes_BookStore_PurchaseBooks)" Value="441225" />
+  <Preset Label="Wake The Great Gnome (EP19Quests_GreatGnome_Wake)" Value="441289" />
+  <Preset Label="Soothe The Great Gnome (EP19Quests_GreatGnome_Apologize)" Value="441290" />
+  <Preset Label="Splash in Water (superInteraction_FairyOccult_MotiveSolving_SplashInWater)" Value="441342" />
+  <Preset Label="WooHoo in Sky (fairy_Woohoo)" Value="441383" />
+  <Preset Label="Try for Baby in Sky (fairy_TryForBaby)" Value="441385" />
+  <Preset Label="WooHoo in Sky (mixer_Social_FairyWooHoo_targeted_romance_transition)" Tags="TestUnsafe" Value="441386" />
+  <Preset Label="Try for Baby in Sky (mixer_Social_FairyTryForBaby_targeted_romance_transition)" Tags="TestUnsafe" Value="441387" />
+  <Preset Label="Plant Fairy Seedling (fairyJourney_PlantSeedling_PlanterBox_Fairy)" Value="441492" />
+  <Preset Label="Plant Fairy Seedling (fairyJourney_PlantSeedling_Pot_Fairy)" Value="441493" />
+  <Preset Label="Plant Fairy Seedling (fairyJourney_PlantSeedling_Terrain_Fairy)" Value="441494" />
+  <Preset Label="Ask to Remove Fairy Essence (social_FairyJourney_Absorb)" Value="441511" />
+  <Preset Label="Deliver (social_EP19Quests_Deliver_Apoth)" Value="441659" />
+  <Preset Label="Deliver (social_EP19Quests_Deliver_Fairy)" Value="441681" />
+  <Preset Label="Deliver Tradesperson's Item (EP19Quests_Trade_Deliver)" Value="441758" />
+  <Preset Label="Talk about Trading (social_EP19Quests_Trade_TalkAbout)" Value="441767" />
+  <Preset Label="Talk about Nature (social_EP19Quests_Trade_TalkAboutNature)" Value="441769" />
+  <Preset Label="Ask for Small Critter Bones (social_EP19Quests_AskItem_A)" Value="441811" />
+  <Preset Label="Deliver (social_EP19Quests_Deliver_Liaison)" Value="441812" />
+  <Preset Label="Ask for a Freezer Bunny Foot (social_EP19Quests_AskItem_B)" Value="441814" />
+  <Preset Label="Ask for a Moody Shrub Seed (social_EP19Quests_AskItem_C)" Value="441815" />
+  <Preset Label="Ask for an Emotion Potion (social_EP19Quests_AskItem_D)" Value="441816" />
+  <Preset Label="Ask for Item (social_EP19Quests_AskItem_Cont)" Value="441885" />
+  <Preset Label="Ask for Mother Nature's Charm (social_FairyJourney_AskMarking_FailSafe)" Value="442099" />
+  <Preset Label="Hear Tales (socials_Targeted_Friendly_AlwaysOn_Gossip_EP19NPC)" Tags="TestUnsafe" Value="442293" />
+  <Preset Label="Ask about Gnomes (social_EP19NPCs_Ask_Gnomes)" Value="442657" />
+  <Preset Label="Ask about Gardening (social_EP19NPCs_Ask_Gardening)" Value="442658" />
+  <Preset Label="Ask about the Glaswood Tree (social_EP19NPCs_Ask_GreenMan)" Value="442659" />
+  <Preset Label="Ask about Fables (social_EP19NPCs_Ask_Quests)" Value="442660" />
+  <Preset Label="Ask about Trading (social_EP19NPCs_Ask_Trade)" Value="442661" />
+  <Preset Label="Ask about Ailments (social_EP19NPCs_Ask_Ailment)" Value="442662" />
+  <Preset Label="Ask about Fairies (social_EP19NPCs_Ask_Fairy)" Value="442663" />
+  <Preset Label="Ask about the Fairy's Journey (social_EP19NPCs_Ask_Journey)" Value="442664" />
+  <Preset Label="Ask about the Fairy Council (social_EP19NPCs_Ask_Council)" Value="442665" />
+  <Preset Label="Ask about the Starseed Teleporter (social_EP19NPCs_Ask_Teleport)" Value="442666" />
+  <Preset Label="Ask about Apothecary (social_EP19NPCs_Ask_Apothecary)" Value="442667" />
+  <Preset Label="Ask about Foraging (social_EP19NPCs_Ask_Forage)" Value="442668" />
+  <Preset Label="Ask about Natural Living (social_EP19NPCs_Ask_NLS)" Value="442669" />
+  <Preset Label="Ask about Flower Pressing (social_EP19NPCs_Ask_Flower)" Value="442670" />
+  <Preset Label="Donate Books (EP19World_Rabbitholes_BookStore_DonateBooks)" Value="442882" />
+  <Preset Label="Donate Books (sellPickerInteraction_EP19World_DonateBooks)" Tags="TestUnsafe" Value="442883" />
+  <Preset Label="Shop for Gardening and Live Houseplant Supplies (EP19World_Rabbitholes_GardenShop_Shop)" Value="442884" />
+  <Preset Label="Shop for Groceries (EP19World_Rabbitholes_GroceryStore_Shop)" Value="442885" />
+  <Preset Label="Buy Fish (EP19World_FishermanHut_BuyFish)" Value="442886" />
+  <Preset Label="All Apothecary Cures and Elixirs (debugImmediate_Apothecary_CuresAndELixirs_Create_All)" Value="442950" />
+  <Preset Label="All Apothecary Ingredients x5 (debugImmediate_Apothecary_ApothecaryIngredients_Create_All)" Value="442951" />
+  <Preset Label="Bottle {1.SimFirstName}'s Emotion (socialSuperInteraction_Apothecary_EmotionStone_BottleTheirMood)" Value="442985" />
+  <Preset Label="Bottle Emotion (superInteraction_Apothecary_EmotionStone_BottleMyMood)" Value="442993" />
+  <Preset Label="Ask {1.SimFirstName} to Absorb Emotion (mixer_social_FairyOccult_AskFairytoAbsorbEmotion_Targeted_Friendly_AlwaysOn)" Tags="TestUnsafe" Value="443054" />
+  <Preset Label="Debug: Add Ailment (picker_Debug_Ailments_AddAilment)" Tags="TestUnsafe" Value="443064" />
+  <Preset Label="Debug: Remove Ailments And Incubations (super_Debug_Ailments_RemoveAilments)" Value="443065" />
+  <Preset Label="Collect Daily Fairy Dust Ration (eP19World_Shell_FairyHub_CollectFairyDustRation)" Value="443185" />
+  <Preset Label="Use the Mossveil Fairy Hub Esteemed Toilet (EP19World_Shell_FairyHub_UseFairyToilet)" Value="443189" />
+  <Preset Label="Captain's Quarters (sellPickerInteraction_EP19World_SellFish)" Tags="TestUnsafe" Value="443190" />
+  <Preset Label="Sell Fish (EP19World_FishermanHut_SellFish)" Value="443192" />
+  <Preset Label="Relinquish Fairy Essence (super_FairyJourney_Pour)" Value="443301" />
+  <Preset Label="Enchant All Plants Nearby {1.ObjectName} (super_EP19Gardening_EnchantGarden_Plant)" Value="443331" />
+  <Preset Label="Aspiration_FairyStories_Picker" Value="443438" />
+  <Preset Label="Stress Plant-Based Care (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_StressPlantBasedCare)" Tags="TestUnsafe" Value="443440" />
+  <Preset Label="Study Apothecary Cures (si_Apothecary_Career_Naturopath_StudyHerbalCare)" Value="443481" />
+  <Preset Label="Research in the Wilds (si_Career_Naturopath_ResearchInTheWilds)" Value="443482" />
+  <Preset Label="Connect with Plant (si_Career_Naturopath_ConnectWithPlants)" Value="443483" />
+  <Preset Label="Research in the Wilds (terrain-gohere_Naturopath_ResearchInTheWilds)" Value="443591" />
+  <Preset Label="Conduct Client Intake (socials_Targeted_Friendly_AlwaysOn_STC_Naturopath_ConductClientIntake)" Tags="TestUnsafe" Value="443593" />
+  <Preset Label="Nature's Breath (si_PlantSimImprovements_NaturesBreath_Plants)" Value="443800" />
+  <Preset Label="immediate_Aspiration_FairyStories_SetDarkPath" Value="443830" />
+  <Preset Label="immediate_Aspiration_FairyStories_SetLightPath" Value="443831" />
+  <Preset Label="Learn about Everdew History (eP19World_Shell_FairyHub_LearnHistory)" Value="443902" />
+  <Preset Label="Investigate Fairy Court Documents (eP19World_Shell_FairyHub_StudyCourtDocuments)" Value="443903" />
+  <Preset Label="Appeal Problem Fairy Status at Fairy Court (eP19World_Shell_FairyHub_AppealProblemFairyStatus)" Value="443904" />
+  <Preset Label="Bottle Springs Emotion Potion (sI_EnchantedSprings_BottleEmotion)" Value="444029" />
+  <Preset Label="Give Coffee (EP19Quests_Gnome_coffee)" Value="444032" />
+  <Preset Label="Appease (EP19Quests_Gnome_React)" Value="444038" />
+  <Preset Label="Brush Off Fairy Dust (super_FairyDust_Extract)" Value="444052" />
+  <Preset Label="Ask for Fairy Dust (mixer_Social_FairyDust_AskForDust)" Tags="TestUnsafe" Value="444056" />
+  <Preset Label="autoPicker_Object_FairyDust_Collect" Tags="TestUnsafe" Value="444072" />
+  <Preset Label="Collect All Fairy Dust (super_FairyDust_Collect)" Value="444073" />
+  <Preset Label="Give Pie (eP19Quests_Gnome_pie)" Value="444097" />
+  <Preset Label="Give a Toy (EP19Quests_Gnome_Toy)" Value="444098" />
+  <Preset Label="SI_EnchantedSprings_AskMotherNaturetoChange_Angry" Value="444117" />
+  <Preset Label="AskMotherNatureToChange_EP19World_EnchantedSprings_Inspired" Tags="TestUnsafe" Value="444118" />
+  <Preset Label="AskMotherNatureToChange_EP19World_EnchantedSprings_Bored" Tags="TestUnsafe" Value="444121" />
+  <Preset Label="AskMotherNatureToChange_EP19World_EnchantedSprings_Tense" Tags="TestUnsafe" Value="444122" />
+  <Preset Label="AskMotherNatureToChange_EP19World_EnchantedSprings_Energized" Tags="TestUnsafe" Value="444123" />
+  <Preset Label="AskMotherNatureToChange_EP19World_EnchantedSprings_Focused" Tags="TestUnsafe" Value="444124" />
+  <Preset Label="Angry (AskMotherNatureToChange_EP19World_EnchantedSprings_Angry)" Tags="TestUnsafe" Value="444125" />
+  <Preset Label="AskMotherNatureToChange_EP19World_EnchantedSprings_Confident" Tags="TestUnsafe" Value="444126" />
+  <Preset Label="AskMotherNatureToChange_EP19World_EnchantedSprings_Embarrassed" Tags="TestUnsafe" Value="444127" />
+  <Preset Label="AskMotherNatureToChange_EP19World_EnchantedSprings_Scared" Tags="TestUnsafe" Value="444128" />
+  <Preset Label="AskMotherNatureToChange_EP19World_EnchantedSprings_Playful" Tags="TestUnsafe" Value="444129" />
+  <Preset Label="AskMotherNatureToChange_EP19World_EnchantedSprings_Sad" Tags="TestUnsafe" Value="444130" />
+  <Preset Label="AskMotherNatureToChange_EP19World_EnchantedSprings_Flirty" Tags="TestUnsafe" Value="444131" />
+  <Preset Label="AskMotherNatureToChange_EP19World_EnchantedSprings_Happy" Tags="TestUnsafe" Value="444132" />
+  <Preset Label="Research Cures &amp; Elixirs (computer_Browse_ResearchApothecary)" Value="444150" />
+  <Preset Label="Give Elixir (Touching_Apothecary_GiveCuresAndElixers)" Value="444161" />
+  <Preset Label="Receive Elixir (Touching_Apothecary_ReceiveCuresAndElixers)" Value="444163" />
+  <Preset Label="Give Elixir (sim_Apothecary_GiveCuresAndElixirs_Picker)" Tags="TestUnsafe" Value="444170" />
+  <Preset Label="Angry (sI_EnchantedSprings_AskMotherNatureToChange_Start_Angry)" Value="444204" />
+  <Preset Label="Bored (sI_EnchantedSprings_AskMotherNatureToChange_Start_Bored)" Value="444206" />
+  <Preset Label="Confident (sI_EnchantedSprings_AskMotherNatureToChange_Start_Confident)" Value="444207" />
+  <Preset Label="Embarrassed (sI_EnchantedSprings_AskMotherNatureToChange_Start_Embarrassed)" Value="444208" />
+  <Preset Label="Energized (sI_EnchantedSprings_AskMotherNatureToChange_Start_Energized)" Value="444209" />
+  <Preset Label="Flirty (sI_EnchantedSprings_AskMotherNatureToChange_Start_Flirty)" Value="444210" />
+  <Preset Label="Focused (sI_EnchantedSprings_AskMotherNatureToChange_Start_Focused)" Value="444211" />
+  <Preset Label="Happy (sI_EnchantedSprings_AskMotherNatureToChange_Start_Happy)" Value="444212" />
+  <Preset Label="Inspired (sI_EnchantedSprings_AskMotherNatureToChange_Start_Inspired)" Value="444223" />
+  <Preset Label="Playful (sI_EnchantedSprings_AskMotherNatureToChange_Start_Playful)" Value="444224" />
+  <Preset Label="Sad (sI_EnchantedSprings_AskMotherNatureToChange_Start_Sad)" Value="444225" />
+  <Preset Label="Scared (sI_EnchantedSprings_AskMotherNatureToChange_Start_Scared)" Value="444226" />
+  <Preset Label="Tense (sI_EnchantedSprings_AskMotherNatureToChange_Start_Tense)" Value="444227" />
+  <Preset Label="sI_EnchantedSprings_AskMotherNaturetoChange_Bored" Value="444228" />
+  <Preset Label="sI_EnchantedSprings_AskMotherNaturetoChange_Confident" Value="444229" />
+  <Preset Label="sI_EnchantedSprings_AskMotherNaturetoChange_Embarrassed" Value="444230" />
+  <Preset Label="sI_EnchantedSprings_AskMotherNaturetoChange_Energized" Value="444231" />
+  <Preset Label="sI_EnchantedSprings_AskMotherNaturetoChange_Flirty" Value="444232" />
+  <Preset Label="sI_EnchantedSprings_AskMotherNaturetoChange_Focused" Value="444233" />
+  <Preset Label="sI_EnchantedSprings_AskMotherNaturetoChange_Happy" Value="444234" />
+  <Preset Label="sI_EnchantedSprings_AskMotherNaturetoChange_Inspired" Value="444245" />
+  <Preset Label="sI_EnchantedSprings_AskMotherNaturetoChange_Playful" Value="444246" />
+  <Preset Label="sI_EnchantedSprings_AskMotherNaturetoChange_Sad" Value="444247" />
+  <Preset Label="sI_EnchantedSprings_AskMotherNaturetoChange_Scared" Value="444248" />
+  <Preset Label="sI_EnchantedSprings_AskMotherNaturetoChange_Tense" Value="444249" />
+  <Preset Label="Trade Item (social_EP19Quests_Trading)" Value="444269" />
+  <Preset Label="Trade Item (social_EP19Quests_Trading_GiveThing)" Value="444271" />
+  <Preset Label="Pick an Item to Trade (objectInInventory_EP19Quests_TradePicker_Dust)" Tags="TestUnsafe" Value="444272" />
+  <Preset Label="Pick an Item to Trade (objectInInventory_EP19Quests_TradePicker_Flower)" Tags="TestUnsafe" Value="444273" />
+  <Preset Label="Pick an Item to Trade (objectInInventory_EP19Quests_TradePicker_Elixir)" Tags="TestUnsafe" Value="444274" />
+  <Preset Label="Pick an Item to Trade (objectInInventory_EP19Quests_TradePicker_Emotion)" Tags="TestUnsafe" Value="444275" />
+  <Preset Label="Pick an Item to Trade (objectInInventory_EP19Quests_TradePicker_Toy)" Tags="TestUnsafe" Value="444276" />
+  <Preset Label="immediateSuperInteraction_FairyWalkbyFixup" Value="444278" />
+  <Preset Label="Stress Plant-Based Care (mixer_Naturopath_WFH_social_StressPlantBasedCare)" Value="444300" />
+  <Preset Label="EP19Quests_DestroyTrade_invisible" Value="444317" />
+  <Preset Label="attractorPointInteraction_EP19Quests_Trade" Value="444320" />
+  <Preset Label="attractorPointInteraction_EP19Quests_Liaison" Value="444321" />
+  <Preset Label="attractorPointInteraction_EP19Quests_Fairy" Value="444322" />
+  <Preset Label="autoPicker_Sim_TeleportStone_CollectSituationSims" Tags="TestUnsafe" Value="444342" />
+  <Preset Label="Teleport to Forgotten Grotto (super_TeleportStone_TravelWith_Start_Grotto)" Value="444404" />
+  <Preset Label="Emotional Starving! (death_EmotionalStarvation)" Value="444409" />
+  <Preset Label="attractorPoint_Interaction_EP19Quests_TradeIdle" Value="444470" />
+  <Preset Label="attractorPoint_Interaction_EP19Quests_FairyIdle" Value="444471" />
+  <Preset Label="attractorPoint_Interaction_EP19Quests_LiaisonIdle" Value="444472" />
+  <Preset Label="Fly Down (buildLadder_FairyOccult_FlyDown_Start)" Value="444558" />
+  <Preset Label="Fly Down (buildLadder_FairyOccult_FlyDown_End)" Value="444559" />
+  <Preset Label="Fly Up (buildLadder_FairyOccult_FlyUp_Start)" Value="444581" />
+  <Preset Label="Fly Up (buildLadder_FairyOccult_FlyUp_End)" Value="444582" />
+  <Preset Label="Tend Stall (marketStalls_Tend_EP19World_Apothecary)" Value="444661" />
+  <Preset Label="Tend Stall (marketStalls_Tend_EP19World_Gnome)" Value="444662" />
+  <Preset Label="Shop for Gnomes (marketStalls_ShopFor_EP19World_Gnomes)" Value="444663" />
+  <Preset Label="Shop for Apothecary Items (marketStalls_ShopFor_EP19World_Apothecary)" Value="444675" />
+  <Preset Label="Apothecary Todd's Cures &amp; Elixirs (purchase_MarketStalls_EP19World_Apothecary)" Tags="TestUnsafe" Value="444676" />
+  <Preset Label="attractorPointInteraction_EP19Quests_Trade_coastal" Value="444699" />
+  <Preset Label="Sleep (super_FairyHome_Object_Sleep)" Value="444879" />
+  <Preset Label="Take a Bath (super_FairyHome_Object_Cleanse)" Value="444889" />
+  <Preset Label="Throw Dance Party (super_FairyHome_Object_DanceParty_Fairy)" Value="444890" />
+  <Preset Label="Dance with Fairies (super_FairyHome_Object_DanceParty_NonFairy)" Value="444891" />
+  <Preset Label="Read Fairy Tales (super_FairyHome_Object_ReadBook)" Value="444892" />
+  <Preset Label="Shake for Fairy Dust (super_FairyHome_Object_ShakeForFairyDust)" Value="444893" />
+  <Preset Label="Regenerate Emotional Force (super_FairyHome_Object_EmotionalAppetite)" Value="444894" />
+  <Preset Label="Give Emotion Potion (sim_Apothecary_GiveBottledEmotions_Picker)" Tags="TestUnsafe" Value="444909" />
+  <Preset Label="Give Emotion Potion (Touching_Apothecary_GiveBottledEmotions)" Value="444910" />
+  <Preset Label="Receive Emotion Potion  (Touching_Apothecary_ReceiveBottledEmotions)" Value="444911" />
+  <Preset Label="Detect Emotions (superInteraction_Apothecary_EmotionStone_DetectMood)" Value="444929" />
+  <Preset Label="Mentor {2.String} (mentor_ApothecarySkill)" Value="444930" />
+  <Preset Label="Gnum Gnum's (purchase_MarketStalls_EP19World_Gnomes)" Tags="TestUnsafe" Value="444939" />
+  <Preset Label="Enthuse about Crafting Elixirs (mixer_Social_DiscussApothecaries_Targeted_AlwaysOn_ApothecarySkill)" Tags="TestUnsafe" Value="444956" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartLecture_Apothecary)" Value="444968" />
+  <Preset Label="**DEBUG** (social_HobbyClass_Whiteboard_Lecture_Apothecary)" Value="444969" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_ListenToLecture_Apothecary)" Value="444973" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_Apothecary" Value="444981" />
+  <Preset Label="Chatter about Apothecary (socials_Targeted_Friendly_SimPreference_Recent_Likes_Apothecary)" Tags="TestUnsafe" Value="444982" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_Apothecary" Value="444988" />
+  <Preset Label="Gripe about Apothecary Crafting (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_Apothecary)" Tags="TestUnsafe" Value="444989" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_PrepareLecture_Apothecary_1)" Value="445007" />
+  <Preset Label="Join Dance Party (super_FairyHome_Object_DanceParty_Fairy_Join)" Value="445038" />
+  <Preset Label="superInteraction_EP19WorldPOI_GnomeStatue_NPC_TakeSelfie" Value="445045" />
+  <Preset Label="Read Captain's Quarters Policies (EP19World_FishermanHut_ReadPolicies)" Value="445052" />
+  <Preset Label="Order Food (marketStalls_PushOrder_Autonomous_EP19World_GnomeFood)" Value="445053" />
+  <Preset Label="Apothecary Todd's Cures &amp; Elixirs (sellPickerInteraction_EP19World_SellElixir)" Tags="TestUnsafe" Value="445054" />
+  <Preset Label="Sell Elixirs (marketStalls_EP19World_Apothecary_SellElixirs)" Value="445055" />
+  <Preset Label="Brag about Apothecary Expertise (mixer_social_BragAboutApothecarySkill_targeted_Friendly_alwaysOn_skill)" Tags="TestUnsafe" Value="445058" />
+  <Preset Label="Nature's Best Hug (reactions_BohemianStyle_NaturesBestBud_Hug)" Value="445221" />
+  <Preset Label="Giddy Dance (reactions_BohemianStyle_NaturesBestBud_GiddyDance)" Value="445222" />
+  <Preset Label="Throw Dance Party with (simPickerInteraction_FairyHome_DanceParty_Fairy)" Tags="TestUnsafe" Value="445275" />
+  <Preset Label="generic_FairyHome" Value="445277" />
+  <Preset Label="Manifest Ailment Relief (sI_EnchantedSprings_ManifestAilmentRelief)" Value="445308" />
+  <Preset Label="Pay Restitution (social_EP19NPC_LiaisonGameLoop_Retribution)" Value="445336" />
+  <Preset Label="Discuss Fairy Behavior (social_EP19NPC_LiaisonGameLoop_Behavior)" Value="445337" />
+  <Preset Label="Acquire Fairy Ability Refund Potion (social_FairyJourney_Ask_FairyProgressionReset)" Value="445375" />
+  <Preset Label="Drink (drink_Fairy_Potion)" Value="445379" />
+  <Preset Label="Charm Sim (autonomousSimPickerSuperInteraction_FairyJourney_Absorb)" Tags="TestUnsafe" Value="445395" />
+  <Preset Label="super_FairyJourney_Idle_Fairy" Value="445398" />
+  <Preset Label="autonomousSimPicker_BohemianStyle_NaturesBestBud_FindMotherNature_GiddyDance" Tags="TestUnsafe" Value="445419" />
+  <Preset Label="autonomousSimPicker_BohemianStyle_NaturesBestBud_FindMotherNature_Hug" Tags="TestUnsafe" Value="445421" />
+  <Preset Label="Form Enchanted Bond (socials_Targeted_Friendly_AlwaysOn_DeepThoughts_EnchantedSprings_EmotionalBond)" Tags="TestUnsafe" Value="445563" />
+  <Preset Label="Amend Negative Sentiments (socials_Targeted_Friendly_AlwaysOn_DeepThoughts_EnchantedSprings_CleanseEnergy)" Tags="TestUnsafe" Value="445564" />
+  <Preset Label="super_FairyJourney_SpawnArrival" Value="445614" />
+  <Preset Label="Bask in Emotions (pool-FloatOnBackEP19World_EnchantedSprings_Bask)" Value="445664" />
+  <Preset Label="Stay Late at Sims Health &amp; Balance (NaturopathCareer_WorkOvertime)" Value="445810" />
+  <Preset Label="simPicker_HobbyClass_RequestClass_Apothecary" Tags="TestUnsafe" Value="445820" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartClass_Apothecary)" Value="445822" />
+  <Preset Label="&lt;font color='#FF0000'&gt;Only up to {0.Number} listeners can be selected.&lt;/font&gt; (simPicker_HobbyClass_Whiteboard_LectureFor_Apothecary)" Tags="TestUnsafe" Value="445823" />
+  <Preset Label="Craft Apothecary Elixir (apothecaryCraftTable_ClubRules_AutonomouslyCraftElixir)" Value="445824" />
+  <Preset Label="apothecaryCraftTable_Action_NPC_Craft" Value="445826" />
+  <Preset Label="apothecaryCraftTable_Action_NPC_TestTube" Value="445827" />
+  <Preset Label="Retrieve All Apothecary Elixirs (apothecaryStorage_Storage_Init_GrabAll)" Value="445865" />
+  <Preset Label="Store All Apothecary Elixirs (apothecaryStorage_Storage_Init_StoreAll)" Value="445866" />
+  <Preset Label="filteredObjectPicker_GreenMan_Spawn" Tags="TestUnsafe" Value="445904" />
+  <Preset Label="Rename Fairy Home (rename_Object_FairyHome)" Value="445934" />
+  <Preset Label="immediateSuperInteraction_FairyWalkbyFixup_NoFairyForm" Value="445988" />
+  <Preset Label="Talk about Debunking Magic (socials_Targeted_Friendly_AlwaysOn_STC_DebunkMagic)" Tags="TestUnsafe" Value="446106" />
+  <Preset Label="Ask about Gnum Gnum's Menu (nonTouching_SocialSuperInteraction_EP19World_Gnome_Marketstall_Ask)" Value="446125" />
+  <Preset Label="DEBUG Spawn Quest Objects (debugImmediate_EP19Quests_SpawnObjects)" Value="446266" />
+  <Preset Label="Ask about Gnomes (social_GreenMan_AskAboutGnomes)" Value="446333" />
+  <Preset Label="Ask about PlantSims (social_GreenMan_AskAboutPlantSims)" Value="446334" />
+  <Preset Label="Be Curious about Spruce Almighty (social_GreenMan_BeCurious)" Value="446335" />
+  <Preset Label="Get Help with Luck (social_GreenMan_GetHelpWithLuck)" Value="446336" />
+  <Preset Label="Get Help with Gardening (social_GreenMan_GetHelpWithGardening)" Value="446337" />
+  <Preset Label="ApothecaryCraftTable_CleanUp_CuresAndElixirs" Value="446386" />
+  <Preset Label="Eat {1.ObjectName} (apothecary_Cures_ball_AllCure)" Value="446950" />
+  <Preset Label="Ask for Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_AskFor_Apothecary)" Tags="TestUnsafe" Value="447282" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Paid_Apothecary)" Tags="TestUnsafe" Value="447283" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Unpaid_Apothecary)" Tags="TestUnsafe" Value="447284" />
+  <Preset Label="simPicker_Mentoring_AskFor_Apothecary" Tags="TestUnsafe" Value="447285" />
+  <Preset Label="simPicker_Mentoring_Offer_Paid_Apothecary" Tags="TestUnsafe" Value="447286" />
+  <Preset Label="simPicker_Mentoring_Offer_Unpaid_Apothecary" Tags="TestUnsafe" Value="447297" />
+  <Preset Label="Practice Crafting Apothecary Elixirs (ApothecaryCraftObject_Practice_Mentoring)" Value="447298" />
+  <Preset Label="Identify Root Cause (mixer_Naturopath_WFH_Diagnosis_0_displayOnly)" Tags="TestUnsafe" Value="447359" />
+  <Preset Label="Creation Impulse Ailment (mixer_Naturopath_WFH_Diagnosis_CreationImpulse)" Tags="TestUnsafe" Value="447360" />
+  <Preset Label="Emotional Void Ailment (mixer_Naturopath_WFH_Diagnosis_EmotionalVoid)" Tags="TestUnsafe" Value="447361" />
+  <Preset Label="Gnome Lure Ailment (mixer_Naturopath_WFH_Diagnosis_GnomeMagnet)" Tags="TestUnsafe" Value="447362" />
+  <Preset Label="Greenie Meanie Ailment (mixer_Naturopath_WFH_Diagnosis_GreenieMeanie)" Tags="TestUnsafe" Value="447363" />
+  <Preset Label="Luck Magnet Ailment (mixer_Naturopath_WFH_Diagnosis_LuckSuck)" Tags="TestUnsafe" Value="447364" />
+  <Preset Label="No Ailment (mixer_Naturopath_WFH_Diagnosis_NoAilment)" Tags="TestUnsafe" Value="447365" />
+  <Preset Label="Give Cure (mixer_Naturopath_WFH_Cure_GiveHealingRemedy)" Tags="TestUnsafe" Value="447368" />
+  <Preset Label="Hmm? (EP19Quests_Ring_Hmm)" Value="447522" />
+  <Preset Label="Receive Charm (social_FairyJourney_TargetEmpty)" Value="447524" />
+  <Preset Label="Enchanted Bond (superInteraction_FairyOccult_Ability_InfluenceMySentiment_EnchantedBond)" Value="447542" />
+  <Preset Label="Enchanted Bond (variableDistanceInteraction_FairyOccult_Ability_InfluenceTheirSentiment_EnchantedBond)" Value="447544" />
+  <Preset Label="Educate about Balance (mixer_Naturopath_WFH_Teach_EducateinBalanceTherapy)" Tags="TestUnsafe" Value="447589" />
+  <Preset Label="Revitalize {1.SimFirstName}'s Needs (mixer_Naturopath_WFH_Teach_InfuseWithVitality)" Tags="TestUnsafe" Value="447590" />
+  <Preset Label="Teleport to (super_TeleportStone_UseStone_TravelTo)" Value="447943" />
+  <Preset Label="Teleport to (super_TeleportStone_UseStone_TravelWith)" Value="447945" />
+  <Preset Label="Get Ingredients (Debug) (Cheat_MakeDirtyCheat_FlowerPressIngredients)" Value="448068" />
+  <Preset Label="Hours of Operation (marketStalls_HoursofOperation_EP19World)" Value="448190" />
+  <Preset Label="Fear of Magic (generic_RunAway_Scared_Fear_Magic)" Value="448201" />
+  <Preset Label="Fear of Magic (reactions_Scared_Fear_Magic)" Value="448204" />
+  <Preset Label="npcLeaveLot_GreenMan_Return" Value="448364" />
+  <Preset Label="Research Natural Living (computer_Browse_NLS_ResearchNature)" Value="448390" />
+  <Preset Label="Craft Apothecary Elixir (apothecaryCraftTable_ClubRules_AutonomouslyCraftElixir_NPC)" Value="448570" />
+  <Preset Label="immediate_EP19Quest_AskResponse" Value="449288" />
+  <Preset Label="Put Down (terrain_putdown_wings)" Value="449364" />
+  <Preset Label="autonomousSimPickerSuperInteraction_FairyJourney_SpawnNear" Tags="TestUnsafe" Value="450254" />
+  <Preset Label="Sponge Bathe in Bathroom (publicBathroom_SpongeBath_NLS)" Value="450532" />
+  <Preset Label="Visit Naturopath (Si_AilmentNaturopath_SendToNaturopath)" Value="450998" />
+  <Preset Label="Visit Naturopath (ailmentNaturopath_VisitNaturopath_Sim)" Value="450999" />
+  <Preset Label="Visit Naturopath (ailmentNaturopath_VisitNaturopath_Phone)" Value="451000" />
+  <Preset Label="What's Your Favorite Place to Sleep? (mixer_Social_FairyOccult_Ask_Targeted_Friendly_AlwaysOn_FairytoFairy)" Tags="TestUnsafe" Value="451431" />
+  <Preset Label="Where Does Fairy Dust Come From? (mixer_Social_FairyOccult_Ask_Targeted_Friendly_AlwaysOn_NonFairytoFairy)" Tags="TestUnsafe" Value="451432" />
+  <Preset Label="Do Fairies Bother You? (mixer_Social_FairyOccult_Ask_Targeted_Friendly_AlwaysOn_FairytoNonFairy)" Tags="TestUnsafe" Value="451433" />
+  <Preset Label="Set to Balanced (debugImmediate_BalanceSys_States_Balance)" Value="451892" />
+  <Preset Label="Set to Imbalanced (debugImmediate_BalanceSys_States_MinorImbalance)" Value="451893" />
+  <Preset Label="Set to Very Imbalanced (debugImmediate_BalanceSys_States_MajorImbalance)" Value="451894" />
+  <Preset Label="Research How to Become a Fairy (computer_FairyJourney_Research)" Value="452002" />
+  <Preset Label="Research How to Become a Fairy (super_FairyJourney_Research_Book)" Value="452003" />
+  <Preset Label="Research How to Become a Fairy (super_FairyJourney_Research_Hub)" Value="452004" />
+  <Preset Label="Ask How to Become a Fairy (social_FairyJourney_AskAboutTransform)" Value="452007" />
+  <Preset Label="Ask How to Become a Fairy (social_FairyJourney_GiveSeed)" Value="452008" />
+  <Preset Label="Remove All Negative Sentiments (SuperInteraction_FairyOccult_Ability_InfluenceMySentiment_RemoveAllNegative)" Value="452032" />
+  <Preset Label="Remove All Positive Sentiments (SuperInteraction_FairyOccult_Ability_InfluenceMySentiment_RemoveAllPositive)" Value="452038" />
+  <Preset Label="Remove All Positive Sentiments (variableDistanceInteraction_FairyOccult_Ability_InfluenceTheirSentiment_RemoveAllPositive)" Value="452039" />
+  <Preset Label="Remove All Negative Sentiments (variableDistanceInteraction_FairyOccult_Ability_InfluenceTheirSentiment_RemoveAllNegative)" Value="452040" />
+  <Preset Label="mixer_Ailments_Idle_SimoleonFever" Value="452135" />
+  <Preset Label="mixer_Ailments_Idle_BurningPassion" Value="452136" />
+  <Preset Label="mixer_Ailments_Idle_SonicSinuses" Value="452137" />
+  <Preset Label="auto_ObjectPicker_Ailments_SonicSinuses_FindBreakableObject" Tags="TestUnsafe" Value="452139" />
+  <Preset Label="immediate_Ailments_SonicSinuses_BreakObject" Value="452140" />
+  <Preset Label="Rekindle with Fairy Dust (immediate_LuckSys_RechargeLuckInfusedObject)" Value="452307" />
+  <Preset Label="auto_ObjectPicker_Ailments_BurningPassion_FindBurnableObject" Tags="TestUnsafe" Value="452314" />
+  <Preset Label="Plant Fairy Seedling (super_FairyJourney_Tooltip_Plant)" Value="452347" />
+  <Preset Label="Ask for Fairy Seedling (social_FairyJourney_AskForSeed)" Value="452349" />
+  <Preset Label="Discuss Fairy Traditions (mixer_Social_FairyOccult_Discuss_Targeted_Friendly_AlwaysOn_FairytoFairy)" Tags="TestUnsafe" Value="452378" />
+  <Preset Label="Discuss Favorite Emotion (mixer_Social_FairyOccult_Discuss_Targeted_Friendly_AlwaysOn_FairytoNonFairy)" Tags="TestUnsafe" Value="452379" />
+  <Preset Label="Discuss Fairy Magic (mixer_Social_FairyOccult_Discuss_Targeted_Friendly_AlwaysOn_NonFairytoFairy)" Tags="TestUnsafe" Value="452380" />
+  <Preset Label="Absorb Solar Energy from Plant (PlantSim_Improvements_AbsorbSolarEnergy_From_PottedPlant)" Value="452417" />
+  <Preset Label="Absorb Solar Energy from Plant (PlantSim_Improvements_AbsorbSolarEnergy_From_HousePlant)" Value="452418" />
+  <Preset Label="Discuss Recent Dreams (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Discuss_RecentDreams)" Tags="TestUnsafe" Value="452618" />
+  <Preset Label="Discuss Uses of Tree Sap (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Discuss_TreeSapUses)" Tags="TestUnsafe" Value="452619" />
+  <Preset Label="Discuss Forces of Nature (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Discuss_ForcesOfNature)" Tags="TestUnsafe" Value="452620" />
+  <Preset Label="Suggest Supplemental Elixirs (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_SuggestHerbalSupplements)" Tags="TestUnsafe" Value="452665" />
+  <Preset Label="Suggest Foraging for Food (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_SuggestRawFoods)" Tags="TestUnsafe" Value="452666" />
+  <Preset Label="Discuss Healing Frequencies (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Discuss_HealingFrequencies)" Tags="TestUnsafe" Value="452667" />
+  <Preset Label="Sympathetic Hug (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_ExpressSympathy)" Tags="TestUnsafe" Value="452668" />
+  <Preset Label="Provide Emotional Regulation (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_EmotionalRegulation)" Tags="TestUnsafe" Value="452669" />
+  <Preset Label="EP19 Objects (setupLot_EP19Objects)" Value="452730" />
+  <Preset Label="Absorb Solar Energy from Plant (PlantSim_Improvements_AbsorbSolarEnergy_From_VerticalGarden)" Value="452794" />
+  <Preset Label="autonomousSimPicker_SI_FairyOccult_Ability_NPCActor" Tags="TestUnsafe" Value="453231" />
+  <Preset Label="immediate_SI_FairyOccult_Ability_NPCActor_PickAbility" Value="453232" />
+  <Preset Label="Sway {1.SimFirstName}'s Emotion (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Negative_NPCActor)" Value="453233" />
+  <Preset Label="Sway {1.SimFirstName}'s Emotion (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirMood_Positive_NPCActor)" Value="453234" />
+  <Preset Label="autonomous_ObjectPicker_FairyOccult_Ability_NPCActor" Tags="TestUnsafe" Value="453235" />
+  <Preset Label="Bloom Plant (superInteraction_FairyOccult_Ability_BloomPlant_NPCActor)" Value="453236" />
+  <Preset Label="Receive Seedling (social_FairyJourney_ReceiveSeed)" Value="453241" />
+  <Preset Label="Answer (social_FairyJourney_BeingAsked)" Value="453242" />
+  <Preset Label="Suggest Daily Walks through Nature (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_DailyNatureWalks)" Tags="TestUnsafe" Value="453351" />
+  <Preset Label="Ask Client to Do Push Ups (social_Career_Naturopathic_Ask_PushUps)" Value="453353" />
+  <Preset Label="Ask Client to Let Out a Primal Yell (social_Career_Naturopathic_Ask_Yell)" Value="453384" />
+  <Preset Label="Glaze (picker_PottedPlants_Pottery_Glazing_Pot1)" Tags="TestUnsafe" Value="453394" />
+  <Preset Label="Laugh about Flight Fumbles (mixer_Social_FairyOccult_Humor_Targeted_Friendly_AlwaysOn_FairytoFairy)" Tags="TestUnsafe" Value="453505" />
+  <Preset Label="Tease about Clumsy Non-Fairies (mixer_Social_FairyOccult_Humor_Targeted_Friendly_AlwaysOn_FairytoNonFairy)" Tags="TestUnsafe" Value="453506" />
+  <Preset Label="Tell Sneaky Gnome Joke (mixer_Social_FairyOccult_Humor_Targeted_Friendly_AlwaysOn_NonFairytoFairy)" Tags="TestUnsafe" Value="453507" />
+  <Preset Label="Idle_Trait_PlantLover" Value="453556" />
+  <Preset Label="Decrease Luck (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirLuck_Negative_NPCActor)" Value="453832" />
+  <Preset Label="Increase Luck (variableDistanceInteraction_FairyOccult_Ability_PlayWithTheirLuck_Positive_NPCActor)" Value="453833" />
+  <Preset Label="Ask Client to Let Out a Primal Yell (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_AskToYell)" Tags="TestUnsafe" Value="453984" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_PrepareLecture_NLS_1)" Value="454638" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_ListenToLecture_NLS)" Value="454639" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartClass_NLS)" Value="454640" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartLecture_NLS)" Value="454641" />
+  <Preset Label="simPicker_HobbyClass_RequestClass_NLS" Tags="TestUnsafe" Value="454751" />
+  <Preset Label="&lt;font color='#FF0000'&gt;Only up to {0.Number} listeners can be selected.&lt;/font&gt; (simPicker_HobbyClass_Whiteboard_LectureFor_NLS)" Tags="TestUnsafe" Value="454752" />
+  <Preset Label="**DEBUG** (social_HobbyClass_Whiteboard_Lecture_NLS)" Value="454753" />
+  <Preset Label="Debug: Push Pixies Spread (debug_EP19Gardening_PushPixiesSpread)" Value="454795" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_NLS" Value="455110" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_NLS" Value="455111" />
+  <Preset Label="Enthuse about Natural Living (socials_Targeted_Friendly_SimPreference_Recent_Likes_NLS)" Tags="TestUnsafe" Value="455112" />
+  <Preset Label="Complain about Natural Living (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_NLS)" Tags="TestUnsafe" Value="455113" />
+  <Preset Label="Discuss Plant's Rights (mixer_socials_Friendly_AlwaysOn_DeepThoughts_PlantLover_DiscussRights)" Tags="TestUnsafe" Value="455132" />
+  <Preset Label="Talk about Favorite Plant Child (Socials_Targeted_Friendly_AlwaysOn_PlantLover_Favorite)" Tags="TestUnsafe" Value="455134" />
+  <Preset Label="Give Unsolicited Plant Care Advice (Socials_Targeted_Friendly_AlwaysOn_PlantLover_Advice)" Tags="TestUnsafe" Value="455135" />
+  <Preset Label="Talk about Plant Friend (socials_Targeted_Friendly_AlwaysOn_PlantLover_Favorite_Child)" Tags="TestUnsafe" Value="455177" />
+  <Preset Label="Enthuse about Plants vs. Occults (Socials_Targeted_Friendly_AlwaysOn_PlantLover_Enthuse)" Tags="TestUnsafe" Value="455178" />
+  <Preset Label="Glaze (picker_PottedPlants_Pottery_Glazing_Pot2)" Tags="TestUnsafe" Value="455308" />
+  <Preset Label="Burning Passion Ailment (variableDistanceInteraction_FairyOccult_Ability_ApplyAilment_BurningPassion)" Value="455309" />
+  <Preset Label="Simoleon Fever Ailment (variableDistanceInteraction_FairyOccult_Ability_ApplyAilment_SimoleonFever)" Value="455310" />
+  <Preset Label="Sonic Sinuses Ailment (variableDistanceInteraction_FairyOccult_Ability_ApplyAilment_SonicSinuses)" Value="455311" />
+  <Preset Label="super_Ailments_BurningPassion_Burn" Value="455312" />
+  <Preset Label="Tell Plant They're Your Favorite (super_PlantLover_TellPlantFavorite)" Value="455564" />
+  <Preset Label="Scold Plant (super_PlantLover_Scold)" Value="455565" />
+  <Preset Label="Compliment Plant on Photosynthesis Skills (super_PlantLover_ComplimentPlant)" Value="455566" />
+  <Preset Label="Shrink and Play (superInteraction_FairyOccult_MotiveSolving_ShrinkandPlay_Stationary)" Value="455671" />
+  <Preset Label="Burning Passion Ailment (mixer_Naturopath_WFH_Diagnosis_BurningPassion)" Tags="TestUnsafe" Value="455746" />
+  <Preset Label="Sonic Sinuses Ailment (mixer_Naturopath_WFH_Diagnosis_SonicSinuses)" Tags="TestUnsafe" Value="455747" />
+  <Preset Label="Simoleon Fever Ailment (mixer_Naturopath_WFH_Diagnosis_SimoleonFever)" Tags="TestUnsafe" Value="455748" />
+  <Preset Label="Emotional Distress (mixer_Naturopath_WFH_Diagnosis_Emotional)" Tags="TestUnsafe" Value="455755" />
+  <Preset Label="Physical Distress (mixer_Naturopath_WFH_Diagnosis_Physical)" Tags="TestUnsafe" Value="455766" />
+  <Preset Label="Shrink and Play (superInteraction_FairyOccult_MotiveSolving_ShrinkandPlay_MinMovement)" Value="455948" />
+  <Preset Label="Shrink and Play (superInteraction_FairyOccult_MotiveSolving_ShrinkandPlay_MaxMovement)" Value="455949" />
+  <Preset Label="Join Dance Party (super_FairyHome_Object_DanceParty_Fairy_Join_Picker)" Value="456138" />
+  <Preset Label="Do Push Ups (sim_doPushUps_NaturopathCareer)" Value="456168" />
+  <Preset Label="Show Off Emotion Stone (superInteraction_ShowOffEmotionStone)" Value="456779" />
+  <Preset Label="Gaze at Emotion Stone (superInteraction_Target_ShowOffEmotionStone)" Value="456783" />
+  <Preset Label="Eat Emotion Stone (superInteraction_Apothecary_EatEmotionStone)" Value="456786" />
+  <Preset Label="Purchase Ingredients (purchasePicker_FlowerPress_PurchaseIngredients)" Tags="TestUnsafe" Value="456806" />
+  <Preset Label="Sponge Bathe in Bathroom (EP19World_Shell_FairyHub_SpongeBath_NLS)" Value="456920" />
+  <Preset Label="Ask for Help Curing Ailment (mixer_Social_Fairy_AskToCureAilment)" Tags="TestUnsafe" Value="457145" />
+  <Preset Label="generic_NLS_MeditateOnGround" Value="457291" />
+  <Preset Label="Gift Apothecary Ingredient (objectPicker_Naturopath_GiftApothecaryIngredients)" Tags="TestUnsafe" Value="457927" />
+  <Preset Label="Gift Apothecary Ingredient (si_Touching_Naturopath_GiftApothecaryIngredient)" Value="457928" />
+  <Preset Label="Gift Apothecary Ingredient (si_Touching_Naturopath_ReceiveApothecaryIngredient)" Value="457931" />
+  <Preset Label="Drink {1.ObjectName} (apothecary_Elixir_drink_NeedStop)" Value="457969" />
+  <Preset Label="super_GreenMan_Object_Return_CantReachObject" Value="458134" />
+  <Preset Label="npcLeaveLot_GreenMan_Return_CantReachObject" Value="458136" />
+  <Preset Label="Friendly Introduction (social_GreenMan_GreetSim)" Value="458238" />
+  <Preset Label="generic_NLS_SleepOnGround" Value="459030" />
+  <Preset Label="mixer_NLS_TalkToNature_Chat" Value="459109" />
+  <Preset Label="Order Gnum Gnum's Specialty Food (marketStalls_PushOrderFood_EP19World_Gnome)" Value="459343" />
+  <Preset Label="Review Food (marketStalls_PushOrderFood_review_CriticCareer_EP19_GnomeFood)" Value="459345" />
+  <Preset Label="Review Drink (marketStalls_PushOrderDrink_EP19World_review_CriticCareer)" Value="459346" />
+  <Preset Label="siCrafting_ApothecaryCraftTable_CreateObject_HouseholdInventory" Value="459382" />
+  <Preset Label="Ask about Aura Changes (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Ask_AuraChanges)" Tags="TestUnsafe" Value="459599" />
+  <Preset Label="Ask about Lifestyle Habits (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Ask_LifestyleHabits)" Tags="TestUnsafe" Value="459600" />
+  <Preset Label="Ask about Recent Mood (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Ask_MoodShifts)" Tags="TestUnsafe" Value="459601" />
+  <Preset Label="Ask about Sleep Patterns (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Ask_SleepPatterns)" Tags="TestUnsafe" Value="459602" />
+  <Preset Label="Ask about Symptoms (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_Ask_Symptoms)" Tags="TestUnsafe" Value="459603" />
+  <Preset Label="Drink {1.ObjectName} (apothecary_BottledEmotions_drink_Give_TargetSim)" Value="460195" />
+  <Preset Label="Drink {1.ObjectName} (apothecary_Elixirs_drink_give_target)" Value="460306" />
+  <Preset Label="Drink {1.ObjectName} (apothecary_Elixir_drink_NeedStop_give_target)" Value="460307" />
+  <Preset Label="Eat {1.ObjectName} (apothecary_Cures_ball_give_target)" Value="460309" />
+  <Preset Label="apothecaryCraftTable_Action_CraftCuresAndElixirs_Think" Value="461174" />
+  <Preset Label="React to Overload (superInteraction_FairyOccult_OverloadReaction_Hysterical)" Value="461325" />
+  <Preset Label="React to Overload (superInteraction_FairyOccult_OverloadReaction_Enraged)" Value="461326" />
+  <Preset Label="React to Overload (superInteraction_FairyOccult_OverloadReaction_Embarrassed)" Value="461327" />
+  <Preset Label="Teleport to (super_TeleportStone_PlayAnimation_TeleportTo)" Value="463098" />
+  <Preset Label="Teleport to (super_TeleportStone_PlayAnimation_TeleportWith)" Value="463100" />
+  <Preset Label="Disturb Plants (sI_Rogue_VerticalGarden_MuddlePlants)" Value="463728" />
+  <Preset Label="Get Help with Luck (social_GreenMan_GetHelpWithLuck_Cont_Success)" Value="463910" />
+  <Preset Label="Get Help with Luck (social_GreenMan_GetHelpWithLuck_Cont_Fail1)" Value="463911" />
+  <Preset Label="Get Help with Luck (social_GreenMan_GetHelpWithLuck_Cont_Fail2)" Value="463912" />
+  <Preset Label="Add Fairy Dust x10 (debugImmediate_FairyHome_FairyDust)" Value="464210" />
+  <Preset Label="Angry (debugImmediate_EnchantedSprings_Mood_Angry)" Value="464526" />
+  <Preset Label="Bored (debugImmediate_EnchantedSprings_Mood_Bored)" Value="464527" />
+  <Preset Label="Confident (debugImmediate_EnchantedSprings_Mood_Confident)" Value="464528" />
+  <Preset Label="Embarrassed (debugImmediate_EnchantedSprings_Mood_Embarrassed)" Value="464529" />
+  <Preset Label="Energized (debugImmediate_EnchantedSprings_Mood_Energized)" Value="464530" />
+  <Preset Label="Flirty (debugImmediate_EnchantedSprings_Mood_Flirty)" Value="464531" />
+  <Preset Label="Focused (debugImmediate_EnchantedSprings_Mood_Focused)" Value="464532" />
+  <Preset Label="Happy (debugImmediate_EnchantedSprings_Mood_Happy)" Value="464533" />
+  <Preset Label="Inspired (debugImmediate_EnchantedSprings_Mood_INspired)" Value="464534" />
+  <Preset Label="Playful (debugImmediate_EnchantedSprings_Mood_PLayful)" Value="464535" />
+  <Preset Label="Sad (debugImmediate_EnchantedSprings_Mood_Sad)" Value="464536" />
+  <Preset Label="Scared (debugImmediate_EnchantedSprings_Mood_Scared)" Value="464537" />
+  <Preset Label="Tense (debugImmediate_EnchantedSprings_Mood_Tense)" Value="464538" />
+  <Preset Label="Glaswood Tree (debugImmediate_GreenMan_Unlock)" Value="464568" />
+  <Preset Label="autonomous_ObjectPicker_FairyOccult_SplashinWater" Tags="TestUnsafe" Value="464578" />
+  <Preset Label="EP19Quests_Ring_Spawn" Value="464620" />
+  <Preset Label="mixer_AtWork_FairyOccult_RegenerateEmotionalForce" Value="465190" />
+  <Preset Label="si_SatisfyConstraint_SimOrFairy" Value="465220" />
+  <Preset Label="React to Gnome (super_Ailments_React_GnomeMagnet)" Value="465908" />
+  <Preset Label="Meditate in Nature (mixer_NLS_MeditateInNature_Idle)" Value="466062" />
+  <Preset Label="Be Curious about Spruce Almighty (social_GreenMan_BeCurious_Target)" Value="466174" />
+  <Preset Label="Be Target of Fairy (socialSuperInteraction_FairyOccult_Crosspack_Target)" Value="466194" />
+  <Preset Label="Sleep on the Ground (mixer_NLS_SleepOnGround_Comfortable_StomachRolling)" Value="466225" />
+  <Preset Label="apothecary_CuresandElixirs_Cured_Reaction" Value="466468" />
+  <Preset Label="flowerPress_PressingOnDecoratedObjects_Enchanted" Value="466483" />
+  <Preset Label="Forage Here (sI_Foraging_Forage_Rallyable)" Value="466771" />
+  <Preset Label="Forage Here Together (terrain-gohere_Foraging_Forage_Rallyable)" Value="466772" />
+  <Preset Label="Netherworld Regenerate Emotional Force (superInteraction_FairyOccult_RegenerateEmotionalAppetite_IsGhost)" Value="467113" />
+  <Preset Label="Get Ready to Teleport (super_TeleportStone_WaitAtStone)" Value="467148" />
+  <Preset Label="Demand Forbidden Fruit (si_Touching_Plantsim_Improvements_DemandForbiddenFruit)" Value="467624" />
+  <Preset Label="super_Ailments_GnomeMagnet_PushReaction" Value="468122" />
+  <Preset Label="Be Greeted (social_GreenMan_GreetSim_Target)" Value="468597" />
+  <Preset Label="super_FairyJourney_Wait" Value="469352" />
+  <Preset Label="Bathe in Water (terrain-gohere_NLS_BatheInWater_Ocean)" Value="470443" />
+  <Preset Label="Bathe in Water (super_Ponds_BatheInWater)" Value="470444" />
+  <Preset Label="super_GreenMan_Object_TryToReturn" Value="471013" />
+  <Preset Label="Regenerate Emotional Force (shellActions_SolveEmotionalForce_FairyOccult)" Value="471686" />
+  <Preset Label="Regenerate Emotional Force (shellActions_SolveEmotionalForce_FairyOccult_UserDirected)" Value="471687" />
+  <Preset Label="Get Help with Luck (social_GreenMan_GetHelpWithLuck_Cont_Target)" Value="472419" />
+  <Preset Label="Discuss Healing Frequencies (socials_Targeted_Friendly_AlwaysOn_STC_Naturopathic_DiscussHealingFrequencies)" Tags="TestUnsafe" Value="472489" />
+  <Preset Label="Hastily Regenerate Emotional Force (superInteraction_FairyOccult_RegenerateEmotionalAppetite_IsPregnant)" Value="472528" />
+  <Preset Label="Ask to Leave (super_FairyHome_Object_AskToLeave)" Value="472693" />
+  <Preset Label="Sway {1.SimFirstName}'s Emotion (interactionPickerSI_FairyOccult_Ability_PlayWithTheirMood_BurglarOnly)" Tags="TestUnsafe" Value="472796" />
+  <Preset Label="Study Apothecary Cures (si_Apothecary_Career_Naturopath_StudyApothecaryCures)" Value="472835" />
+  <Preset Label="Rave about Foraged Foods (socials_Targeted_Friendly_AlwaysOn_STC_Naturopath_RaveAboutForagedFoods)" Tags="TestUnsafe" Value="472966" />
+  <Preset Label="Detect Emotions (socialSuperInteraction_FairyOccult_DetectMood_OnTarget)" Value="474176" />
+  <Preset Label="Poison Kiss (mixer_social_PlantSim_Improvements_PoisonKiss_targeted_friendly_alwaysOn_teen)" Tags="TestUnsafe" Value="474529" />
+  <Preset Label="Sponge Bathe in Bathroom (publicBathroom_SpongeBath_NLS_Male)" Value="478591" />
+  <Preset Label="Debug: Add Ailment Spread Buff (debug_AddAilmentSpreadBuff)" Value="484212" />
+  <Preset Label="Mentor {2.String} (mentor_ApothecarySkill_Getaway)" Value="487443" />
+</PresetGroup>

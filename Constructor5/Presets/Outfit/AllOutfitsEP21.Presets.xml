@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Outfits EP21">
+  <Preset Label="outfit_Uniform_EP21School" Value="480174" />
+  <Preset Label="outfit_RobinHood" Value="484651" />
+  <Preset Label="outfits_CustomBallroom_Guest" Value="503089" />
+  <Preset Label="outfits_CustomBallroom_Guest_notChosen" Value="503090" />
+  <Preset Label="outfit_RobinHood_Male" Value="503173" />
+  <Preset Label="outfit_RobinHood_Female" Value="503174" />
+</PresetGroup>

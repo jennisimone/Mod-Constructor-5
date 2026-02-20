@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Commodity Based Object State Values SP22">
+  <Preset Label="dustPile_Size_Values_Small" Value="254697" />
+  <Preset Label="dustPile_Size_Values_Medium" Value="254698" />
+  <Preset Label="dustFriend_Bunny_Happiness_Values_Low" Value="254731" />
+  <Preset Label="dustFriend_Bunny_Happiness_Values_Medium" Value="254733" />
+  <Preset Label="dustFriend_Bunny_Happiness_Values_VeryLow" Value="254734" />
+  <Preset Label="dustFriend_Bunny_Happiness_Values_High" Value="254736" />
+  <Preset Label="dustFriend_Bunny_Happiness_Values_VeryHigh" Value="254737" />
+  <Preset Label="dustFriend_Fiend_Mischief_Values_Low" Value="254739" />
+  <Preset Label="dustFriend_Fiend_Mischief_Values_Medium" Value="254740" />
+  <Preset Label="dustFriend_Fiend_Mischief_Values_VeryLow" Value="254741" />
+  <Preset Label="dustFriend_Fiend_Mischief_Values_High" Value="254743" />
+  <Preset Label="dustFriend_Fiend_Mischief_Values_VeryHigh" Value="254744" />
+  <Preset Label="vacuumCleaner_Values_BagFill_Empty" Value="254911" />
+  <Preset Label="vacuumCleaner_Values_BagFill_Low" Value="254912" />
+  <Preset Label="vacuumCleaner_Values_BagFill_High" Value="254913" />
+  <Preset Label="vacuumCleaner_Values_BagFill_Full" Value="254914" />
+  <Preset Label="upgrade_Vacuum_Completed_BottomlessBag" Value="257260" />
+  <Preset Label="upgrade_Vacuum_Completed_SelfCharging" Value="257261" />
+  <Preset Label="upgrade_Vacuum_Completed_VaporizingPulse" Value="257262" />
+  <Preset Label="upgrade_Vacuum_NotStarted_BottomlessBag" Value="257266" />
+  <Preset Label="upgrade_Vacuum_NotStarted_SelfCharging" Value="257267" />
+  <Preset Label="upgrade_Vacuum_NotStarted_VaporizingPulse" Value="257268" />
+  <Preset Label="upgrade_Vacuum_NotStarted_Unbreakable" Value="257269" />
+  <Preset Label="upgrade_Vacuum_Partial_BottomlessBag" Value="257270" />
+  <Preset Label="upgrade_Vacuum_Partial_SelfCharging" Value="257271" />
+  <Preset Label="upgrade_Vacuum_Partial_VaporizingPulse" Value="257272" />
+  <Preset Label="upgrade_Vacuum_Partial_Unbreakable" Value="257273" />
+  <Preset Label="upgrade_Vacuum_Completed_Unbreakable" Value="257280" />
+  <Preset Label="vacuumCleaner_Values_BagFill_Prop_Empty" Value="258621" />
+  <Preset Label="vacuumCleaner_Values_BagFill_Prop_Full" Value="258622" />
+  <Preset Label="vacuumCleaner_Values_BagFill_Prop_High" Value="258623" />
+  <Preset Label="vacuumCleaner_Values_BagFill_Prop_Low" Value="258624" />
+  <Preset Label="vacuumCleaner_Values_BagFill_Prop_Null" Value="258627" />
+</PresetGroup>

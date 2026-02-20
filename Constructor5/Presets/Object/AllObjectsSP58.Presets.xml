@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP58">
+  <Preset Label="object_light_table_candle_Cookies_SP58" Value="430175" />
+  <Preset Label="object_SitDining_SP58_CozyGamer" Value="430176" />
+  <Preset Label="object_ComputerTower_SP58_CozyGamer" Value="430271" />
+  <Preset Label="object_AlarmClock_SP58_Cozy" Value="430537" />
+</PresetGroup>

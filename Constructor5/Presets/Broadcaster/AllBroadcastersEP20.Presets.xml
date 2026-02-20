@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Broadcasters EP20">
+  <Preset Label="broadcaster_VideoGameConsole_Telesplosion_Tantrum" Value="446673" />
+  <Preset Label="broadcaster_VideoGameConsole_Telesplosion_VoidCritter" Value="446674" />
+  <Preset Label="broadcaster_Competitive_Inspire" Value="448952" />
+  <Preset Label="broadcaster_ButterflyCollection_Spawn_Debug_NearbyButterflies" Value="451391" />
+  <Preset Label="broadcaster_WorldPOI_Bay_BiolumInviseractable" Value="452077" />
+  <Preset Label="broadcaster_WorldPOI_JellyfishPond_Inviseractable_glowWorm" Value="452078" />
+  <Preset Label="broadcaster_WorldPOI_Geyser_watchGeyser" Value="452080" />
+  <Preset Label="broadcaster_WorldPOI_Geyser_watchLavaBlow" Value="452081" />
+  <Preset Label="broadcaster_ButterflyCollection_AtriumProximity" Value="454117" />
+  <Preset Label="broadcaster_WorldPOI_JellyfishPond_Inviseractable_glowWorm_Sims" Value="456288" />
+  <Preset Label="broadcaster_Getaway_AttractGetAlongListeners" Value="457180" />
+  <Preset Label="broadcaster_Getaway_AttractLeaveListeners" Value="457184" />
+  <Preset Label="broadcaster_WorldPOI_Geyser_BoulderSmack" Value="457497" />
+  <Preset Label="broadcaster_ButterflyCollection_NearGlowWorms" Value="458186" />
+  <Preset Label="broadcaster_ButterflyCollection_NearGlowWorms_Cooldown" Value="458192" />
+  <Preset Label="broadcaster_ButterflyCollection_NearGlowWorms_PutOnCooldown" Value="458196" />
+  <Preset Label="broadcaster_ButterflyCollection_CompletionReaction" Value="458959" />
+  <Preset Label="broadcaster_ChildhoodSentiment_BladderFail" Value="462585" />
+  <Preset Label="broadcaster_EP20_IF_CheerOn" Value="462601" />
+  <Preset Label="broadcaster_ChildhoodInspiration_ChildActivity" Value="470983" />
+  <Preset Label="broadcaster_Getaway_SimLeaving" Value="474859" />
+  <Preset Label="broadcaster_EP20_IF_CreepedOut" Value="474886" />
+  <Preset Label="broadcaster_EP20_IF_CheerOn_OneShot" Value="481048" />
+  <Preset Label="broadcaster_EP20_IF_CheerOn_ChildBuff" Value="488112" />
+  <Preset Label="broadcaster_Elimination" Value="488904" />
+</PresetGroup>

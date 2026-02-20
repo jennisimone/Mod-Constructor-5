@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Outfits EP19">
+  <Preset Label="outfit_Uniform_Career_Naturopathic_Main" Value="436198" />
+  <Preset Label="outfit_Uniform_Career_Naturopathic_HerbalMedicine" Value="436199" />
+  <Preset Label="outfit_Uniform_Career_Naturopathic_LifestyleMedicine" Value="436200" />
+</PresetGroup>

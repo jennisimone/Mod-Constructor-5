@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interactions SP22">
+  <Preset Label="Step On (dustFriends_Bunny_StepOn)" Value="255205" />
+  <Preset Label="Pet (dustFriends_Bunny_Pet)" Value="255206" />
+  <Preset Label="Befriend (dustFriends_Bunny_Befriend)" Value="255207" />
+  <Preset Label="Feed Dust (dustFriends_Bunny_FeedDust)" Value="255208" />
+  <Preset Label="Try to Pet (dustFriends_Fiend_TryToPet)" Value="255210" />
+  <Preset Label="Appease (dustFriends_Fiend_Appease)" Value="255211" />
+  <Preset Label="Step On (dustFriends_Fiend_StepOn)" Value="255212" />
+  <Preset Label="Vacuum Here (terrain-gohere_VacuumHere)" Value="256623" />
+  <Preset Label="Empty Vacuum (collect_Trash_EmptyVacuumBag)" Value="256894" />
+  <Preset Label="Beg For Mercy (dustFriends_Fiend_BegForMercy)" Value="256971" />
+  <Preset Label="Vacuum Here (terrain-gohere_VacuumHere_Child_Handheld)" Value="257008" />
+  <Preset Label="Order {1.SimFirstName} to Clean (mixer_social_Mean_Dust_DemandClean)" Tags="TestUnsafe" Value="257093" />
+  <Preset Label="Argue About Dirty Surroundings (mixer_social_Mean_Dust_Argue)" Tags="TestUnsafe" Value="257095" />
+  <Preset Label="Ask For Help Cleaning (mixer_Social_Dust_AskClean)" Tags="TestUnsafe" Value="257096" />
+  <Preset Label="Check Dust Level (immediate_Dust_CheckDustLevel)" Value="257097" />
+  <Preset Label="Vacuum (vacuumCleaner_Upright_Maid_Create)" Value="257141" />
+  <Preset Label="Titanium Rotors (Completed) (vacuumCleaner_Upgrades_CompletedDisplay_Unbreakable)" Value="257237" />
+  <Preset Label="Bottomless Pit (Completed) (vacuumCleaner_Upgrades_CompletedDisplay_BottomlessBag)" Value="257238" />
+  <Preset Label="Vaporizing Pulse (Completed) (vacuumCleaner_Upgrades_CompletedDisplay_VaporizingPulse)" Value="257239" />
+  <Preset Label="Self-Charging Power Cell (Completed) (vacuumCleaner_Upgrades_CompletedDisplay_SelfCharging)" Value="257240" />
+  <Preset Label="Install Bottomless Pit (vacuumCleaner_Upgrades_BottomlessBag)" Value="257246" />
+  <Preset Label="Resume Installing Bottomless Pit (vacuumCleaner_Upgrades_BottomlessBag_Resume)" Value="257247" />
+  <Preset Label="Install Self-Charging Power Cell (vacuumCleaner_Upgrades_SelfCharging)" Value="257248" />
+  <Preset Label="Resume Installing Self-Charging Power Cell (vacuumCleaner_Upgrades_SelfCharging_Resume)" Value="257249" />
+  <Preset Label="Install Titanium Rotors (vacuumCleaner_Upgrades_Unbreakable)" Value="257250" />
+  <Preset Label="Resume Installing Titanium Rotors (vacuumCleaner_Upgrades_Unbreakable_Resume)" Value="257251" />
+  <Preset Label="Install Vaporizing Pulse  (vacuumCleaner_Upgrades_VaporizingPulse)" Value="257252" />
+  <Preset Label="Resume Installing Vaporizing Pulse (vacuumCleaner_Upgrades_VaporizingPulse_Resume)" Value="257253" />
+  <Preset Label="Choose Favorite Vacuum Cleaner (vacuum_FavoriteToggle_Upright)" Value="257281" />
+  <Preset Label="Choose Favorite Handheld Vacuum Cleaner (vacuum_FavoriteToggle_Handheld)" Value="257283" />
+  <Preset Label="Check Dust Level  (terrain-gohere_CheckDustLevel)" Value="257344" />
+  <Preset Label="Check Dust Level  (dust_CheckDustLevel_Actor)" Value="257346" />
+  <Preset Label="Check Dust Level  (dust_CheckDustLevel_Object)" Value="257347" />
+  <Preset Label="Ask for Help Cleaning (Dust_AskForHelp_Picker)" Tags="TestUnsafe" Value="257387" />
+  <Preset Label="Befriend (dustFriends_Fiend_Befriend)" Value="257434" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Loop_OnFloor_Handheld_Child)" Value="257491" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Loop_OnFloor_Standing)" Value="257492" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Loop_OnObject_Handheld)" Value="257493" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Loop_OnObject_Standing)" Value="257494" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Loop_OnVacuum_Standing)" Value="257495" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Loop_OnVacuum_Handheld)" Value="257496" />
+  <Preset Label="Vacuum (new_VacuumCleaner_DustFiend_Standing)" Value="257497" />
+  <Preset Label="Vacuum (new_VacuumCleaner_DustFiend_Handheld_Child)" Value="257498" />
+  <Preset Label="Clean Toddler with Vacuum (new_VacuumCleaner_Toddler)" Value="257505" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Start_DustFriend_Standing)" Value="257506" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Start_DustFriend_Handheld_Child)" Value="257507" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Start_Object_Standing)" Value="257508" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Start_Object_Handheld)" Value="257509" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Start_Toddler)" Value="257513" />
+  <Preset Label="vacuumCleaner_Inventory_Picker_Floor_Standing" Tags="TestUnsafe" Value="257518" />
+  <Preset Label="vacuumCleaner_Inventory_Picker_Object_Standing" Tags="TestUnsafe" Value="257521" />
+  <Preset Label="vacuumCleaner_Inventory_Picker_Toddler" Tags="TestUnsafe" Value="257523" />
+  <Preset Label="vacuumCleaner_Inventory_Picker_DustFriend_Standing" Tags="TestUnsafe" Value="257525" />
+  <Preset Label="vacuumCleaner_Inventory_Picker_Floor_Handheld_Child" Tags="TestUnsafe" Value="257526" />
+  <Preset Label="vacuumCleaner_Inventory_Picker_Object_Handheld" Tags="TestUnsafe" Value="257527" />
+  <Preset Label="vacuumCleaner_inWorld_Picker_DustFriend_Standing" Tags="TestUnsafe" Value="257533" />
+  <Preset Label="vacuumCleaner_Inventory_Picker_DustFriend_Handheld_Child" Tags="TestUnsafe" Value="257534" />
+  <Preset Label="vacuumCleaner_inWorld_Picker_Object_Standing" Tags="TestUnsafe" Value="257535" />
+  <Preset Label="vacuumCleaner_inWorld_Picker_DustFriend_Handheld_Child" Tags="TestUnsafe" Value="257536" />
+  <Preset Label="vacuumCleaner_inWorld_Picker_Object_Handheld" Tags="TestUnsafe" Value="257537" />
+  <Preset Label="vacuumCleaner_inWorld_Picker_Floor_Handheld_Child" Tags="TestUnsafe" Value="257538" />
+  <Preset Label="vacuumCleaner_inWorld_Picker_Toddler" Tags="TestUnsafe" Value="257539" />
+  <Preset Label="vacuumCleaner_inWorld_Picker_Floor_Standing" Tags="TestUnsafe" Value="257540" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_VacuumCleaner_DustFiend_Handheld_Child)" Value="257545" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_VacuumCleaner_DustFiend_Standing)" Value="257546" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_VacuumCleaner_Floor_Handheld_Child)" Value="257547" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_VacuumCleaner_Floor_Standing)" Value="257548" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_VacuumCleaner_Object_Handheld)" Value="257549" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_VacuumCleaner_Object_Standing)" Value="257550" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_VacuumCleaner_Toddler)" Value="257551" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Start_Floor_Handheld_Child)" Value="257555" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Start_Floor_Standing)" Value="257556" />
+  <Preset Label="Vacuum Around (new_VacuumCleaner_Start_OnVacuum__InWorld_Standing)" Value="257559" />
+  <Preset Label="Vacuum Around (new_VacuumCleaner_Start_OnVacuum_InWorld_Handheld)" Value="257560" />
+  <Preset Label="Vacuum Around (new_VacuumCleaner_Start_OnVacuum_InInventory_Handheld)" Value="257562" />
+  <Preset Label="Vacuum Around (new_VacuumCleaner_Start_OnVacuum_InInventory_Standing)" Value="257563" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Start_Object_Handheld_ChildOnly)" Value="257566" />
+  <Preset Label="Ask {1.ObjectName} to Search for Valuables (dustFriends_Bunny_AskToFind)" Value="257617" />
+  <Preset Label="Ask {1.ObjectName} to Rummage for Clutter (dustFriends_Fiend_AskToFind)" Value="257618" />
+  <Preset Label="Clean Toddler with Vacuum (socials_Targeted_Friendly_AlwaysOn_STC_Toddler_Vacuum)" Tags="TestUnsafe" Value="257794" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Loop_OnObject_Handheld_Low)" Value="257881" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Loop_OnObject_Handheld_High)" Value="257882" />
+  <Preset Label="VacuumCleaner_HeightChooser" Value="257919" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Loop_OnObject_Handheld_Floor)" Value="258166" />
+  <Preset Label="Instant Upgrade (object_Knack_MakeAwesome_Electronic_VacuumCleaner)" Value="258224" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Loop_OnObject_Handheld_Water)" Value="258376" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Loop_OnObject_Handheld_High_Water)" Value="258378" />
+  <Preset Label="Vacuum (new_VacuumCleaner_Loop_OnObject_Handheld_Low_Water)" Value="258380" />
+  <Preset Label="Stop Spawning Dust Piles (Debug) (debug_DestroyDustPiles)" Value="259841" />
+  <Preset Label="Vacuum Here (terrain-gohere_VacuumHere_OffGrid)" Value="436804" />
+  <Preset Label="Vacuum Here (terrain-gohere_VacuumHereUtilitiesCut)" Value="437501" />
+  <Preset Label="Vacuum Here (terrain-gohere_VacuumHere_Child_Handheld_OffGrid)" Value="437864" />
+  <Preset Label="Vacuum Here (terrain-gohere_VacuumHere_Child_Handheld_UtilitiesCut)" Value="437865" />
+</PresetGroup>

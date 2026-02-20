@@ -1,0 +1,634 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Buffs EP20">
+  <Preset Label="buff_HideAndSeek_CancelHiding" Value="442006" />
+  <Preset Label="Careers (buff_Trait_Competitive)" Value="443227" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_CompetitiveSpirit_1_Abysmal)" Value="443230" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_CompetitiveSpirit_2_Bad)" Value="443231" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_CompetitiveSpirit_3_Good)" Value="443280" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_CompetitiveSpirit_4_Great)" Value="443281" />
+  <Preset Label="THE SALTENING (buff_Trait_Competitive_CompetitiveSpirit_Loss_1_Abysmal_Rage)" Value="443318" />
+  <Preset Label="Salty Defeat (buff_Trait_Competitive_CompetitiveSpirit_Loss_2_Bad_Rage)" Value="443319" />
+  <Preset Label="Sore Ego (buff_Trait_Competitive_CompetitiveSpirit_Loss_3_Good_Rage)" Value="443320" />
+  <Preset Label="Fueled by Defeat (buff_Trait_Competitive_CompetitiveSpirit_Loss_4_Great_NoRage)" Value="443321" />
+  <Preset Label="IN YOUR FFFFFFFACE! (buff_Trait_Competitive_CompetitiveSpirit_Win_1_Abysmal_OverTheTop)" Value="443322" />
+  <Preset Label="Easy Win... (buff_Trait_Competitive_CompetitiveSpirit_Win_2_Bad_OverTheTop)" Value="443323" />
+  <Preset Label="Just Letting It Out! (buff_Trait_Competitive_CompetitiveSpirit_Win_3_Good_OverTheTop)" Value="443324" />
+  <Preset Label="Great game, everyone! (buff_Trait_Competitive_CompetitiveSpirit_Win_4_Great_GGWP)" Value="443325" />
+  <Preset Label="buff_HideAndSeek_Phase1_Ready" Value="444259" />
+  <Preset Label="buff_HideAndSeek_Phase2_Ready" Value="444260" />
+  <Preset Label="buff_HideAndSeek_Seeker" Value="444591" />
+  <Preset Label="buff_HideAndSeek_Hider" Value="444592" />
+  <Preset Label="Hide and Seek Champion! (buff_HideAndSeek_Victory)" Value="445193" />
+  <Preset Label="TANTRUM is Hard! (buff_VideoGameConsole_Tantrum_Loser_MP)" Value="446675" />
+  <Preset Label="DESTROY EVERYTHING! (buff_VideoGameConsole_Tantrum_Winner_SP)" Value="446676" />
+  <Preset Label="TANTRUM CHAMP! (buff_VideoGameConsole_Tantrum_Winner_MP)" Value="446677" />
+  <Preset Label="Defeated, but Not Out! (buff_VideoGameConsole_VoidCritter_Loser_MP)" Value="446678" />
+  <Preset Label="Wanna Be the Very Best (buff_VideoGameConsole_VoidCritter_Winner_MP)" Value="446679" />
+  <Preset Label="It's Super Effective! (buff_VideoGameConsole_VoidCritter_Winner_SP)" Value="446680" />
+  <Preset Label="buff_Trait_Cryptid" Value="447349" />
+  <Preset Label="SuperHugged! (buff_Cryptid_Superhugged)" Value="447401" />
+  <Preset Label="Borrowing a Feeling (buff_Cryptid_FeelingsShared)" Value="447402" />
+  <Preset Label="Puzzling Evidence (buff_Cryptid_PuzzlingEvidence)" Value="447403" />
+  <Preset Label="Beaky Business (buff_Cryptid_Birdbrain)" Value="447404" />
+  <Preset Label="Plumbird Quest Crushed (buff_Cryptid_MysterySolved)" Value="447405" />
+  <Preset Label="buff_Cryptid_SuperhugCooldown" Value="447406" />
+  <Preset Label="buff_AutonomyMod_EP20World_Walkbys_GuitarPlayer_Play" Value="447860" />
+  <Preset Label="buff_AutonomyMod_EP20World_Walkbys_Crafter_Crafting" Value="447862" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_GamedOut_Replacement)" Value="448038" />
+  <Preset Label="Water Under the Bridge? (buff_Sentiment_Guilty_Embarrassed_ChildhoodSentiment_WaterUnderTheBridge)" Value="448532" />
+  <Preset Label="Not the Same Sim Anymore (buff_Sentiment_Guilty_Embarrassed_ChildhoodSentiment_NotTheSameSim)" Value="448533" />
+  <Preset Label="Bad Sim for Life (buff_Sentiment_Motivating_Confident_ChildhoodSentiment_BadSimForLife)" Value="448535" />
+  <Preset Label="Good Times (buff_Sentiment_Close_Happy_Primary_ChildhoodSentiment_GoodTimes)" Value="448537" />
+  <Preset Label="&quot;No Ragerts&quot; (buff_Sentiment_Motivating_Confident_ChildhoodSentiment_NoRagerts)" Value="448538" />
+  <Preset Label="Bittersweet and Soured (buff_Sentiment_Hurt_Sad_Primary_ChildhoodSentiment_BittersweetAndSoured)" Value="448550" />
+  <Preset Label="Nostalgia Hits Hard (buff_Sentiment_Close_Happy_Primary_ChildhoodSentiment_NostalgiaHitsHard)" Value="448551" />
+  <Preset Label="Ugh! Not This Llamahead! (buff_Sentiment_Bitter_Angry_ChildhoodSentiment_NotThisLlamahead)" Value="448555" />
+  <Preset Label="Plotting Revenge! (buff_Sentiment_Bitter_Angry_ChildhoodSentiment_PlottingRevenge)" Value="448556" />
+  <Preset Label="Bygones (buff_Sentiment_Close_Confident_ChildhoodSentiment_Bygones)" Value="448558" />
+  <Preset Label="That Sim Looks Familiar, Right? (buff_Sentiment_Guilty_Tense_ChildhoodSentiment_SimLooksFamiliar)" Value="448561" />
+  <Preset Label="Reeling from the Years (buff_Sentiment_Adoring_Inspired_ChildhoodSentiment_ReelingFromTheYears)" Value="448563" />
+  <Preset Label="Grown Up and Grown Apart (buff_Sentiment_Guilty_Tense_ChildhoodSentiment_GrownApart)" Value="448564" />
+  <Preset Label="We Never Say Die!!! (buff_Sentiment_Adoring_Inspired_ChildhoodSentiment_NeverSayDie)" Value="448565" />
+  <Preset Label="Blast from the Past (buff_ChildhoodSentiment_MoodBuffs_BlastFromPast)" Value="448593" />
+  <Preset Label="Time Wasted (buff_ChildhoodSentiment_MoodBuffs_TimeWaster)" Value="448594" />
+  <Preset Label="Whoa! Out of the Blue (buff_ChildhoodSentiment_MoodBuffs_OutOfTheBlue)" Value="448595" />
+  <Preset Label="You Like Me! You Really Like Me! (buff_ChildhoodSentiment_MoodBuffs_YouLIkeMe)" Value="448597" />
+  <Preset Label="Cheat Code (buff_ChildhoodSentiment_MoodBuffs_CheatCode)" Value="448598" />
+  <Preset Label="Money, Money, MONEY!!! (buff_ChildhoodSentiment_MoodBuffs_Money)" Value="448599" />
+  <Preset Label="Daydream Believer (buff_ChildhoodSentiment_MoodBuffs_DaydreamBeliever)" Value="448600" />
+  <Preset Label="Nah! (buff_ChildhoodSentiment_MoodBuffs_Nah)" Value="448601" />
+  <Preset Label="Holding...It...Together... (buff_Trait_Competitive_CompetitiveSpirit_Loss_2_Bad_NoRage)" Value="448620" />
+  <Preset Label="Manageable Loss (buff_Trait_Competitive_CompetitiveSpirit_Loss_3_Good_NoRage)" Value="448621" />
+  <Preset Label="It's OK to Lose to Me (buff_Trait_Competitive_CompetitiveSpirit_Win_2_Bad_GGWP)" Value="448622" />
+  <Preset Label="Humble Winner (buff_Trait_Competitive_CompetitiveSpirit_Win_3_Good_GGWP)" Value="448623" />
+  <Preset Label="The Ravages of Time (buff_Sentiment_Hurt_Sad_Primary_ChildhoodSentiment_SimGotOld)" Value="448684" />
+  <Preset Label="S.W.E.A.T. (buff_Trait_Competitive_SWEAT)" Value="448948" />
+  <Preset Label="Spirit of Competition! (buff_Trait_Competitive_InspireActor)" Value="448949" />
+  <Preset Label="Time to Win! (buff_Trait_Competitive_InspireTarget)" Value="448950" />
+  <Preset Label="I'm Fine, Thanks... (buff_Trait_Competitive_InspireFail)" Value="448951" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_SunriseSunset_Elder" Value="449731" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_RoundTheFire_Player" Value="449732" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_GlowAndFlow_Griller" Value="449733" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_SunriseSunset_Child" Value="449734" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_FitnessFashion_NPC" Value="449735" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_GlowAndFlow_NPC" Value="449749" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_FitnessFashion_Player" Value="449750" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_RoundTheFire_NPC" Value="449751" />
+  <Preset Label="buff_CollectableTrading_LesserTrade" Value="449841" />
+  <Preset Label="buff_CollectableTrading_EqualTrade" Value="449842" />
+  <Preset Label="buff_CollectableTrading_BetterTrade" Value="449843" />
+  <Preset Label="buff_CollectableTrading_CreatedTracked" Value="449844" />
+  <Preset Label="buff_EP20World_Walkbys_Role_Cleanup_Crafter" Value="450049" />
+  <Preset Label="buff_EP20World_Walkbys_Role_Route_Crafter" Value="450051" />
+  <Preset Label="buff_AutonomyMod_EP20World_Walkbys_Busker" Value="450053" />
+  <Preset Label="Lucky Streak (buff_CollectableTrading_LuckyStreak)" Value="450422" />
+  <Preset Label="What a Swindle! (buff_CollectableTrading_WhatASwindle)" Value="450423" />
+  <Preset Label="Tough Luck (buff_CollectableTrading_ToughLuck)" Value="450424" />
+  <Preset Label="buff_CollectableTrading_RetryAvailable" Value="450425" />
+  <Preset Label="buff_CollectableTrading_WinCooldown" Value="450431" />
+  <Preset Label="Rock, Paper, Scissors, Victory! (buff_RockPaperScissors_Win)" Value="450544" />
+  <Preset Label="Covered, Cut, Crushed... (buff_RockPaperScissors_Loss)" Value="450545" />
+  <Preset Label="The Blurple Stuff! (buff_Drink_PowerSipBlurpleChild)" Value="450783" />
+  <Preset Label="It's All a Blurple... (buff_Drink_PowerSipBlurpleAdult)" Value="450784" />
+  <Preset Label="Jellin' (buff_Food_JellyfishSalad)" Value="451093" />
+  <Preset Label="Familiar Flavors (buff_Food_JellyfishSalad_Alien)" Value="451094" />
+  <Preset Label="ALL THE SPRINKLES! (buff_Food_FairyBread)" Value="451095" />
+  <Preset Label="Playground Adventure (buff_ModularPlayground_PlaygroundAdventure)" Value="451576" />
+  <Preset Label="My Own Playground! (buff_ModularPlayground_MyOwnPlayground)" Value="451577" />
+  <Preset Label="Loving Glow (buff_WorldPOI_Bay_BiolumBoostTYAE)" Value="452061" />
+  <Preset Label="Life is Bright (buff_WorldPOI_Bay_BiolumBoostC)" Value="452062" />
+  <Preset Label="Jelly Style (buff_WorldPOI_JellyfishPond_electricJelly)" Value="452063" />
+  <Preset Label="Whoa to the Geyser Blow! (buff_WorldPOI_Geyser_WhoaToGeyser)" Value="452064" />
+  <Preset Label="Great Adventurer (buff_WorldPOI_StoryMap_viewBuff)" Value="452065" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;You're a Creativity Wizard&lt;/i&gt; (buff_Papercraft_CootieCatcher_Positive_01_Creative)" Value="452400" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Simoleon Signs in Your Future&lt;/i&gt; (buff_Papercraft_CootieCatcher_Positive_02_Money)" Value="452401" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;You're the Coolest Kid on the Block&lt;/i&gt; (buff_Papercraft_CootieCatcher_Positive_03_Friendship)" Value="452402" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Special Delivery on the Way&lt;/i&gt; (buff_Papercraft_CootieCatcher_Positive_04_CoolGift)" Value="452403" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;You'll Have a Sweet Sweet Dream&lt;/i&gt; (buff_Papercraft_CootieCatcher_Positive_05_GoodDream)" Value="452404" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Your a Smarty Pants&lt;/i&gt; (buff_Papercraft_CootieCatcher_Positive_06_SchoolPerformance)" Value="452405" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;You're Lucky... Lucky in Love&lt;/i&gt; (buff_Papercraft_CootieCatcher_Positive_07_Flirty)" Value="452406" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Your Smarts are Off the Charts&lt;/i&gt; (buff_Papercraft_CootieCatcher_Positive_08_Focus)" Value="452407" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Your Muse is on a Snooze Cruise&lt;/i&gt; (buff_Papercraft_CootieCatcher_Negative_01_Uncreative)" Value="452408" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Nobody Likes You&lt;/i&gt; (buff_Papercraft_CootieCatcher_Negative_02_Unfriendly)" Value="452409" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;FARTS!&lt;/i&gt; (buff_Papercraft_CootieCatcher_Negative_03_Farts)" Value="452410" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;You're Going to Flunk School&lt;/i&gt; (buff_Papercraft_CootieCatcher_Negative_04_BadSchoolPerformance)" Value="452411" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Lame Gift Incoming!&lt;/i&gt; (buff_Papercraft_CootieCatcher_Negative_05_LameGift)" Value="452412" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Brace for a Porcelain Surprise&lt;/i&gt; (buff_Papercraft_CootieCatcher_Negative_06_BreakToilet)" Value="452413" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Cupid's Arrow Missed You Today&lt;/i&gt; (buff_Papercraft_CootieCatcher_Negative_07_Unflirty)" Value="452414" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;You're a Funky Brain!&lt;/i&gt; (buff_Papercraft_CootieCatcher_Negative_08_Unfocused)" Value="452415" />
+  <Preset Label="buff_Cryptid_Nest_Gameplay_StayNest" Value="453423" />
+  <Preset Label="buff_Cryptid_Nest_Gameplay_Fishing" Value="453425" />
+  <Preset Label="buff_Cryptid_Nest_Gameplay_Butterflies" Value="453426" />
+  <Preset Label="buff_Cryptid_Nest_Gameplay_Default" Value="453427" />
+  <Preset Label="moodBuffs_Hidden_EP20_IF_Behavior_Goofball" Value="453529" />
+  <Preset Label="moodBuffs_Hidden_EP20_IF_Behavior_Creative" Value="453530" />
+  <Preset Label="moodBuffs_Hidden_EP20_IF_Behavior_Evil" Value="453531" />
+  <Preset Label="moodBuffs_Hidden_EP20_IF_Behavior_Competitive" Value="453532" />
+  <Preset Label="Happy Habitat (buff_ButterflyCollection_AtriumView)" Value="454038" />
+  <Preset Label="Fluttering Bliss (buff_ButterflyCollection_AtriumProximity)" Value="454039" />
+  <Preset Label="The Wings of Gibbi Point (buff_ButterflyCollection_CollectionCompletion)" Value="454041" />
+  <Preset Label="Too Many Legs and Antennae (buff_ButterflyCollection_AtriumProximity_Squeamish)" Value="454042" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_FollowInFootsteps_Sketches" Value="454286" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_BeTheGeek" Value="454287" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_AboutCuisine" Value="454290" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_LiveDangerously" Value="454291" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_MasterArchery" Value="454292" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_ExploreNature" Value="454293" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_NurturePlants" Value="454295" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_MasterFishing" Value="454296" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_ExploreOcean" Value="454297" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_BeActive" Value="454298" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_BeAnOutdoorEnthusiast" Value="454299" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_BeAnnoying" Value="454301" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_HaveBestImaginaryFriend_Monster" Value="454305" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_LearnToDive" Value="454306" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_BeATraveler" Value="454307" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_BeAwayFromHome" Value="454312" />
+  <Preset Label="buff_ChildhoodInspiration_SuggestedBySocial" Value="454362" />
+  <Preset Label="buff_ChildhoodInspiration_SocialSuggestionCooldown" Value="454631" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_RoundTheFire_StoryTeller" Value="454694" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_FollowInFootsteps_SwimTeam" Value="454850" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_FollowInFootsteps_OnTour" Value="454851" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_HaveBestImaginaryFriend_SpookyKid" Value="454853" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_HaveBestImaginaryFriend_WildChild" Value="454854" />
+  <Preset Label="Braggin' Rights (buff_EP20_Asp_BragRights)" Value="454886" />
+  <Preset Label="Wannabe (buff_EP20_Asp_Wannabe)" Value="454887" />
+  <Preset Label="Legend from the Block (buff_EP20_Asp_BlockLegend)" Value="454888" />
+  <Preset Label="Block Has-Been (buff_EP20_Asp_BlockHasBeen)" Value="454889" />
+  <Preset Label="Critter Hype! (buff_EP20_Asp_CritterHype)" Value="454890" />
+  <Preset Label="Fluttery Feelings! (buff_EP20_Asp_ButterflyFeelings)" Value="454891" />
+  <Preset Label="Excuse Me?! (buff_EP20_Asp_ButterflyAngry)" Value="454892" />
+  <Preset Label="Snubbed by Butterfly (buff_EP20_Asp_ButterflySad)" Value="454893" />
+  <Preset Label="Social Butterfly (buff_EP20_Asp_ButterflyHappy)" Value="454894" />
+  <Preset Label="Excuse Me?! (buff_EP20_Asp_FishAngry)" Value="454895" />
+  <Preset Label="Snubbed by a Fish (buff_EP20_Asp_FishSad)" Value="454896" />
+  <Preset Label="Good Glubbin' Chat (buff_EP20_Asp_FishHappy)" Value="454897" />
+  <Preset Label="buff_EP20_Asp_Hidden_CritterEnthusiast" Value="454909" />
+  <Preset Label="buff_ModularPlayground_PlayWithPlayground" Value="455290" />
+  <Preset Label="buff_CollectableTrading_WonRPS" Value="455608" />
+  <Preset Label="buff_CollectableTrading_LostRPS" Value="455609" />
+  <Preset Label="Doom Foretold! (buff_Papercraft_CootieCatcher_Negative_DoomTold)" Value="455644" />
+  <Preset Label="Fortune Told (buff_Papercraft_CootieCatcher_Positive_FortuneTold)" Value="455645" />
+  <Preset Label="Spicy Fortune Told (buff_Papercraft_CootieCatcher_Positive_FortuneTold_Spicy)" Value="455646" />
+  <Preset Label="Careers (buff_Papercraft_CootieCatcher_Positive_GoodDream_Hidden)" Value="455647" />
+  <Preset Label="The Cootie Oracle (buff_Papercraft_CootieCatcher_TellFortune)" Value="455650" />
+  <Preset Label="Careers (buff_Papercraft_CootieCatcher_Negative_BreakToilet_Hidden)" Value="455651" />
+  <Preset Label="buff_EP20_IF_Hidden_ImaginaryFriend" Value="456067" />
+  <Preset Label="Gossip Gone Wrong! (buff_EP20World_NPCs_GossipGoneWrong)" Value="456339" />
+  <Preset Label="Talk of the Town (buff_EP20World_NPCs_TalkoftheTown)" Value="456340" />
+  <Preset Label="Magical Storytelling! (buff_EP20World_NPCs_MagicalStorytelling)" Value="456341" />
+  <Preset Label="Mysterious Storytelling (buff_EP20World_NPCs_MysteriousStorytelling)" Value="456342" />
+  <Preset Label="Crafted Connection (buff_Papercraft_Gift_Card_Friendship_HappyActor)" Value="456531" />
+  <Preset Label="Personal Greetings (buff_Papercraft_Gift_Card_Friendship_HappyTarget)" Value="456532" />
+  <Preset Label="Handmade Heartache (buff_Papercraft_Gift_Card_Friendship_SadActor)" Value="456533" />
+  <Preset Label="Made with Love (buff_Papercraft_Gift_Card_Love_FlirtyActor)" Value="456534" />
+  <Preset Label="For &lt;i&gt;Me&lt;/i&gt;? (buff_Papercraft_Gift_Card_Love_FlirtyTarget)" Value="456535" />
+  <Preset Label="Dis-Carded Love (buff_Papercraft_Gift_Card_Love_SadActor)" Value="456536" />
+  <Preset Label="buff_Situation_EP20World_NPCs_LostAdventurer" Value="456660" />
+  <Preset Label="buff_Situation_EP20World_NPCs_Storyteller" Value="456661" />
+  <Preset Label="buff_Situation_EP20World_NPCs_ButterflyConservationist_Ranger" Value="456662" />
+  <Preset Label="buff_Situation_EP20World_NPCs_ButterflyConservationist_Vegetation" Value="456663" />
+  <Preset Label="buff_Getaway_AskToCleanAutonomy" Value="456681" />
+  <Preset Label="Living My Best Life (buff_Getaway_LivingMyBestLife)" Value="456770" />
+  <Preset Label="Better Together (buff_Getaway_MadeGetawayFriend)" Value="456772" />
+  <Preset Label="Getaway Enemy (buff_Getaway_MadeGetawayRival)" Value="456773" />
+  <Preset Label="Soaking Up the Vibes (buff_Getaway_RechargingMyPlumbobs)" Value="456774" />
+  <Preset Label="Getaway Crush (buff_Getaway_GetawayCrush)" Value="456789" />
+  <Preset Label="Working on Myself (buff_Getaway_WorkingOnMyself)" Value="456790" />
+  <Preset Label="Peacemaker (buff_Getaway_Peacemaker)" Value="456791" />
+  <Preset Label="Homesick (buff_Getaway_Homesick)" Value="456792" />
+  <Preset Label="Can't Believe They're Gone (buff_Getaway_TheyAreGone)" Value="456793" />
+  <Preset Label="So Long, Loser (buff_Getaway_SoLongLoser)" Value="456794" />
+  <Preset Label="Paper Airplayin' (buff_Papercraft_PaperAirplane_Throw)" Value="456870" />
+  <Preset Label="buff_Getaway" Value="456952" />
+  <Preset Label="Magnetic! (buff_WorldPOI_Bay_Swims_MagneticAura)" Value="457078" />
+  <Preset Label="Tip Top Shape (buff_WorldPOI_Bay_Swims_CareerInfluence)" Value="457079" />
+  <Preset Label="Illuminating Romance (buff_WorldPOI_Bay_Swims_NewLife)" Value="457080" />
+  <Preset Label="Razor Sharp (buff_WorldPOI_Bay_Swims_ZonedIn)" Value="457081" />
+  <Preset Label="buff_Getaway_GetAlongAutonomy" Value="457185" />
+  <Preset Label="Learned about Carving the Basin (buff_Career_ParkWorker_ParkLore_1)" Value="457189" />
+  <Preset Label="Learned about the Ancient Tribes (buff_Career_ParkWorker_ParkLore_2)" Value="457190" />
+  <Preset Label="Learned about the Local Species (buff_Career_ParkWorker_ParkLore_3)" Value="457191" />
+  <Preset Label="Learned about the Mysterious Occurrences (buff_Career_ParkWorker_ParkLore_4)" Value="457192" />
+  <Preset Label="Learned about the Local Legends (buff_Career_ParkWorker_ParkLore_5)" Value="457193" />
+  <Preset Label="Park Loremaster (buff_Career_ParkWorker_ParkLoremaster)" Value="457194" />
+  <Preset Label="Beauties of Nature (buff_Career_ParkWorker_ParkMyth_Target)" Value="457195" />
+  <Preset Label="Ready for the Wilderness (buff_Career_ParkWorker_WildernessReady)" Value="457196" />
+  <Preset Label="Back Safe (buff_Career_ParkWorker_BackSafe)" Value="457197" />
+  <Preset Label="Lost! (buff_Career_ParkWorker_Lost)" Value="457208" />
+  <Preset Label="Amateur Navigation (buff_Career_ParkWorker_AmateurNavigation)" Value="457209" />
+  <Preset Label="Cool Bear (buff_Career_ParkWorker_CoolBear)" Value="457210" />
+  <Preset Label="Silly Bear (buff_Career_ParkWorker_SillyBear)" Value="457211" />
+  <Preset Label="Defeated Nature (buff_Career_ParkWorker_DefeatedNature)" Value="457212" />
+  <Preset Label="Injured (buff_Career_ParkWorker_Injured)" Value="457213" />
+  <Preset Label="Medical Amateur (buff_Career_ParkWorker_MedicalAmateur)" Value="457214" />
+  <Preset Label="Bad Judgment (buff_Career_ParkWorker_BadJudgement)" Value="457215" />
+  <Preset Label="Warming Food (buff_Career_ParkWorker_WarmingFood)" Value="457216" />
+  <Preset Label="Camp Sickness (buff_Career_ParkWorker_CampSickness)" Value="457217" />
+  <Preset Label="Bugged Out (buff_Career_ParkWorker_InsectMixup)" Value="457218" />
+  <Preset Label="Soak in the Sights (buff_Career_ParkWorker_SoakinSights)" Value="457219" />
+  <Preset Label="Blind Spots (buff_Career_ParkWorker_BlindSpots)" Value="457220" />
+  <Preset Label="Not Worth the Sweat (buff_Career_ParkWorker_MissedOpportunity)" Value="457221" />
+  <Preset Label="Scared Silly (buff_Career_ParkWorker_ScaredSilly)" Value="457222" />
+  <Preset Label="Afraid of the Dark (buff_Career_ParkWorker_AfraidofDark)" Value="457223" />
+  <Preset Label="S'more Than a Tale (buff_Career_ParkWorker_ScaredStraight)" Value="457224" />
+  <Preset Label="Lame Story (buff_Career_ParkWorker_LameStory)" Value="457225" />
+  <Preset Label="Master Storyteller (buff_Career_ParkWorker_MasterStoryteller)" Value="457226" />
+  <Preset Label="Not-So-Fun Facts (buff_Career_ParkWorker_BoredSelf)" Value="457227" />
+  <Preset Label="Tough Crowd (buff_Career_ParkWorker_NotReal)" Value="457228" />
+  <Preset Label="Llamahead (buff_Career_ParkWorker_LlamaHead)" Value="457229" />
+  <Preset Label="Team Bonding (buff_Career_ParkWorker_TeamBonding)" Value="457230" />
+  <Preset Label="Caught Off Guard (buff_Career_ParkWorker_GottaHurt)" Value="457231" />
+  <Preset Label="Better Luck Next Time (buff_Career_ParkWorker_BetterLuck)" Value="457232" />
+  <Preset Label="Close Call (buff_Career_ParkWorker_CloseCall)" Value="457233" />
+  <Preset Label="buff_Hidden_WorldPOI_Bay_Swims_DONE" Value="457395" />
+  <Preset Label="buff_Getaway_HomeSickRemoved" Value="457903" />
+  <Preset Label="buff_EP20_Asp_Hidden_ChildFriendshipFormed" Value="458022" />
+  <Preset Label="buff_EP20_Asp_Hidden_ChildBestFriendshipFormed" Value="458024" />
+  <Preset Label="buff_EP20_Asp_Hidden_ButterflyCollection_Rare" Value="458027" />
+  <Preset Label="buff_EP20_Asp_Hidden_ButterflyCollection_Common" Value="458028" />
+  <Preset Label="buff_Role_EP20World_NPC_Collector" Value="458127" />
+  <Preset Label="buff_ButterflyCollection_NearGlowWorms" Value="458185" />
+  <Preset Label="buff_ButterflyCollection_NearGlowWorms_Cooldown" Value="458191" />
+  <Preset Label="Warm and Cozy! (buff_CozySocks)" Value="458345" />
+  <Preset Label="buff_AutonomyMod_EP20World_Walkbys_Campfire" Value="458385" />
+  <Preset Label="What an Inspiration! (buff_ChildhoodInspiration_WhatAnInspiration)" Value="458408" />
+  <Preset Label="Childhood Relived (buff_ChildhoodInspiration_ChildhoodRelived)" Value="458409" />
+  <Preset Label="buff_HideAndSeek_Seeker_Paused" Value="458665" />
+  <Preset Label="Careers (buff_Papercraft_PaperAirplane_ThrowAround_Hidden)" Value="459149" />
+  <Preset Label="buff_ButterflyCollection_Hidden_UltimateButterfly_GiveReward" Value="459365" />
+  <Preset Label="Chalky but Not Bad (buff_Object_Freeweights_Chalky)" Value="459886" />
+  <Preset Label="Prepared for Archery (buff_Career_ParkWorker_ActivityPrep_Archery)" Value="460066" />
+  <Preset Label="Prepared for Fishing (buff_Career_ParkWorker_ActivityPrep_Fishing)" Value="460067" />
+  <Preset Label="Prepared for Gardening (buff_Career_ParkWorker_ActivityPrep_Gardening)" Value="460068" />
+  <Preset Label="Prepared for Fitness (buff_Career_ParkWorker_ActivityPrep_Fitness)" Value="460069" />
+  <Preset Label="Prepared for Herbalism (buff_Career_ParkWorker_ActivityPrep_Herbalism)" Value="460071" />
+  <Preset Label="Prepared for Archaeology (buff_Career_ParkWorker_ActivityPrep_Archaeology)" Value="460072" />
+  <Preset Label="Prepared for Rock Climbing (buff_Career_ParkWorker_ActivityPrep_RockClimbing)" Value="460073" />
+  <Preset Label="Prepared for Snowboarding (buff_Career_ParkWorker_ActivityPrep_Snowboarding)" Value="460074" />
+  <Preset Label="Prepared for Horse Riding (buff_Career_ParkWorker_ActivityPrep_HorseRiding)" Value="460075" />
+  <Preset Label="Prepared for Skiing (buff_Career_ParkWorker_ActivityPrep_Skiing)" Value="460076" />
+  <Preset Label="Smooth Sailing (buff_Object_Freeweights_SmoothSailing)" Value="460082" />
+  <Preset Label="buff_AutonomyMod_EP20World_Walkbys_Kayak" Value="460295" />
+  <Preset Label="Found! (buff_HideAndSeek_Found)" Value="460424" />
+  <Preset Label="Good Gaming Session (buff_Trait_Competitive_GoodSession_Replacement)" Value="460568" />
+  <Preset Label="Unburdened (buff_EP20_IF_Unburdened)" Value="460704" />
+  <Preset Label="buff_Career_ParkWorker_Hidden_ParkLoreComplete" Value="460824" />
+  <Preset Label="Level Up! (buff_Trait_Competitive_LevelUp)" Value="460903" />
+  <Preset Label="Gotta Be THE BEST! (buff_Trait_Competitive_GottaBeTheBest)" Value="460904" />
+  <Preset Label="buff_Cryptid_Quest_EvidenceTrackers_CavePainting" Value="460919" />
+  <Preset Label="buff_Cryptid_Quest_EvidenceTrackers_Seabreeze" Value="460920" />
+  <Preset Label="buff_Cryptid_Quest_EvidenceTrackers_Golden" Value="460921" />
+  <Preset Label="buff_Cryptid_Quest_EvidenceTrackers_Wilderness" Value="460922" />
+  <Preset Label="Falling down the Leaderboard... (buff_Trait_Competitive_Career_Demotion)" Value="460966" />
+  <Preset Label="Climbing the Leaderboards (buff_Trait_Competitive_Career_Promotion)" Value="460967" />
+  <Preset Label="Workday MVP! (buff_Trait_Competitive_Career_EndOfDay_Work)" Value="460973" />
+  <Preset Label="School MVP! (buff_Trait_Competitive_Career_EndOfDay_School)" Value="460974" />
+  <Preset Label="buff_HideAndSeek_SituationTimer" Value="461029" />
+  <Preset Label="buff_HideAndSeek_CancelHiding_TimerEnded" Value="461154" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_BuffOnly_Win)" Value="461273" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_BuffOnly_Loss)" Value="461274" />
+  <Preset Label="It's Their Loss! (buff_Trait_Competitive_Career_Fired)" Value="461277" />
+  <Preset Label="buff_Trait_EP20World_HonoraryLocal" Value="461314" />
+  <Preset Label="1v1 Time! (buff_Trait_Competitive_Sentiment_Primary)" Value="461364" />
+  <Preset Label="Cheering from the Sidelines (buff_Trait_Competitive_Sentiment_Secondary_01)" Value="461365" />
+  <Preset Label="A Real Contender (buff_Trait_Competitive_Sentiment_Secondary_02)" Value="461366" />
+  <Preset Label="buff_EP20World_FrogLogCooldown" Value="461474" />
+  <Preset Label="Eagle Eye Carrot Smoothie (buff_Blender_Smoothie_EffectBuffs_Archers)" Value="461485" />
+  <Preset Label="Athletic Pick Me Up (buff_Blender_Smoothie_EffectBuffs_AthleticBoost)" Value="461486" />
+  <Preset Label="Blissful Berry Banana (buff_Blender_Smoothie_EffectBuffs_BerryBanana)" Value="461487" />
+  <Preset Label="Apple Spinach Energizing Boost (buff_Blender_Smoothie_EffectBuffs_Energizer)" Value="461488" />
+  <Preset Label="Vitamin Focus! (buff_Blender_Smoothie_EffectBuffs_VitaminFocus)" Value="461490" />
+  <Preset Label="X-TREME MUSCLE MAELSTROM (buff_Blender_Smoothie_EffectBuffs_XtremeMuscle)" Value="461491" />
+  <Preset Label="Chugged, but at What Cost? (buff_Blender_Smoothie_EffectBuffs_Chugged)" Value="461493" />
+  <Preset Label="buff_ChildhoodInspiration_GetawayHourlyCounter" Value="461554" />
+  <Preset Label="buff_EP20World_Walkbys_Role_Artisan_Crafter_Anchor" Value="461888" />
+  <Preset Label="buff_EP20World_Walkbys_Role_Artisan_Crafter_NearTopiary" Value="461889" />
+  <Preset Label="buff_EP20World_Walkbys_Role_Artisan_Crafter_PutDown" Value="461985" />
+  <Preset Label="buff_EP20_IF_Hidden_Idle" Value="462122" />
+  <Preset Label="buff_Getaway_SimOfInterest" Value="462158" />
+  <Preset Label="moodBuffs_Hidden_EP20_IF_Behavior_Help_Social_Generic" Value="462197" />
+  <Preset Label="buff_Career_ParkWorker_StudiedParkLore_Hidden" Value="462216" />
+  <Preset Label="moodBuffs_Hidden_EP20_IF_Behavior_Help_Fun_Generic" Value="462301" />
+  <Preset Label="Consoled by an Old Friend (buff_EP20_IF_ComfortOldFriend)" Value="462303" />
+  <Preset Label="buff_Situation_SpinningClass_Instructor_InClass" Value="462451" />
+  <Preset Label="buff_EP20_IF_Hidden_SuggestActivity_CD" Value="462558" />
+  <Preset Label="The Heartbreak Is Real, Though (buff_EP20_IF_GoodbyeForever_Good)" Value="462707" />
+  <Preset Label="The Heartbreak Is Real, Though (buff_EP20_IF_GoodbyeForever_Bad)" Value="462708" />
+  <Preset Label="Power of Imagination! (buff_EP20_IF_MakeReal)" Value="462715" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_GlowAndFlow_Player" Value="462779" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_RoundTheFire_CryptidFan" Value="462780" />
+  <Preset Label="Reach for the Stars! (buff_EP20_IF_Power_Inspired)" Value="463198" />
+  <Preset Label="Stomp Dash Silly Bash (buff_EP20_IF_Power_Playful)" Value="463200" />
+  <Preset Label="Fearless Might (buff_EP20_IF_Power_Confident)" Value="463201" />
+  <Preset Label="Anything You Can Do… (buff_EP20_IF_Power_Energized)" Value="463202" />
+  <Preset Label="Fearless Might (buff_EP20_IF_Power_Confident_HighFriendship)" Value="463204" />
+  <Preset Label="Anything You Can Do… (buff_EP20_IF_Power_Energized_HighFriendship)" Value="463206" />
+  <Preset Label="Reach for the Stars! (buff_EP20_IF_Power_Inspired_HighFriendship)" Value="463208" />
+  <Preset Label="Stomp Dash Silly Bash (buff_EP20_IF_Power_Playful_HighFriendship)" Value="463210" />
+  <Preset Label="buff_EP20_IF_Hidden_PowerOfImagination_CD" Value="463212" />
+  <Preset Label="buff_Blender_makeSmoothie_Fail" Value="463378" />
+  <Preset Label="WHO?! (buff_ChildhoodSentiment_MoodBuffs_Who)" Value="463459" />
+  <Preset Label="Consoled by an Old BFF (buff_EP20_IF_ComfortOldBFF)" Value="463496" />
+  <Preset Label="buff_ChildhoodSentiment_Hidden_SuchLlamahead" Value="463590" />
+  <Preset Label="buff_ChildhoodSentiment_Hidden_ChildhoodGrudge" Value="463591" />
+  <Preset Label="buff_ChildhoodSentiment_Hidden_WhatsYourNameAgain" Value="463592" />
+  <Preset Label="buff_ChildhoodSentiment_Hidden_TalkOldTimes" Value="463593" />
+  <Preset Label="buff_ChildhoodSentiment_Hidden_WishBetterFriends" Value="463594" />
+  <Preset Label="buff_Getaway_Hidden_ModifierRules_LoveIsInTheAir" Value="463602" />
+  <Preset Label="buff_Getaway_Hidden_ModifierRules_EveryoneHatesEachOther" Value="463603" />
+  <Preset Label="buff_Getaway_Hidden_ModifierRules_FreeLove" Value="463604" />
+  <Preset Label="buff_Getaway_Hidden_ModifierRules_RenaissanceHouse" Value="463615" />
+  <Preset Label="buff_Getaway_Hidden_ModifierRules_HardcoreMode" Value="463616" />
+  <Preset Label="buff_Getaway_Hidden_ModifierRules_GrindsetMindset" Value="463617" />
+  <Preset Label="On the Grind (buff_Getaway_Visible_ModifierRule_GrindsetMindset_Happy)" Value="463618" />
+  <Preset Label="Falling Behind (buff_Getaway_Visible_ModifierRule_GrindsetMindset_Tense)" Value="463619" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_FashionAndFitness_Archer" Value="463652" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_FashionAndFitness_SpinningInstructor" Value="463653" />
+  <Preset Label="buff_Situation_EP20Festival_ArcheryContest" Value="463682" />
+  <Preset Label="Sweat It Out (buff_Drink_PowerSipPowerSweat)" Value="463703" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_FashionAndFitness_SpinningStudent" Value="463787" />
+  <Preset Label="Guaranteed Cootie Catcher Fortune (buff_Papercraft_CootieCatcher_GuaranteeFortune)" Value="463895" />
+  <Preset Label="Solid (buff_EP20Festival_Solid)" Value="464078" />
+  <Preset Label="Legendary Storyteller (buff_EP20Festival_Legendary)" Value="464079" />
+  <Preset Label="Still Glowing (buff_EP20Festival_Glowing)" Value="464080" />
+  <Preset Label="buff_EP20_IF_Hidden_GoodbyeForever" Value="464193" />
+  <Preset Label="Imaginary Good Friend (buff_EP20_IF_ImaginaryGoodFriend)" Value="464402" />
+  <Preset Label="Imaginary Friends Aren't Real (buff_EP20_IF_ImaginaryFriendsArentReal)" Value="464403" />
+  <Preset Label="I Hate Archery! (buff_SimPreference_Dislikes_Activities_Archery)" Value="464668" />
+  <Preset Label="I Love Archery! (buff_SimPreference_Likes_Activities_Archery)" Value="464669" />
+  <Preset Label="buff_SimPreference_Recent_Dislikes_Archery" Value="464672" />
+  <Preset Label="buff_SimPreference_Recent_Likes_Archery" Value="464673" />
+  <Preset Label="I Hate Diving! (buff_SimPreference_Dislikes_Activities_DivingBoard)" Value="465152" />
+  <Preset Label="I Love Diving! (buff_SimPreference_Likes_Activities_DivingBoard)" Value="465153" />
+  <Preset Label="buff_SimPreference_Recent_Dislikes_DivingBoard" Value="465154" />
+  <Preset Label="buff_SimPreference_Recent_Likes_DivingBoard" Value="465155" />
+  <Preset Label="moodBuffs_Hidden_EP20_IF_Behavior_Help_Fun" Value="465370" />
+  <Preset Label="moodBuffs_Hidden_EP20_IF_Behavior_Help_Social" Value="465371" />
+  <Preset Label="moodBuffs_Hidden_EP20_IF_Behavior_Help_Fun_Personality" Value="465372" />
+  <Preset Label="moodBuffs_Hidden_EP20_IF_Behavior_Help_Social_Personality" Value="465373" />
+  <Preset Label="buff_EP20_IF_Autonomy_SpawnEvent_Wave" Value="465377" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_SunriseSunset_Player" Value="465815" />
+  <Preset Label="Fluttering Butterflies (buff_WorldPOI_Butterfly_WatchBuff)" Value="465928" />
+  <Preset Label="Careers (buff_ButterflyCollection_PlaceInAtrium_WantBuffer)" Value="466368" />
+  <Preset Label="buff_Situation_SpinningClass_ClassMember" Value="467815" />
+  <Preset Label="buff_Situation_SpinningClass_Instructor" Value="467816" />
+  <Preset Label="Victory Lap (buff_Getaway_RuleFollower)" Value="469006" />
+  <Preset Label="Strokes of Inspiration (buff_Getaway_Reward_SkillMod_ArtMusic)" Value="469026" />
+  <Preset Label="Palate Awakened (buff_Getaway_Reward_SkillMod_FoodDrink)" Value="469028" />
+  <Preset Label="Playtime Flashback (buff_Getaway_Reward_SkillMod_KidActvities)" Value="469029" />
+  <Preset Label="Crafty Memories (buff_Getaway_Reward_SkillMod_Hobbies)" Value="469030" />
+  <Preset Label="Trouble’s Back (buff_Getaway_Reward_SkillMod_Mischief)" Value="469031" />
+  <Preset Label="Nature Still Calls (buff_Getaway_Reward_SkillMod_Outdoor)" Value="469032" />
+  <Preset Label="Social Spark (buff_Getaway_Reward_SkillMod_Social)" Value="469033" />
+  <Preset Label="buff_Getaway_Reward_Trait_ArtMusic" Value="469034" />
+  <Preset Label="buff_Getaway_Reward_Trait_FoodDrink" Value="469035" />
+  <Preset Label="buff_Getaway_Reward_Trait_KidActvities" Value="469036" />
+  <Preset Label="buff_Getaway_Reward_Trait_Hobbies" Value="469037" />
+  <Preset Label="buff_Getaway_Reward_Trait_Mischief" Value="469038" />
+  <Preset Label="buff_Getaway_Reward_Trait_Outdoor" Value="469039" />
+  <Preset Label="buff_Getaway_Reward_Trait_Social" Value="469040" />
+  <Preset Label="Anybody Up There? (buff_EP20World_FirewatchTower_AnybodyUpThere)" Value="469402" />
+  <Preset Label="buff_Career_ParkWorker_ExpeditionCD_Hidden" Value="469611" />
+  <Preset Label="buff_ChildhoodInspiration_BeATravelerSuggestionDelay" Value="469802" />
+  <Preset Label="buff_Getaway_Reward_Cooldown" Value="469952" />
+  <Preset Label="buff_Getaway_Reward_DecayMod_Bladder" Value="469954" />
+  <Preset Label="buff_Getaway_Reward_DecayMod_Hunger" Value="469955" />
+  <Preset Label="buff_Getaway_Reward_DecayMod_Hygiene" Value="469956" />
+  <Preset Label="buff_Getaway_Reward_DecayMod_Social" Value="469957" />
+  <Preset Label="buff_Getaway_Reward_DecayMod_Fun" Value="469958" />
+  <Preset Label="Nature's Awe (buff_ButterflyCollection_Incubator_View)" Value="470289" />
+  <Preset Label="Missed the Boat (buff_Pools_SwimmingWooHoo_MissedTheBoat)" Value="470308" />
+  <Preset Label="Nautical &amp; Naughty (buff_Pools_SwimmingWooHoo_Naughty)" Value="470309" />
+  <Preset Label="Pen Pals (buff_EP20World_NPCs_PenPals)" Value="470321" />
+  <Preset Label="Big Reveal (buff_EP20World_NPCs_BigReveal)" Value="470322" />
+  <Preset Label="buff_EP20World_NPCs_LaxmiCooldown" Value="470325" />
+  <Preset Label="buff_EP20World_NPCs_SkipCooldown" Value="470326" />
+  <Preset Label="buff_EP20World_NPCs_LighthouseLetterCooldown" Value="470327" />
+  <Preset Label="buff_WorldPOI_InformationCenter_TNSSelected" Value="470367" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_Walkstyle)" Value="471041" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_01)" Value="471042" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_02)" Value="471059" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_03)" Value="471060" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_04)" Value="471061" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_05)" Value="471062" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_06)" Value="471063" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_07)" Value="471064" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_08)" Value="471065" />
+  <Preset Label="Peculiar Paperbird (buff_Papercraft_PaperMache_Mask_Visible)" Value="471087" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_01)" Value="471193" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_02)" Value="471194" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_03)" Value="471195" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_04)" Value="471196" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_05)" Value="471197" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_06)" Value="471198" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_07)" Value="471227" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_08)" Value="471228" />
+  <Preset Label="Cool Story, Sim (buff_EP20Festival_CoolStory)" Value="471332" />
+  <Preset Label="Power in Numbers (buff_Getaway_PowerInNumbers)" Value="471334" />
+  <Preset Label="Not Here to Make Friends (buff_Getaway_NotHeretoMakeFriends)" Value="471335" />
+  <Preset Label="Played and Betrayed (buff_Getaway_PlayedBetrayed)" Value="471336" />
+  <Preset Label="Welcome... If You Dare (buff_Getaway_HostWithMost)" Value="471337" />
+  <Preset Label="Tip, Tip, Hooray! (buff_Getaway_TipTipHooray)" Value="471338" />
+  <Preset Label="Trust the Alliance (buff_Getaway_TrustAlliance)" Value="471339" />
+  <Preset Label="Good Company (buff_Getaway_MoreFunWithFriends)" Value="471340" />
+  <Preset Label="buff_ChildhoodInspiration_ExploreOceanEnergyModifier" Value="471700" />
+  <Preset Label="Still Vibing (buff_Getaway_StillVibing)" Value="472010" />
+  <Preset Label="Still Vibing (buff_Getaway_StillVibing_Large)" Value="472011" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOnly)" Value="472090" />
+  <Preset Label="It Still Stings (buff_Trait_Competitive_Sentiment_Toxic_Primary)" Value="472606" />
+  <Preset Label="Flustered Ego (buff_Trait_Competitive_Sentiment_Toxic_Secondary_01)" Value="472607" />
+  <Preset Label="Hungry for Vengeance! (buff_Trait_Competitive_Sentiment_Toxic_Secondary_02)" Value="472608" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_BeCrafty" Value="472641" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_ShareSiblingAdventures" Value="472642" />
+  <Preset Label="buff_ChildhoodInspiration_RewardTrait_BeASurvivalist" Value="472643" />
+  <Preset Label="Taking Out the Trash (buff_Trait_Competitive_TrashTalk01)" Value="472670" />
+  <Preset Label="Roasted (buff_Trait_Competitive_TrashTalk02)" Value="472671" />
+  <Preset Label="Blurry Background (buff_Career_ParkWorker_BlurryBackground)" Value="472678" />
+  <Preset Label="Runic Buzzing (buff_Career_ParkWorker_RunicBuzzing)" Value="472679" />
+  <Preset Label="Restful Rocks (buff_Career_ParkWorker_RestfulRocks)" Value="472680" />
+  <Preset Label="Deviant Delights (buff_Career_ParkWorker_DeviantDelight)" Value="472681" />
+  <Preset Label="Prepared! (buff_Career_ParkWorker_WorkPrepared_Energized)" Value="472682" />
+  <Preset Label="Prepared! (buff_Career_ParkWorker_WorkPrepared_Focused)" Value="472684" />
+  <Preset Label="&lt;i&gt;Watersliiiiiide!!!&lt;/i&gt; (buff_Object_Waterslide_Positive)" Value="472788" />
+  <Preset Label="Water Slide Wipeout! (buff_Object_Waterslide_SuperFail)" Value="472789" />
+  <Preset Label="I Own a Water Slide! (buff_Object_Waterslide_Purchase)" Value="472792" />
+  <Preset Label="I Hate Papercrafting! (buff_SimPreference_Dislikes_Activities_Papercraft)" Value="472889" />
+  <Preset Label="I Love Papercrafting! (buff_SimPreference_Likes_Activities_Papercraft)" Value="472890" />
+  <Preset Label="buff_SimPreference_Recent_Dislikes_Papercraft" Value="472891" />
+  <Preset Label="buff_SimPreference_Recent_Likes_Papercraft" Value="472892" />
+  <Preset Label="buff_ChildhoodInspiration_OutdoorsEnergyModifier" Value="473557" />
+  <Preset Label="Exercising with Insight (buffs_Mentoree_SpinningBike)" Value="473574" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_CelebrationCard_Adoption_Parent)" Value="473852" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_CelebrationCard_Adoption_Child)" Value="473853" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_ConsolationCard_Death)" Value="473854" />
+  <Preset Label="buff_ChildhoodInspiration_LearnToDiveEnergyModifier" Value="473873" />
+  <Preset Label="Card Crafted and Delivered Successfully! (buff_Papercraft_Celebration_01)" Value="474100" />
+  <Preset Label="Paper Hugs Feel Real (buff_Papercraft_Celebration_02)" Value="474101" />
+  <Preset Label="Tears in the Crease (buff_Papercraft_Celebration_03)" Value="474102" />
+  <Preset Label="Let's Celebrate...Life, I Guess! (buff_Papercraft_Celebration_04)" Value="474103" />
+  <Preset Label="Just Because, I Guess (buff_Papercraft_Celebration_05)" Value="474104" />
+  <Preset Label="Mistimed Masterpiece (buff_Papercraft_Celebration_06)" Value="474105" />
+  <Preset Label="Support, in Card Form (buff_Papercraft_Consolation_01)" Value="474106" />
+  <Preset Label="Paperly, Warm Heart (buff_Papercraft_Consolation_02)" Value="474107" />
+  <Preset Label="Folded Feelings, Unopened (buff_Papercraft_Consolation_03)" Value="474108" />
+  <Preset Label="Awkward, but a Card Nevertheless (buff_Papercraft_Consolation_04)" Value="474109" />
+  <Preset Label="I Think I'm Okay, Thanks? (buff_Papercraft_Consolation_05)" Value="474110" />
+  <Preset Label="Too Much, Too Fast...Or Just Wrong (buff_Papercraft_Consolation_06)" Value="474111" />
+  <Preset Label="Delicious Lean Chocolate! (buff_Blender_Smoothie_EffectBuffs_Slim)" Value="474118" />
+  <Preset Label="&lt;font color='#ff0000'&gt;R&lt;/font&gt;&lt;font color='#E37100'&gt;A&lt;/font&gt;&lt;font color='#CC9F0B'&gt;I&lt;/font&gt;&lt;font color='#008000'&gt;N&lt;/font&gt;&lt;font color='#0000ff'&gt;B&lt;/font&gt;&lt;font color='#4b0082'&gt;O&lt;/font&gt;&lt;font color='#D05BA9'&gt;W&lt;/font&gt; Bliss! (buff_Blender_Smoothie_EffectBuffs_Rainbow)" Value="474119" />
+  <Preset Label="Purge Sequence &lt;b&gt;ACTIVATED&lt;/b&gt; (buff_Blender_Smoothie_EffectBuffs_Purge)" Value="474120" />
+  <Preset Label="Purge Sequence... &lt;i&gt;Success!&lt;/i&gt; (buff_Blender_Smoothie_EffectBuffs_PurgeAftermath)" Value="474121" />
+  <Preset Label="Rainbow Bli-URP (buff_Blender_Smoothie_EffectBuffs_RainbowAftermath)" Value="474215" />
+  <Preset Label="buff_Getaway_Hidden_ModifierRules_Friendship" Value="474554" />
+  <Preset Label="buff_Getaway_Hidden_ModifierRules_Romance" Value="474555" />
+  <Preset Label="Pleasure in the Pool (buff_Pools_SwimmingWooHoo_Poolside)" Value="474715" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_Walkby_01)" Value="474823" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_Walkby_02)" Value="474824" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_Walkby_03)" Value="474825" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_Walkby_04)" Value="474826" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_Walkby_05)" Value="474827" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_Walkby_06)" Value="474828" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_Walkby_07)" Value="474829" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_Walkby_08)" Value="474830" />
+  <Preset Label="Careers (buff_Papercraft_PaperMache_Mask_CASOverride_Child_Walkby_Route)" Value="474833" />
+  <Preset Label="Comfort From an Old Frenemy (buff_EP20_IF_ComfortOldFrienemy)" Value="474868" />
+  <Preset Label="Who Is That Kid Talking To? (buff_EP20_IF_WhoTalkingTo)" Value="474889" />
+  <Preset Label="Who Is That Kid Talking To? (buff_EP20_IF_WhoTalkingTo_Playful)" Value="474892" />
+  <Preset Label="buff_EP20_IF_Hidden_BuddingEvilPersona_Manifestation" Value="475083" />
+  <Preset Label="buff_EP20_IF_Hidden_BadInfluence_StartFire_LetItBurn" Value="475196" />
+  <Preset Label="Mini Menace (buff_EP20_IF_BuddingEvilPersona_Happy)" Value="475202" />
+  <Preset Label="Mini Menace (buff_EP20_IF_BuddingEvilPersona_Playful)" Value="475203" />
+  <Preset Label="buff_ChildhoodInspiration_SuggestedBySeekInspiration" Value="475321" />
+  <Preset Label="buff_EP20_IF_Hidden_IF_Mean_Warning" Value="475535" />
+  <Preset Label="buff_EP20_IF_Hidden_IF_Mean_AutoDespawn" Value="475537" />
+  <Preset Label="buff_EP20_IF_Hidden_Idle_Regular" Value="475541" />
+  <Preset Label="buff_Blender_Smoothie_EffectBuffs_CreateCooldown" Value="475894" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_Cooldown_Rage)" Value="476014" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_Cooldown_GGWP)" Value="476016" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_Cooldown_OverTheTop)" Value="476017" />
+  <Preset Label="Monsterflies (buff_ButterflyCollection_AtriumView_Squeamish)" Value="476021" />
+  <Preset Label="Pinky Promise (buff_EP20_IF_PinkyPromise)" Value="476046" />
+  <Preset Label="buff_Getaway_TipCooldown" Value="476057" />
+  <Preset Label="buff_Getaway_HourlyCounter" Value="476266" />
+  <Preset Label="Friend of Mind (buff_EP20_IF_FriendOfMind)" Value="476593" />
+  <Preset Label="buff_Getaway_Reward_Outdoor_AmIOutside" Value="477156" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_Getaway_SkillContest_ChildSkills)" Value="477372" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_Getaway_SkillContest_CookingCompetition)" Value="477373" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_Getaway_SkillContest_CreativeSkills)" Value="477374" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_Getaway_SkillContest_SurvivalOfTheFittest)" Value="477375" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_Getaway_RelContest_RelationshipFriendship)" Value="477385" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_Getaway_RelContest_RelationshipRomance)" Value="477386" />
+  <Preset Label="Tattered Ties (buff_EP20_IF_TatteredTies)" Value="477560" />
+  <Preset Label="buff_EP20_IF_Hidden_CheerOn_Inprogress" Value="478562" />
+  <Preset Label="buff_EP20_IF_Hidden_CheerOn_Ended" Value="478563" />
+  <Preset Label="Cheered On! (buff_EP20_IF_CheerOn_Confident)" Value="478565" />
+  <Preset Label="buff_Getaway_Hidden_ActivityCategory_HomeActivities" Value="478658" />
+  <Preset Label="Adventure Awaits! (buff_Getaway_Hidden_ActivityCategory_Outdoor)" Value="478659" />
+  <Preset Label="buff_Getaway_Reward_DecayMod_Outdoor" Value="478874" />
+  <Preset Label="buff_EP20_IF_PropellerVFX_AU" Value="478921" />
+  <Preset Label="buff_EP20_IF_PropellerVFX_CU" Value="478923" />
+  <Preset Label="buff_Getaway_Hidden_ActivityCategory_FoodAndDrink" Value="479519" />
+  <Preset Label="buff_Getaway_Hidden_ActivityCategory_Social" Value="479520" />
+  <Preset Label="buff_Getaway_GuestHappiness_Enthuse_HighMotives" Value="481518" />
+  <Preset Label="buff_Getaway_GuestHappiness_Enthuse_HighRel" Value="481519" />
+  <Preset Label="Happy Guests! (buff_Getaway_GuestHappiness_Host_HappyGuests)" Value="481520" />
+  <Preset Label="Unhappy Guests (buff_Getaway_GuestHappiness_Host_UnhappyGuests)" Value="481521" />
+  <Preset Label="buff_Getaway_GuestHappiness_Complain_Motives" Value="481522" />
+  <Preset Label="buff_Getaway_GuestHappiness_WillTip" Value="481523" />
+  <Preset Label="buff_Getaway_GuestHappiness_Complain_Rel" Value="481528" />
+  <Preset Label="buff_Getaway_GuestHappiness_Complain_StillUpsetLeave" Value="481534" />
+  <Preset Label="buff_Getaway_Hidden_ActivityBuffs_ServeMeal" Value="481904" />
+  <Preset Label="buff_Getaway_Hidden_ActivityBuffs_Eat" Value="481912" />
+  <Preset Label="Ruler of the Deep (buff_Pools_SwimmingWooHoo_Mermaid)" Value="482434" />
+  <Preset Label="Getaway Sparks Are Flying! (buff_Getaway_Hidden_ActivityBuffs_Flirty)" Value="482528" />
+  <Preset Label="buff_EP20_Asp_Hidden_RaiseButterfly" Value="482529" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_ConsolationCard_BreakUp)" Value="482699" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_ConsolationCard_JobLoss)" Value="482703" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_ConsolationCard_Demotion)" Value="482706" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_CelebrationCard_Birthday)" Value="482738" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_CelebrationCard_Wedding)" Value="482741" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_CelebrationCard_HadBaby)" Value="482744" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_CelebrationCard_Graduation)" Value="482746" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_CelebrationCard_Promotion)" Value="482758" />
+  <Preset Label="Romance Is in the Air (buff_Getaway_Hidden_ActivityBuffs_Romantic)" Value="482807" />
+  <Preset Label="buff_ChildhoodInspiration_SwimTeamEnergyModifier" Value="482879" />
+  <Preset Label="I Hate Entomology! (buff_SimPreference_Dislikes_Activities_Entomology)" Value="483088" />
+  <Preset Label="I Love Entomology! (buff_SimPreference_Likes_Activities_Entomology)" Value="483089" />
+  <Preset Label="buff_SimPreference_Recent_Dislikes_Entomology" Value="483090" />
+  <Preset Label="buff_SimPreference_Recent_Likes_Entomology" Value="483091" />
+  <Preset Label="buff_EP20_Asp_Hidden_WinCompetitiveGame" Value="483222" />
+  <Preset Label="buff_ButterflyCollection_Catch_AutonomousOnly_Cooldown" Value="483553" />
+  <Preset Label="buff_EP20_Asp_Hidden_NoInitialBalloon_Fish" Value="483601" />
+  <Preset Label="buff_EP20_Asp_Hidden_NoInitialBalloon_Butterfly" Value="483602" />
+  <Preset Label="Wannabe (buff_EP20_Asp_Wannabe_Related)" Value="483603" />
+  <Preset Label="buff_HideAndSeek_Autonomy_Cooldown" Value="483796" />
+  <Preset Label="buff_Getaway_EliminationCandidate" Value="483862" />
+  <Preset Label="buff_EP20_Asp_Hidden_FishTogether_Check" Value="484111" />
+  <Preset Label="buff_Getaway_Hidden_ModifierRules_PlayerChoice" Value="484240" />
+  <Preset Label="buff_Getaway_Hidden_ModifierRules_ActivityShuffle" Value="484241" />
+  <Preset Label="buff_Situation_SpinningClass_PushHolder" Value="484372" />
+  <Preset Label="Lava Blast (buff_WorldPOI_Geyser_ScaredFromLavaGeyser)" Value="484526" />
+  <Preset Label="Blender Blunder (buff_Blender_Smoothie_EffectBuffs_Fail)" Value="484542" />
+  <Preset Label="S.W.E.A.T. (buff_Trait_Competitive_SWEAT_Alt)" Value="484677" />
+  <Preset Label="buff_EP20_Asp_Hidden_RPS_WinTracker" Value="484696" />
+  <Preset Label="buff_Getaway_Hidden_ActivityBuffs_Roar" Value="484706" />
+  <Preset Label="buff_Getaway_Hidden_ActivityBuffs_UseAlienPowers" Value="484707" />
+  <Preset Label="buff_Getaway_Hidden_ActivityBuffs_Teen_Prank" Value="484708" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_Cooldown_ContainRage)" Value="484884" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_PaperMache_Mask_AutonomousScareCooldown)" Value="484939" />
+  <Preset Label="buff_Getaway_Hidden_ActivityBuffs_ViewCollectibles" Value="484948" />
+  <Preset Label="buff_EP20_IF_Hidden_LilMonster_VFX" Value="484998" />
+  <Preset Label="buff_EP20Festival_ArcheryContest_Cooldown" Value="485006" />
+  <Preset Label="buff_Situation_EP20Festival_Autonomy_RoundTheFire_Guitar" Value="485170" />
+  <Preset Label="Refreshed from Getaway (buff_Getaway_Visible_MorningRefresh)" Value="485188" />
+  <Preset Label="buff_Getaway_Hidden_Cooldown_HotTub" Value="485230" />
+  <Preset Label="buff_Getaway_Hidden_ActivityCategory_HomeActivities_SelfCare" Value="485244" />
+  <Preset Label="buff_EP20_IF_Hidden_IF_Mean_AutoDespawn_Child" Value="485412" />
+  <Preset Label="buff_EP20_IF_Hidden_TemporaryPrevent" Value="485413" />
+  <Preset Label="buff_EP20_IF_Hidden_TemporaryPrevent_MovingOn" Value="485414" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_Cooldown_TipsSuccess)" Value="485624" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_InspireSpectating)" Value="485627" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_CelebrationCard_Engagement)" Value="485628" />
+  <Preset Label="buff_EP20_IF_Hidden_SayGoodByeForever_Check" Value="485763" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_CootieCatcher_Cooldown_Ask)" Value="485805" />
+  <Preset Label="Careers (buff_Papercraft_Hidden_CootieCatcher_Cooldown_Offer)" Value="485806" />
+  <Preset Label="buff_ClubPerks_SkillBoost_AdultMinor_DivingBoard" Value="486297" />
+  <Preset Label="buff_ClubPerks_SkillBoost_AdultMajor_Papercraft" Value="486309" />
+  <Preset Label="buff_ClubPerks_SkillBoost_AdultMinor_Entomology" Value="486310" />
+  <Preset Label="buff_ClubPerks_SkillBoost_AdultMinor_Archery" Value="486337" />
+  <Preset Label="buff_Getaway_Hidden_ActivityCategory_HomeActivities_Sleep" Value="486360" />
+  <Preset Label="buff_ModularPlayground_Cooldown_Fence" Value="486584" />
+  <Preset Label="buff_ModularPlayground_Cooldown_Slide" Value="486585" />
+  <Preset Label="buff_ModularPlayground_Cooldown_Tunnel" Value="486586" />
+  <Preset Label="buff_ModularPlayground_Cooldown_Puzzle" Value="486587" />
+  <Preset Label="buff_ModularPlayground_Cooldown_Bubble" Value="486588" />
+  <Preset Label="buff_Hidden_SkillLocks" Value="486593" />
+  <Preset Label="buff_ModularPlayground_Cooldown_Idle" Value="486721" />
+  <Preset Label="buff_Getaway_Hidden_ActivityBuffs_Mentoring" Value="487343" />
+  <Preset Label="buff_Getaway_Hidden_ActivityBuffs_MentorFitness" Value="487344" />
+  <Preset Label="buff_Situation_SpinningClass_HiredInstructor_Autonomy" Value="487690" />
+  <Preset Label="buff_EP20_IF_Hidden_Autospawn_CD" Value="487792" />
+  <Preset Label="buff_EP20World_JellyfishHat_VFX" Value="487999" />
+  <Preset Label="buff_EP20_IF_Hidden_GoodFriends" Value="488113" />
+  <Preset Label="buff_EP20_IF_Hidden_Friends" Value="488114" />
+  <Preset Label="buff_Getaway_Hidden_Activity_SnowSportsSlope" Value="488138" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_Loss_ReactionBuffer)" Value="488287" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_Win_ReactionBuffer)" Value="488376" />
+  <Preset Label="buff_Getaway_Hidden_RecentlyEliminated" Value="488902" />
+  <Preset Label="buff_ButterflyCollection_Hidden_IncubatorView_Cooldown" Value="489555" />
+  <Preset Label="buff_Getaway_Hidden_ActivityBuffs_CareForChildren" Value="489574" />
+  <Preset Label="buff_Getaway_Hidden_FireDance_Cooldown" Value="490155" />
+  <Preset Label="buff_Temperature_Immune_To_Temperature_InEP20World" Value="490237" />
+  <Preset Label="Careers (buff_Trait_Competitive_Hidden_Cooldown_SWEAT)" Value="490558" />
+  <Preset Label="buff_Getaway_Hidden_RecentlyStarted" Value="490982" />
+  <Preset Label="buff_Getaway_Hidden_ActivityCategory_Social_Mean" Value="490983" />
+  <Preset Label="buff_Getaway_Hidden_Cooldown_PushupOrSitup" Value="490985" />
+  <Preset Label="buff_Getaway_Hidden_ActivityCategory_Social_Friendly" Value="491003" />
+  <Preset Label="buff_Getaway_Hidden_ActivityCategory_FoodAndDrink_TendBar" Value="491005" />
+  <Preset Label="buff_Getaway_Hidden_ActivityCategory_FoodAndDrink_TendEspressoBar" Value="491006" />
+  <Preset Label="buff_Getaway_Hidden_Cooldown_Stretching" Value="491158" />
+  <Preset Label="Adventure Awaits! (buff_Getaway_Hidden_ActivityCategory_Outdoor_Campfire)" Value="491468" />
+  <Preset Label="buff_Getaway_Hidden_ActivityCategory_FoodAndDrink_Meal" Value="491474" />
+  <Preset Label="buff_Getaway_Hidden_ActivityCategory_FoodAndDrink_DontCook_Temporary" Value="491475" />
+</PresetGroup>

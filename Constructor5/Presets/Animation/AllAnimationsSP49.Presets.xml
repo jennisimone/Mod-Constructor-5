@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Animations SP49">
+  <Preset Label="showOffJewelry_ShowArm" Value="354553" />
+  <Preset Label="showOffJewelry_ShowUpperBody" Value="354554" />
+  <Preset Label="gemologyTable_CutGemstone_Cut" Value="354936" />
+  <Preset Label="gemologyTable_CutGemstone_Collect" Value="354937" />
+  <Preset Label="gemologyTable_CutGemstone_Discard" Value="354938" />
+  <Preset Label="gemologyTable_CutGemstone_Examine" Value="354939" />
+  <Preset Label="gemologyTable_CraftJewelry_Craft" Value="355310" />
+  <Preset Label="gemologyTable_CraftJewelry_HammerFail" Value="355311" />
+  <Preset Label="gemologyTable_CraftJewelry_Collect" Value="355312" />
+  <Preset Label="gemologyTable_CraftJewelry_Discard" Value="355313" />
+  <Preset Label="gemologyTable_CraftJewelry_Examine" Value="355314" />
+  <Preset Label="gemologyTable_CraftJewelry_Hammer" Value="355315" />
+  <Preset Label="gemologyTable_CraftJewelry_Measure" Value="355317" />
+  <Preset Label="gemologyTable_CraftJewelry_Solder" Value="355318" />
+  <Preset Label="discussCrystals_Succeed" Value="355363" />
+  <Preset Label="discussCrystals_Fail" Value="355364" />
+  <Preset Label="socials_Propose_Gemology_Succeed" Value="355366" />
+  <Preset Label="socials_Propose_Gemology_Fail" Value="355367" />
+  <Preset Label="socials_Propose_Gemology_FailAngry" Value="355368" />
+  <Preset Label="showOffJewelry_ShowUpperBody_Flipped" Value="356916" />
+  <Preset Label="showOffJewelry_ShowArm_Flipped" Value="356917" />
+  <Preset Label="giftCrafted_GiveGift" Value="356919" />
+  <Preset Label="gemologyTable_CraftJewelry_CraftFail" Value="356950" />
+  <Preset Label="gemologyTable_CraftedObject_Jet_SummonGrimReaper" Value="356963" />
+  <Preset Label="gemologyTable_CraftJewelry_React" Value="357083" />
+  <Preset Label="gemologyTable_CraftedObject_AbsorbEnergy" Value="358735" />
+  <Preset Label="gemologyTable_CutGemstone_CutExit" Value="360755" />
+</PresetGroup>

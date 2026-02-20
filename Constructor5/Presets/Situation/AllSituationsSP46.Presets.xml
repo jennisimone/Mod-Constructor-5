@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Situations SP46">
+  <Preset Label="Food Sale (Situation_StreetFoodTable_FoodSale)" Value="334544" />
+  <Preset Label="Food Sale (Situation_StreetFoodTable_FoodSale_OpenStreet)" Value="334545" />
+  <Preset Label="Situation_StreetFoodTable_FoodSaleCustomer" Value="334547" />
+  <Preset Label="situation_StreetFoodTable_FoodSaleCustomer_OpenStreet" Value="334548" />
+  <Preset Label="Food Sale (situation_StreetFoodTable_FoodSale_Indoors)" Value="350779" />
+  <Preset Label="Situation_StreetFoodTable_FoodSaleCustomer_Indoors" Value="351229" />
+</PresetGroup>

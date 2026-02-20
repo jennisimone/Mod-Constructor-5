@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Social Interactions EP20">
+  <Preset Label="Ask to Play Hide and Seek (mixer_social_HideAndSeek_AskToPlay)" Tags="TestUnsafe" Value="444258" />
+  <Preset Label="I Was Such a Llamahead! (socialSuperInteraction_ChildhoodSentiment_SuchALlamahead)" Tags="TestUnsafe" Value="449219" />
+  <Preset Label="Wish We Were Better Friends (socialSuperInteraction_ChildhoodSentiment_WishWeWereBetterFriends)" Tags="TestUnsafe" Value="449220" />
+  <Preset Label="Reveal Childhood Grudge (socialSuperInteraction_ChildhoodSentiment_RevealChildhoodGrudge)" Tags="TestUnsafe" Value="449221" />
+  <Preset Label="What Was Your Name Again? (socialSuperInteraction_ChildhoodSentiment_WhatWasYourNameAgain)" Tags="TestUnsafe" Value="449222" />
+  <Preset Label="Talk about Old Times (socialSuperInteraction_ChildhoodSentiment_TalkAboutOldTimes)" Tags="TestUnsafe" Value="449223" />
+  <Preset Label="Flutter Kiss (mixer_social_EP20_Asp_FlutterKiss_targeted_romance_middleScore)" Tags="TestUnsafe" Value="454705" />
+  <Preset Label="Enthuse about Critters (mixer_social_EnthuseAboutOutdoorCritters_targeted_friendly)" Tags="TestUnsafe" Value="454907" />
+  <Preset Label="Flutter Eyes (mixer_EP20_Asp_social_FlutterEyes_targeted_romance_alwaysOn)" Tags="TestUnsafe" Value="454989" />
+  <Preset Label="Cocoon Hug (mixer_social_EP20_Asp_CocoonHug_targeted_romance_middleScore_STC)" Tags="TestUnsafe" Value="454990" />
+  <Preset Label="Brag about Being Cool (mixer_socials_EP20_Asp_BragAbout_BeingCool)" Tags="TestUnsafe" Value="455004" />
+  <Preset Label="Brag about Collectible Collection (mixer_socials_EP20_Asp_BragAbout_Collection)" Tags="TestUnsafe" Value="455005" />
+  <Preset Label="Praise Coolest Kid (mixer_social_EP20_Asp_PraiseCoolKid)" Tags="TestUnsafe" Value="455006" />
+  <Preset Label="Complain about Getaway (mixer_social_Getaway_ComplainAboutGetaway)" Tags="TestUnsafe" Value="457479" />
+  <Preset Label="Enthuse about Getaway (mixer_Social_Getaway_EnthuseAboutGetaway)" Tags="TestUnsafe" Value="457480" />
+  <Preset Label="Gossip about Other Guests (mixer_Social_Getaway_GossipAboutGuests)" Tags="TestUnsafe" Value="457481" />
+  <Preset Label="Spread Mean Rumors about Other Guests (mixer_Social_Mean_Getaway_SpreadMeanRumors)" Tags="TestUnsafe" Value="457482" />
+  <Preset Label="Ask about Collectable Trading (mixer_social_CollectableTrading_AskAboutTrading)" Tags="TestUnsafe" Value="458405" />
+  <Preset Label="Ask about Gibbi Point (socials_Targeted_Friendly_AlwaysOn_STC_EP20World_WelcomeWagon)" Tags="TestUnsafe" Value="458831" />
+  <Preset Label="Tell Park Myths (mixer_Socials_Friendly_ParkWorker_TellMyths)" Tags="TestUnsafe" Value="461237" />
+  <Preset Label="Conflict Resolution (mixer_Socials_Friendly_ParkWorker_ConflictResolution)" Tags="TestUnsafe" Value="461238" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_SportsOutdoorActivity)" Tags="TestUnsafe" Value="462416" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_CompetitiveGame)" Tags="TestUnsafe" Value="462462" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_TabletopGame)" Tags="TestUnsafe" Value="462463" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_Playground)" Tags="TestUnsafe" Value="462467" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_ArtCraft)" Tags="TestUnsafe" Value="462469" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_Music)" Tags="TestUnsafe" Value="462505" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_Play)" Tags="TestUnsafe" Value="462507" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_PuddlePlay)" Tags="TestUnsafe" Value="462510" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_PuddlePlay_Evil)" Tags="TestUnsafe" Value="462511" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_TabletopGame_Goofball)" Tags="TestUnsafe" Value="462553" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_Evil_Tier1)" Tags="TestUnsafe" Value="462554" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_Evil_Tier2)" Tags="TestUnsafe" Value="462556" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_Evil_Tier3)" Tags="TestUnsafe" Value="462557" />
+  <Preset Label="Deny Having an Imaginary Friend (socials_Targeted_Friendly_AlwaysOn_SmallTalk_EP20_IF_Deny)" Tags="TestUnsafe" Value="462608" />
+  <Preset Label="Talk about Imaginary Friend (socials_Targeted_Friendly_AlwaysOn_SmallTalk_EP20_IF_TalkAbout)" Tags="TestUnsafe" Value="462609" />
+  <Preset Label="Learn about Gibbi Point Landmarks (socials_Targeted_Friendly_AlwaysOn_STC_EP20World_AskAboutWorld)" Tags="TestUnsafe" Value="463042" />
+  <Preset Label="Denounce Archery (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_Archery)" Tags="TestUnsafe" Value="464674" />
+  <Preset Label="Enthuse about Archery (socials_Targeted_Friendly_SimPreference_Recent_Likes_Archery)" Tags="TestUnsafe" Value="464675" />
+  <Preset Label="Complain about Diving (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_DivingBoard)" Tags="TestUnsafe" Value="465150" />
+  <Preset Label="Enthuse about Diving (socials_Targeted_Friendly_SimPreference_Recent_Likes_DivingBoard)" Tags="TestUnsafe" Value="465151" />
+  <Preset Label="Ask about Jellyfish Collecting (mixer_social_WorldPOI_InformationCenter_BuddyScoop_AskAboutJellyfishCollecting)" Tags="TestUnsafe" Value="469943" />
+  <Preset Label="Ask about Crystal Collecting (mixer_social_WorldPOI_InformationCenter_BuddyScoop_AskAboutCrystalCollecting)" Tags="TestUnsafe" Value="469944" />
+  <Preset Label="WooHoo in Water (mixer_Social_SwimmingWooHoo_targeted_romance_transition_OnLand)" Tags="TestUnsafe" Value="470340" />
+  <Preset Label="WooHoo in Water (mixer_Social_SwimmingWooHoo_targeted_romance_transition_InWater)" Tags="TestUnsafe" Value="470341" />
+  <Preset Label="WooHoo in Water (mixer_Social_SwimmingWooHoo_targeted_romance_transition_Social)" Tags="TestUnsafe" Value="470749" />
+  <Preset Label="Complain about Papercraft (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_Papercraft)" Tags="TestUnsafe" Value="472895" />
+  <Preset Label="Enthuse about Papercrafting (socials_Targeted_Friendly_SimPreference_Recent_Likes_Papercraft)" Tags="TestUnsafe" Value="472896" />
+  <Preset Label="Try for Baby (mixer_Social_TryForBabyAsk_SwimmingWooHoo_InWater)" Tags="TestUnsafe" Value="473410" />
+  <Preset Label="Try for Baby (mixer_Social_TryForBabyAsk_SwimmingWooHoo_OnLand)" Tags="TestUnsafe" Value="473411" />
+  <Preset Label="Try for Baby (mixer_Social_TryForBabyAsk_SwimmingWooHoo_Social)" Tags="TestUnsafe" Value="473412" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Unpaid_Fitness_SpinningBike)" Tags="TestUnsafe" Value="473570" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Paid_Fitness_SpinningBike)" Tags="TestUnsafe" Value="473571" />
+  <Preset Label="Ask for Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_AskFor_Fitness_SpinningBike)" Tags="TestUnsafe" Value="473572" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_Evil_Tier3_StartFire)" Tags="TestUnsafe" Value="474905" />
+  <Preset Label="mixer_EP20Festivals_RoundTheFire_Listen" Tags="TestUnsafe" Value="475627" />
+  <Preset Label="mixer_EP20Festivals_RoundTheFire_Listen_Reactions" Tags="TestUnsafe" Value="475628" />
+  <Preset Label="mixer_EP20Festivals_RoundTheFire_Story" Tags="TestUnsafe" Value="475630" />
+  <Preset Label="Ask about Romantic Getaway (socials_Targeted_Friendly_AlwaysOn_STC_AskAboutRomanticGetaway)" Tags="TestUnsafe" Value="481730" />
+  <Preset Label="Complain about Entomology (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_Entomology)" Tags="TestUnsafe" Value="483094" />
+  <Preset Label="Enthuse about Entomology (socials_Targeted_Friendly_SimPreference_Recent_Likes_Entomology)" Tags="TestUnsafe" Value="483099" />
+  <Preset Label="Play Make Believe (mixer_social_MakeBelieve_targeted_friendly_alwaysOn_child_EP20_IF)" Tags="TestUnsafe" Value="484221" />
+  <Preset Label="Ask to Teach How to Start Fires (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_AskStartFire)" Tags="TestUnsafe" Value="484382" />
+</PresetGroup>

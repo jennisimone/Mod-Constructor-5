@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Commodities EP21">
+  <Preset Label="commodity_CareerBenefit_Noble" Value="463274" />
+  <Preset Label="commodity_NobleCareer_NobleMailDelivery" Value="463827" />
+  <Preset Label="commodity_Dynasty_MarketFundTimer" Value="465470" />
+  <Preset Label="commodity_ScandalSecret_stealingSecretTotalValueScore" Value="469140" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_socialServicesTookChild" Value="474409" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_woohooInPublic" Value="474410" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_woohooWithStaff" Value="474411" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_stealing" Value="474412" />
+  <Preset Label="commodity_Dynasty_Encourage_IdealAdherence" Value="475043" />
+  <Preset Label="commodity_Dynasty_Discourage_IdealAdherence" Value="475044" />
+  <Preset Label="commodity_Dynasty_Encourage_BuildSkills" Value="475045" />
+  <Preset Label="commodity_Buff_Ghost_SecretPassageway" Value="475508" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_Minor_romanceGrim" Value="478383" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_Minor_romanceClown" Value="478384" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_Minor_romanceBurglar" Value="479133" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_Medium_useVoodooDoll" Value="479138" />
+  <Preset Label="commodity_ScandalSecret_useVoodooDollSecretTotalValueScore" Value="479727" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_swordDuelLoss" Value="479904" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_Medium_cheating" Value="479951" />
+  <Preset Label="commodity_NobleCareer_KingdomTaxFavorGain" Value="482620" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_Minor_ballroom" Value="482728" />
+  <Preset Label="commodity_NobleCareer_Decree_Cooldown" Value="483171" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_bladderfail" Value="485774" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_suspiciousCircumstances" Value="486004" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_forgeFamilyTree" Value="486461" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_SecretLovers" Value="487714" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_Dynasty_ForbiddenFriends" Value="487752" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_Dynasty_ForbiddenRomance" Value="487756" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_isInfoBroker" Value="488011" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_PowerShifts_KissedFrog" Value="488012" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_EP21World_MaraAcosta" Value="488338" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_hasSecretChild" Value="488679" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_Minor_romanceFatherWinter" Value="488758" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_leftTheAltar" Value="489035" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_Medium_unfairFairy" Value="489705" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_Medium_bloodSucker" Value="489803" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_Minor_vandalizedMonument" Value="489941" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_forgedBreakup" Value="490104" />
+  <Preset Label="commodity_ScandalSecret_ScandalTimer_Medium_badDogNoBiscuit" Value="490787" />
+  <Preset Label="commodity_PowerShifts_SpiderWell_TrialTracker" Value="496691" />
+  <Preset Label="commodity_Generic_DestroyObject_Timer_TreasureChests" Value="500684" />
+</PresetGroup>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objectives SP22">
+  <Preset Label="Leave Out Food to Spoil (objectives_Asp_FilthyFabulous_Level1_1)" Value="256790" />
+  <Preset Label="Let 3 Kitchen or Bathroom Objects Get Dirty (objectives_Asp_FilthyFabulous_Level1_2)" Value="256791" />
+  <Preset Label="Let At Least One Floor Level of your Home Become Dirty (objectives_Asp_FilthyFabulous_Level1_3)" Value="256792" />
+  <Preset Label="Max Out {0.SimFirstName}'s Fun Motive While on a Dusty, Dirty, or Filthy Floor (objectives_Asp_FilthyFabulous_Level1_4)" Value="256793" />
+  <Preset Label="Successfully Ask 3 Sims to Clean (objectives_Asp_FilthyFabulous_Level2_1)" Value="256795" />
+  <Preset Label="Befriend a Dust Bunny (objectives_Asp_FilthyFabulous_Level2_2)" Value="256796" />
+  <Preset Label="Cook 3 Meals on a Dirty or Filthy Floor Level (objectives_Asp_FilthyFabulous_Level2_3)" Value="256797" />
+  <Preset Label="Pay for a Cleaning Service (objectives_Asp_FilthyFabulous_Level2_4)" Value="256798" />
+  <Preset Label="Let a floor level get filthy (objectives_Asp_FilthyFabulous_Level3_1)" Value="256800" />
+  <Preset Label="Eat 3 Meals that are Spoiled (objectives_Asp_FilthyFabulous_Level3_2)" Value="256801" />
+  <Preset Label="Bathe or Shower 3 Times in a Dirty Shower or Tub (objectives_Asp_FilthyFabulous_Level3_3)" Value="256802" />
+  <Preset Label="Don't Wash Your Hands After Using the Toilet (objectives_Asp_FilthyFabulous_Level3_4)" Value="256803" />
+  <Preset Label="Invite a Guest Over while House is Dirty or Filthy. (objectives_Asp_FilthyFabulous_Level3_5)" Value="256804" />
+  <Preset Label="Knock Over 3 Trash Cans (objectives_Asp_FilthyFabulous_Level4_1)" Value="256806" />
+  <Preset Label="Throw a Party Social Event in a Filthy House (objectives_Asp_FilthyFabulous_Level4_2)" Value="256807" />
+  <Preset Label="Appease a Filth Fiend with a Filth Tribute (objectives_Asp_FilthyFabulous_Level4_3)" Value="256808" />
+  <Preset Label="WooHoo in a Filthy House (objectives_Asp_FilthyFabulous_Level4_4)" Value="256809" />
+  <Preset Label="Become Very Happy (+3 or higher) on a Filthy Floor (objectives_Asp_FilthyFabulous_Level4_5)" Value="256810" />
+  <Preset Label="Clean 3 Kitchen or Bathroom Objects (objectives_Asp_PerfectlyPristine_Level1_1)" Value="256813" />
+  <Preset Label="Vacuum for 3 hours (objectives_Asp_PerfectlyPristine_Level1_2)" Value="256814" />
+  <Preset Label="Wash 3 Dishes (objectives_Asp_PerfectlyPristine_Level1_3)" Value="256815" />
+  <Preset Label="Empty the Trash (objectives_Asp_PerfectlyPristine_Level1_4)" Value="256816" />
+  <Preset Label="Clean Up 5 Messes  (objectives_Asp_PerfectlyPristine_Level2_1)" Value="256818" />
+  <Preset Label="Wash Hands After Toilet Use (objectives_Asp_PerfectlyPristine_Level2_2)" Value="256819" />
+  <Preset Label="Show Off Your Clean House to Guests (objectives_Asp_PerfectlyPristine_Level2_3)" Value="256820" />
+  <Preset Label="Earn the Moodlet &quot;Perfectionist Zeal +4&quot; (objectives_Asp_PerfectlyPristine_Level2_4)" Value="256821" />
+  <Preset Label="Purchase a Handheld and Upright Vacuum (objectives_Asp_PerfectlyPristine_Level3_1)" Value="256823" />
+  <Preset Label="Destroy 3 Dust Bunnies or Filth Fiends with Vacuum Cleaner (objectives_Asp_PerfectlyPristine_Level3_2)" Value="256824" />
+  <Preset Label="Destroy 5 Messy or Dust Pile Objects with Vacuum Cleaner (objectives_Asp_PerfectlyPristine_Level3_3)" Value="256825" />
+  <Preset Label="Perform 2 Upgrades on a Vacuum Cleaner (objectives_Asp_PerfectlyPristine_Level3_4)" Value="256826" />
+  <Preset Label="Choose a Favorite Vacuum Cleaner (objectives_Asp_PerfectlyPristine_Level3_5)" Value="256827" />
+  <Preset Label="Throw a Party Social Event in a Clean House (objectives_Asp_PerfectlyPristine_Level4_1)" Value="256829" />
+  <Preset Label="Clean for 5 hours in a Happy, Confident, Inspired, or Focused Mood (objectives_Asp_PerfectlyPristine_Level4_2)" Value="256830" />
+  <Preset Label="Successfully Ask or Demand that Other Sims Clean 3 times (objectives_Asp_PerfectlyPristine_Level4_3)" Value="256831" />
+  <Preset Label="Hire a Housekeeping Service 2 times (objectives_Asp_PerfectlyPristine_Level4_4)" Value="256832" />
+  <Preset Label="Install 3 Self-Cleaning and Unbreakable Upgrades (objectives_Asp_PerfectlyPristine_Level4_5)" Value="256833" />
+  <Preset Label="Location_FilthyFabulous" Value="256840" />
+  <Preset Label="Location_PerfectlyPristine" Value="256841" />
+</PresetGroup>

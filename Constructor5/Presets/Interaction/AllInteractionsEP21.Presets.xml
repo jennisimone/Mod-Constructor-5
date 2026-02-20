@@ -1,0 +1,696 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interactions EP21">
+  <Preset Label="Duelling (social_Swordsmanship_Duel_Fun)" Value="449375" />
+  <Preset Label="Duel for Fun (social_Swordsmanship_AskForDuel_Fun)" Value="449381" />
+  <Preset Label="swordsmanship_Duel_Mixers_Back" Value="449397" />
+  <Preset Label="swordsmanship_Duel_Mixers_Center" Value="449399" />
+  <Preset Label="swordsmanship_Duel_Mixers_Forward" Value="449403" />
+  <Preset Label="Listen to {1.SimFirstName}'s Question (social_Swordsmanship_AskForDuel_Listen)" Value="449474" />
+  <Preset Label="Start the Grand Waltz (ballroomDancing_PairedGroup_Large_StartSituation)" Value="450106" />
+  <Preset Label="Waltz Together (social_BallroomDancing)" Value="450325" />
+  <Preset Label="Entering {1.ObjectName} (secretPassageway_TravelThrough_PartA)" Value="451201" />
+  <Preset Label="Exiting {1.ObjectName} (secretPassageway_TravelThrough_PartB)" Value="451202" />
+  <Preset Label="Waltz Together (social_BallroomDancing_Start)" Value="452201" />
+  <Preset Label="mixer_BallroomDancing_Center" Tags="TestUnsafe" Value="452740" />
+  <Preset Label="mixer_BallroomDancing_Left" Tags="TestUnsafe" Value="452744" />
+  <Preset Label="mixer_BallroomDancing_Right" Tags="TestUnsafe" Value="452745" />
+  <Preset Label="ballroomDancing_PairedDancing_jigPartConstraintInteraction" Value="458751" />
+  <Preset Label="Duelling (social_Swordsmanship_Duel_Simoleons)" Value="460108" />
+  <Preset Label="Duelling (social_Swordsmanship_Duel_CareerPromotion)" Value="460109" />
+  <Preset Label="Duelling (social_Swordsmanship_Duel_SimHeart)" Value="460110" />
+  <Preset Label="Duel for Career Promotion (social_Swordsmanship_AskForDuel_CareerPromotion)" Value="460114" />
+  <Preset Label="Duel for Simoleons (social_Swordsmanship_AskForDuel_Simoleons)" Value="460119" />
+  <Preset Label="Set {1.ObjectName} as Preferred Sword (swords_ToggleFavorite)" Value="460127" />
+  <Preset Label="mixer_BallroomDancing_LeftFromRight" Tags="TestUnsafe" Value="464010" />
+  <Preset Label="Check Account Activity (computer_Dynasty_MarketFund_CheckReport)" Value="465481" />
+  <Preset Label="Low (computer_Dynasty_MarketFund_SetRisk_Low)" Value="465645" />
+  <Preset Label="Medium (computer_Dynasty_MarketFund_SetRisk_Med)" Value="465646" />
+  <Preset Label="High (computer_Dynasty_MarketFund_SetRisk_High)" Value="465647" />
+  <Preset Label="Make Deposit (computer_Dynasty_MarketFund_InputAdd)" Value="465655" />
+  <Preset Label="Make Withdrawal (computer_Dynasty_MarketFund_InputMinus)" Value="465656" />
+  <Preset Label="Close Account (computer_Dynasty_MarketFund_CloseAccount)" Value="465657" />
+  <Preset Label="Open Investment Account (computer_Dynasty_MarketFund_OpenAccount)" Value="465699" />
+  <Preset Label="Manipulate Market (computer_Dynasty_MarketFund_Manipulate)" Value="465701" />
+  <Preset Label="immediate_Dynasty_MarketFund_ReportAll" Value="465880" />
+  <Preset Label="Hire Tutor (phone_HireTutorService)" Value="466125" />
+  <Preset Label="Wait for Work (serviceNpc_WaitForWork_Tutor)" Value="466130" />
+  <Preset Label="tutorService_AskToDoHomework" Value="466254" />
+  <Preset Label="Ask Blacksmith to Craft a Sword (sword_StartCrafting_Blacksmith)" Value="466320" />
+  <Preset Label="Ask Blacksmith to Craft a Sword (object_EP21World_Shell_Blacksmith_StartOrder)" Value="466325" />
+  <Preset Label="sword_CreateObject_Blacksmith" Value="466327" />
+  <Preset Label="Cancel Tutor Service (phone_CancelTutorService)" Value="466398" />
+  <Preset Label="serviceNpc_noMoreWork_Tutor" Value="466418" />
+  <Preset Label="Request Noble Mail (phone_NobleCareer_RequestNobleMail)" Value="466598" />
+  <Preset Label="Hire Upgrade Technician (phone_HireUpgradeService)" Value="466671" />
+  <Preset Label="Cancel Upgrade Service (phone_CancelUpgradeService)" Value="466672" />
+  <Preset Label="Practice Swordsmanship (swordTrainingDummy_Train)" Value="466834" />
+  <Preset Label="Search for Scandals (rummage_Indoor_ScandalSecret_Investigate)" Value="466929" />
+  <Preset Label="Search for Scandals (rummage_Outdoor_ScandalSecret_Investigate)" Value="466932" />
+  <Preset Label="upgradeService_Arrive" Value="466951" />
+  <Preset Label="Set Favor to Commoner Level 3 (nobleFavor_Cheat_SetLevel_0_Commoner)" Value="467376" />
+  <Preset Label="Set Favor to Commoner Level 2 (nobleFavor_Cheat_SetLevel_1_Commoner)" Value="467377" />
+  <Preset Label="Set Favor to Commoner Level 1 (nobleFavor_Cheat_SetLevel_2_Commoner)" Value="467378" />
+  <Preset Label="Set Favor to Neutral Level 0 (nobleFavor_Cheat_SetLevel_3_Neutral)" Value="467379" />
+  <Preset Label="Set Favor to Royal Level 1 (nobleFavor_Cheat_SetLevel_4_Royal)" Value="467380" />
+  <Preset Label="Set Favor to Royal Level 2 (nobleFavor_Cheat_SetLevel_5_Royal)" Value="467381" />
+  <Preset Label="Set Favor to Royal Level 3 (nobleFavor_Cheat_SetLevel_6_Royal)" Value="467382" />
+  <Preset Label="Rename {1.ObjectName} (rename_Sword)" Value="467398" />
+  <Preset Label="Waltz Together (social_BallroomDancing_Listen)" Value="467408" />
+  <Preset Label="Waltz Together With (simPicker_BallroomDancing_StereoWaltzTogether)" Tags="TestUnsafe" Value="467414" />
+  <Preset Label="Waltz Together With (simPicker_BallroomDancing_DanceFloorWaltzTogether)" Tags="TestUnsafe" Value="467415" />
+  <Preset Label="mixer_BallroomDancing_RightFromLeft" Tags="TestUnsafe" Value="467424" />
+  <Preset Label="Hack for Secrets (computer_ScandalSecret_HackForSecrets_OtherHousehold)" Value="467445" />
+  <Preset Label="Hack for Secrets (computer_Picker_ScandalSecret_HackForSecrets_HackFromHome)" Tags="TestUnsafe" Value="467446" />
+  <Preset Label="Hack for Secrets (computer_ScandalSecret_HackForSecrets_HackFromHome)" Value="467447" />
+  <Preset Label="scandalSecret_CatchSim_DetermineCatch" Value="467452" />
+  <Preset Label="sI_Dynasty_ActionFeedback_Founded" Value="467458" />
+  <Preset Label="mixer_TutorServiceNotes" Value="467474" />
+  <Preset Label="Catch Searching for Scandals (social_ScandalSecret_Catch)" Value="467494" />
+  <Preset Label="Be Scolded (social_ScandalSecret_CaughtPushAffordance)" Value="467498" />
+  <Preset Label="mixer_TutorServicePhone" Value="467702" />
+  <Preset Label="upgradeService_ArriveCont" Value="467766" />
+  <Preset Label="Practice the Waltz (danceFloor_BallroomPractice)" Value="468288" />
+  <Preset Label="Practice the Waltz (stereo_BallroomPractice)" Value="468290" />
+  <Preset Label="Hire Tutor (phone_HireTutorService_OneTime)" Value="468321" />
+  <Preset Label="generic_BallroomDancing" Value="468512" />
+  <Preset Label="Ascend to Kingdom Leader (powerShifts_SuperInteractions_Sword_AscendToMonarch)" Value="468608" />
+  <Preset Label="Simcalibur's Radiance (powerShifts_SuperInteractions_Sword_AuraOfValor)" Value="468609" />
+  <Preset Label="Where is the Sword? (immediate_PowerShifts_Sword_WhereIsTheSword)" Value="468618" />
+  <Preset Label="Attempt to Draw Sword (powerShifts_SuperInteractions_Sword_Stone_AttemptToDrawSword)" Value="468669" />
+  <Preset Label="Examine Prophecy (powerShifts_SuperInteractions_Sword_Stone_ExamineProphecy)" Value="468670" />
+  <Preset Label="Return Sword (powerShifts_SuperInteractions_Sword_Stone_ReturnSword)" Value="468671" />
+  <Preset Label="Ask about Favor Alignment (mixer_Social_NobleFavor_AskAboutFavor)" Tags="TestUnsafe" Value="468786" />
+  <Preset Label="Brag About {2.String} Dynasty (mixer_Social_Dynasty_Brag)" Tags="TestUnsafe" Value="468809" />
+  <Preset Label="Compliment {2.String} Dynasty (mixer_Social_Dynasty_Compliment)" Tags="TestUnsafe" Value="468810" />
+  <Preset Label="Mock {2.String} Dynasty (mixer_Social_Dynasty_Mock)" Tags="TestUnsafe" Value="468811" />
+  <Preset Label="Compliment Dynasty Ranking (mixer_Social_Dynasty_ComplimentStanding)" Tags="TestUnsafe" Value="468812" />
+  <Preset Label="Brag About Dynasty Ranking (mixer_Social_Dynasty_BragStanding)" Tags="TestUnsafe" Value="468960" />
+  <Preset Label="Critique Dynasty Ranking (mixer_Social_Dynasty_CritiqueStanding)" Tags="TestUnsafe" Value="468961" />
+  <Preset Label="Answer Work Email (computer_Dynasty_WorkEmail)" Value="468962" />
+  <Preset Label="Answer Work Email (careerPicker_Computer_Dynasty_WorkEmail)" Tags="TestUnsafe" Value="468963" />
+  <Preset Label="Condemn Outcast (mixer_Social_Dynasty_CondemnBlackSheep)" Tags="TestUnsafe" Value="469147" />
+  <Preset Label="Offer Support to Outcast (mixer_Social_Dynasty_SupportBlackSheep)" Tags="TestUnsafe" Value="469148" />
+  <Preset Label="Praise Dynasty Leadership (mixer_Social_Dynasty_PraiseHead)" Tags="TestUnsafe" Value="469149" />
+  <Preset Label="Critique Dynasty Leadership (mixer_Social_Dynasty_CritiqueHead)" Tags="TestUnsafe" Value="469150" />
+  <Preset Label="Open Noble Mail (immediate_NobleCareer_ReadNobleMail)" Value="469451" />
+  <Preset Label="Start the Grand Waltz (ballroomDancing_PairedGroup_Small_StartSituation)" Value="469495" />
+  <Preset Label="mixer_BallroomDancing_Group_Left" Tags="TestUnsafe" Value="469559" />
+  <Preset Label="mixer_BallroomDancing_Group_Right" Tags="TestUnsafe" Value="469561" />
+  <Preset Label="mixer_BallroomDancing_Group_Center_BigMoment" Tags="TestUnsafe" Value="469563" />
+  <Preset Label="mixer_BallroomDancing_Group_Center_Success" Tags="TestUnsafe" Value="469566" />
+  <Preset Label="mixer_BallroomDancing_Group_Center_Fail" Tags="TestUnsafe" Value="469567" />
+  <Preset Label="Waltz Together (social_BallroomDancing_Group_Start)" Value="469570" />
+  <Preset Label="Waltz Together (social_BallroomDancing_Group)" Value="469571" />
+  <Preset Label="Arrange Promotion for (simPicker_DynastyPerk_ArrangePromotion)" Tags="TestUnsafe" Value="469604" />
+  <Preset Label="Arrange Promotion (careerPicker_Phone_DynastyPerk_ArrangePromotionSelf)" Tags="TestUnsafe" Value="469606" />
+  <Preset Label="Arrange Promotion (phone_DynastyPerk_ArrangePromotion)" Value="469607" />
+  <Preset Label="Respect Favor Alignment (mixer_Social_NobleFavor_AppreciateRoyalWealth)" Tags="TestUnsafe" Value="469811" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_Swordsmanship" Value="469827" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_Swordsmanship" Value="469828" />
+  <Preset Label="Waltz Together (autonomousSimPicker_BallroomDanceWith)" Tags="TestUnsafe" Value="469895" />
+  <Preset Label="Groan about Swordsmanship (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_Swordsmanship)" Tags="TestUnsafe" Value="470148" />
+  <Preset Label="Enthuse about Swordsmanship (socials_Targeted_Friendly_SimPreference_Recent_Likes_Swordsmanship)" Tags="TestUnsafe" Value="470149" />
+  <Preset Label="si_Dynasty_ActionFeedback_Joined" Value="470180" />
+  <Preset Label="Threaten to Raise Taxes (socials_Targeted_Mean_AlwaysOn_NobleFavor_ThreatenTaxRaise)" Tags="TestUnsafe" Value="470203" />
+  <Preset Label="Mock Nobles with Royal Alignment (socials_Targeted_Funny_AlwaysOn_NobleFavor_MockRoyalty)" Tags="TestUnsafe" Value="470205" />
+  <Preset Label="Invite to Dynasty (socialMixer_Dynasty_Membership_Invite)" Tags="TestUnsafe" Value="470462" />
+  <Preset Label="Exclude from Dynasty (socialMixer_Dynasty_Membership_Exclude)" Tags="TestUnsafe" Value="470463" />
+  <Preset Label="Invite Family Members to Dynasty (socialMixer_Dynasty_Membership_InviteDependants)" Tags="TestUnsafe" Value="470464" />
+  <Preset Label="Ask to Join Dynasty (socialMixer_Dynasty_Membership_AskToJoin)" Tags="TestUnsafe" Value="470466" />
+  <Preset Label="Ask to Exclude From Dynasty (socialMixer_Dynasty_Membership_AskToExclude)" Tags="TestUnsafe" Value="470467" />
+  <Preset Label="Ask to Invite to Dynasty (socialMixer_Dynasty_Membership_AskToInvite)" Tags="TestUnsafe" Value="470468" />
+  <Preset Label="Mock Nobles with Commoner Alignment (socials_Targeted_Funny_AlwaysOn_NobleFavor_MockCommonfolk)" Tags="TestUnsafe" Value="470472" />
+  <Preset Label="Ask for secret about (simPickerInteraction_ScandalSecret_social_AskSecretAbout)" Tags="TestUnsafe" Value="470490" />
+  <Preset Label="Ask for secret about {2.SimFirstName}  (social_ScandalSecret_AskSecretAbout_continuation)" Value="470491" />
+  <Preset Label="Leave Dynasty (socialMixer_Dynasty_Membership_Leave)" Tags="TestUnsafe" Value="470499" />
+  <Preset Label="Invite Family Members to Dynasty (simPicker_Dynasty_InviteDependants)" Tags="TestUnsafe" Value="470502" />
+  <Preset Label="Ask to Exclude From Dynasty (simPicker_Dynasty_AskToExclude)" Tags="TestUnsafe" Value="470503" />
+  <Preset Label="Ask to Invite to Dynasty (simPicker_Dynasty_AskToInvite)" Tags="TestUnsafe" Value="470504" />
+  <Preset Label="Reply with Friendly Words (sI_NobleCareer_ReplyNobleMail_Friendly)" Value="470541" />
+  <Preset Label="Reply with Mean Words (sI_NobleCareer_ReplyNobleMail_Mean)" Value="470543" />
+  <Preset Label="Wait for Dance Partner (si_BallroomDancing_WaitByObject)" Value="470623" />
+  <Preset Label="Wait for Dance Partner (si_BallroomDancing_WaitByObject_PickedSim)" Value="470625" />
+  <Preset Label="Simcalibur's Radiance (si_SwipeIntoSimInventory_PowerShifts_Sword_AuraOfValor)" Value="470815" />
+  <Preset Label="Ascend to Kingdom Leader (si_SwipeIntoSimInventory_PowerShifts_Sword_AscendToMonarch)" Value="470816" />
+  <Preset Label="Reply with Friendly Words (objectPicker_NobleCareer_ReplyMail_InWorld_Friendly)" Tags="TestUnsafe" Value="470966" />
+  <Preset Label="Reply with Mean Words (objectPicker_NobleCareer_ReplyMail_InInventory_Mean)" Tags="TestUnsafe" Value="470968" />
+  <Preset Label="Reply with Mean Words (objectPicker_NobleCareer_ReplyMail_InWorld_Mean)" Tags="TestUnsafe" Value="471070" />
+  <Preset Label="Reply with Friendly Words (objectPicker_NobleCareer_ReplyMail_InInventory_Friendly)" Tags="TestUnsafe" Value="471072" />
+  <Preset Label="To Build Skills (socialMixer_Dynasty_Encourage_Skills)" Tags="TestUnsafe" Value="471120" />
+  <Preset Label="Encourage Friendship with {2.SimFirstName} (socialMixer_Dynasty_Encourage_Friendship)" Tags="TestUnsafe" Value="471124" />
+  <Preset Label="Encourage to Court {2.SimFirstName} (socialMixer_Dynasty_Encourage_Romance)" Tags="TestUnsafe" Value="471125" />
+  <Preset Label="Friendship with (simPicker_Dynasty_Encourage_FriendshipWith)" Tags="TestUnsafe" Value="471127" />
+  <Preset Label="To Court (simPicker_Dynasty_Encourage_RomanceWith)" Tags="TestUnsafe" Value="471128" />
+  <Preset Label="Focus on Career (socialMixer_Dynasty_Encourage_CareerPerformance)" Tags="TestUnsafe" Value="471179" />
+  <Preset Label="Romance with (simPicker_Dynasty_Encourage_AntiRomanceWith)" Tags="TestUnsafe" Value="471181" />
+  <Preset Label="Friendship with (simPicker_Dynasty_Encourage_AntiFriendshipWith)" Tags="TestUnsafe" Value="471182" />
+  <Preset Label="Discourage Romance with {2.SimFirstName} (socialMixer_Dynasty_Encourage_AntiRomance)" Tags="TestUnsafe" Value="471183" />
+  <Preset Label="Discourage Friendship with {2.SimFirstName} (socialMixer_Dynasty_Encourage_AntiFriendship)" Tags="TestUnsafe" Value="471184" />
+  <Preset Label="Encourage Rivalry with {2.SimFirstName} (socialMixer_Dynasty_Encourage_Rivalry)" Tags="TestUnsafe" Value="471185" />
+  <Preset Label="Career Change (socialMixer_Dynasty_Encourage_CareerChange)" Tags="TestUnsafe" Value="471187" />
+  <Preset Label="Ideal Adherence (socialMixer_Dynasty_Encourage_Ideal)" Tags="TestUnsafe" Value="471188" />
+  <Preset Label="Rivalry with (simPicker_Dynasty_Encourage_RivalryWith)" Tags="TestUnsafe" Value="471219" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_NobleCareer_NobleMail_FriendlyIntent)" Value="471355" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_NobleCareer_NobleMail_MeanIntent)" Value="471356" />
+  <Preset Label="Sit (generic_Throne)" Value="471359" />
+  <Preset Label="Enthuse about Favor Alignment (mixer_Social_NobleFavor_EnthuseAboutFavor)" Tags="TestUnsafe" Value="471366" />
+  <Preset Label="Be Grateful for Serving the Kingdom (mixer_Social_NobleFavor_BeGratefulForServing)" Tags="TestUnsafe" Value="471367" />
+  <Preset Label="Criticize Favor (socials_Targeted_Mean_AlwaysOn_NobleFavor_CriticizeFavor)" Tags="TestUnsafe" Value="471368" />
+  <Preset Label="Ask to be Dance Partners for Romance (social_BallroomDancing_AskToBeDancePartner_Romance)" Value="471414" />
+  <Preset Label="Ask to be Dance Partners for Social Status (social_BallroomDancing_AskToBeDancePartner_Status)" Value="471415" />
+  <Preset Label="Ask to be Dance Partners for Friendship (social_BallroomDancing_AskToBeDancePartner)" Value="471416" />
+  <Preset Label="Sit (sit_Throne)" Value="471431" />
+  <Preset Label="sit_Passive_Throne" Value="471432" />
+  <Preset Label="Invite to Dynasty (socialMixer_Dynasty_Membership_Invite_WithFamily)" Tags="TestUnsafe" Value="471761" />
+  <Preset Label="Invite to Dynasty (simPicker_Dynasty_Membership_Invite_WithFamily)" Tags="TestUnsafe" Value="471821" />
+  <Preset Label="Examine Frog Lore (immediate_PowerShifts_Frog_ExamineFrogLore)" Value="473598" />
+  <Preset Label="autopicker_ScandalSecret_DiscoverRandomSecret" Value="473617" />
+  <Preset Label="Buy Secret (computer_Picker_ScandalSecret_InfoBroker_BuySecret)" Tags="TestUnsafe" Value="473618" />
+  <Preset Label="Buy Secrets (computer_ScandalSecret_InfoBroker_BuySecret)" Value="473620" />
+  <Preset Label="Declare as Heir (socialMixer_Dynasty_Internal_Titles_DeclareHeir)" Tags="TestUnsafe" Value="473887" />
+  <Preset Label="Unmake Heir (socialMixer_Dynasty_Internal_Titles_UnmakeHeir)" Tags="TestUnsafe" Value="473888" />
+  <Preset Label="Ask to Become Heir (socialMixer_Dynasty_Internal_Titles_AskToBecomeHeir)" Tags="TestUnsafe" Value="473889" />
+  <Preset Label="swordsmanship_Duel_Mixers_BackFromForward" Value="473910" />
+  <Preset Label="swordsmanship_Duel_Mixers_ForwardFromBack" Value="473911" />
+  <Preset Label="Hold Court (simPicker_NobleCareer_PickNobleAdvisor)" Tags="TestUnsafe" Value="473918" />
+  <Preset Label="sI_Dynasty_ActionFeedback_BecameHeir" Value="474283" />
+  <Preset Label="sI_Dynasty_ActionFeedback_RemovedHeir" Value="474284" />
+  <Preset Label="Kiss Frog (si_SwipeIntoSimInventory_PowerShifts_Frog_KissFrog)" Value="474311" />
+  <Preset Label="Sabotage Cuckoo (secretPassageway_TamperCuckoo)" Value="474419" />
+  <Preset Label="Ideal Adherence (socialMixer_Dynasty_Encourage_AntiIdeal)" Tags="TestUnsafe" Value="474444" />
+  <Preset Label="To Abdicate Title (socialMixer_Dynasty_Encourage_AbdicateTitle)" Tags="TestUnsafe" Value="474445" />
+  <Preset Label="Cuckoo Malfunction! (death_SecretPassageway_Cuckoo)" Value="474922" />
+  <Preset Label="Have a Quick Meal or Drink (fridge_CookEP21GroupMeal_Autonomously)" Value="474966" />
+  <Preset Label="Recite (reciteBook_Microphone)" Value="474983" />
+  <Preset Label="Recite (inventoryPicker_ReciteBook_Microphone)" Tags="TestUnsafe" Value="474987" />
+  <Preset Label="To Court (simPicker_Dynasty_Encourage_RomanceWith_Teen)" Tags="TestUnsafe" Value="475055" />
+  <Preset Label="Check Malfunctioning Cuckoo (secretPassageway_InspectCuckoo)" Value="475156" />
+  <Preset Label="Promise to keep Secret (socials_Targeted_Friendly_ScandalSecret_KeepSecretForTarget)" Tags="TestUnsafe" Value="475169" />
+  <Preset Label="Extort for Simoleons (socials_Targeted_Mean_ScandalSecret_Blackmail_Simoleons)" Tags="TestUnsafe" Value="475171" />
+  <Preset Label="Purchase Swords (purchasePicker_Swords)" Tags="TestUnsafe" Value="475186" />
+  <Preset Label="Kiss Frog (immediate_PowerShifts_Frog_KissFrog)" Value="475206" />
+  <Preset Label="Receive Promotion through Coronation Ceremony (socialSI_NobleCareer_ReceiveNewTitle)" Value="475246" />
+  <Preset Label="Duelling (social_Swordsmanship_Duel_Listen)" Value="475258" />
+  <Preset Label="Watch Coronation (sI_NobleCareer_NobleEvents_WatchCoronation)" Value="475303" />
+  <Preset Label="Coronate Noble (socialSI_NobleCareer_ReceiveNewTitle_Target_Coronate)" Value="475305" />
+  <Preset Label="Receive Promotion through Coronation Ceremony (socialSI_NobleCareer_ReceiveNewTitle_Speech)" Value="475495" />
+  <Preset Label="Give Speech (socialSI_NobleCareer_ReceiveNewTitle_Target_GiveSpeech)" Value="475497" />
+  <Preset Label="Terrified of Secret Passageway Cuckoo (secretPassageway_Ghost_Fear_Autonomous)" Value="475506" />
+  <Preset Label="autonomousSimPicker_ScandalSecret_PickMutualAcquaintenceSecret" Tags="TestUnsafe" Value="475518" />
+  <Preset Label="craftSalesTable_CreateObjects_NPC_Artisan" Value="475525" />
+  <Preset Label="Step Down as Head (socialMixer_Dynasty_Internal_Titles_StepDownAsHead)" Tags="TestUnsafe" Value="475816" />
+  <Preset Label="Usurp Dynasty Headship (socialMixer_Dynasty_Internal_Titles_DemandHeadship)" Tags="TestUnsafe" Value="475817" />
+  <Preset Label="Insult Relationship (phone_Dynasty_Encouraged_AntiRomance)" Value="475911" />
+  <Preset Label="Insult Friendship (phone_Dynasty_Encouraged_AntiFriendship)" Value="475995" />
+  <Preset Label="Insult Friendship (mixer_Social_Mean_Dynasty_Encouraged_AntiFriendship)" Tags="TestUnsafe" Value="476005" />
+  <Preset Label="Insult Relationship (mixer_Social_Mean_Dynasty_Encouraged_AntiRomance)" Tags="TestUnsafe" Value="476006" />
+  <Preset Label="Answer Work Email (computer_Dynasty_WorkEmail_Auto)" Value="476011" />
+  <Preset Label="Inspect Clock (secretPassageway_InspectClock)" Value="476066" />
+  <Preset Label="immediate_ScandalSecret_DiscoverSecret_PickedSimDiscoverSecret" Value="476089" />
+  <Preset Label="Promise to keep Secret (scandalSecretPickerInteraction_KeepSecret)" Tags="TestUnsafe" Value="476092" />
+  <Preset Label="Grant Noble Title (simPicker_NobleCareer_PickCoronateTarget)" Tags="TestUnsafe" Value="476110" />
+  <Preset Label="Grant Noble Title (socialSI_NobleCareer_Coronate_Speech)" Value="476128" />
+  <Preset Label="Listen to Speech (socialSI_NobleCareer_Coronate_Target_ListenSpeech)" Value="476130" />
+  <Preset Label="Grant Noble Title (socialSI_NobleCareer_Coronate)" Value="476131" />
+  <Preset Label="Receive Promotion through Coronation Ceremony (socialSI_NobleCareer_Coronate_Target_ReceiveCoronation)" Value="476132" />
+  <Preset Label="Congratulate on Noble Title (socials_Targeted_Friendly_AlwaysOn_Compliments_NobleCareer_Congratulate)" Tags="TestUnsafe" Value="476137" />
+  <Preset Label="Ask to be Adopted (social_AskToBeAdopted)" Value="476158" />
+  <Preset Label="adopted_MoveIn" Value="476160" />
+  <Preset Label="Receive Simoleons (scandalSecretPickerInteraction_Blackmail_simoleons)" Tags="TestUnsafe" Value="476220" />
+  <Preset Label="Recite (reciteBook_Podium)" Value="476334" />
+  <Preset Label="Mock Scandalized Sim (mixer_Social_ScandalSecret_MockScandalizedSim)" Tags="TestUnsafe" Value="476362" />
+  <Preset Label="Shun Scandalised Sim (mixer_Social_ScandalSecret_ShunScandalizedSim)" Tags="TestUnsafe" Value="476363" />
+  <Preset Label="WooHoo in Secret Passageway with (wooHoo_Picker_secretPassageway)" Tags="TestUnsafe" Value="476378" />
+  <Preset Label="WooHoo (secretPassageway_Woohoo)" Value="476380" />
+  <Preset Label="Listen to Visitor Concerns (sI_NobleCareer_HoldCourt_ListenToVisitors)" Value="476392" />
+  <Preset Label="autopicker_ScandalSecret_BlackmailEvents_NewBlackmailer_PickSecret_PreBlackmail_Simoleons" Value="476412" />
+  <Preset Label="Examine Shoes (immediate_PowerShifts_Shoes_ExamineShoes)" Value="476422" />
+  <Preset Label="Wear Shoes (powerShifts_SuperInteractions_Shoes_SlipOn)" Value="476424" />
+  <Preset Label="Challenge for Dynasty Headship (mixer_social_Fight_targeted_Dynasty_ChallengeHead)" Tags="TestUnsafe" Value="476445" />
+  <Preset Label="Challenge for Dynasty Headship (Chess) (objectPicker_Dynasty_ChallengeHead_Chess)" Tags="TestUnsafe" Value="476450" />
+  <Preset Label="Duelling (social_Swordsmanship_Duel_Dynasty_ChallengeHead)" Value="476517" />
+  <Preset Label="Challenge for Dynasty Headship (Chess) (social_Dynasty_ChallengeHead_Chess)" Value="476519" />
+  <Preset Label="Challenge for Dynasty Headship (Fight) (social_Dynasty_ChallengeHead_Fight)" Value="476520" />
+  <Preset Label="Challenge for Dynasty Headship (Duel) (social_Dynasty_ChallengeHead_Sword)" Value="476521" />
+  <Preset Label="Recite (inventoryPicker_ReciteBook_Podium)" Tags="TestUnsafe" Value="476646" />
+  <Preset Label="Recite (reciteBook_Microphone_NPC)" Value="476647" />
+  <Preset Label="Try for Baby (secretPassageway_TryForBaby)" Value="476732" />
+  <Preset Label="generic_SecretPassageway_Woohoo" Value="476755" />
+  <Preset Label="WooHoo in Secret Passageway (mixer_social_WooHooinSecretPassage_targeted_romance_transition)" Tags="TestUnsafe" Value="477202" />
+  <Preset Label="Mess Around With (secretPassageway_messAround_Picker)" Tags="TestUnsafe" Value="477203" />
+  <Preset Label="Try for Baby in the Secret Passageway With (secretPassageway_tryForBaby_Male_Picker)" Tags="TestUnsafe" Value="477204" />
+  <Preset Label="Try for Baby in Secret Passageway (mixer_social_TryForBabyInSecretPassageway_targeted_romance_transition)" Tags="TestUnsafe" Value="477205" />
+  <Preset Label="Try for Baby in the Secret Passageway With (secretPassageway_tryForBaby_Female_Picker)" Tags="TestUnsafe" Value="477206" />
+  <Preset Label="Member Rel Gain Large (Debug) (immediate_Dynasty_Debug_MemberRel_GainLarge)" Value="477215" />
+  <Preset Label="Member Rel Gain Medium (Debug) (immediate_Dynasty_Debug_MemberRel_GainMedium)" Value="477216" />
+  <Preset Label="Member Rel Loss Large (Debug) (immediate_Dynasty_Debug_MemberRel_LossLarge)" Value="477217" />
+  <Preset Label="Member Rel Loss Medium (Debug) (immediate_Dynasty_Debug_MemberRel_LossMedium)" Value="477218" />
+  <Preset Label="Watch Recital (sI_Recite_Watch)" Value="477230" />
+  <Preset Label="Recite (reciteBook_DambeleTree)" Value="477233" />
+  <Preset Label="Set Resentful Outcast (Debug) (immediate_Dynasty_Debug_SetBlackSheep_Resentful)" Value="477296" />
+  <Preset Label="Set Repentful Outcast (Debug) (immediate_Dynasty_Debug_SetBlackSheep_Repentful)" Value="477297" />
+  <Preset Label="Prestige Gain Large (debug) (immediate_Dynasty_Debug_ChangePrestige_GainLarge)" Value="477308" />
+  <Preset Label="Prestige Gain Medium (debug) (immediate_Dynasty_Debug_ChangePrestige_GainMedium)" Value="477309" />
+  <Preset Label="Prestige Loss Large (debug) (immediate_Dynasty_Debug_ChangePrestige_LossLarge)" Value="477310" />
+  <Preset Label="Prestige Loss Medium (debug) (immediate_Dynasty_Debug_ChangePrestige_LossMedium)" Value="477311" />
+  <Preset Label="mixer_NobleCareer_ListenToVisitor_PassiveIdle" Value="477314" />
+  <Preset Label="Recite (inventoryPicker_ReciteBook_DambeleTree)" Tags="TestUnsafe" Value="477351" />
+  <Preset Label="Recite (reciteBook_Podium_NPC)" Value="477353" />
+  <Preset Label="Propose Alliance (socialMixer_Dynasty_AlliancePropose)" Tags="TestUnsafe" Value="477494" />
+  <Preset Label="End Alliance (socialMixer_Dynasty_AllianceEnd)" Tags="TestUnsafe" Value="477495" />
+  <Preset Label="Declare Rivalry (socialMixer_Dynasty_RivalryDeclare)" Tags="TestUnsafe" Value="477496" />
+  <Preset Label="End Rivalry (socialMixer_Dynasty_RivalryEnd)" Tags="TestUnsafe" Value="477497" />
+  <Preset Label="Ask to End Rivalry with (simPicker_Dynasty_AskToEndRivalry)" Tags="TestUnsafe" Value="477532" />
+  <Preset Label="View (art_View_Sculpture_EP21World)" Value="477605" />
+  <Preset Label="autonomousSimPicker_Dynasty_NPCDeclareHeir" Tags="TestUnsafe" Value="477642" />
+  <Preset Label="craftSalesTable_CreateObjects_NPC_SwordSalesman" Value="477679" />
+  <Preset Label="Write a Scandal Denial Statement (computer_ScandalSecret_Statements_Denial_Success)" Value="477760" />
+  <Preset Label="Write a Scandal Apology Statement (computer_ScandalSecret_Statements_Apology_Success)" Value="477761" />
+  <Preset Label="Ask for Noble Advice (socialSI_NobleCareer_AskForNobleAdvice)" Value="477796" />
+  <Preset Label="Ask to End Rivalry (socialMixer_Dynasty_AskToEndRivalryWithPicked)" Tags="TestUnsafe" Value="477813" />
+  <Preset Label="Ask to End Rivalry (socialMixer_Dynasty_AskToEndRivalry)" Tags="TestUnsafe" Value="477817" />
+  <Preset Label="Open Chest (pirateTreasureChest_Open)" Value="477885" />
+  <Preset Label="Gift to (simPickerInteraction_PowerShifts_Shoes_Gift)" Tags="TestUnsafe" Value="477908" />
+  <Preset Label="Destroy (immediate_PowerShifts_Shoes_Destroy)" Value="477910" />
+  <Preset Label="si_Dynasty_NPCUnmakeHeir" Value="477924" />
+  <Preset Label="Ask for Noble Help (sI_NobleCareer_NobleEvents_AskForRoyalHelp)" Value="477928" />
+  <Preset Label="Declare as Heir (immediate_Dynasty_Debug_SetHeir)" Value="477945" />
+  <Preset Label="[DEBUG] Create Noble Frog (immediate_PowerShifts_Debug_Frog_CreateNobleFrog)" Value="477952" />
+  <Preset Label="Kiss Frog (powerShifts_Frog_SuperInteractions_BackToFrog)" Value="477954" />
+  <Preset Label="Kiss Frog (powerShifts_Frog_SuperInteractions_SpawnAffordance)" Value="477956" />
+  <Preset Label="Propose Alliance (immediate_Dynasty_Debug_Alliance)" Value="477974" />
+  <Preset Label="Declare Rivalry (immediate_Dynasty_Debug_Rivalry)" Value="478156" />
+  <Preset Label="Kiss Frog (social_PowerShifts_Frog_PostSpawn)" Value="478484" />
+  <Preset Label="autoSimPicker_PowerShifts_Frog_FindKisser" Tags="TestUnsafe" Value="478492" />
+  <Preset Label="Make Friendly Dance Partners (Debug) (immediate_Ballroom_Cheat_MakeDancePartners)" Value="478494" />
+  <Preset Label="Make Status Dance Partners (Debug) (immediate_Ballroom_Cheat_MakeDancePartnersStatus)" Value="478495" />
+  <Preset Label="Make Romance Dance Partners (+Mood Match) (Debug) (immediate_Ballroom_Cheat_MakeDancePartnersRomance)" Value="478496" />
+  <Preset Label="Kiss Frog (social_PowerShifts_Frog_PostSpawn_Target)" Value="478532" />
+  <Preset Label="Kiss Frog (powerShifts_Frog_SuperInteractions_Start)" Value="478767" />
+  <Preset Label="Watch the Grand Waltz (si_BallroomDancing_AudienceWatch)" Value="478827" />
+  <Preset Label="si_BallroomDancing_AudienceReact" Value="478828" />
+  <Preset Label="autonomousSimPicker_Dynasty_RivalRomanceVisit_TNS" Tags="TestUnsafe" Value="478981" />
+  <Preset Label="Adopt {1.SimFirstName} (social_Adopt_IPCTYA)" Value="479026" />
+  <Preset Label="Read Suspicious Note (immediate_WorldEp21_ReadNote)" Value="479047" />
+  <Preset Label="immediate_Dynasty_RivalRomanceVisit_TNS" Value="479108" />
+  <Preset Label="Fight Extortionist (mixer_social_Fight_targeted_ScandalSecret_FightBlackmailer)" Tags="TestUnsafe" Value="479121" />
+  <Preset Label="Declare Outcast (socialMixer_Dynasty_Internal_Titles_BlackSheepDeclare)" Tags="TestUnsafe" Value="479163" />
+  <Preset Label="Revoke Outcast Status (socialMixer_Dynasty_Internal_Titles_BlackSheepUndeclare)" Tags="TestUnsafe" Value="479164" />
+  <Preset Label="Daydream about Coronation (sI_NobleCareer_NobleEvents_PlanCoronation)" Value="479475" />
+  <Preset Label="[DEBUG] Create Simcalibur (immediate_PowerShifts_Debug_Sword_CreateSword)" Value="479685" />
+  <Preset Label="Travel to (knownObjectPickerInteraction_SecretPassageway_TravelTo)" Tags="TestUnsafe" Value="479708" />
+  <Preset Label="autonomousSimPicker_Dynasty_NPCVisit_BlackSheepDeclare" Tags="TestUnsafe" Value="479804" />
+  <Preset Label="autonomousSimPicker_Dynasty_NPCVisit_BlackSheepUndeclare" Tags="TestUnsafe" Value="479805" />
+  <Preset Label="Turn On (stereo_communityWallSpeaker_turnOn_Ballroom)" Value="479911" />
+  <Preset Label="Share secret about (scandalSecretPickerInteraction_ShareSecretAboutOther)" Tags="TestUnsafe" Value="479984" />
+  <Preset Label="Share Secret (socials_Targeted_Friendly_ScandalSecret_ShareSecret)" Tags="TestUnsafe" Value="479986" />
+  <Preset Label="autonomousSimPicker_Dynasty_RivalryDeclare" Tags="TestUnsafe" Value="480028" />
+  <Preset Label="WooHoo (VerdemarLighthouse_Woohoo)" Value="480069" />
+  <Preset Label="WooHoo With (wooHoo_Picker_VerdemarLighthouse)" Tags="TestUnsafe" Value="480070" />
+  <Preset Label="WooHoo in Torre Silenciosa (mixer_Social_WooHooAsk_VerdemarLighthouse)" Tags="TestUnsafe" Value="480071" />
+  <Preset Label="Mess Around With (messAround_Picker_VerdemarLighthouse)" Tags="TestUnsafe" Value="480073" />
+  <Preset Label="Ask to be Secret Lover (mixer_social_Targeted_Romance_HighScore_AskToBeSecretLover)" Tags="TestUnsafe" Value="480076" />
+  <Preset Label="Try for Baby With (VerdemarLighthouse_tryForBaby_Female_Picker)" Tags="TestUnsafe" Value="480084" />
+  <Preset Label="Try for Baby With (VerdemarLighthouse_tryForBaby_Male_Picker)" Tags="TestUnsafe" Value="480085" />
+  <Preset Label="Try For Baby in Torre Silenciosa (mixer_Social_TryForBabyinVerdemarLighthouse_Standard)" Tags="TestUnsafe" Value="480086" />
+  <Preset Label="Try for Baby (VerdemarLighthouse_tryForBaby)" Value="480087" />
+  <Preset Label="WooHoo (generic_VerdemarLighthouseWooHoo)" Value="480088" />
+  <Preset Label="Abdicate from Noble Career (sI_NobleCareer_AbdicateFromNobleCareer)" Value="480134" />
+  <Preset Label="Promise to Inherit Noble Title (mixer_Social_NobleCareer_InheritNobleTitle_Promise)" Tags="TestUnsafe" Value="480299" />
+  <Preset Label="Request to Inherit Noble Title (mixer_Social_NobleCareer_InheritNobleTitle_Request)" Tags="TestUnsafe" Value="480300" />
+  <Preset Label="[DEBUG] Create Crystal Slippers (immediate_PowerShifts_Debug_Shoes_CreateShoes)" Value="480452" />
+  <Preset Label="Unbound Wealth (ep21World_SpiderWell_WishForMoney)" Value="480487" />
+  <Preset Label="Novel Romance (ep21World_SpiderWell_WishForLove)" Value="480488" />
+  <Preset Label="Dazzling Power (ep21World_SpiderWell_WishForPower)" Value="480489" />
+  <Preset Label="Ancient Wisdom (ep21World_SpiderWell_WishForKnowledge)" Value="480490" />
+  <Preset Label="Give access to HH members (simPicker_secretPassageway_GiveAccess)" Tags="TestUnsafe" Value="480590" />
+  <Preset Label="autopicker_ScandalSecret_BlackmailEvents_ExistingBlackmailer_PickSecret_PreBlackmail_Simoleons" Value="480710" />
+  <Preset Label="Share Secret Passageway Access (knownObjectPickerInteraction_SecretPassageway_ShareEntrance)" Tags="TestUnsafe" Value="480788" />
+  <Preset Label="Share Secret Passageway Access (social_SecretPassageway_ShareEntrance)" Value="480878" />
+  <Preset Label="Explore Secret Passageway (secretPassageway_Explore)" Value="480880" />
+  <Preset Label="Hold Press Conference (simPicker_NobleCareer_PickNobleAdvisor_HoldPressConference)" Tags="TestUnsafe" Value="480920" />
+  <Preset Label="Give Noble Speech (sI_NobleCareer_HoldPressConference_GiveNobleSpeech)" Value="480948" />
+  <Preset Label="Plead to keep Scandal quiet (socials_Targeted_Friendly_ScandalSecret_PleadToKeepSecret)" Tags="TestUnsafe" Value="480952" />
+  <Preset Label="Plead to keep Scandal quiet (scandalSecretPickerInteraction_PleadToKeepSecret)" Tags="TestUnsafe" Value="480953" />
+  <Preset Label="Ask Permission to Marry {2.SimName} (socialMixer_Dynasty_AskPermissionMarry)" Tags="TestUnsafe" Value="480962" />
+  <Preset Label="mixer_NobleCareer_GiveNobleSpeech" Value="481024" />
+  <Preset Label="Issue a Denial Statement (mixer_NobleCareer_IssueADenialStatement_Success)" Value="481025" />
+  <Preset Label="Issue a Public Apology (mixer_NobleCareer_IssueAPublicApology_Success)" Value="481026" />
+  <Preset Label="Present New Kingdom Strategies (mixer_NobleCareer_PresentNewKingdomStrategies)" Value="481027" />
+  <Preset Label="Promise to Always Serve the Kingdom (mixer_NobleCareer_PromiseToAlwaysServeKingdom)" Value="481028" />
+  <Preset Label="Publicly Reveal Scandal About (mixer_NobleCareer_PubliclyRevealSecretAbout)" Value="481029" />
+  <Preset Label="Ask Permission to Marry (simPicker_Dynasty_AskPermissionToMarry_FromActorFamily)" Tags="TestUnsafe" Value="481090" />
+  <Preset Label="Ask Permission to Marry (simPicker_Dynasty_AskPermissionToMarry_FromSOFamily)" Tags="TestUnsafe" Value="481091" />
+  <Preset Label="Recite (reciteBook_DambeleTree_NPC)" Value="481201" />
+  <Preset Label="Entering {1.ObjectName} (secretPassageway_GetIn)" Value="481291" />
+  <Preset Label="Exiting {1.ObjectName} (secretPassageway_GetOut)" Value="481292" />
+  <Preset Label="Entering {1.ObjectName} (secretPassageway_GetIn_AfterLotChange)" Value="481445" />
+  <Preset Label="Sell Secret (computer_ScandalSecret_InfoBroker_SellSecret_OtherSimSecret)" Value="481486" />
+  <Preset Label="Sell Secret (computer_Picker_ScandalSecret_InfoBroker_SellSecret_OtherSimSecret)" Tags="TestUnsafe" Value="481487" />
+  <Preset Label="Sell Own Secret (computer_Picker_ScandalSecret_InfoBroker_SellSecret_OwnSecret)" Tags="TestUnsafe" Value="481489" />
+  <Preset Label="Sell Secret (computer_ScandalSecret_InfoBroker_SellSecret_OwnSecret)" Value="481494" />
+  <Preset Label="Noble Introduction (mixer_social_NobleCareer_Introduction_Greetings)" Tags="TestUnsafe" Value="481537" />
+  <Preset Label="Discuss Noble Life (mixer_Social_NobleCareer_DiscussNobleLife)" Tags="TestUnsafe" Value="481539" />
+  <Preset Label="Ask for Anansi's Advice (eP21World_SpiderWell_AskForAnasisAdvice)" Value="481758" />
+  <Preset Label="autonomousSimPicker_ScandalSecret_AllSimsInRegion" Tags="TestUnsafe" Value="481771" />
+  <Preset Label="Reset Entrance Knowledge (All Sims) (debug_immediate_SecretPassageway_ResetSimAccess)" Value="481789" />
+  <Preset Label="Unlock All Entrances (debug_immediate_SecretPassageway_UnlockAllAccess)" Value="481790" />
+  <Preset Label="Tend Stall (marketStalls_Tend_Dambele)" Value="481812" />
+  <Preset Label="Order Food (marketStalls_PushOrderFood_Dambele)" Value="481813" />
+  <Preset Label="Order Food (marketStalls_PushOrderFood_Verdemar)" Value="481814" />
+  <Preset Label="Order Food (marketStalls_PushOrderFood_Bellacorde)" Value="481815" />
+  <Preset Label="Tend Stall (marketStalls_Tend_Bellacorde)" Value="481816" />
+  <Preset Label="Tend Stall (marketStalls_Tend_Verdemar)" Value="481817" />
+  <Preset Label="Bury Own Secret (computer_Picker_ScandalSecret_InfoBroker_BurySecret_OwnSecret)" Tags="TestUnsafe" Value="481838" />
+  <Preset Label="Bury Own Secret (computer_ScandalSecret_InfoBroker_BurySecret)" Value="481839" />
+  <Preset Label="Publicly Reveal Scandal About (podium_NobleCareer_ScandalSecret_Statements_Reveal)" Tags="TestUnsafe" Value="482108" />
+  <Preset Label="Listen to Noble Speech (sI_NobleCareer_NobleEvents_ListenToSpeech)" Value="482110" />
+  <Preset Label="mixer_NobleCareer_Podium_Listener_View" Value="482114" />
+  <Preset Label="Very Low (sI_NobleCareer_SetKingdomTaxes_VeryLow)" Value="482119" />
+  <Preset Label="Low (sI_NobleCareer_SetKingdomTaxes_Low)" Value="482120" />
+  <Preset Label="Normal (sI_NobleCareer_SetKingdomTaxes_Normal)" Value="482121" />
+  <Preset Label="High (sI_NobleCareer_SetKingdomTaxes_High)" Value="482122" />
+  <Preset Label="Very High (sI_NobleCareer_SetKingdomTaxes_VeryHigh)" Value="482123" />
+  <Preset Label="Order Food (marketStalls_PushOrder_Autonomous_Dambele_Food)" Value="482182" />
+  <Preset Label="Order Food (marketStalls_PushOrder_Autonomous_Bellacorde_Food)" Value="482183" />
+  <Preset Label="Order Food (marketStalls_PushOrder_Autonomous_Verdemar_Food)" Value="482184" />
+  <Preset Label="autonomous_ObjectPicker_SecretPassageway_ClosestEntrancePicker" Tags="TestUnsafe" Value="482199" />
+  <Preset Label="Exiting {1.ObjectName} (secretPassageway_MoveAway)" Value="482246" />
+  <Preset Label="autonomous_ObjectPicker_EP21World_DambeleTreeWalk" Tags="TestUnsafe" Value="482326" />
+  <Preset Label="autonomous_ObjectPicker_EP21World_SpiderWellWalk" Tags="TestUnsafe" Value="482327" />
+  <Preset Label="eP21World_ChildWalkto" Value="482329" />
+  <Preset Label="Duel for a Sim's Heart (social_Swordsmanship_AskForDuel_SimHeart)" Value="482365" />
+  <Preset Label="Duel for a Sim's Heart (simPicker_Swordsmanship_AskForDuel_SimHeart_Teen)" Tags="TestUnsafe" Value="482367" />
+  <Preset Label="See What's Happening (reactions_NobleCareer_NobleSpeech_Heckle)" Value="482627" />
+  <Preset Label="See What's Happening (reactions_NobleCareer_NobleSpeech_Cheer)" Value="482628" />
+  <Preset Label="See What's Happening (reactions_NobleCareer_NobleSpeech_Shocked)" Value="482630" />
+  <Preset Label="Deface Statue (eP21World_BellacordeStatue_Deface)" Value="482665" />
+  <Preset Label="Hours of Operation (marketStalls_HoursofOperation_RoyalWorld)" Value="482717" />
+  <Preset Label="Clean Up Statue (eP21World_BellacordeStatue_Clean)" Value="482898" />
+  <Preset Label="Deface Statue (eP21World_BellacordeStatue_Start_Deface)" Value="482919" />
+  <Preset Label="Enact Noble Decree (sI_NobleCareer_EnactNobleDecree)" Value="482952" />
+  <Preset Label="ep21World_Mixers_BellacordeStatue_Idle" Value="483123" />
+  <Preset Label="ep21World_Mixers_BellacordeStatue_Loop" Value="483124" />
+  <Preset Label="Travel to (knownObjectPickerInteraction_SecretPassageway_RandomEntrance)" Tags="TestUnsafe" Value="483161" />
+  <Preset Label="Heckle (eP21World_BellacordeStatue_PrankReaction)" Value="483342" />
+  <Preset Label="Add Soundproofing Layer (secretPassageway_Upgrades_Complete_SoundProof)" Value="483470" />
+  <Preset Label="Install Cuckoo Sound Box (secretPassageway_Upgrades_Complete_CuckooBroadcast)" Value="483471" />
+  <Preset Label="Resume Adding Soundproofing Layer (secretPassageway_Upgrades_SoundProof_Resume)" Value="483472" />
+  <Preset Label="Add Soundproofing Layer (secretPassageway_Upgrades_SoundProof)" Value="483473" />
+  <Preset Label="Install Cuckoo Sound Box (secretPassageway_Upgrades_CuckooBroadcast)" Value="483474" />
+  <Preset Label="Resume Installing Cuckoo Sound Box (secretPassageway_Upgrades_CuckooBroadcast_Resume)" Value="483475" />
+  <Preset Label="mixer_BallroomDancing_Group_Center_SuperSuccess" Tags="TestUnsafe" Value="483487" />
+  <Preset Label="Hire Vendor (marketStalls_HireNPC_EP21World)" Value="483498" />
+  <Preset Label="Set Death Ready State (debug) (debug_immediate_SecretPassageway_DeathReady)" Value="483532" />
+  <Preset Label="Set Death NOT Ready State (debug) (debug_immediate_SecretPassageway_DeathNotReady)" Value="483533" />
+  <Preset Label="Listen to Cuckoo (secretPassageway_CuckooBroadcast_Reaction)" Value="483534" />
+  <Preset Label="Stop Extorting (socials_Targeted_Friendly_ScandalSecret_StopBlackmailing)" Tags="TestUnsafe" Value="483672" />
+  <Preset Label="Stop Extorting (scandalSecretPickerInteraction_BlackmailEvents_StopBlackmailing)" Tags="TestUnsafe" Value="483673" />
+  <Preset Label="Turn On Cuckoo Sounds (immediate_SecretPassageway_CuckooBroadcast_Toggle_On)" Value="483684" />
+  <Preset Label="Turn Off Cuckoo Sounds (immediate_SecretPassageway_CuckooBroadcast_Toggle_Off)" Value="483685" />
+  <Preset Label="Bellacorde Trade Stall (purchase_MarketStalls_EP21World_Bellacorde)" Tags="TestUnsafe" Value="483945" />
+  <Preset Label="Small Donation (throne_NobleCareer_DonateToKingdom_Small)" Value="483965" />
+  <Preset Label="Medium Donation (throne_NobleCareer_DonateToKingdom_Medium)" Value="483966" />
+  <Preset Label="Large Donation (throne_NobleCareer_DonateToKingdom_Large)" Value="483967" />
+  <Preset Label="Huge Donation (throne_NobleCareer_DonateToKingdom_Huge)" Value="483968" />
+  <Preset Label="Small Donation (computer_NobleCareer_DonateToKingdom_Small)" Value="483990" />
+  <Preset Label="Medium Donation (computer_NobleCareer_DonateToKingdom_Medium)" Value="483991" />
+  <Preset Label="Large Donation (computer_NobleCareer_DonateToKingdom_Large)" Value="483992" />
+  <Preset Label="Huge Donation (computer_NobleCareer_DonateToKingdom_Huge)" Value="483993" />
+  <Preset Label="Tend Stall (marketStalls_Tend_Bellacorde_Trade)" Value="484140" />
+  <Preset Label="Buy Local Wares (marketStalls_ShopFor_BellacordeTrade)" Value="484141" />
+  <Preset Label="Watch Swordsmanship Duel (swordsmanship_Watch_Duel)" Value="484286" />
+  <Preset Label="Start Next Round (immediate_Gazebo_SwordsmanshipTournament_StartNextRound)" Value="484435" />
+  <Preset Label="Ask about Ondarion Landmarks (socials_Targeted_Friendly_AlwaysOn_STC_RobinHood_AskAboutWorldLandmark)" Tags="TestUnsafe" Value="484455" />
+  <Preset Label="Gift to (social_PowerShifts_Shoes_Gift)" Value="484463" />
+  <Preset Label="Entering {1.ObjectName} (secretPassageway_Explore_Travel_InLot)" Value="484482" />
+  <Preset Label="secretPassageway_Explore_Travel_OffLot" Value="484485" />
+  <Preset Label="swordsmanship_Watch_Mixers_Awe" Value="484616" />
+  <Preset Label="swordsmanship_Watch_Mixers_Excited" Value="484617" />
+  <Preset Label="swordsmanship_Watch_Mixers_Passive" Value="484618" />
+  <Preset Label="swordsmanship_Watch_Mixers_Scared" Value="484619" />
+  <Preset Label="Duelling (social_Swordsmanship_Duel_Tournament)" Value="484643" />
+  <Preset Label="eP21World_RobinHood_DropTreasure" Value="484646" />
+  <Preset Label="eP21World_RobinHood_Leave" Value="484650" />
+  <Preset Label="Expose {1.SimFirstName}'s Scandal (scandalSecretPickerInteraction_RevealSecret_TargetSim)" Tags="TestUnsafe" Value="484818" />
+  <Preset Label="Receive Commoner Favor (socials_Targeted_Mean_ScandalSecret_Blackmail_NobleFavor_Commoner)" Tags="TestUnsafe" Value="484893" />
+  <Preset Label="Receive Commoner Favor (scandalSecretPickerInteraction_Blackmail_NobleFavor_Commoner)" Tags="TestUnsafe" Value="484895" />
+  <Preset Label="Receive Noble Favor (socials_Targeted_Mean_ScandalSecret_Blackmail_NobleFavor_Noble)" Tags="TestUnsafe" Value="484896" />
+  <Preset Label="Receive Noble Favor (scandalSecretPickerInteraction_Blackmail_NobleFavor_Noble)" Tags="TestUnsafe" Value="484897" />
+  <Preset Label="Extortion (socials_Targeted_Mean_ScandalSecret_Blackmail_Dynasty_RivalryEnd)" Tags="TestUnsafe" Value="485086" />
+  <Preset Label="Extortion (socials_Targeted_Mean_ScandalSecret_Blackmail_Dynasty_AllianceEnd)" Tags="TestUnsafe" Value="485087" />
+  <Preset Label="Arrange Promotion (phone_DynastyPerk_ArrangePromotion_PickedSim)" Value="485157" />
+  <Preset Label="Give Up Tournament (gazebo_SwordsmanshipTournament_GiveUp_ConfirmationDialog)" Value="485246" />
+  <Preset Label="Open Chest (RobinHoodChest_Open)" Value="485287" />
+  <Preset Label="Forge Family Tree (familyTree_Tapestry_Forge)" Value="485307" />
+  <Preset Label="Duel for Dynasty Headship (social_Swordsmanship_AskForDuel_DynastyHeadship)" Value="485316" />
+  <Preset Label="Pressure to Abdicate (socialSI_NobleCareer_PushToAbdicateFromNobleCareer_Pressure)" Value="485378" />
+  <Preset Label="Encourage to Abdicate (socialSI_NobleCareer_PushToAbdicateFromNobleCareer_Encourage)" Value="485445" />
+  <Preset Label="Break Dynasty Alliance (scandalSecretPickerInteraction_Blackmail_Dynasty_AllianceEnd)" Tags="TestUnsafe" Value="485594" />
+  <Preset Label="End Dynasty Rivalry (scandalSecretPickerInteraction_Blackmail_Dynasty_RivalryEnd)" Tags="TestUnsafe" Value="485595" />
+  <Preset Label="Break Dynasty Alliance (simPickerInteraction_ScandalSecret_Blackmail_Dynasty_AllianceEnd)" Tags="TestUnsafe" Value="485596" />
+  <Preset Label="End Dynasty Rivalry (simPickerInteraction_ScandalSecret_Blackmail_Dynasty_RivalryEnd)" Tags="TestUnsafe" Value="485597" />
+  <Preset Label="Receive Gift (si_Touching_GiveGift_NobleFavor_RecieveFavoredGift)" Value="485681" />
+  <Preset Label="Gaze into the Future (powerShifts_SuperInteractions_Mirror_GazeIntoFuture)" Value="485713" />
+  <Preset Label="Investigate Secrets On (powerShifts_SuperInteractions_Mirror_InvestigateSecretsOn)" Value="485720" />
+  <Preset Label="Abdicate Noble Position (scandalSecretPickerInteraction_Blackmail_CareerLoss_Noble)" Tags="TestUnsafe" Value="485743" />
+  <Preset Label="Abdicate Noble Position (socials_Targeted_Mean_ScandalSecret_Blackmail_CareerLoss_Noble)" Tags="TestUnsafe" Value="485744" />
+  <Preset Label="Open (si_NobleFavor_Gift_OpenFromWorld)" Value="485873" />
+  <Preset Label="si_NobleFavor_Gift_Drop" Value="485875" />
+  <Preset Label="Duel for Permission to Marry (simPicker_Swordsmanship_AskForDuel_PermissionMarry_FromActorFamily)" Tags="TestUnsafe" Value="485880" />
+  <Preset Label="Duel for Permission to Marry (simPicker_Swordsmanship_AskForDuel_PermissionMarry_FromSOFamily)" Tags="TestUnsafe" Value="485881" />
+  <Preset Label="Duelling (social_Swordsmanship_Duel_PermissionMarry)" Value="485882" />
+  <Preset Label="Duel for Permission to Marry {2.SimName} (social_Swordsmanship_AskForDuel_PermissionMarry)" Value="485883" />
+  <Preset Label="si_Touching_GiveSword_RobinHood_Give" Value="485926" />
+  <Preset Label="Ask For Dueling Advice (socials_Targeted_Friendly_AlwaysOn_STC_RobinHood_AskForDuelingAdvice)" Tags="TestUnsafe" Value="486217" />
+  <Preset Label="Investigate Secrets On (simPickerInteraction_PowerShifts_Mirror_InvestigateSecretsOn)" Tags="TestUnsafe" Value="486247" />
+  <Preset Label="View Own Family Tree (familyTree_Tapestry_ViewOwn)" Value="486427" />
+  <Preset Label="Claim Lost Career Rank (sI_NobleCareer_ClaimCareerRank)" Value="486451" />
+  <Preset Label="Open (immediate_NobleFavor_NobleGifts_OpenGift)" Value="486469" />
+  <Preset Label="Get Noble Rival (Debug) (debugImmediate_WorkRival_NobleCareer_Add)" Value="486657" />
+  <Preset Label="Remove Work Rival (Debug) (debugImmediate_WorkRival_NobleCareer_Remove)" Value="486658" />
+  <Preset Label="View Another Sim's Family Tree (familyTree_Tapestry_ViewOthersInHH)" Value="486659" />
+  <Preset Label="View Dynasty (familyTree_Tapestry_ViewDynasty)" Value="486660" />
+  <Preset Label="View Another Sim's Family Tree (simPicker_FamilyTree_ViewOthersInHH)" Tags="TestUnsafe" Value="486662" />
+  <Preset Label="View Another Sim's Family Tree (familyTree_Tapestry_ViewOthersNotInHH)" Value="486663" />
+  <Preset Label="View Another Sim's Family Tree (simPicker_FamilyTree_ViewOthersNotInHH)" Tags="TestUnsafe" Value="486664" />
+  <Preset Label="Increase Noble Rival Chance (Debug) (debugImmediate_WorkRival_NobleCareer_IncreaseChance)" Value="486671" />
+  <Preset Label="Duel for Noble Rivalry (social_Swordsmanship_AskForDuel_NobleRivalry)" Value="487188" />
+  <Preset Label="Duelling (social_Swordsmanship_Duel_NobleRivalry)" Value="487189" />
+  <Preset Label="Duel for Dynasty Headship (social_Dynasty_ChallengeHead_Sword_SwordsmanshipCategory)" Value="487255" />
+  <Preset Label="immediate_Dynasty_PermissionToMarry_PostEngagementCheck" Value="487287" />
+  <Preset Label="immediate_Dynasty_PermissionToMarry_PostMarriageCheck" Value="487308" />
+  <Preset Label="React to Sim's Favor (reactions_NobleFavor_React)" Value="487468" />
+  <Preset Label="autonomous_ObjectPicker_EP21World_LighthouseWalk" Tags="TestUnsafe" Value="487566" />
+  <Preset Label="Lie about Secret Child's Parent (social_FamilyTree_SecretChild_LieAbout)" Value="487826" />
+  <Preset Label="Ask to Keep Baby Secret (social_FamilyTree_SecretChild_AskToKeepSecret)" Value="487827" />
+  <Preset Label="Bestow Knighthood (simPicker_NobleCareer_BestowKnighthoodTarget)" Tags="TestUnsafe" Value="488178" />
+  <Preset Label="Bestow Knighthood (socialSI_NobleCareer_BestowKnighthood)" Value="488179" />
+  <Preset Label="Bestow Knighthood (socialSI_NobleCareer_BestowKnighthood_Speech)" Value="488181" />
+  <Preset Label="Watch Knighthood (sI_NobleCareer_NobleEvents_WatchKnighthood)" Value="488182" />
+  <Preset Label="Receive Knighthood (socialSI_NobleCareer_BestowKnighthood_Target_ReceiveKnighthood)" Value="488185" />
+  <Preset Label="autonomousSimPicker_Walkby_Swordsmanship" Tags="TestUnsafe" Value="488193" />
+  <Preset Label="Research Own Family Tree (familyTree_Tapestry_ResearchFamilySecrets_Own)" Value="488209" />
+  <Preset Label="Research Another's Family Tree (familyTree_Tapestry_ResearchFamilySecrets_OthersInHH)" Value="488211" />
+  <Preset Label="Research Another's Family Tree (familyTree_Tapestry_ResearchFamilySecrets_OthersNotInHH)" Value="488212" />
+  <Preset Label="Research Another's Family Tree (simPicker_FamilyTree_ResearchFamilySecrets_OthersInHH)" Tags="TestUnsafe" Value="488213" />
+  <Preset Label="Research Another's Family Tree (simPicker_FamilyTree_ResearchFamilySecrets_OthersNotInHH)" Tags="TestUnsafe" Value="488214" />
+  <Preset Label="autonomous_ObjectPicker_EP21World_BellacordeMirrorWalk" Tags="TestUnsafe" Value="488514" />
+  <Preset Label="Join Noble Career (sI_NobleCareer_JoinCareer)" Value="488544" />
+  <Preset Label="autonomous_ObjectPicker_EP21World_BellacordeFountainWalk" Tags="TestUnsafe" Value="488740" />
+  <Preset Label="eP21World_Walkto" Value="488748" />
+  <Preset Label="autonomous_ObjectPicker_EP21World_GazeboWalk" Tags="TestUnsafe" Value="489263" />
+  <Preset Label="Create Dynasty (familyTree_Tapestry_CreateDynasty)" Value="489349" />
+  <Preset Label="Start Duel (social_Swordsmanship_AskForDuel_Tournament)" Value="489476" />
+  <Preset Label="Seduce to Abdicate (mixer_Social_Romance_NobleCareer_SeduceToAbdicate)" Tags="TestUnsafe" Value="489494" />
+  <Preset Label="Assign a new Dynasty Heir (simPickerInteraction_ScandalSecret_Blackmail_Dynasty_AssignNewHeir)" Tags="TestUnsafe" Value="489516" />
+  <Preset Label="Extortion (socials_Targeted_Mean_ScandalSecret_Blackmail_Dynasty_BecomeNewHead)" Tags="TestUnsafe" Value="489517" />
+  <Preset Label="Take Over as Dynasty Head (scandalSecretPickerInteraction_Blackmail_Dynasty_BecomeNewHead)" Tags="TestUnsafe" Value="489519" />
+  <Preset Label="Extortion (socials_Targeted_Mean_ScandalSecret_Blackmail_Dynasty_AssignNewHeir)" Tags="TestUnsafe" Value="489522" />
+  <Preset Label="Step Down as Dynasty Head (scandalSecretPickerInteraction_Blackmail_Dynasty_MakeHeadResign)" Tags="TestUnsafe" Value="489523" />
+  <Preset Label="Extortion (socials_Targeted_Mean_ScandalSecret_Blackmail_Dynasty_MakeHeadResign)" Tags="TestUnsafe" Value="489545" />
+  <Preset Label="Assign a new Dynasty Heir (scandalSecretPickerInteraction_Blackmail_Dynasty_AssignNewHeir)" Tags="TestUnsafe" Value="489547" />
+  <Preset Label="Assign a Dynasty Outcast (simPickerInteraction_ScandalSecret_Blackmail_Dynasty_AssignBlackSheep)" Tags="TestUnsafe" Value="489549" />
+  <Preset Label="Extortion (socials_Targeted_Mean_ScandalSecret_Blackmail_Dynasty_AssignBlackSheep)" Tags="TestUnsafe" Value="489550" />
+  <Preset Label="Assign a Dynasty Outcast (scandalSecretPickerInteraction_Blackmail_Dynasty_AssignBlackSheep)" Tags="TestUnsafe" Value="489552" />
+  <Preset Label="Forgive a Dynasty Outcast (simPickerInteraction_ScandalSecret_Blackmail_Dynasty_UnassignBlackSheep)" Tags="TestUnsafe" Value="489564" />
+  <Preset Label="Forgive a Dynasty Outcast (scandalSecretPickerInteraction_Blackmail_Dynasty_UnassignBlackSheep)" Tags="TestUnsafe" Value="489565" />
+  <Preset Label="Extortion (socials_Targeted_Mean_ScandalSecret_Blackmail_Dynasty_UnassignBlackSheep)" Tags="TestUnsafe" Value="489566" />
+  <Preset Label="Buy Secrets (socials_Targeted_Friendly_ScandalSecret_InfoBroker_BuySecretFromBroker)" Tags="TestUnsafe" Value="489744" />
+  <Preset Label="Sell another Sim's secret to the Info Broker (socials_Targeted_Friendly_ScandalSecret_InfoBroker_SellSecretToBroker_OtherSim)" Tags="TestUnsafe" Value="489745" />
+  <Preset Label="Bury own secret (socials_Targeted_Friendly_ScandalSecret_InfoBroker_BurySecretFromBroker)" Tags="TestUnsafe" Value="489746" />
+  <Preset Label="Sell your secret to the Info Broker (socials_Targeted_Friendly_ScandalSecret_InfoBroker_SellSecretToBroker_OwnSecret)" Tags="TestUnsafe" Value="489747" />
+  <Preset Label="Enroll in Swordsmanship Tournament (gazebo_SwordsmanshipTournament_Enroll)" Value="489963" />
+  <Preset Label="Buy Secret (simPicker_ScandalSecret_InfoBroker_BuySecret_Social)" Tags="TestUnsafe" Value="489995" />
+  <Preset Label="Witness Atonement (sI_NobleCareer_Atone_Audience)" Value="490029" />
+  <Preset Label="Leave Career (socials_Targeted_Mean_ScandalSecret_Blackmail_CareerLoss)" Tags="TestUnsafe" Value="490124" />
+  <Preset Label="Leave Career (scandalSecretPickerInteraction_Blackmail_CareerLoss)" Tags="TestUnsafe" Value="490125" />
+  <Preset Label="Expose Scandal on Social Media (scandalSecretPickerInteraction_RevealSecret_phone_otherSimsSecrets)" Tags="TestUnsafe" Value="490126" />
+  <Preset Label="Expose Scandal on Social Media (phone_ScandalSecret_RevealPickedSecret)" Value="490127" />
+  <Preset Label="Leak Own Scandal Online (scandalSecretPickerInteraction_RevealSecret_phone_ownSecret)" Tags="TestUnsafe" Value="490129" />
+  <Preset Label="Expose Scandal on Social Media (scandalSecretPickerInteraction_RevealSecret_computer_otherSimsSecrets)" Tags="TestUnsafe" Value="490130" />
+  <Preset Label="Expose Scandal on Social Media (computer_ScandalSecret_RevealPickedSecret)" Value="490131" />
+  <Preset Label="Leak Own Scandal Online (scandalSecretPickerInteraction_RevealSecret_computer_ownSecret)" Tags="TestUnsafe" Value="490132" />
+  <Preset Label="Discuss Ondarion's Ordeals (socials_Targeted_Friendly_AlwaysOn_STC_EP21World_AskAboutGoldworld)" Tags="TestUnsafe" Value="490276" />
+  <Preset Label="Ramble about the Royal Robber (socials_Targeted_Friendly_AlwaysOn_STC_EP21World_AskAboutRobinHood)" Tags="TestUnsafe" Value="490279" />
+  <Preset Label="Babble about Bellacorde (socials_Targeted_Friendly_AlwaysOn_STC_EP21World_AskAboutTheCapps)" Tags="TestUnsafe" Value="490351" />
+  <Preset Label="Vent about Verdemar (socials_Targeted_Friendly_AlwaysOn_STC_EP21World_AskAboutTheThebes)" Tags="TestUnsafe" Value="490352" />
+  <Preset Label="Dish about Dambele (socials_Targeted_Friendly_AlwaysOn_STC_EP21World_AskAboutTheDarongs)" Tags="TestUnsafe" Value="490353" />
+  <Preset Label="Remove Crystal Slippers (powerShifts_SuperInteractions_Shoes_RemoveShoes)" Value="490363" />
+  <Preset Label="Bury own secret (nPC_Picker_ScandalSecret_InfoBroker_BurySecret)" Tags="TestUnsafe" Value="490507" />
+  <Preset Label="Sell another Sim's secret to the Info Broker (nPC_Picker_ScandalSecret_InfoBroker_SellSecret_OtherSim)" Tags="TestUnsafe" Value="490568" />
+  <Preset Label="Sell your secret to the Info Broker (nPC_Picker_ScandalSecret_InfoBroker_SellSecret_OwnSecret)" Tags="TestUnsafe" Value="490569" />
+  <Preset Label="Craft (easel_Craft_Autonomously_Dambele)" Value="490570" />
+  <Preset Label="immediate_Dynasty_MarriageDynastyChoice" Value="490654" />
+  <Preset Label="Read Suspicious Note (SuspiciousNote_Open)" Value="490670" />
+  <Preset Label="Purchase Swords (purchasePicker_Swords_TrainingDummy)" Tags="TestUnsafe" Value="490675" />
+  <Preset Label="immediate_Dynasty_MarriageNewDynasty" Value="490706" />
+  <Preset Label="Go to Cliff (eP21World_Portal_Teleport_VerdemarPortal_BottomToTop)" Value="490930" />
+  <Preset Label="Go to Docks (eP21World_Portal_Teleport_VerdemarPortal_TopToBottom)" Value="490931" />
+  <Preset Label="Claim Noble Promotion (sI_NobleCareer_EarlyPromotion)" Value="491188" />
+  <Preset Label="Complete Upgrades (debug_immediate_SecretPassageway_UpgradesCompleted)" Value="491537" />
+  <Preset Label="Share Own Secret (scandalSecretPickerInteraction_ShareSecretAboutSelf)" Tags="TestUnsafe" Value="491743" />
+  <Preset Label="autonomous_ObjectPicker_SwordsmanshipTournament_Mat" Tags="TestUnsafe" Value="491832" />
+  <Preset Label="Go to Tournament Field (swordsmanship_Tournament_GetInPosition_Actor)" Value="491833" />
+  <Preset Label="Go to Tournament Field (swordsmanship_Tournament_GetInPosition_Target)" Value="491834" />
+  <Preset Label="Practice Swordsmanship (objectPicker_SwordTrainingDummy_Train_SwordInventory)" Tags="TestUnsafe" Value="491997" />
+  <Preset Label="immediate_PowerShifts_Shoes_EventUI" Value="492031" />
+  <Preset Label="immediate_ScandalSecret_PickedSim_DiscoverExistingSecret" Value="492106" />
+  <Preset Label="familyTree_Book_Research_Outcomes" Value="492540" />
+  <Preset Label="genericChoose_PowerShifts_Shoes_Propose_TargetHasShoes" Value="492610" />
+  <Preset Label="immediate_PowerShifts_Shoes_Propose_Yes" Value="492612" />
+  <Preset Label="immediate_PowerShifts_Shoes_Propose_No" Value="492613" />
+  <Preset Label="genericChoose_PowerShifts_Shoes_Propose_ActorHasShoes" Value="492653" />
+  <Preset Label="autonomousSimPicker_PowerShifts_Shoes_Divorce" Tags="TestUnsafe" Value="492656" />
+  <Preset Label="immediate_PowerShifts_Shoes_DivorcePickedSim" Value="492657" />
+  <Preset Label="Ashamed about Surrendering (reactions_Generic_Sad_GiveUpTournament)" Value="492853" />
+  <Preset Label="Ask Permission to Marry (simPicker_Dynasty_AskPermissionToMarry_FromActorFamily_DynastyCat)" Tags="TestUnsafe" Value="493155" />
+  <Preset Label="Ask Permission to Marry (simPicker_Dynasty_AskPermissionToMarry_FromSOFamily_DynastyCat)" Tags="TestUnsafe" Value="493157" />
+  <Preset Label="Toggle Scandal Cloud Effect On (immediate_ScandalSecret_ToggleAura)" Value="493238" />
+  <Preset Label="Offer Comfort from Scandal (mixer_social_ScandalSecret_Comfort)" Tags="TestUnsafe" Value="493297" />
+  <Preset Label="Be Scandalized by {1.SimFirstName} (scandalSecret_ReactionShun)" Value="493305" />
+  <Preset Label="sI_NobleCareer_GoNearThrone" Value="494104" />
+  <Preset Label="Receive Promotion through Coronation Ceremony (sI_NobleCareer_ReceiveNewTitle_Start)" Value="494204" />
+  <Preset Label="autonomousSimPicker_ScandalSecret_PickLotOwner" Tags="TestUnsafe" Value="494221" />
+  <Preset Label="Remove Coronation Crown (immediate_NobleCareer_CrownOverrideToggle)" Value="495020" />
+  <Preset Label="Share Secret (socials_Targeted_Friendly_ScandalSecret_ShareOwnSecret)" Tags="TestUnsafe" Value="495130" />
+  <Preset Label="Receive Promotion through Coronation Ceremony (socialSI_NobleCareer_AcceptCoronationSpeech)" Value="495921" />
+  <Preset Label="Receive Promotion through Coronation Speech (sI_NobleCareer_CoronationSpeech_Start)" Value="495922" />
+  <Preset Label="Usurp Dynasty Headship (socialMixer_Dynasty_Internal_Titles_DemandHeadship_InfantToddler)" Tags="TestUnsafe" Value="496069" />
+  <Preset Label="Usurp Dynasty Headship (si_Dynasty_DemandHeadship_Baby)" Value="496213" />
+  <Preset Label="Trial One: Weave a Story (powerShifts_SuperInteractions_SpiderWell_TrialOne)" Value="496607" />
+  <Preset Label="Trial Two: Offer a Secret (powerShifts_SuperInteractions_SpiderWell_TrialTwo)" Value="496608" />
+  <Preset Label="Trial Three: Spin the Web (powerShifts_SuperInteractions_SpiderWell_TrialThree)" Value="496609" />
+  <Preset Label="Trial Four: Fulfill the Thread (powerShifts_SuperInteractions_SpiderWell_TrialFour)" Value="496610" />
+  <Preset Label="swordsmanship_Tournament_StayOutsideMat" Value="496658" />
+  <Preset Label="swordsmanship_Tournament_NextRoundDelay" Value="496753" />
+  <Preset Label="Start Duel (simPicker_Swordsmanship_AskForDuel_Tournament)" Tags="TestUnsafe" Value="496754" />
+  <Preset Label="powerShifts_SuperInteractions_SpiderWell_Reaction_Fail" Value="496789" />
+  <Preset Label="powerShifts_SuperInteractions_SpiderWell_Reaction_Success" Value="496790" />
+  <Preset Label="Shift Favor (immediate_PowerShifts_SpiderWell_ShiftFavor)" Value="496976" />
+  <Preset Label="Plan Grand Ball Event... (immediate_Ballroom_EventUI)" Value="496983" />
+  <Preset Label="Work Chat (phone_Chat_Work_Performance_Noble)" Value="497025" />
+  <Preset Label="Bad Dog, no Biscuit (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_badDogNoBiscuit)" Value="497256" />
+  <Preset Label="Bring me my Brown Pants (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_bladderFail)" Value="497257" />
+  <Preset Label="Plasma Thief! (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_bloodSucker)" Value="497258" />
+  <Preset Label="Unfair Affair (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_cheating)" Value="497259" />
+  <Preset Label="Nasty Little Letters (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_forgedBreakup)" Value="497260" />
+  <Preset Label="Secret Child (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_hasSecretChild)" Value="497261" />
+  <Preset Label="Abandoned at the Altar (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_leftTheAltar)" Value="497262" />
+  <Preset Label="Frog Kisser (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_PowerShifts_KissedFrog)" Value="497263" />
+  <Preset Label="Stolen Hearts (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_romanceBurglar)" Value="497274" />
+  <Preset Label="Some Sims are scared of Clowns, but lucky for {0.SimFirstName} that's not a problem in this relationship! (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_romanceClown)" Value="497275" />
+  <Preset Label="Daddy Winter (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_romanceFatherWinter)" Value="497276" />
+  <Preset Label="Grim Lover (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_romanceGrim)" Value="497277" />
+  <Preset Label="Gone Baby Gone (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_socialServicesTookChild)" Value="497278" />
+  <Preset Label="Sticky Fingered Filcher (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_stealing)" Value="497279" />
+  <Preset Label="Very Suspicious Circumstances (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_suspiciousCircumstances)" Value="497280" />
+  <Preset Label="Unfair Fairy (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_unfairFairy)" Value="497281" />
+  <Preset Label="To Do Voodoo (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_useVoodooDoll)" Value="497282" />
+  <Preset Label="Defaced the Monument (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_VandalizedMonument)" Value="497283" />
+  <Preset Label="Public Woohoo (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_woohooInPublic)" Value="497284" />
+  <Preset Label="Indecent Employer (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_woohooWithStaff)" Value="497285" />
+  <Preset Label="Clear all Forced Outcome Buffs (cheats_ScandalSecret_NPCSecretGen_GiveCheatBuff_clearAll)" Value="497286" />
+  <Preset Label="Ask for Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_AskFor_Swordsmanship)" Tags="TestUnsafe" Value="497307" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Paid_Swordsmanship)" Tags="TestUnsafe" Value="497308" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Unpaid_Swordsmanship)" Tags="TestUnsafe" Value="497309" />
+  <Preset Label="simPicker_Mentoring_AskFor_Swordsmanship" Tags="TestUnsafe" Value="497310" />
+  <Preset Label="simPicker_Mentoring_Offer_Paid_Swordsmanship" Tags="TestUnsafe" Value="497311" />
+  <Preset Label="simPicker_Mentoring_Offer_Unpaid_Swordsmanship" Tags="TestUnsafe" Value="497312" />
+  <Preset Label="Mentor {2.String} (mentor_Swordsmanship)" Value="497315" />
+  <Preset Label="Mentor {2.String} (mentor_Swordsmanship_Getaway)" Value="497316" />
+  <Preset Label="simPicker_HobbyClass_RequestClass_Swordsmanship" Tags="TestUnsafe" Value="497497" />
+  <Preset Label="&lt;font color='#FF0000'&gt;Only up to {0.Number} listeners can be selected.&lt;/font&gt; (simPicker_HobbyClass_Whiteboard_LectureFor_Swordsmanship)" Tags="TestUnsafe" Value="497498" />
+  <Preset Label="**DEBUG** (social_HobbyClass_Whiteboard_Lecture_Swordsmanship)" Value="497499" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_ListenToLecture_Swordsmanship)" Value="497501" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_PrepareLecture_Swordsmanship)" Value="497502" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartClass_Swordsmanship)" Value="497503" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartLecture_Swordsmanship)" Value="497504" />
+  <Preset Label="autoSimPicker_PowerShifts_InformationBroker" Tags="TestUnsafe" Value="497545" />
+  <Preset Label="immediate_PowerShifts_InformationBroker" Value="497546" />
+  <Preset Label="Start the Grand Waltz (ballroomDancing_PairedGroup_Medium_StartSituation)" Value="497645" />
+  <Preset Label="autopicker_PowerShifts_SpiderWell_BuryRandomSecret" Value="497745" />
+  <Preset Label="immediate_ScandalSecret_WitnessBalloon" Value="497890" />
+  <Preset Label="autopicker_PowerShifts_SpiderWell_RevealRandomSecret" Value="497920" />
+  <Preset Label="Duel for a Sim's Heart (simPicker_Swordsmanship_AskForDuel_SimHeart_YAE)" Tags="TestUnsafe" Value="497951" />
+  <Preset Label="Cutting Ribbon at Local Business Opening (si_Rabbithole_NobleCareer_BusinessOpening)" Value="497971" />
+  <Preset Label="Visiting Kingdom Heritage Sites (si_Rabbithole_NobleCareer_HeritageSites)" Value="497972" />
+  <Preset Label="Attending Political Conference (si_Rabbithole_NobleCareer_NobleConference)" Value="497973" />
+  <Preset Label="Giving an Interview for the Local Newspaper (si_Rabbithole_NobleCareer_TakeInterviews)" Value="497974" />
+  <Preset Label="Holding School Presentation (si_Rabbithole_NobleCareer_VisitSchool)" Value="497975" />
+  <Preset Label="Cut Ribbon at Local Business Opening (phone_NobleCareer_Rabbithole_BusinessOpening)" Value="497977" />
+  <Preset Label="Visit Kingdom Heritage Sites (phone_NobleCareer_Rabbithole_HeritageSites)" Value="497978" />
+  <Preset Label="Attend Political Conference for Nobles (phone_NobleCareer_Rabbithole_NobleConference)" Value="497979" />
+  <Preset Label="Give Interview for Local Newspaper (phone_NobleCareer_Rabbithole_TakeInterviews)" Value="497980" />
+  <Preset Label="Visit and Present at Local School (phone_NobleCareer_Rabbithole_VisitSchool)" Value="497981" />
+  <Preset Label="sI_NobleCareer_GoNearPodium" Value="498183" />
+  <Preset Label="Cut Ribbon at Local Business Opening (immediate_NobleCareer_RabbitHoleFromWorld_BusinessOpening)" Value="498203" />
+  <Preset Label="Visit Kingdom Heritage Sites (immediate_NobleCareer_RabbitHoleFromWorld_HeritageSites)" Value="498204" />
+  <Preset Label="Attend Political Conference for Nobles (immediate_NobleCareer_RabbitHoleFromWorld_NobleConference)" Value="498205" />
+  <Preset Label="Give Interview for Local Newspaper (immediate_NobleCareer_RabbitHoleFromWorld_TakeInterviews)" Value="498206" />
+  <Preset Label="Visit and Present at Local School (immediate_NobleCareer_RabbitHoleFromWorld_VisitSchool)" Value="498207" />
+  <Preset Label="Ask to be Noble Advisor (mixer_Social_NobleCareer_AskToBeNobleAdvisor)" Tags="TestUnsafe" Value="498674" />
+  <Preset Label="Revoke Noble Advisor Role (mixer_Social_NobleCareer_RevokeNobleAdvisor)" Tags="TestUnsafe" Value="498675" />
+  <Preset Label="Duelling (social_Swordsmanship_Duel_Burglar)" Value="499193" />
+  <Preset Label="Duel for Stolen Property (social_Swordsmanship_AskForDuel_Burglar)" Value="499194" />
+  <Preset Label="Examine Enchanted Mirror (powerShifts_SuperInteractions_Mirror_Examine)" Value="499339" />
+  <Preset Label="Examine Frog Lore (powerShifts_SuperInteractions_Frog_Examine)" Value="499340" />
+  <Preset Label="React to Scandalous Claims (scandalSecret_ReactionExposed_CheckPhone)" Value="499408" />
+  <Preset Label="autopicker_ScandalSecret_ShareOwnSecret" Value="499552" />
+  <Preset Label="autonomousSimPicker_ScandalSecret_PickMetSim" Tags="TestUnsafe" Value="499553" />
+  <Preset Label="Request Knighthood (socialSI_NobleCareer_RequestKnighthood)" Value="499559" />
+  <Preset Label="Research Noble Legacy (book_NobleCareer_ResearchNobleLegacy)" Value="499654" />
+  <Preset Label="Cancel Dance Partnership (immediate_Ballroom_CancelDancePartners)" Value="499940" />
+  <Preset Label="sI_NobleCareer_NobleBookJoin" Value="499944" />
+  <Preset Label="Examine Anansi's Well (powerShifts_SuperInteractions_SpiderWell_Examine)" Value="500007" />
+  <Preset Label="Cuckoo Malfunction! (death_SecretPassageway_Cuckoo_HumanoidRobot)" Value="500600" />
+  <Preset Label="Kiss Frog (social_PowerShifts_Frog_PostSpawn_Noble)" Value="500820" />
+  <Preset Label="Kiss Frog (powerShifts_Frog_SuperInteractions_SpawnAffordance_Noble)" Value="500822" />
+  <Preset Label="autoSimPicker_PowerShifts_Frog_FindKisser_Noble" Tags="TestUnsafe" Value="500824" />
+  <Preset Label="mixer_NobleCareer_Daydream" Value="500829" />
+  <Preset Label="Expose {1.SimFirstName}'s Scandal (socials_Targeted_Mean_ScandalSecret_RevealSecret_TargetSim)" Tags="TestUnsafe" Value="500939" />
+  <Preset Label="Write a Scandal Apology Statement (immediate_ScandalSecret_Statements_Computer_Apology)" Value="501013" />
+  <Preset Label="Issue a Public Apology (immediate_ScandalSecret_Statements_Podium_Apology)" Value="501015" />
+  <Preset Label="Write a Scandal Apology Statement (computer_ScandalSecret_Statements_Apology_Failure)" Value="501019" />
+  <Preset Label="Write a Scandal Denial Statement (computer_ScandalSecret_Statements_Denial_Failure)" Value="501020" />
+  <Preset Label="Write a Scandal Denial Statement (immediate_ScandalSecret_Statements_Computer_Denial)" Value="501021" />
+  <Preset Label="Issue a Denial Statement (mixer_NobleCareer_IssueADenialStatement_Failure)" Value="501083" />
+  <Preset Label="Issue a Public Apology (mixer_NobleCareer_IssueAPublicApology_Failure)" Value="501084" />
+  <Preset Label="Issue a Denial Statement (immediate_ScandalSecret_Statements_Podium_Denial)" Value="501091" />
+  <Preset Label="Hold Court (simPicker_NobleCareer_HasNobleAdvisor_HoldCourt)" Tags="TestUnsafe" Value="501265" />
+  <Preset Label="nonTouching_Unpaired_Greetings_NobleCareer" Value="501267" />
+  <Preset Label="Hold Press Conference (simPicker_NobleCareer_HasNobleAdvisor_HoldPressConference)" Tags="TestUnsafe" Value="501437" />
+  <Preset Label="Hold Welcome Speech (sI_NobleCareer_HoldWelcomeSpeech)" Value="501569" />
+  <Preset Label="Listen To Welcome Speech (sI_NobleCareer_NobleEvents_ListenWelcomeSpeech)" Value="502050" />
+  <Preset Label="Declare Atonement (socialSI_NobleCareer_Atone)" Value="502070" />
+  <Preset Label="Atone for Bad Deeds (socialSI_NobleCareer_Atone_Target)" Value="502071" />
+  <Preset Label="si_NobleCareer_Atone_RunAway" Value="502122" />
+  <Preset Label="Take Vacation Day (Noble) (phone_TakePTO_NobleCareer)" Value="502376" />
+  <Preset Label="Unity Neutral (immediate_Dynasty_Debug_UnityCheck)" Value="502666" />
+  <Preset Label="Give Noble Speech (sI_NobleCareer_PressConference_SpeechStart)" Value="502704" />
+  <Preset Label="See What's Happening (reactions_NobleCareer_NobleSpeech_RelGain_Noble)" Value="502776" />
+  <Preset Label="See What's Happening (reactions_NobleCareer_NobleSpeech_RelGain_Commoner)" Value="502789" />
+  <Preset Label="Listen to {1.SimFirstName}'s Question (social_Swordsmanship_AskForDuel_Tournament_Listen)" Value="502797" />
+  <Preset Label="Listen to Noble Speech (sI_NobleCareer_PressConference_SpeechPreWatch)" Value="502819" />
+  <Preset Label="mixer_NobleCareer_Podium_Listener_Cheer" Value="502847" />
+</PresetGroup>

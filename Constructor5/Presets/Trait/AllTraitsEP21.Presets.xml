@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Traits EP21">
+  <Preset Label="Dislikes Swordsmanship (trait_SimPreference_Dislikes_Activities_Swordsmanship)" Value="460835" />
+  <Preset Label="Likes Swordsmanship (trait_SimPreference_Likes_Activities_Swordsmanship)" Value="460836" />
+  <Preset Label="Mild Mental Affinity (trait_DynastyPerk_AffinityMental1)" Value="465971" />
+  <Preset Label="Moderate Mental Affinity (trait_DynastyPerk_AffinityMental2)" Value="465972" />
+  <Preset Label="Strong Mental Affinity (trait_DynastyPerk_AffinityMental3)" Value="465973" />
+  <Preset Label="Mild Physical Affinity (trait_DynastyPerk_AffinityPhysical1)" Value="465974" />
+  <Preset Label="Moderate Physical Affinity (trait_DynastyPerk_AffinityPhysical2)" Value="465975" />
+  <Preset Label="Strong Physical Affinity (trait_DynastyPerk_AffinityPhysical3)" Value="465976" />
+  <Preset Label="Mild Creative Affinity (trait_DynastyPerk_AffinityCreative1)" Value="465977" />
+  <Preset Label="Moderate Creative Affinity (trait_DynastyPerk_AffinityCreative2)" Value="465978" />
+  <Preset Label="Strong Creative Affinity (trait_DynastyPerk_AffinityCreative3)" Value="465979" />
+  <Preset Label="Mild Social Affinity (trait_DynastyPerk_AffinitySocial1)" Value="465980" />
+  <Preset Label="Moderate Social Affinity (trait_DynastyPerk_AffinitySocial2)" Value="465981" />
+  <Preset Label="Strong Social Affinity (trait_DynastyPerk_AffinitySocial3)" Value="465982" />
+  <Preset Label="trait_Dynasty_Member" Value="466524" />
+  <Preset Label="trait_Dynasty_Founder" Value="466525" />
+  <Preset Label="trait_Dynasty_Heir" Value="466526" />
+  <Preset Label="trait_Dynasty_Head" Value="466527" />
+  <Preset Label="trait_Dynasty_BlackSheep" Value="466528" />
+  <Preset Label="trait_NobleFavor_Rank_0_Commoner" Value="466628" />
+  <Preset Label="trait_NobleFavor_Rank_1_Commoner" Value="466629" />
+  <Preset Label="trait_NobleFavor_Rank_2_Commoner" Value="466630" />
+  <Preset Label="trait_NobleFavor_Rank_3_Neutral" Value="466631" />
+  <Preset Label="trait_NobleFavor_Rank_4_Royal" Value="466632" />
+  <Preset Label="trait_NobleFavor_Rank_5_Royal" Value="466633" />
+  <Preset Label="trait_NobleFavor_Rank_6_Royal" Value="466634" />
+  <Preset Label="trait_NobleFavor_HasBeenRank_0_Commoner" Value="466658" />
+  <Preset Label="trait_NobleFavor_HasBeenRank_1_Commoner" Value="466659" />
+  <Preset Label="trait_NobleFavor_HasBeenRank_2_Commoner" Value="466660" />
+  <Preset Label="trait_NobleFavor_HasBeenRank_3_Neutral" Value="466661" />
+  <Preset Label="trait_NobleFavor_HasBeenRank_4_Royal" Value="466662" />
+  <Preset Label="trait_NobleFavor_HasBeenRank_5_Royal" Value="466663" />
+  <Preset Label="trait_NobleFavor_HasBeenRank_6_Royal" Value="466664" />
+  <Preset Label="trait_isRobinHood" Value="466848" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_Swordsmanship" Value="469826" />
+  <Preset Label="trait_Dynasty_BlackSheep_Resentful" Value="469882" />
+  <Preset Label="trait_Dynasty_BlackSheep_Repentful" Value="469883" />
+  <Preset Label="trait_Dynasty_EncourageIdeal" Value="475046" />
+  <Preset Label="trait_Dynasty_DiscourageIdeal" Value="475047" />
+  <Preset Label="trait_Dynasty_EncourageSkill" Value="475048" />
+  <Preset Label="trait_Hidden_Ballroom_AwkwardWaltz" Value="475268" />
+  <Preset Label="trait_Hidden_IsEkeneAnanou" Value="477684" />
+  <Preset Label="trait_Hidden_FirstNote" Value="479051" />
+  <Preset Label="trait_Hidden_PowerShifts_Frog_FormerFrog" Value="479492" />
+  <Preset Label="Likes Waltz Music (trait_SimPreference_Likes_Music_Ballroom)" Value="479931" />
+  <Preset Label="Dislikes Waltz Music (trait_SimPreference_Dislikes_Music_Ballroom)" Value="479937" />
+  <Preset Label="Likes Afrobeats Music (trait_SimPreference_Likes_Music_AfroBeats)" Value="480290" />
+  <Preset Label="Dislikes Afrobeats Music (trait_SimPreference_Dislikes_Music_AfroBeats)" Value="480296" />
+  <Preset Label="Blue Blood (trait_NobleCareer_BlueBlood)" Value="480527" />
+  <Preset Label="trait_Hidden_isDarong" Value="481236" />
+  <Preset Label="trait_Hidden_IsAfuaAnanou" Value="482134" />
+  <Preset Label="trait_NobleCareer_Hidden_KingdomTax_VeryLow" Value="482153" />
+  <Preset Label="trait_NobleCareer_Hidden_KingdomTax_Low" Value="482154" />
+  <Preset Label="trait_NobleCareer_Hidden_KingdomTax_Normal" Value="482155" />
+  <Preset Label="trait_NobleCareer_Hidden_KingdomTax_High" Value="482156" />
+  <Preset Label="trait_NobleCareer_Hidden_KingdomTax_VeryHigh" Value="482167" />
+  <Preset Label="trait_Hidden_SecretPassageway_Unlocked" Value="483133" />
+  <Preset Label="trait_Hidden_PowerShifts_SwordOwner" Value="484831" />
+  <Preset Label="trait_Hidden_Ep21World_IsAloisio" Value="485277" />
+  <Preset Label="trait_DynastyPerk_PartyPlanner1" Value="485433" />
+  <Preset Label="trait_DynastyPerk_PartyPlanner2" Value="485434" />
+  <Preset Label="trait_DynastyPerk_PartyPlanner3" Value="485435" />
+  <Preset Label="Former Noble Hustler (trait_NobleCareer_ExRank)" Value="485547" />
+  <Preset Label="Promised Noble Inheritance (trait_NobleCareer_Promised)" Value="486228" />
+  <Preset Label="trait_Hidden_FamilyTree_SecretChild_isPregnant" Value="487146" />
+  <Preset Label="trait_Hidden_Ep21World_IsInformationBroker" Value="488435" />
+  <Preset Label="trait_Hidden_FamilyTree_SecretChild_isPregnancyPartner" Value="488667" />
+  <Preset Label="trait_Hidden_ScandalSecret_NPCSecretGeneration_ObjectPending" Value="488860" />
+  <Preset Label="trait_Hidden_Ep21World_IsCapp" Value="489043" />
+  <Preset Label="trait_Hidden_Ep21World_IsCeleste" Value="489044" />
+  <Preset Label="trait_Hidden_Ep21World_IsVirgilio" Value="489045" />
+  <Preset Label="trait_Hidden_Ep21World_IsDante" Value="489046" />
+  <Preset Label="trait_Hidden_Ep21World_IsTybalt" Value="489047" />
+  <Preset Label="trait_Hidden_Ep21World_IsJuliet" Value="489048" />
+  <Preset Label="trait_Hidden_Ep21World_IsConsort" Value="489049" />
+  <Preset Label="trait_Hidden_Ep21World_BlackmailScheduler" Value="489086" />
+  <Preset Label="Regal Romancer (trait_NobleCareer_RegalRomancer)" Value="489093" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level1_1st)" Value="490046" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level1_2nd)" Value="490047" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level1_3rd)" Value="490048" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level2_1st)" Value="490049" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level2_2nd)" Value="490050" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level2_3rd)" Value="490051" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level3_1st)" Value="490052" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level3_2nd)" Value="490053" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level3_3rd)" Value="490054" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_NoCompetitionsWon)" Value="490055" />
+  <Preset Label="trait_Hidden_Ep21World_IsCordelia" Value="490282" />
+  <Preset Label="trait_Hidden_Ep21World_IsThiago" Value="490354" />
+  <Preset Label="trait_Hidden_Ep21World_IsMonty" Value="490355" />
+  <Preset Label="trait_Hidden_Ep21World_IsNPC" Value="490393" />
+  <Preset Label="trait_Hidden_Ep21World_IsSofia" Value="490444" />
+  <Preset Label="trait_Hidden_Ep21World_IsAbrantes" Value="490445" />
+  <Preset Label="trait_Hidden_FamilyTree_SecretChild_IsPregnantParentOf" Value="491168" />
+  <Preset Label="trait_Hidden_Ep21World_PremadeGiveSword" Value="492682" />
+  <Preset Label="trait_Hidden_ScandalSecret_DisableVFX" Value="493279" />
+  <Preset Label="trait_Hidden_Ep21World_IsJawara" Value="494160" />
+  <Preset Label="trait_Hidden_Ep21World_IsIkenna" Value="494161" />
+  <Preset Label="trait_Hidden_Ep21World_IsAkachi" Value="494162" />
+  <Preset Label="trait_Hidden_Ep21World_PremadeGiveBoat" Value="494165" />
+  <Preset Label="trait_Hidden_Ep21World_IsEnzo" Value="494637" />
+  <Preset Label="trait_DynastyPerk_GradeBoost1" Value="494991" />
+  <Preset Label="trait_DynastyPerk_EasyFriends1" Value="494992" />
+  <Preset Label="trait_DynastyPerk_Matchmaker1" Value="494993" />
+  <Preset Label="trait_DynastyPerk_Secretive1" Value="494994" />
+  <Preset Label="trait_DynastyPerk_EasyFriends2" Value="494995" />
+  <Preset Label="trait_DynastyPerk_EasyFriends3" Value="494996" />
+  <Preset Label="trait_DynastyPerk_GradeBoost2" Value="494997" />
+  <Preset Label="trait_DynastyPerk_GradeBoost3" Value="494998" />
+  <Preset Label="trait_DynastyPerk_Matchmaker2" Value="494999" />
+  <Preset Label="trait_DynastyPerk_Matchmaker3" Value="495000" />
+  <Preset Label="trait_DynastyPerk_Secretive2" Value="495001" />
+  <Preset Label="trait_DynastyPerk_Secretive3" Value="495002" />
+  <Preset Label="trait_Hidden_NobleCareer_CoronationSubject" Value="495021" />
+  <Preset Label="trait_Hidden_ScandalSecret_KnownInfoBroker" Value="495563" />
+  <Preset Label="Ironclad Reputation (trait_Whistleblower)" Value="495596" />
+  <Preset Label="trait_Hidden_encounteredRobinHood" Value="495704" />
+  <Preset Label="trait_Hidden_NobleCareer_CrownOverride" Value="496203" />
+  <Preset Label="trait_Hidden_FamilyTree_SecretChild_LiedTo" Value="496710" />
+  <Preset Label="Threadshifter (trait_Threadshifter)" Value="496743" />
+  <Preset Label="trait_Hidden_FamilyTree_SecretChild_AskedToKeepSecret" Value="497507" />
+  <Preset Label="trait_NobleCareer_Hidden_CurrentNoble" Value="499315" />
+  <Preset Label="trait_NobleCareer_Hidden_ChildOfNoble" Value="499316" />
+  <Preset Label="trait_Hidden_Ep21World_RemoveBuff" Value="500811" />
+  <Preset Label="trait_Hidden_ScandalSecret_VFX" Value="502347" />
+  <Preset Label="trait_Hidden_FirstNoteRead" Value="502530" />
+</PresetGroup>

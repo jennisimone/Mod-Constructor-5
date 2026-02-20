@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Pie Menu Categories EP21">
+  <Preset Label="Duel (sim_Swordsmanship_Duel)" Value="460839" />
+  <Preset Label="Set Risk Tolerance (computer_Dynasty_MarketFund_Risk)" Value="465489" />
+  <Preset Label="Manage Investment Account (computer_Dynasty_MarketFund)" Value="465502" />
+  <Preset Label="EP21 - Royalty &amp; Legacy (pieMenuCategory_Cheats_EP21)" Value="468280" />
+  <Preset Label="Noble Favor (pieMenuCategory_Cheats_EP21_NobleFavor)" Value="468281" />
+  <Preset Label="Dynasty (pieMenuCategory_Dynasty)" Value="470461" />
+  <Preset Label="(debug) Group Waltz Mixers (pieMenuCategory_Ballroom_GroupWaltzMixers)" Value="470874" />
+  <Preset Label="(debug) Group Waltz Interaction (pieMenuCategory_Ballroom_GroupWaltzSI)" Value="470875" />
+  <Preset Label="Reply to Noble Mail (pieMenuCategory_NobleCareer_NobleMail)" Value="470962" />
+  <Preset Label="Dance Partners (pieMenuCategory_Ballroom_DancePartner)" Value="471514" />
+  <Preset Label="Encourage (pieMenuCategory_Dynasty_Encourage)" Value="474561" />
+  <Preset Label="Discourage (pieMenuCategory_Dynasty_Discourage)" Value="474562" />
+  <Preset Label="Dynasty (pieMenuCategory_Cheats_EP21_Dynasty)" Value="477212" />
+  <Preset Label="Prestige (debug) (pieMenuCategory_Cheats_EP21_Dynasty_Prestige)" Value="477946" />
+  <Preset Label="Member Rel Change (debug) (pieMenuCategory_Cheats_EP21_Dynasty_Unity)" Value="477961" />
+  <Preset Label="Power Shift Events (pieMenuCategory_Cheats_EP21_PowerShifts)" Value="479683" />
+  <Preset Label="Ballroom Dancing (pieMenuCategory_Cheats_EP21_Ballroom)" Value="479694" />
+  <Preset Label="Ask for Ancestors' Blessing (EP21World_Categories_SpiderWell_WishFor)" Value="480463" />
+  <Preset Label="Set Kingdom Taxes (pieMenuCategory_NobleCareer_KingdomTaxes)" Value="482124" />
+  <Preset Label="Donate to Kingdom Funds (pieMenuCategory_NobleCareer_DonateToKingdom)" Value="483969" />
+  <Preset Label="Noble Career (pieMenuCategory_Cheats_EP21_Nobility)" Value="486674" />
+  <Preset Label="Information Broker (computer_ScandalSecrets_InfoBroker)" Value="488862" />
+  <Preset Label="Extort to (pieMenuCategory_ScandalSecret_Blackmail)" Value="489544" />
+  <Preset Label="Information Broker (pieMenuCategory_ScandalSecret_InfoBroker)" Value="494931" />
+  <Preset Label="Scandals (computer_ScandalSecret)" Value="494932" />
+  <Preset Label="Noble Promotion (pieMenuCategory_NobleCareer_Promotion)" Value="496330" />
+  <Preset Label="Trials (pieMenuCategory_PowerShifts_SpiderWell)" Value="496654" />
+  <Preset Label="Force NPC Secret Generation (pieMenuCategory_Cheats_forceNPCSecretGen)" Value="497287" />
+  <Preset Label="Noble Ventures (pieMenuCategory_NobleCareer_Rabbitholes)" Value="498201" />
+</PresetGroup>

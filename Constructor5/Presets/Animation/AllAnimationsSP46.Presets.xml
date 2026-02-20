@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Animations SP46">
+  <Preset Label="pizzaOven_StartCooking" Value="336463" />
+  <Preset Label="pizzaOven_Grab_Pizza" Value="336464" />
+  <Preset Label="pizzaOven_Grab_Focaccia" Value="336465" />
+  <Preset Label="pizzaOven_Repair" Value="337424" />
+  <Preset Label="pizzaOven_Clean" Value="337517" />
+  <Preset Label="waffleMaker_Grab" Value="337914" />
+  <Preset Label="waffleMaker_StartCooking" Value="337921" />
+  <Preset Label="streetFoodTable_Tend_showOffWares_Child" Value="337970" />
+  <Preset Label="streetFoodTable_Tend_tend_Child" Value="337971" />
+  <Preset Label="streetFoodTable_Tend_comeBuy_Child" Value="337972" />
+  <Preset Label="standMixer_Clean" Value="338560" />
+  <Preset Label="standMixer_Grab" Value="338561" />
+  <Preset Label="standMixer_Repair" Value="338562" />
+  <Preset Label="standMixer_Repair_Electrocute" Value="338563" />
+  <Preset Label="standMixer_StartCooking" Value="338564" />
+  <Preset Label="streetFoodTable_Tend_passive_Child" Value="338604" />
+  <Preset Label="waffleMaker_Repair" Value="338840" />
+  <Preset Label="waffleMaker_Clean" Value="338841" />
+  <Preset Label="waffleMaker_Repair_Electrocute" Value="338842" />
+  <Preset Label="standMixer_Attachment_Rotating" Value="339357" />
+  <Preset Label="standMixer_Attachment_Still" Value="339358" />
+</PresetGroup>

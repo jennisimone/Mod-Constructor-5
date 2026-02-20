@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Aspiration Tracks SP22">
+  <Preset Label="Fabulously Filthy (Track_Location_FilthyFabulous)" Value="256745" />
+  <Preset Label="Perfectly Pristine (Track_Location_PerfectlyPristine)" Value="256746" />
+</PresetGroup>

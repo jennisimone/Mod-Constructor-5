@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Situation Goals SP49">
+  <Preset Label="Cut a Gemstone (Whim_CutGem)" Value="357196" />
+  <Preset Label="Craft a Jewelry Piece (Whim_CraftJewelry)" Value="357197" />
+  <Preset Label="Experience Power from a Charged Crystal (Whim_ChargedCrystal)" Value="357198" />
+  <Preset Label="Discuss Crystal Properties (situationGoalSim_HobbyClass_SkillSocialGemology)" Value="396840" />
+  <Preset Label="Make Jewelry or Cut Gemstone (eventGoal_Craft_HobbyClass_Gemology)" Value="420385" />
+</PresetGroup>

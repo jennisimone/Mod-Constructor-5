@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Loot Actions SP46">
+  <Preset Label="loot_Aspiration_MarketMagnate_SellNObjects" Value="335236" />
+  <Preset Label="loot_Aspiration_MarketMagnate_EarnSimoleons" Value="335237" />
+  <Preset Label="loot_Aspiration_MarketMagnate_EarnSimoleons_SingleBake" Value="335238" />
+  <Preset Label="loot_StreetFoodTable_Buff_AgentOfChaos" Value="336209" />
+  <Preset Label="loot_StreetFoodTable_Buff_SatisfiedCustomer" Value="336210" />
+  <Preset Label="loot_StreetFoodTable_Buff_MarketMagnate_ItemSimoleonGain" Value="337606" />
+  <Preset Label="situationGoalLootActions_StreetFoodTable_Kaching" Value="338297" />
+  <Preset Label="loot_Aspiration_MarketMagnate_EarnSimoleons_SingleBake_Reset" Value="339001" />
+  <Preset Label="loot_BatchCook" Value="339633" />
+  <Preset Label="loot_Buff_PizzaCurious" Value="339859" />
+  <Preset Label="loot_Buff_FocacciaArtful" Value="339860" />
+  <Preset Label="loot_Buff_Waffle(Un)Pleasant" Value="340209" />
+  <Preset Label="loot_Buff_WaffleValentine" Value="340210" />
+  <Preset Label="loot_StreetFoodTable_Buff_AmbrosiaSold" Value="340474" />
+  <Preset Label="loot_StreetFoodTable_Buff_ConvinceToBuy_Cooldown" Value="341380" />
+  <Preset Label="loot_StreetFoodTable_Buff_PoorQualitySold" Value="343755" />
+  <Preset Label="loot_Statistic_StreetFoodTable_ObjectReservations_Increase" Value="345278" />
+  <Preset Label="loot_Statistic_StreetFoodTable_ObjectReservations_Decrease" Value="345279" />
+  <Preset Label="loot_StreetFoodTable_Buff_ConvinceToBuy_BlockBrowse_Remove" Value="345285" />
+  <Preset Label="loot_StreetFoodTable_Buff_TenderOnSituationSell" Value="345287" />
+  <Preset Label="loot_StreetFoodTable_Buff_TenderOnCustomerPurchase" Value="345685" />
+  <Preset Label="loot_StreetFoodTable_Buff_VampireCureSold" Value="345927" />
+  <Preset Label="loot_StreetFoodTable_Buff_WerewolfCureSold" Value="345928" />
+  <Preset Label="loot_SmallAppliances_Dirtiness" Value="346316" />
+  <Preset Label="loot_StreetFoodTable_EndOfSaleRewards" Value="346940" />
+  <Preset Label="loot_StandMixer_Dirtiness" Value="352083" />
+  <Preset Label="loot_StreetFoodTable_500MarkupReset" Value="352632" />
+  <Preset Label="loot_StreetFoodTable_Kaching" Value="353739" />
+</PresetGroup>

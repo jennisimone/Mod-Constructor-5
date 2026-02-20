@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Loot Actions SP65">
+  <Preset Label="loot_Buff_WoodworkingInspiration" Value="450938" />
+  <Preset Label="loot_WoodWorking_SP65_InspiredQuality" Value="451720" />
+</PresetGroup>

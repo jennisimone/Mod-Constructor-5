@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Social Interactions EP21">
+  <Preset Label="mixer_BallroomDancing_Center" Tags="TestUnsafe" Value="452740" />
+  <Preset Label="mixer_BallroomDancing_Left" Tags="TestUnsafe" Value="452744" />
+  <Preset Label="mixer_BallroomDancing_Right" Tags="TestUnsafe" Value="452745" />
+  <Preset Label="mixer_BallroomDancing_LeftFromRight" Tags="TestUnsafe" Value="464010" />
+  <Preset Label="mixer_BallroomDancing_RightFromLeft" Tags="TestUnsafe" Value="467424" />
+  <Preset Label="Ask about Favor Alignment (mixer_Social_NobleFavor_AskAboutFavor)" Tags="TestUnsafe" Value="468786" />
+  <Preset Label="Brag About {2.String} Dynasty (mixer_Social_Dynasty_Brag)" Tags="TestUnsafe" Value="468809" />
+  <Preset Label="Compliment {2.String} Dynasty (mixer_Social_Dynasty_Compliment)" Tags="TestUnsafe" Value="468810" />
+  <Preset Label="Mock {2.String} Dynasty (mixer_Social_Dynasty_Mock)" Tags="TestUnsafe" Value="468811" />
+  <Preset Label="Compliment Dynasty Ranking (mixer_Social_Dynasty_ComplimentStanding)" Tags="TestUnsafe" Value="468812" />
+  <Preset Label="Brag About Dynasty Ranking (mixer_Social_Dynasty_BragStanding)" Tags="TestUnsafe" Value="468960" />
+  <Preset Label="Critique Dynasty Ranking (mixer_Social_Dynasty_CritiqueStanding)" Tags="TestUnsafe" Value="468961" />
+  <Preset Label="Condemn Outcast (mixer_Social_Dynasty_CondemnBlackSheep)" Tags="TestUnsafe" Value="469147" />
+  <Preset Label="Offer Support to Outcast (mixer_Social_Dynasty_SupportBlackSheep)" Tags="TestUnsafe" Value="469148" />
+  <Preset Label="Praise Dynasty Leadership (mixer_Social_Dynasty_PraiseHead)" Tags="TestUnsafe" Value="469149" />
+  <Preset Label="Critique Dynasty Leadership (mixer_Social_Dynasty_CritiqueHead)" Tags="TestUnsafe" Value="469150" />
+  <Preset Label="mixer_BallroomDancing_Group_Left" Tags="TestUnsafe" Value="469559" />
+  <Preset Label="mixer_BallroomDancing_Group_Right" Tags="TestUnsafe" Value="469561" />
+  <Preset Label="mixer_BallroomDancing_Group_Center_BigMoment" Tags="TestUnsafe" Value="469563" />
+  <Preset Label="mixer_BallroomDancing_Group_Center_Success" Tags="TestUnsafe" Value="469566" />
+  <Preset Label="mixer_BallroomDancing_Group_Center_Fail" Tags="TestUnsafe" Value="469567" />
+  <Preset Label="Respect Favor Alignment (mixer_Social_NobleFavor_AppreciateRoyalWealth)" Tags="TestUnsafe" Value="469811" />
+  <Preset Label="Groan about Swordsmanship (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_Swordsmanship)" Tags="TestUnsafe" Value="470148" />
+  <Preset Label="Enthuse about Swordsmanship (socials_Targeted_Friendly_SimPreference_Recent_Likes_Swordsmanship)" Tags="TestUnsafe" Value="470149" />
+  <Preset Label="Threaten to Raise Taxes (socials_Targeted_Mean_AlwaysOn_NobleFavor_ThreatenTaxRaise)" Tags="TestUnsafe" Value="470203" />
+  <Preset Label="Mock Nobles with Royal Alignment (socials_Targeted_Funny_AlwaysOn_NobleFavor_MockRoyalty)" Tags="TestUnsafe" Value="470205" />
+  <Preset Label="Invite to Dynasty (socialMixer_Dynasty_Membership_Invite)" Tags="TestUnsafe" Value="470462" />
+  <Preset Label="Exclude from Dynasty (socialMixer_Dynasty_Membership_Exclude)" Tags="TestUnsafe" Value="470463" />
+  <Preset Label="Invite Family Members to Dynasty (socialMixer_Dynasty_Membership_InviteDependants)" Tags="TestUnsafe" Value="470464" />
+  <Preset Label="Ask to Join Dynasty (socialMixer_Dynasty_Membership_AskToJoin)" Tags="TestUnsafe" Value="470466" />
+  <Preset Label="Ask to Exclude From Dynasty (socialMixer_Dynasty_Membership_AskToExclude)" Tags="TestUnsafe" Value="470467" />
+  <Preset Label="Ask to Invite to Dynasty (socialMixer_Dynasty_Membership_AskToInvite)" Tags="TestUnsafe" Value="470468" />
+  <Preset Label="Mock Nobles with Commoner Alignment (socials_Targeted_Funny_AlwaysOn_NobleFavor_MockCommonfolk)" Tags="TestUnsafe" Value="470472" />
+  <Preset Label="Leave Dynasty (socialMixer_Dynasty_Membership_Leave)" Tags="TestUnsafe" Value="470499" />
+  <Preset Label="To Build Skills (socialMixer_Dynasty_Encourage_Skills)" Tags="TestUnsafe" Value="471120" />
+  <Preset Label="Encourage Friendship with {2.SimFirstName} (socialMixer_Dynasty_Encourage_Friendship)" Tags="TestUnsafe" Value="471124" />
+  <Preset Label="Encourage to Court {2.SimFirstName} (socialMixer_Dynasty_Encourage_Romance)" Tags="TestUnsafe" Value="471125" />
+  <Preset Label="Focus on Career (socialMixer_Dynasty_Encourage_CareerPerformance)" Tags="TestUnsafe" Value="471179" />
+  <Preset Label="Discourage Romance with {2.SimFirstName} (socialMixer_Dynasty_Encourage_AntiRomance)" Tags="TestUnsafe" Value="471183" />
+  <Preset Label="Discourage Friendship with {2.SimFirstName} (socialMixer_Dynasty_Encourage_AntiFriendship)" Tags="TestUnsafe" Value="471184" />
+  <Preset Label="Encourage Rivalry with {2.SimFirstName} (socialMixer_Dynasty_Encourage_Rivalry)" Tags="TestUnsafe" Value="471185" />
+  <Preset Label="Career Change (socialMixer_Dynasty_Encourage_CareerChange)" Tags="TestUnsafe" Value="471187" />
+  <Preset Label="Ideal Adherence (socialMixer_Dynasty_Encourage_Ideal)" Tags="TestUnsafe" Value="471188" />
+  <Preset Label="Enthuse about Favor Alignment (mixer_Social_NobleFavor_EnthuseAboutFavor)" Tags="TestUnsafe" Value="471366" />
+  <Preset Label="Be Grateful for Serving the Kingdom (mixer_Social_NobleFavor_BeGratefulForServing)" Tags="TestUnsafe" Value="471367" />
+  <Preset Label="Criticize Favor (socials_Targeted_Mean_AlwaysOn_NobleFavor_CriticizeFavor)" Tags="TestUnsafe" Value="471368" />
+  <Preset Label="Invite to Dynasty (socialMixer_Dynasty_Membership_Invite_WithFamily)" Tags="TestUnsafe" Value="471761" />
+  <Preset Label="Declare as Heir (socialMixer_Dynasty_Internal_Titles_DeclareHeir)" Tags="TestUnsafe" Value="473887" />
+  <Preset Label="Unmake Heir (socialMixer_Dynasty_Internal_Titles_UnmakeHeir)" Tags="TestUnsafe" Value="473888" />
+  <Preset Label="Ask to Become Heir (socialMixer_Dynasty_Internal_Titles_AskToBecomeHeir)" Tags="TestUnsafe" Value="473889" />
+  <Preset Label="Ideal Adherence (socialMixer_Dynasty_Encourage_AntiIdeal)" Tags="TestUnsafe" Value="474444" />
+  <Preset Label="To Abdicate Title (socialMixer_Dynasty_Encourage_AbdicateTitle)" Tags="TestUnsafe" Value="474445" />
+  <Preset Label="Promise to keep Secret (socials_Targeted_Friendly_ScandalSecret_KeepSecretForTarget)" Tags="TestUnsafe" Value="475169" />
+  <Preset Label="Extort for Simoleons (socials_Targeted_Mean_ScandalSecret_Blackmail_Simoleons)" Tags="TestUnsafe" Value="475171" />
+  <Preset Label="Step Down as Head (socialMixer_Dynasty_Internal_Titles_StepDownAsHead)" Tags="TestUnsafe" Value="475816" />
+  <Preset Label="Usurp Dynasty Headship (socialMixer_Dynasty_Internal_Titles_DemandHeadship)" Tags="TestUnsafe" Value="475817" />
+  <Preset Label="Insult Friendship (mixer_Social_Mean_Dynasty_Encouraged_AntiFriendship)" Tags="TestUnsafe" Value="476005" />
+  <Preset Label="Insult Relationship (mixer_Social_Mean_Dynasty_Encouraged_AntiRomance)" Tags="TestUnsafe" Value="476006" />
+  <Preset Label="Congratulate on Noble Title (socials_Targeted_Friendly_AlwaysOn_Compliments_NobleCareer_Congratulate)" Tags="TestUnsafe" Value="476137" />
+  <Preset Label="Mock Scandalized Sim (mixer_Social_ScandalSecret_MockScandalizedSim)" Tags="TestUnsafe" Value="476362" />
+  <Preset Label="Shun Scandalised Sim (mixer_Social_ScandalSecret_ShunScandalizedSim)" Tags="TestUnsafe" Value="476363" />
+  <Preset Label="Challenge for Dynasty Headship (mixer_social_Fight_targeted_Dynasty_ChallengeHead)" Tags="TestUnsafe" Value="476445" />
+  <Preset Label="WooHoo in Secret Passageway (mixer_social_WooHooinSecretPassage_targeted_romance_transition)" Tags="TestUnsafe" Value="477202" />
+  <Preset Label="Try for Baby in Secret Passageway (mixer_social_TryForBabyInSecretPassageway_targeted_romance_transition)" Tags="TestUnsafe" Value="477205" />
+  <Preset Label="Propose Alliance (socialMixer_Dynasty_AlliancePropose)" Tags="TestUnsafe" Value="477494" />
+  <Preset Label="End Alliance (socialMixer_Dynasty_AllianceEnd)" Tags="TestUnsafe" Value="477495" />
+  <Preset Label="Declare Rivalry (socialMixer_Dynasty_RivalryDeclare)" Tags="TestUnsafe" Value="477496" />
+  <Preset Label="End Rivalry (socialMixer_Dynasty_RivalryEnd)" Tags="TestUnsafe" Value="477497" />
+  <Preset Label="Ask to End Rivalry (socialMixer_Dynasty_AskToEndRivalryWithPicked)" Tags="TestUnsafe" Value="477813" />
+  <Preset Label="Ask to End Rivalry (socialMixer_Dynasty_AskToEndRivalry)" Tags="TestUnsafe" Value="477817" />
+  <Preset Label="Fight Extortionist (mixer_social_Fight_targeted_ScandalSecret_FightBlackmailer)" Tags="TestUnsafe" Value="479121" />
+  <Preset Label="Declare Outcast (socialMixer_Dynasty_Internal_Titles_BlackSheepDeclare)" Tags="TestUnsafe" Value="479163" />
+  <Preset Label="Revoke Outcast Status (socialMixer_Dynasty_Internal_Titles_BlackSheepUndeclare)" Tags="TestUnsafe" Value="479164" />
+  <Preset Label="Share Secret (socials_Targeted_Friendly_ScandalSecret_ShareSecret)" Tags="TestUnsafe" Value="479986" />
+  <Preset Label="WooHoo in Torre Silenciosa (mixer_Social_WooHooAsk_VerdemarLighthouse)" Tags="TestUnsafe" Value="480071" />
+  <Preset Label="Ask to be Secret Lover (mixer_social_Targeted_Romance_HighScore_AskToBeSecretLover)" Tags="TestUnsafe" Value="480076" />
+  <Preset Label="Try For Baby in Torre Silenciosa (mixer_Social_TryForBabyinVerdemarLighthouse_Standard)" Tags="TestUnsafe" Value="480086" />
+  <Preset Label="Promise to Inherit Noble Title (mixer_Social_NobleCareer_InheritNobleTitle_Promise)" Tags="TestUnsafe" Value="480299" />
+  <Preset Label="Request to Inherit Noble Title (mixer_Social_NobleCareer_InheritNobleTitle_Request)" Tags="TestUnsafe" Value="480300" />
+  <Preset Label="Plead to keep Scandal quiet (socials_Targeted_Friendly_ScandalSecret_PleadToKeepSecret)" Tags="TestUnsafe" Value="480952" />
+  <Preset Label="Ask Permission to Marry {2.SimName} (socialMixer_Dynasty_AskPermissionMarry)" Tags="TestUnsafe" Value="480962" />
+  <Preset Label="Noble Introduction (mixer_social_NobleCareer_Introduction_Greetings)" Tags="TestUnsafe" Value="481537" />
+  <Preset Label="Discuss Noble Life (mixer_Social_NobleCareer_DiscussNobleLife)" Tags="TestUnsafe" Value="481539" />
+  <Preset Label="mixer_BallroomDancing_Group_Center_SuperSuccess" Tags="TestUnsafe" Value="483487" />
+  <Preset Label="Stop Extorting (socials_Targeted_Friendly_ScandalSecret_StopBlackmailing)" Tags="TestUnsafe" Value="483672" />
+  <Preset Label="Ask about Ondarion Landmarks (socials_Targeted_Friendly_AlwaysOn_STC_RobinHood_AskAboutWorldLandmark)" Tags="TestUnsafe" Value="484455" />
+  <Preset Label="Receive Commoner Favor (socials_Targeted_Mean_ScandalSecret_Blackmail_NobleFavor_Commoner)" Tags="TestUnsafe" Value="484893" />
+  <Preset Label="Receive Noble Favor (socials_Targeted_Mean_ScandalSecret_Blackmail_NobleFavor_Noble)" Tags="TestUnsafe" Value="484896" />
+  <Preset Label="Extortion (socials_Targeted_Mean_ScandalSecret_Blackmail_Dynasty_RivalryEnd)" Tags="TestUnsafe" Value="485086" />
+  <Preset Label="Extortion (socials_Targeted_Mean_ScandalSecret_Blackmail_Dynasty_AllianceEnd)" Tags="TestUnsafe" Value="485087" />
+  <Preset Label="Abdicate Noble Position (socials_Targeted_Mean_ScandalSecret_Blackmail_CareerLoss_Noble)" Tags="TestUnsafe" Value="485744" />
+  <Preset Label="Ask For Dueling Advice (socials_Targeted_Friendly_AlwaysOn_STC_RobinHood_AskForDuelingAdvice)" Tags="TestUnsafe" Value="486217" />
+  <Preset Label="Seduce to Abdicate (mixer_Social_Romance_NobleCareer_SeduceToAbdicate)" Tags="TestUnsafe" Value="489494" />
+  <Preset Label="Extortion (socials_Targeted_Mean_ScandalSecret_Blackmail_Dynasty_BecomeNewHead)" Tags="TestUnsafe" Value="489517" />
+  <Preset Label="Extortion (socials_Targeted_Mean_ScandalSecret_Blackmail_Dynasty_AssignNewHeir)" Tags="TestUnsafe" Value="489522" />
+  <Preset Label="Extortion (socials_Targeted_Mean_ScandalSecret_Blackmail_Dynasty_MakeHeadResign)" Tags="TestUnsafe" Value="489545" />
+  <Preset Label="Extortion (socials_Targeted_Mean_ScandalSecret_Blackmail_Dynasty_AssignBlackSheep)" Tags="TestUnsafe" Value="489550" />
+  <Preset Label="Extortion (socials_Targeted_Mean_ScandalSecret_Blackmail_Dynasty_UnassignBlackSheep)" Tags="TestUnsafe" Value="489566" />
+  <Preset Label="Buy Secrets (socials_Targeted_Friendly_ScandalSecret_InfoBroker_BuySecretFromBroker)" Tags="TestUnsafe" Value="489744" />
+  <Preset Label="Sell another Sim's secret to the Info Broker (socials_Targeted_Friendly_ScandalSecret_InfoBroker_SellSecretToBroker_OtherSim)" Tags="TestUnsafe" Value="489745" />
+  <Preset Label="Bury own secret (socials_Targeted_Friendly_ScandalSecret_InfoBroker_BurySecretFromBroker)" Tags="TestUnsafe" Value="489746" />
+  <Preset Label="Sell your secret to the Info Broker (socials_Targeted_Friendly_ScandalSecret_InfoBroker_SellSecretToBroker_OwnSecret)" Tags="TestUnsafe" Value="489747" />
+  <Preset Label="Leave Career (socials_Targeted_Mean_ScandalSecret_Blackmail_CareerLoss)" Tags="TestUnsafe" Value="490124" />
+  <Preset Label="Discuss Ondarion's Ordeals (socials_Targeted_Friendly_AlwaysOn_STC_EP21World_AskAboutGoldworld)" Tags="TestUnsafe" Value="490276" />
+  <Preset Label="Ramble about the Royal Robber (socials_Targeted_Friendly_AlwaysOn_STC_EP21World_AskAboutRobinHood)" Tags="TestUnsafe" Value="490279" />
+  <Preset Label="Babble about Bellacorde (socials_Targeted_Friendly_AlwaysOn_STC_EP21World_AskAboutTheCapps)" Tags="TestUnsafe" Value="490351" />
+  <Preset Label="Vent about Verdemar (socials_Targeted_Friendly_AlwaysOn_STC_EP21World_AskAboutTheThebes)" Tags="TestUnsafe" Value="490352" />
+  <Preset Label="Dish about Dambele (socials_Targeted_Friendly_AlwaysOn_STC_EP21World_AskAboutTheDarongs)" Tags="TestUnsafe" Value="490353" />
+  <Preset Label="Offer Comfort from Scandal (mixer_social_ScandalSecret_Comfort)" Tags="TestUnsafe" Value="493297" />
+  <Preset Label="Share Secret (socials_Targeted_Friendly_ScandalSecret_ShareOwnSecret)" Tags="TestUnsafe" Value="495130" />
+  <Preset Label="Usurp Dynasty Headship (socialMixer_Dynasty_Internal_Titles_DemandHeadship_InfantToddler)" Tags="TestUnsafe" Value="496069" />
+  <Preset Label="Ask for Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_AskFor_Swordsmanship)" Tags="TestUnsafe" Value="497307" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Paid_Swordsmanship)" Tags="TestUnsafe" Value="497308" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Unpaid_Swordsmanship)" Tags="TestUnsafe" Value="497309" />
+  <Preset Label="Ask to be Noble Advisor (mixer_Social_NobleCareer_AskToBeNobleAdvisor)" Tags="TestUnsafe" Value="498674" />
+  <Preset Label="Revoke Noble Advisor Role (mixer_Social_NobleCareer_RevokeNobleAdvisor)" Tags="TestUnsafe" Value="498675" />
+  <Preset Label="Expose {1.SimFirstName}'s Scandal (socials_Targeted_Mean_ScandalSecret_RevealSecret_TargetSim)" Tags="TestUnsafe" Value="500939" />
+</PresetGroup>

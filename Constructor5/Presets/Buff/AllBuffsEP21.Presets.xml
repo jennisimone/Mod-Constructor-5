@@ -1,0 +1,553 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Buffs EP21">
+  <Preset Label="Spectacular Swordplay (buff_Swordsmanship_WinningDuel_LowStakes)" Value="460486" />
+  <Preset Label="To the Victor go the Spoils! (buff_Swordsmanship_WinningDuel_HighStakes)" Value="460487" />
+  <Preset Label="The Greatest Duelist! (buff_Swordsmanship_WinningDuel_Ambitious)" Value="460488" />
+  <Preset Label="LOST!!!!!! A DUEL!!!!! (buff_Swordsmanship_LosingDuel_HotHeaded)" Value="460489" />
+  <Preset Label="Humiliating Duel Loss (buff_Swordsmanship_LosingDuel_LowStakes)" Value="460490" />
+  <Preset Label="Humiliating Duel Loss (buff_Swordsmanship_LosingDuel_HighStakes)" Value="460491" />
+  <Preset Label="That was HOT (buff_Swordsmanship_ThatwasHOT)" Value="460492" />
+  <Preset Label="Blunt Rejection! (buff_Swordsmanship_DuelRejected_LowStakes)" Value="460493" />
+  <Preset Label="Tournament Champion (buff_Swordsmanship_1stPlaceTournament)" Value="460494" />
+  <Preset Label="Got 2nd Place! (buff_Swordsmanship_2ndPlaceTournament)" Value="460495" />
+  <Preset Label="Got 3rd Place! (buff_Swordsmanship_3rdPlaceTournament)" Value="460496" />
+  <Preset Label="Lost a Tournament (buff_Swordsmanship_LoseTournament)" Value="460497" />
+  <Preset Label="LOST A TOURNAMENT?!?! (buff_Swordsmanship_LoseTournament_Ambitious)" Value="460498" />
+  <Preset Label="buff_DynastyPerk_Matchmaker1" Value="465963" />
+  <Preset Label="buff_DynastyPerk_EasyFriends1" Value="465964" />
+  <Preset Label="buff_DynastyPerk_AffinityMental1" Value="465966" />
+  <Preset Label="buff_DynastyPerk_AffinitySocial1" Value="465967" />
+  <Preset Label="buff_DynastyPerk_AffinityPhysical1" Value="465968" />
+  <Preset Label="buff_DynastyPerk_AffinityCreative1" Value="465969" />
+  <Preset Label="buff_DynastyPerk_AffinityCreative3" Value="465987" />
+  <Preset Label="buff_DynastyPerk_AffinityCreative2" Value="465988" />
+  <Preset Label="buff_DynastyPerk_AffinityMental2" Value="465989" />
+  <Preset Label="buff_DynastyPerk_AffinityMental3" Value="465990" />
+  <Preset Label="buff_DynastyPerk_AffinityPhysical2" Value="465991" />
+  <Preset Label="buff_DynastyPerk_AffinityPhysical3" Value="465992" />
+  <Preset Label="buff_DynastyPerk_AffinitySocial2" Value="465993" />
+  <Preset Label="buff_DynastyPerk_AffinitySocial3" Value="465994" />
+  <Preset Label="buff_Role_ServiceNPC_Tutor" Value="466129" />
+  <Preset Label="Words of Wisdom (buff_Sentiment_Motivating_Confident_Primary_Dynasty_EncouragementSuccess)" Value="466619" />
+  <Preset Label="Chosen (buff_Sentiment_Motivating_Confident_Primary_Dynasty_ProudHeir)" Value="466620" />
+  <Preset Label="buff_Role_ServiceNPC_Upgrade" Value="466675" />
+  <Preset Label="Shining Example (buff_Sentiment_Adoring_Happy_Primary_Dynasty_HighRanking)" Value="466875" />
+  <Preset Label="Good Company (buff_Sentiment_Adoring_Happy_Primary_Dynasty_GoodLeadership)" Value="466876" />
+  <Preset Label="Power Grabber (buff_Sentiment_Bitter_Angry_Primary_Dynasty_UnmadeHead)" Value="466878" />
+  <Preset Label="Bitter Rejection (buff_Sentiment_Bitter_Angry_Primary_Dynasty_UnmadeHeir)" Value="466889" />
+  <Preset Label="Sting of Rejection (buff_Sentiment_Bitter_Angry_Primary_Dynasty_ExcludedFromDynasty)" Value="466890" />
+  <Preset Label="Aggravating Leadership (buff_Sentiment_Bitter_Angry_Primary_Dynasty_BadLeadership)" Value="466903" />
+  <Preset Label="Severed Ties (buff_Sentiment_Bitter_Tense_Primary_Dynasty_LeftDynasty)" Value="466907" />
+  <Preset Label="Visions of the Future (buff_Sentiment_Bitter_Tense_Primary_Dynasty_PressuredHeir)" Value="466908" />
+  <Preset Label="Dynastic Disappointment (buff_Sentiment_Bitter_Tense_Primary_Dynasty_LowRanking)" Value="466909" />
+  <Preset Label="Forbidden Temptations (buff_Sentiment_Enamored_Flirty_Primary_Dynasty_ForbiddenLove)" Value="466910" />
+  <Preset Label="Critical Eyes (buff_Sentiment_Furious_Angry_Primary_Dynasty_ResentfulBlackSheep)" Value="466911" />
+  <Preset Label="Infuriating Demands (buff_Sentiment_Furious_Angry_Primary_Dynasty_EncouragementFailure)" Value="466912" />
+  <Preset Label="Dynastic Disappointment (buff_Sentiment_Guilty_Sad_Primary_Dynasty_RepentfulBlackSheep)" Value="466913" />
+  <Preset Label="What Could Have Been (buff_Sentiment_Hurt_Sad_Primary_Dynasty_UnmadeHeir)" Value="466914" />
+  <Preset Label="Dynastic Support (buff_Sentiment_Motivating_Happy_Dynasty_DynasticSupport)" Value="466915" />
+  <Preset Label="buff_Role_ServiceNPC_UpgradeArrive" Value="466952" />
+  <Preset Label="buff_AutonomyMod_UpgradeService_Electronic" Value="466960" />
+  <Preset Label="buff_AutonomyMod_UpgradeService_Kitchen" Value="466961" />
+  <Preset Label="buff_AutonomyMod_UpgradeService_Plumbing" Value="466962" />
+  <Preset Label="buff_DynastyPerk_EasyFriends2" Value="467123" />
+  <Preset Label="buff_DynastyPerk_EasyFriends3" Value="467124" />
+  <Preset Label="buff_DynastyPerk_Matchmaker2" Value="467126" />
+  <Preset Label="buff_DynastyPerk_Matchmaker3" Value="467127" />
+  <Preset Label="buff_ScandalSecret_CaughtSpyingSecrets" Value="467495" />
+  <Preset Label="buff_ScandalSecret_NoCatching" Value="467496" />
+  <Preset Label="Caught Spying (buff_ScandalSecret_Catch_EmbarassedMoodlet)" Value="467497" />
+  <Preset Label="buff_AutonomyMod_UpgradeService_Furniture" Value="467762" />
+  <Preset Label="Worthy of a Monarch (buff_PowerShifts_Sword_WorthyOfAMonarch)" Value="468571" />
+  <Preset Label="Humbled by the Sword (buff_PowerShifts_Sword_HumbledByTheStone)" Value="468572" />
+  <Preset Label="Tarnished Title (buff_PowerShifts_Sword_TarnishedTitle)" Value="468573" />
+  <Preset Label="Selfless Spirit (buff_PowerShifts_Sword_SelflessSpirit)" Value="468574" />
+  <Preset Label="Radiant Aura (buff_PowerShifts_Sword_SwordbearersAura)" Value="468575" />
+  <Preset Label="Echoes of Simcalibur's Discontent (buff_PowerShifts_Sword_EchosOfLostWorth)" Value="468576" />
+  <Preset Label="Ready to Waltz (buff_Ballroom_ReadyToWaltz)" Value="468761" />
+  <Preset Label="Dynastic Inferiority (buff_Dynasty_MockInferior)" Value="469155" />
+  <Preset Label="Dynastic Superiority (buff_Dynasty_MockSuperior)" Value="469156" />
+  <Preset Label="Dynastic Respect (buff_Dynasty_StandingCompliment)" Value="469203" />
+  <Preset Label="Dynastic Diss (buff_Dynasty_StandingCritique)" Value="469204" />
+  <Preset Label="Mailbox Maestro (buff_Dynasty_WorkEmail_Success)" Value="469362" />
+  <Preset Label="Unsend! UNSEND! (buff_Dynasty_WorkEmail_FailEmbarassed)" Value="469363" />
+  <Preset Label="Over-stuffed Inbox (buff_Dynasty_WorkEmail_FailTense)" Value="469364" />
+  <Preset Label="buff_Dynasty_WorkEmail_Cooldown" Value="469379" />
+  <Preset Label="A New Face to the Commoners (buff_NobleFavor_RankUp_Commoner_Level1)" Value="469419" />
+  <Preset Label="Trusted Ally (buff_NobleFavor_RankUp_Commoner_Level2)" Value="469420" />
+  <Preset Label="Champion of the People (buff_NobleFavor_RankUp_Commoner_Level3)" Value="469421" />
+  <Preset Label="A New Face to Royalty (buff_NobleFavor_RankUp_Royal_Level1)" Value="469422" />
+  <Preset Label="Courtly Acquaintance (buff_NobleFavor_RankUp_Royal_Level2)" Value="469423" />
+  <Preset Label="Royal Radiance (buff_NobleFavor_RankUp_Royal_Level3)" Value="469424" />
+  <Preset Label="buff_DynastyPerk_ArrangePromotion_Cooldown" Value="469884" />
+  <Preset Label="I Hate Swordsmanship! (buff_SimPreference_Dislikes_Activities_Swordsmanship)" Value="470150" />
+  <Preset Label="I Love Swordsmanship! (buff_SimPreference_Likes_Activities_Swordsmanship)" Value="470151" />
+  <Preset Label="buff_SimPreference_Recent_Dislikes_Swordsmanship" Value="470152" />
+  <Preset Label="buff_SimPreference_Recent_Likes_Swordsmanship" Value="470153" />
+  <Preset Label="buff_AutonomyMod_BallroomDancing" Value="470159" />
+  <Preset Label="Supported Outcast (buff_Sentiment_Close_Happy_Primary_Dynasty_SupportedBlackSheep)" Value="470393" />
+  <Preset Label="buff_PowerShifts_Sword_Cooldown_AuraOfValor" Value="470479" />
+  <Preset Label="buff_PowerShifts_Sword_Tracker_Milestone" Value="470506" />
+  <Preset Label="buff_Dynasty_TNS_Membership_RemoveInvalid" Value="470539" />
+  <Preset Label="buff_AutonomyMod_BallroomDancing_EP21WorldOnly" Value="471088" />
+  <Preset Label="Scepter Snub (buff_NobleFavor_ScepterSnub)" Value="471364" />
+  <Preset Label="Laughs in Wealth (buff_NobleFavor_LaughsInWealthy)" Value="471365" />
+  <Preset Label="buff_Dynasty_HeadApprovedLeave" Value="471740" />
+  <Preset Label="buff_Ballroom_Hidden_GrandWaltzOutcomes_Success" Value="471758" />
+  <Preset Label="buff_Ballroom_Hidden_GrandWaltzOutcomes_Failure" Value="471759" />
+  <Preset Label="Flubbed Critique (buff_NobleFavor_FlubbedCritique)" Value="471790" />
+  <Preset Label="buff_NobleCareer_Hidden_RequestMailCooldown" Value="471929" />
+  <Preset Label="Power Grudge (buff_Sentiment_Bitter_Angry_PowerShifts_PowerGrudge)" Value="472392" />
+  <Preset Label="buff_Hidden_NobleFavor_IncreasedRelGains" Value="472715" />
+  <Preset Label="buff_Venue_Nightclub_Backroom" Value="472725" />
+  <Preset Label="buff_Venue_Library_Backroom" Value="472726" />
+  <Preset Label="Buff_Venue_Gym_Backroom" Value="472727" />
+  <Preset Label="buff_Venue_Museum_Backroom" Value="472728" />
+  <Preset Label="buff_Role_Appropriateness_NoComputerReading_Backroom" Value="473334" />
+  <Preset Label="buff_Role_Appropriateness_NoWorkout_BG_Backroom" Value="473335" />
+  <Preset Label="buff_Ballroom_Hidden_HostDancePartner" Value="473351" />
+  <Preset Label="Enchanted Encounter (buff_PowerShifts_Frog_EnchantedEncounter)" Value="473375" />
+  <Preset Label="Froggy Rejection (buff_PowerShifts_Frog_FroggyRejection)" Value="473376" />
+  <Preset Label="Slimy Surprise (buff_PowerShifts_Frog_SlimySurprise)" Value="473377" />
+  <Preset Label="Tense Presence (buff_Sentiment_Bitter_Tense_PowerShifts_TensePresence_Target)" Value="473637" />
+  <Preset Label="buff_Ballroom_Hidden_RomanceDancePartners" Value="473658" />
+  <Preset Label="buff_Ballroom_Hidden_StatusDancePartners" Value="473659" />
+  <Preset Label="Rightful Ascendancy (buff_Sentiment_Motivating_Confident_PowerShifts_KarmasCrown_Target)" Value="473703" />
+  <Preset Label="Refined Technique (buff_Swordsmanship_RefinedTechnique)" Value="473936" />
+  <Preset Label="buff_PowerShifts_Frog_Tracker_Milestone" Value="474014" />
+  <Preset Label="buff_Ballroom_Hidden_SupressAutonomy" Value="474078" />
+  <Preset Label="Scandal Blown Over (buff_ScandalSecret_ScandalEnd_Relief)" Value="474342" />
+  <Preset Label="buff_Dynasty_Heir_DeclareDialog_Decline" Value="474356" />
+  <Preset Label="buff_Dynasty_Heir_DeclareDialog_AcceptProud" Value="474357" />
+  <Preset Label="buff_Dynasty_Heir_DeclareDialog_AcceptPressuredOrNPC" Value="474371" />
+  <Preset Label="buff_Ballroom_Hidden_CleanupTracker" Value="474455" />
+  <Preset Label="Partnered Up (buff_Ballroom_PartneredUp)" Value="474637" />
+  <Preset Label="Regrettable Grand Ball (buff_Sentiment_Guilty_Embarrassed_Ballroom_FailedGrandBall)" Value="474680" />
+  <Preset Label="Misstep Memories (buff_Sentiment_Guilty_Embarrassed_FailedGrandWaltz)" Value="474681" />
+  <Preset Label="Beautiful Grand Waltz (buff_Sentiment_Motivating_Inspired_Primary_Ballroom_GrandWaltzSuccess)" Value="474682" />
+  <Preset Label="Heart(h)robbing Grand Waltz (buff_Sentiment_Enamored_Flirty_Primary_Ballroom_GrandWaltzRomance)" Value="474683" />
+  <Preset Label="Worthy Waltzer (buff_Sentiment_Adoring_Confident_Primary_Ballroom_GrandWaltzSuccess_Status)" Value="474685" />
+  <Preset Label="buff_Dynasty_Membership_AskExcludeSuccess" Value="475179" />
+  <Preset Label="Coronation Celebration (buff_NobleCareer_CoronationComplete)" Value="475304" />
+  <Preset Label="Duty Bound (buff_Dynasty_Encouraged_Ideal)" Value="475429" />
+  <Preset Label="Mastery Mindset (buff_Dynasty_Encouraged_Skill)" Value="475430" />
+  <Preset Label="Change Calling (buff_Dynasty_Encouraged_CareerChange)" Value="475431" />
+  <Preset Label="Career Hustle (buff_Dynasty_Encouraged_CareerPerformance)" Value="475432" />
+  <Preset Label="Chosen Companion (buff_Dynasty_Encouraged_Friendship)" Value="475434" />
+  <Preset Label="Suitable Match (buff_Dynasty_Encouraged_Romance)" Value="475435" />
+  <Preset Label="Discouraged Romance (buff_Dynasty_Encouraged_AntiRomance)" Value="475436" />
+  <Preset Label="Discouraged Friendship (buff_Dynasty_Encouraged_AntiFriendship)" Value="475437" />
+  <Preset Label="All Rivaled Up (buff_Dynasty_Encouraged_Rivarly)" Value="475438" />
+  <Preset Label="Break the Rules (buff_Dynasty_Encouraged_AntiIdeal)" Value="475439" />
+  <Preset Label="buff_BeGhost_SecretPassageway" Value="475486" />
+  <Preset Label="Flashbacks of Being Pecked to Death (buff_SecretPassageway_Ghost_Flashbacks_of_Being_Pecked)" Value="475510" />
+  <Preset Label="I'm being Extorted! (buff_Sentiment_Bitter_Angry_ScandalSecret_BlackmailedBy)" Value="475516" />
+  <Preset Label="Gone Baby Gone (buff_ScandalSecret_OngoingScandal_Major_socialServicesTookChild)" Value="475782" />
+  <Preset Label="Sticky Fingered Filcher (buff_ScandalSecret_OngoingScandal_Medium_stealing)" Value="475783" />
+  <Preset Label="Public Woohoo (buff_ScandalSecret_OngoingScandal_Minor_woohooInPublic)" Value="475784" />
+  <Preset Label="Indecent Employer (buff_ScandalSecret_OngoingScandal_Minor_woohooWithStaff)" Value="475785" />
+  <Preset Label="Buff_Role_Appropriateness_NoStereo_Backroom" Value="475794" />
+  <Preset Label="I'm being Extorted! (buff_Sentiment_Bitter_Tense_Primary_ScandalSecret_BlackmailedBy)" Value="475851" />
+  <Preset Label="I'm being Extorted! (buff_ScandalSecret_Blackmail_SentimentBuff_Embarrassed)" Value="475853" />
+  <Preset Label="Secret Confidante Nearby (buff_Sentiment_Close_Happy_Primary_ScandalSecret_KeepingMySecret)" Value="475856" />
+  <Preset Label="Secret Confidante Nearby (buff_Sentiment_Close_Confident_ScandalSecret_KeepingMySecret)" Value="475857" />
+  <Preset Label="Secret Confidante Nearby (buff_Sentiment_Close_Tense_ScandalSecret_KeepingMySecret)" Value="475858" />
+  <Preset Label="Chosen Family (buff_Family_Adoption_ChosenFamily)" Value="476163" />
+  <Preset Label="New Family Bond (buff_Family_Adoption_NewFamilyBond)" Value="476164" />
+  <Preset Label="Open Sesame! (buff_SecretPassageway_EntranceUnlocked)" Value="476322" />
+  <Preset Label="Foiled Explorer (buff_SecretPassageway_EntranceLocked)" Value="476324" />
+  <Preset Label="buff_Hidden_SecretPassageway_EntranceLocked_FirstTryFree" Value="476325" />
+  <Preset Label="Enchanted Steps (buff_PowerShifts_Shoes_EnchantedSteps)" Value="476426" />
+  <Preset Label="Dance of Destiny (buff_PowerShifts_Shoes_DanceOfDestiny)" Value="476427" />
+  <Preset Label="Finding My Own Path (buff_PowerShifts_Shoes_FindingMyOwnPath)" Value="476428" />
+  <Preset Label="Lonely Steps (buff_PowerShifts_Shoes_LonelySteps)" Value="476429" />
+  <Preset Label="buff_Dynasty_ChallengeHead_Cooldown" Value="476446" />
+  <Preset Label="buff_Dynasty_ChallengeHead_ChessInProgress" Value="476447" />
+  <Preset Label="Unseen Pleasure (buff_Object_SecretPassageway_UnseenPleasure)" Value="476628" />
+  <Preset Label="Inexperienced Explorer (buff_Object_SecretPassageway_UnexperiencedExplorer)" Value="476630" />
+  <Preset Label="buff_AutonomyMod_Recite" Value="476650" />
+  <Preset Label="Publicly Humiliated (buff_ScandalSecret_ShunMock_Embarrassed)" Value="476653" />
+  <Preset Label="Ashamed Ancestors (buff_Ep21World_AshamedAncestors)" Value="477238" />
+  <Preset Label="Honored Ancestors (buff_Ep21World_HonoredAncestors)" Value="477239" />
+  <Preset Label="buff_Ep21World_Hidden_ReciteEnd" Value="477352" />
+  <Preset Label="Formed Alliance (buff_Dynasty_AllianceNew)" Value="477504" />
+  <Preset Label="Broken Bonds (buff_Dynasty_AllianceEndedActor)" Value="477505" />
+  <Preset Label="Betrayed Alliance (buff_Dynasty_AllianceEndedTarget)" Value="477506" />
+  <Preset Label="I Bite My Thumb (buff_Dynasty_RivalryNewActor)" Value="477507" />
+  <Preset Label="Upstart Rivals (buff_Dynasty_RivalryNewTarget)" Value="477508" />
+  <Preset Label="Buried the Hatchet (buff_Dynasty_RivalryEnded)" Value="477509" />
+  <Preset Label="Stay Mad About It (buff_Dynasty_RivalryEndFailActor)" Value="477510" />
+  <Preset Label="Too Little Too Late (buff_Dynasty_RivalryEndFailTarget)" Value="477511" />
+  <Preset Label="buff_Dynasty_SituationRole_DramaNodeHead" Value="477700" />
+  <Preset Label="Small Fry? (buff_Dynasty_RivalryRejectedDeclaration)" Value="477719" />
+  <Preset Label="buff_Dynasty_AskToEndRivalryCooldown" Value="477721" />
+  <Preset Label="buff_Dynasty_Heir_UnmakeDialog_BitterOrNPC" Value="477894" />
+  <Preset Label="buff_Dynasty_Heir_UnmakeDialog_Hurt" Value="477895" />
+  <Preset Label="buff_NobleCareer_Hidden_AskedForRoyalHelp" Value="477933" />
+  <Preset Label="Grim Lover (buff_ScandalSecret_OngoingScandal_Minor_romanceGrim)" Value="478387" />
+  <Preset Label="Clowning Around (buff_ScandalSecret_OngoingScandal_Minor_romanceClown)" Value="478388" />
+  <Preset Label="Noble Leadership (buff_NobleCareer_NobleLeadership)" Value="478454" />
+  <Preset Label="buff_Dynasty_SituationRole_SocializeWithHead" Value="478763" />
+  <Preset Label="buff_Dynasty_Trait_Head" Value="478764" />
+  <Preset Label="buff_Dynasty_SituationRole_RomanceRivalVisit_Visitor" Value="478978" />
+  <Preset Label="buff_Family_Adoption_Allowed_Hidden" Value="479027" />
+  <Preset Label="Stolen Hearts (buff_ScandalSecret_OngoingScandal_Minor_romanceBurglar)" Value="479131" />
+  <Preset Label="To Do Voodoo (buff_ScandalSecret_OngoingScandal_Medium_useVoodooDoll)" Value="479139" />
+  <Preset Label="About Hecking Time (buff_Dynasty_BlackSheepUndeclaredAngry)" Value="479168" />
+  <Preset Label="Back to the Fold (buff_Dynasty_BlackSheepUndeclaredHappy)" Value="479169" />
+  <Preset Label="The Right Thing (buff_Dynasty_BlackSheepDeclarationConfident)" Value="479170" />
+  <Preset Label="Difficult Decision (buff_Dynasty_BlackSheepDeclarationTense)" Value="479171" />
+  <Preset Label="Cast Out Sorrow (buff_Dynasty_BlackSheepDeclarationSad)" Value="479172" />
+  <Preset Label="buff_Family_Adoption_AskedToBeAdopted_Hidden" Value="479193" />
+  <Preset Label="buff_NobleCareer_Hidden_CanCongratulateNoble" Value="479480" />
+  <Preset Label="buff_PowerShifts_Frog_FrogEyes" Value="479489" />
+  <Preset Label="buff_Dynasty_SituationRole_NPCVisit" Value="479802" />
+  <Preset Label="Promised Inheritance (buff_NobleCareer_NobleInheritor)" Value="479898" />
+  <Preset Label="Denied Title Inheritance (buff_NobleCareer_DeniedTitleInheritance)" Value="479899" />
+  <Preset Label="Ignoble Duel Loss (buff_ScandalSecret_OngoingScandal_Medium_swordDuelLoss)" Value="479902" />
+  <Preset Label="buff_WantFear_LikedMusic_ListenTo_Ballroom" Value="479923" />
+  <Preset Label="Unfair Affair (buff_ScandalSecret_OngoingScandal_Medium_cheating)" Value="479949" />
+  <Preset Label="Insulting Advice (buff_NobleCareer_InsultingAdvice)" Value="479968" />
+  <Preset Label="buff_NobleCareer_InheritNobleTitle_Request_Cooldown_Hidden" Value="480094" />
+  <Preset Label="buff_Dynasty_SituationRole_NPCVisit_RivalVisit" Value="480177" />
+  <Preset Label="buff_Dynasty_RivalPartyCrasherTrigger" Value="480239" />
+  <Preset Label="buff_WantFear_LikedMusic_ListenTo_AfroBeats" Value="480282" />
+  <Preset Label="Secret Love Affair (buff_Sentiment_Enamored_Flirty_Primary_SecretLove)" Value="480353" />
+  <Preset Label="Shameful Love (buff_Sentiment_Enamored_Embarrassed_SecretLove)" Value="480354" />
+  <Preset Label="Thrilling Love (buff_Sentiment_Enamored_Happy_SecretLove)" Value="480359" />
+  <Preset Label="buff_ScandalSecret_RevealSecret_InProgress" Value="480369" />
+  <Preset Label="buff_Ep21World_SpiderWell_Cooldown" Value="480493" />
+  <Preset Label="buff_Trait_Reward_NobleCareer_BlueBlood" Value="480528" />
+  <Preset Label="Enchanting Coastline (buff_Ep21World_Happy_BeautifulCoastline)" Value="480733" />
+  <Preset Label="Heart of Dambele (buff_Ep21World_Inspired_HeartOfDambele)" Value="480734" />
+  <Preset Label="Secret Woohoo (buff_Ep21World_Flirty_SecretWohoo)" Value="480888" />
+  <Preset Label="Spiders!! (buff_Ep21World_SpiderWell_Spiders)" Value="480892" />
+  <Preset Label="Heartfelt Speech (buff_NobleCareer_HeartfeltSpeech)" Value="481525" />
+  <Preset Label="Press Disaster (buff_NobleCareer_PressDisaster)" Value="481526" />
+  <Preset Label="buff_Ballroom_Hidden_Plumbbob_Romance_InProgress" Value="481558" />
+  <Preset Label="buff_Ballroom_Hidden_Plumbbob_Romance_Success" Value="481559" />
+  <Preset Label="buff_Ballroom_Hidden_Plumbbob_Status_Success" Value="481743" />
+  <Preset Label="buff_Ballroom_Hidden_Plumbbob_Status_InProgress" Value="481744" />
+  <Preset Label="buff_Ep21World_SpiderWell_AnansiAdvice_Cooldown" Value="481764" />
+  <Preset Label="buff_NobleCareer_NobleSpeechComplete_Hidden" Value="482111" />
+  <Preset Label="buff_AutonomyMod_EP21World_MeanChildren" Value="482141" />
+  <Preset Label="Lost in the Passageways (buff_SecretPassageway_Explore_LostInPassageways)" Value="482145" />
+  <Preset Label="buff_AutonomyMod_EP21World_DambeleRoyalWalk" Value="482157" />
+  <Preset Label="buff_SecretPassageway_ExploreOutcome_Cat" Value="482244" />
+  <Preset Label="buff_SecretPassageway_ExploreOutcome_Naked" Value="482247" />
+  <Preset Label="buff_SecretPassageway_ExploreOutcome_NewRandomAccess" Value="482579" />
+  <Preset Label="buff_Ballroom_Hidden_MoodMatch" Value="482615" />
+  <Preset Label="buff_Ballroom_Hidden_GrandWaltzOutcomes_SuperSuccess" Value="482618" />
+  <Preset Label="Ballroom Blunder (buff_ScandalSecret_OngoingScandal_Minor_ballroom)" Value="482729" />
+  <Preset Label="buff_NobleCareer_Decrees_Hidden_Babyboom" Value="482997" />
+  <Preset Label="Public Danger (buff_Ep21World_Playful_PublicDanger)" Value="483127" />
+  <Preset Label="Bellacorde's Blessing (buff_Ep21World_Inspired_BellacordesBlessing)" Value="483128" />
+  <Preset Label="Public Danger (buff_Ep21World_Anger_PublicDanger)" Value="483145" />
+  <Preset Label="Public Danger (buff_Ep21World_Embarrased_PublicDanger)" Value="483146" />
+  <Preset Label="Public Danger (buff_Ep21World_Happy_PublicDanger)" Value="483148" />
+  <Preset Label="buff_NobleCareer_Decrees_Hidden_ElderlyCare" Value="483309" />
+  <Preset Label="Public Danger (buff_Ep21World_Sad_PublicDanger)" Value="483479" />
+  <Preset Label="Public Danger (buff_Ep21World_Tense_PublicDanger)" Value="483480" />
+  <Preset Label="buff_Ep21World_NoBroadcasterEffect" Value="483482" />
+  <Preset Label="buff_NobleCareer_Decrees_Hidden_LocalGastronomy" Value="483488" />
+  <Preset Label="buff_NobleCareer_Decrees_Hidden_ImprovedEducation" Value="483489" />
+  <Preset Label="buff_Dynasty_JustBecameHead_Chess" Value="483594" />
+  <Preset Label="buff_Dynasty_JustBecameHead_Sword" Value="483595" />
+  <Preset Label="buff_Dynasty_JustBecameHead_Fight" Value="483596" />
+  <Preset Label="buff_Dynasty_JustBecameHead_Demand" Value="483597" />
+  <Preset Label="buff_Dynasty_JustLostHead" Value="483598" />
+  <Preset Label="buff_NobleCareer_Decrees_Hidden_TechnicalAdvancements" Value="483662" />
+  <Preset Label="buff_Object_SecretPassageway_hidden_Upgrade_CuckooBroadcast_Protection" Value="483682" />
+  <Preset Label="buff_Ep21World_BellacordeStatueCooldown" Value="483704" />
+  <Preset Label="buff_NobleCareer_Decrees_Hidden_HealthyLiving" Value="483912" />
+  <Preset Label="buff_NobleCareer_Decrees_Hidden_CulturalLegacy" Value="483913" />
+  <Preset Label="buff_NobleCareer_Decrees_Hidden_EnvironmentalPreservation" Value="483934" />
+  <Preset Label="buff_Object_SecretPassageway_hidden_Upgrade_SoundProof_Protection" Value="483954" />
+  <Preset Label="Generous Donation (buff_NobleCareer_GenerousDonation)" Value="483970" />
+  <Preset Label="buff_Dynasty_JustLeft" Value="483978" />
+  <Preset Label="Scintillating Swordplay (buff_Swordsmanship_InspiringDuel)" Value="484287" />
+  <Preset Label="Surrendered the Tournament (buff_Swordsmanship_SurrenderTournament)" Value="484437" />
+  <Preset Label="Scary Woman (buff_Ep21World_ScaryWoman)" Value="484451" />
+  <Preset Label="buff_hidden_SecretPassageway_Explore_OffLotNotification" Value="484605" />
+  <Preset Label="buff_Ep21World_RobinHood_Role" Value="484649" />
+  <Preset Label="buff_Role_NobleFavor_WaitForGiftReceived" Value="485273" />
+  <Preset Label="Very Generous Donation (buff_NobleCareer_VeryGenerousDonation)" Value="485296" />
+  <Preset Label="buff_Dynasty_Hidden_HasHeir" Value="485455" />
+  <Preset Label="A Forged Line (buff_FamilyTree_ForgedLine)" Value="485560" />
+  <Preset Label="A Family Lie (buff_FamilyTree_FamilyLie)" Value="485561" />
+  <Preset Label="Expecting...Drama! (buff_FamilyTree_Expecting)" Value="485563" />
+  <Preset Label="Living on a Lie (buff_FamilyTree_SecretChild_LivingOnALie)" Value="485564" />
+  <Preset Label="Lost Trust (buff_FamilyTree_SecretChild_LostTrust)" Value="485565" />
+  <Preset Label="Mysterious Benefactor (buff_Ep21World_StrangeSaviour)" Value="485574" />
+  <Preset Label="buff_Role_NobleFavor_DropGift" Value="485585" />
+  <Preset Label="Fulfilling My Destiny (buff_NobleCareer_FulfillingDestiny)" Value="485604" />
+  <Preset Label="buff_NobleFavor_GiftTarget_Cooldown" Value="485687" />
+  <Preset Label="Radiant Reflections (buff_PowerShifts_Mirror_RadiantReflections)" Value="485701" />
+  <Preset Label="Dim Horizons (buff_PowerShifts_Mirror_DimHorizons)" Value="485702" />
+  <Preset Label="Blessing of the Mirror (buff_PowerShifts_Mirror_BlessingOfTheMirror)" Value="485704" />
+  <Preset Label="Curse of the Mirror (buff_PowerShifts_Mirror_CurseOfTheMirror)" Value="485705" />
+  <Preset Label="Dared to Fight (buff_Ep21World_DaredToFight)" Value="485722" />
+  <Preset Label="buff_Ep21World_AskCooldown" Value="485724" />
+  <Preset Label="Terrifying Woman (buff_Ep21World_TerrifyingWomen)" Value="485725" />
+  <Preset Label="buff_Ep21World_Hidden_RobinHood" Value="485728" />
+  <Preset Label="Burglar!!! (buff_Burglar_BurglarSpotted_RobinHood)" Value="485729" />
+  <Preset Label="Bring me my Brown Pants (buff_ScandalSecret_OngoingScandal_Minor_bladderfail)" Value="485991" />
+  <Preset Label="buff_ScandalSecret_marriageCountdown_suspiciousCircumstances" Value="486001" />
+  <Preset Label="Very Suspicious Circumstances (buff_ScandalSecret_OngoingScandal_suspiciousCircumstances)" Value="486005" />
+  <Preset Label="buff_PowerShifts_Mirror_GazeInfoFuture_Cooldown" Value="486190" />
+  <Preset Label="Sentry of the Sea (buff_Ep21World_RobinHood_SwordOfTheSea)" Value="486219" />
+  <Preset Label="buff_Ep21World_RobinHood_SwordOfTheSea_Cooldown" Value="486220" />
+  <Preset Label="buff_PowerShifts_Mirror_InvestigateSecretsOn_Cooldown" Value="486248" />
+  <Preset Label="Gift of the Mirror (buff_PowerShifts_Mirror_GiftOfTheMirror)" Value="486351" />
+  <Preset Label="Burden of the Mirror (buff_PowerShifts_Mirror_BurdenOfTheMirror)" Value="486352" />
+  <Preset Label="Noble Legacy Lost (buff_NobleCareer_NoPromiseCanInherit)" Value="486446" />
+  <Preset Label="Noble Legacy Lost (buff_NobleCareer_NoPromiseCannotInherit)" Value="486447" />
+  <Preset Label="Forged Family Tree (buff_ScandalSecret_OngoingScandal_forgeFamilyTree)" Value="486462" />
+  <Preset Label="Echoes of Simcalibur's Favor (buff_PowerShifts_Sword_EchosOfSharedWorth)" Value="486490" />
+  <Preset Label="buff_PowerShifts_Sword_EchosCooldown" Value="486491" />
+  <Preset Label="buff_PowerShifts_Sword_FailureIncoming" Value="486493" />
+  <Preset Label="buff_DynastyPerk_Secretive1" Value="486521" />
+  <Preset Label="buff_DynastyPerk_Secretive2" Value="486522" />
+  <Preset Label="buff_DynastyPerk_Secretive3" Value="486523" />
+  <Preset Label="buff_WorkRival_NobleCareer_AddBitDelayed" Value="486641" />
+  <Preset Label="buff_WorkRival_NobleCareer_Cooldown" Value="486642" />
+  <Preset Label="buff_Situation_Competition_SwordsmanshipTournament_InBetweenRounds" Value="486645" />
+  <Preset Label="buff_WorkRival_NobleCareer_Debug_IncreaseChance" Value="486675" />
+  <Preset Label="Guilty Noble Saboteur (buff_WorkRival_NobleCareer_GuiltySaboteur)" Value="486676" />
+  <Preset Label="Pleased Noble Saboteur (buff_WorkRival_NobleCareer_SatisfiedSaboteur)" Value="486677" />
+  <Preset Label="Happy Resolution (buff_WorkRival_NobleCareer_HappyResolution)" Value="486678" />
+  <Preset Label="Righteous Claim (buff_WorkRival_NobleCareer_RighteousClaim)" Value="486682" />
+  <Preset Label="buff_AutonomyMod_Swordsmanship" Value="487220" />
+  <Preset Label="buff_NobleFavor_FavorReaction_Cooldown" Value="487467" />
+  <Preset Label="buff_NobleFavor_FavorReaction" Value="487469" />
+  <Preset Label="buff_EP21World_SecretLovers" Value="487486" />
+  <Preset Label="Secret Lovers (buff_ScandalSecret_OngoingScandal_SecretLovers)" Value="487713" />
+  <Preset Label="Understanding Secret (buff_FamilyTree_SecretChild_Understanding)" Value="487836" />
+  <Preset Label="Questioned Ideals (buff_Dynasty_ChangeValue_Mysterious)" Value="487859" />
+  <Preset Label="Questioned Ideals (buff_Dynasty_ChangeValue_Vicious)" Value="487860" />
+  <Preset Label="Questioned Ideals (buff_Dynasty_ChangeValue_Passionate)" Value="487861" />
+  <Preset Label="Questioned Ideals (buff_Dynasty_ChangeValue_Bold)" Value="487862" />
+  <Preset Label="Questioned Ideals (buff_Dynasty_ChangeValue_Caring)" Value="487863" />
+  <Preset Label="Questioned Ideals (buff_Dynasty_ChangeValue_Diplomatic)" Value="487864" />
+  <Preset Label="Questioned Ideals (buff_Dynasty_ChangeValue_Hardworking)" Value="487865" />
+  <Preset Label="Questioned Ideals (buff_Dynasty_ChangeValue_Scholarly)" Value="487866" />
+  <Preset Label="Questioned Ideals (buff_Dynasty_ChangeValue_Artistic)" Value="487867" />
+  <Preset Label="Questioned Ideals (buff_Dynasty_ChangeValue_Nature)" Value="487868" />
+  <Preset Label="Questioned Ideals (buff_Dynasty_ChangeValue_Jolly)" Value="487869" />
+  <Preset Label="Questioned Ideals (buff_Dynasty_ChangeValue_Devious)" Value="487870" />
+  <Preset Label="Questioned Ideals (buff_Dynasty_ChangeValue_Connoisseur)" Value="487875" />
+  <Preset Label="Hurtful Secret (buff_FamilyTree_SecretChild_Hurtful)" Value="487881" />
+  <Preset Label="buff_NobleCareer_Hidden_PromiseSucceeded" Value="487969" />
+  <Preset Label="Knighted and Delighted (buff_NobleCareer_Hidden_KnightedAndDelighted)" Value="488186" />
+  <Preset Label="buff_NobleCareer_Hidden_Cooldown_HeavyCareerAssignment" Value="488222" />
+  <Preset Label="Forbidden Friends (buff_ScandalSecret_OngoingScandal_Dynasty_ForbiddenFriends)" Value="488320" />
+  <Preset Label="To Love a Loathed Enemy (buff_ScandalSecret_OngoingScandal_Dynasty_ForbiddenRomance)" Value="488321" />
+  <Preset Label="Shadow Broker (buff_ScandalSecret_OngoingScandal_isInfoBroker)" Value="488322" />
+  <Preset Label="Frog Kisser (buff_ScandalSecret_OngoingScandal_PowerShifts_KissedFrog)" Value="488323" />
+  <Preset Label="Robbing the Neighborhood (buff_ScandalSecret_OngoingScandal_EP21World_MaraAcosta)" Value="488339" />
+  <Preset Label="buff_EP21World_CriminalMeetup" Value="488453" />
+  <Preset Label="Nobility Is Calling (buff_NobleCareer_ThroneCalling)" Value="488578" />
+  <Preset Label="buff_NobleCareer_Hidden_ThroneCallingCooldown" Value="488579" />
+  <Preset Label="Secret Child Revealed (buff_ScandalSecret_OngoingScandal_hasSecretChild)" Value="488680" />
+  <Preset Label="buff_PivotalMoments_Hidden_DynastySystemComplete" Value="488716" />
+  <Preset Label="buff_EP21World_AngryGhost" Value="488747" />
+  <Preset Label="Daddy Winter (buff_ScandalSecret_OngoingScandal_Minor_romanceFatherWinter)" Value="488759" />
+  <Preset Label="buff_ScandalSecret_NPCSecretGeneration_ObjectPending" Value="488861" />
+  <Preset Label="buff_Dynasty_ValueAutonomyModifiers_Skills_Aligned" Value="489025" />
+  <Preset Label="buff_Dynasty_ValueAutonomyModifiers_Skills_Misaligned" Value="489026" />
+  <Preset Label="buff_Dynasty_ValueAutonomyModifiers_Ideals_Aligned" Value="489027" />
+  <Preset Label="buff_Dynasty_ValueAutonomyModifiers_Ideals_Misaligned" Value="489028" />
+  <Preset Label="buff_Dynasty_Hidden_OutrankHeadTNSCooldown" Value="489029" />
+  <Preset Label="Abandoned at the Altar (buff_ScandalSecret_OngoingScandal_LeftTheAltar)" Value="489034" />
+  <Preset Label="buff_AutonomyMod_EP21World_NobleRebel" Value="489075" />
+  <Preset Label="buff_Ep21World_BlackmailScheduler" Value="489087" />
+  <Preset Label="buff_Dynasty_HasPerk" Value="489153" />
+  <Preset Label="buff_AutonomyMod_EP21World_CleanStatue" Value="489259" />
+  <Preset Label="buff_AutonomyMod_EP21World_BellacordeRoyalWalk" Value="489260" />
+  <Preset Label="buff_Dynasty_SituationRole_NPCVisit_CrisisProtest" Value="489457" />
+  <Preset Label="Unfair Fairy (buff_ScandalSecret_OngoingScandal_UnfairFairy)" Value="489706" />
+  <Preset Label="Plasma Thief! (buff_ScandalSecret_OngoingScandal_BloodSucker)" Value="489804" />
+  <Preset Label="Buried Deep (buff_ScandalSecret_BuriedRumor_Confident)" Value="489819" />
+  <Preset Label="Victim of Extortion (buff_ScandalSecret_Blackmail_Victim)" Value="489820" />
+  <Preset Label="Extortionist Glee (buff_ScandalSecret_Blackmail_Perpetrator_Default)" Value="489821" />
+  <Preset Label="Guilty Conscience (buff_ScandalSecret_Blackmail_Perpetrator_Guilty)" Value="489823" />
+  <Preset Label="Rival Extortion (buff_ScandalSecret_Blackmail_Perpetrator_Rival)" Value="489824" />
+  <Preset Label="Tea Spiller (buff_ScandalSecret_RevealSecret_Default)" Value="489825" />
+  <Preset Label="Tattletale Blues (buff_ScandalSecret_RevealSecret_Guilty)" Value="489827" />
+  <Preset Label="Toppling a Rival (buff_ScandalSecret_RevealSecret_Rival)" Value="489848" />
+  <Preset Label="Secret Discovered (buff_ScandalSecret_SecretDiscovery_Playful)" Value="489849" />
+  <Preset Label="Apology Accepted (buff_ScandalSecret_Statements_Apology_Success)" Value="489850" />
+  <Preset Label="Apology Rejected (buff_ScandalSecret_Statements_Apology_Failure)" Value="489851" />
+  <Preset Label="I did not do it, I did not! (buff_ScandalSecret_Statements_Denial_Success)" Value="489852" />
+  <Preset Label="Digging a Deeper Hole (buff_ScandalSecret_Statements_Denial_Failure)" Value="489853" />
+  <Preset Label="buff_PivotalMoments_Hidden_ScandalSecretsComplete" Value="489860" />
+  <Preset Label="Defaced the Monument (buff_ScandalSecret_OngoingScandal_Minor_vandalizedMonument)" Value="489939" />
+  <Preset Label="Public Shame (buff_NobleCareer_AtonementComplete)" Value="490030" />
+  <Preset Label="buff_PivotalMoments_Hidden_ScandalSecrets_GenerationBypass" Value="490073" />
+  <Preset Label="Nasty Little Letters (buff_ScandalSecret_OngoingScandal_Major_forgedBreakup)" Value="490105" />
+  <Preset Label="buff_Ep21World_InRegion" Value="490275" />
+  <Preset Label="buff_Ep21World_Landmarks_AskAboutGoldworldCooldown" Value="490278" />
+  <Preset Label="buff_Ep21World_Landmarks_AskAboutRobinHoodCooldown" Value="490281" />
+  <Preset Label="buff_NobleCareer_Hidden_AtonementStart" Value="490339" />
+  <Preset Label="buff_Ep21World_Landmarks_AskAboutCappsCooldown" Value="490359" />
+  <Preset Label="buff_Ep21World_Landmarks_AskAboutDarongsCooldown" Value="490395" />
+  <Preset Label="buff_Ep21World_Landmarks_AskAboutThebeCooldown" Value="490402" />
+  <Preset Label="buff_Role_EP21World_DambelePainter" Value="490572" />
+  <Preset Label="Quiet Comfort (buff_ScandalSecret_ComfortScandalizedSim_Relief)" Value="490644" />
+  <Preset Label="buff_ScandalSecret_OngoingScandal_AnyMediumMajor" Value="490650" />
+  <Preset Label="Bad Dog No Biscuit (buff_ScandalSecret_OngoingScandal_BadDogNoBiscuit)" Value="490788" />
+  <Preset Label="Dynastic Pride (buff_Dynasty_JoinedDynasty)" Value="491178" />
+  <Preset Label="buff_Object_SecretPassageway_hidden_ExploringPassageways" Value="491256" />
+  <Preset Label="buff_PivotalMoments_Hidden_DynastySystem_IncreasePrestige" Value="491388" />
+  <Preset Label="Noble Promotion (buff_NobleCareer_PromotionComplete)" Value="491403" />
+  <Preset Label="buff_DynastyPerk_MarketFund_Manipulate_Cooldown" Value="491490" />
+  <Preset Label="Heavy Responsibilities (buff_Dynasty_NewHeadTense)" Value="491557" />
+  <Preset Label="Stepping Into Power (buff_Dynasty_NewHeadConfident)" Value="491558" />
+  <Preset Label="buff_PivotalMoments_Hidden_ScandalSecrets_DiscoveredSecret" Value="491724" />
+  <Preset Label="Subject of Secret (buff_ScandalSecret_SecretCreation_Tense)" Value="491742" />
+  <Preset Label="buff_ScandalSecret_AffordanceMods_TYAE" Value="491771" />
+  <Preset Label="Moving On Up! (buff_Career_MovingUp_NobleCareer)" Value="491947" />
+  <Preset Label="buff_Situation_Competition_SwordsmanshipTournament_ReadyToDuel" Value="491972" />
+  <Preset Label="Noble Rejection (buff_NobleFavor_NobleGifts_Rejection)" Value="492017" />
+  <Preset Label="Noble Treat (buff_NobleFavor_NobleGifts_Treats)" Value="492018" />
+  <Preset Label="buff_Object_SecretPassageway_hidden_CatExploreCooldown" Value="492251" />
+  <Preset Label="Scandal Guardian (buff_ScandalSecret_KeepRumor_Happy)" Value="492488" />
+  <Preset Label="buff_PowerShifts_Shoes_BlockMultipleProposals" Value="492521" />
+  <Preset Label="buff_Ep21World_PremadeGiveSword" Value="492683" />
+  <Preset Label="buff_Situation_Competition_SwordsmanshipTournament_ActiveRound" Value="492852" />
+  <Preset Label="Dance of Destiny (buff_PowerShifts_Shoes_DanceOfDestiny_Status)" Value="492893" />
+  <Preset Label="buff_Dynasty_Trait_Member" Value="493033" />
+  <Preset Label="buff_ScandalSecret_ScandalVFX" Value="493236" />
+  <Preset Label="buff_ScandalSecret_ReactionShunCooldown" Value="493306" />
+  <Preset Label="Sweet Tears (buff_ScandalSecret_Blackmail_SentimentBuff_Playful)" Value="493359" />
+  <Preset Label="Power Play (buff_ScandalSecret_Blackmail_SentimentBuff_Confidence)" Value="493361" />
+  <Preset Label="Secret Bundle (buff_FamilyTree_SecretChild_BundleOfJoy)" Value="493424" />
+  <Preset Label="Rethinking Options (buff_Career_RethinkingOptions_NobleCareer)" Value="493598" />
+  <Preset Label="buff_Dynasty_Hidden_RemovedHeirEffectsApplied" Value="493612" />
+  <Preset Label="buff_FamilyTree_Hidden_FoundForgery" Value="493741" />
+  <Preset Label="Bellacorde's Passion (buff_Ep21World_Flirty_PassionOfBellacorde)" Value="493900" />
+  <Preset Label="Shame Of Bellacorde (buff_Ep21World_Flirty_HorrorOfBellacorde)" Value="493910" />
+  <Preset Label="Judgemental Eyes (buff_Sentiment_Close_Tense_ScandalSecret_WitnessedSecret)" Value="494081" />
+  <Preset Label="buff_NobleCareer_Role_HoldCourt" Value="494101" />
+  <Preset Label="buff_Ep21World_PremadeGiveBoat" Value="494164" />
+  <Preset Label="Blunt Rejection! (buff_Swordsmanship_DuelRejected_HighStakes)" Value="494310" />
+  <Preset Label="buff_FamilyTree_Research_Cooldown_Hidden" Value="494595" />
+  <Preset Label="buff_PowerShifts_Sword_Cooldown_AscendToMonarch" Value="494901" />
+  <Preset Label="buff_NobleCareer_Hidden_CrownOverride" Value="495019" />
+  <Preset Label="buff_NobleCareer_Hidden_CrownPrepOverride" Value="495023" />
+  <Preset Label="buff_NobleCareer_Hidden_SpeechRequest" Value="495920" />
+  <Preset Label="Trial Walker: Story (buff_PowerShifts_SpiderWell_TrialWalkerStory)" Value="496562" />
+  <Preset Label="Woven Voice (buff_PowerShifts_SpiderWell_WovenVoice)" Value="496563" />
+  <Preset Label="Humbled by the Spider (buff_PowerShifts_SpiderWell_HumbledByTheSpider)" Value="496564" />
+  <Preset Label="Trial Walker: Secret (buff_PowerShifts_SpiderWell_TrialWalkerSecret)" Value="496565" />
+  <Preset Label="Elite Schemer (buff_PowerShifts_SpiderWell_EliteSchemer)" Value="496566" />
+  <Preset Label="Web of Shame (buff_PowerShifts_SpiderWell_WebOfShame)" Value="496567" />
+  <Preset Label="Trial Walker: Deceit (buff_PowerShifts_SpiderWell_TrialWalkerDeceit)" Value="496568" />
+  <Preset Label="Trusted by the Web (buff_PowerShifts_SpiderWell_TrustedByTheWeb)" Value="496569" />
+  <Preset Label="Court Whispers (buff_PowerShifts_SpiderWell_CourtWhispers)" Value="496600" />
+  <Preset Label="Trial Walker: Creation (buff_PowerShifts_SpiderWell_TrialWalkerMilestone)" Value="496601" />
+  <Preset Label="Destiny-Spun (buff_PowerShifts_SpiderWell_DestinySpun)" Value="496602" />
+  <Preset Label="Lost Thread (buff_PowerShifts_SpiderWell_LostThread)" Value="496603" />
+  <Preset Label="buff_Role_SwordsmanshipTournament_DuelistNotInRound" Value="496660" />
+  <Preset Label="buff_Role_SwordsmanshipTournament_DuelistInRound" Value="496662" />
+  <Preset Label="buff_Role_SwordsmanshipTournament_SpectatorWatch" Value="496665" />
+  <Preset Label="buff_Role_SwordsmanshipTournament_SpectatorChill" Value="496666" />
+  <Preset Label="buff_PowerShifts_SpiderWell_ShiftFavor_Cooldown" Value="496975" />
+  <Preset Label="Commoner's Thread (buff_PowerShifts_SpiderWell_CommonersThread)" Value="496977" />
+  <Preset Label="Royal's Weave (buff_PowerShifts_SpiderWell_RoyalsWeave)" Value="496978" />
+  <Preset Label="Bad Dog No Biscuit (buff_ScandalSecret_Cheat_NPCSecretGen_badDogNoBiscuit)" Value="497236" />
+  <Preset Label="Bring me my Brown Pants (buff_ScandalSecret_Cheat_NPCSecretGen_bladderFail)" Value="497237" />
+  <Preset Label="Plasma Thief! (buff_ScandalSecret_Cheat_NPCSecretGen_BloodSucker)" Value="497238" />
+  <Preset Label="Unfair Affair (buff_ScandalSecret_Cheat_NPCSecretGen_cheating)" Value="497239" />
+  <Preset Label="Nasty Little Letters (buff_ScandalSecret_Cheat_NPCSecretGen_forgedBreakup)" Value="497240" />
+  <Preset Label="Secret Child Revealed (buff_ScandalSecret_Cheat_NPCSecretGen_hasSecretChild)" Value="497241" />
+  <Preset Label="Abandoned at the Altar (buff_ScandalSecret_Cheat_NPCSecretGen_leftTheAltar)" Value="497242" />
+  <Preset Label="Frog Kisser (buff_ScandalSecret_Cheat_NPCSecretGen_PowerShifts_KissedFrog)" Value="497243" />
+  <Preset Label="Stolen Hearts (buff_ScandalSecret_Cheat_NPCSecretGen_romanceBurglar)" Value="497244" />
+  <Preset Label="Clowning Around (buff_ScandalSecret_Cheat_NPCSecretGen_romanceClown)" Value="497245" />
+  <Preset Label="Daddy Winter (buff_ScandalSecret_Cheat_NPCSecretGen_romanceFatherWinter)" Value="497246" />
+  <Preset Label="Grim Lover (buff_ScandalSecret_Cheat_NPCSecretGen_romanceGrim)" Value="497247" />
+  <Preset Label="Gone Baby Gone (buff_ScandalSecret_Cheat_NPCSecretGen_socialServicesTookChild)" Value="497248" />
+  <Preset Label="Sticky Fingered Filcher (buff_ScandalSecret_Cheat_NPCSecretGen_stealing)" Value="497249" />
+  <Preset Label="Very Suspicious Circumstances (buff_ScandalSecret_Cheat_NPCSecretGen_suspiciousCircumstances)" Value="497250" />
+  <Preset Label="Unfair Fairy (buff_ScandalSecret_Cheat_NPCSecretGen_UnfairFairy)" Value="497251" />
+  <Preset Label="To Do Voodoo (buff_ScandalSecret_Cheat_NPCSecretGen_useVoodooDoll)" Value="497252" />
+  <Preset Label="Defaced the Monument (buff_ScandalSecret_Cheat_NPCSecretGen_VandalizedMonument)" Value="497253" />
+  <Preset Label="Public Woohoo (buff_ScandalSecret_Cheat_NPCSecretGen_woohooInPublic)" Value="497254" />
+  <Preset Label="Indecent Employer (buff_ScandalSecret_Cheat_NPCSecretGen_woohooWithStaff)" Value="497255" />
+  <Preset Label="Student of Steel (buffs_Mentoree_Swordsmanship)" Value="497306" />
+  <Preset Label="Honor Before Duty (buff_NobleCareer_Abdication_Blackmail)" Value="497592" />
+  <Preset Label="Noble Pressure (buff_NobleCareer_Abdication_Pressure)" Value="497593" />
+  <Preset Label="Flirty Suggestions (buff_NobleCareer_Abdication_Seduce)" Value="497595" />
+  <Preset Label="Time For Change (buff_NobleCareer_Abdication_Normal)" Value="497596" />
+  <Preset Label="buff_ScandalSecret_buySecret_inProgress" Value="497736" />
+  <Preset Label="buff_PowerShifts_SpiderWell_ThreadShifter_Target" Value="497926" />
+  <Preset Label="buff_ClubPerks_SkillBoost_AdultMajor_Swordsmanship" Value="497953" />
+  <Preset Label="buff_ScandalSecret_OngoingScandal_Any" Value="498059" />
+  <Preset Label="buff_NobleCareer_Role_HoldPressConference" Value="498181" />
+  <Preset Label="buff_NobleCareer_Hidden_VentureCooldown" Value="498347" />
+  <Preset Label="Scandalous, Fabulous (buff_ScandalSecret_OngoingAttention_Fab)" Value="498506" />
+  <Preset Label="Collected in Controversy (buff_ScandalSecret_OngoingAttention_Collected)" Value="498507" />
+  <Preset Label="They ARE Talking About Me (buff_ScandalSecret_OngoingAttention_Paranoid)" Value="498509" />
+  <Preset Label="buff_ScandalSecret_OngoingAttention_Cooldown" Value="498511" />
+  <Preset Label="buff_Ep21World_BackroomBarTNS" Value="498571" />
+  <Preset Label="Powerful Enemy (buff_ScandalSecret_Blackmail_Perpetrator_Noble)" Value="498906" />
+  <Preset Label="buff_Ep21World_BackroomBarTNS_Cooldown" Value="498959" />
+  <Preset Label="buff_NobleCareer_Hidden_Ascended" Value="499318" />
+  <Preset Label="A Friend Indeed (buff_ScandalSecret_SecretPromised_Confident)" Value="499476" />
+  <Preset Label="Forged Family Tree (buff_ScandalSecret_OngoingScandal_forgeFamilyTree_Shameless)" Value="499512" />
+  <Preset Label="Secret Child Revealed (buff_ScandalSecret_OngoingScandal_hasSecretChild_Shameless)" Value="499513" />
+  <Preset Label="Gone Baby Gone (buff_ScandalSecret_OngoingScandal_Major_socialServicesTookChild_Shameless)" Value="499514" />
+  <Preset Label="Secret Lovers (buff_ScandalSecret_OngoingScandal_SecretLovers_Shameless)" Value="499515" />
+  <Preset Label="Very Suspicious Circumstances (buff_ScandalSecret_OngoingScandal_suspiciousCircumstances_Shameless)" Value="499516" />
+  <Preset Label="Bad Dog No Biscuit (buff_ScandalSecret_OngoingScandal_BadDogNoBiscuit_Shameless)" Value="499518" />
+  <Preset Label="Plasma Thief! (buff_ScandalSecret_OngoingScandal_BloodSucker_Shameless)" Value="499529" />
+  <Preset Label="Forbidden Friends (buff_ScandalSecret_OngoingScandal_Dynasty_ForbiddenFriends_Shameless)" Value="499530" />
+  <Preset Label="To Love a Loathed Enemy (buff_ScandalSecret_OngoingScandal_Dynasty_ForbiddenRomance_Shameless)" Value="499531" />
+  <Preset Label="Shadow Broker (buff_ScandalSecret_OngoingScandal_isInfoBroker_Shameless)" Value="499532" />
+  <Preset Label="Abandoned at the Altar (buff_ScandalSecret_OngoingScandal_LeftTheAltar_Shameless)" Value="499533" />
+  <Preset Label="Nasty Little Letters (buff_ScandalSecret_OngoingScandal_Major_forgedBreakup_Shameless)" Value="499534" />
+  <Preset Label="Unfair Affair (buff_ScandalSecret_OngoingScandal_Medium_cheating_Shameless)" Value="499535" />
+  <Preset Label="Sticky Fingered Filcher (buff_ScandalSecret_OngoingScandal_Medium_stealing_Shameless)" Value="499536" />
+  <Preset Label="Ignoble Duel Loss (buff_ScandalSecret_OngoingScandal_Medium_swordDuelLoss_Shameless)" Value="499537" />
+  <Preset Label="To Do Voodoo (buff_ScandalSecret_OngoingScandal_Medium_useVoodooDoll_Shameless)" Value="499538" />
+  <Preset Label="Unfair Fairy (buff_ScandalSecret_OngoingScandal_UnfairFairy_Shameless)" Value="499539" />
+  <Preset Label="Ballroom Blunder (buff_ScandalSecret_OngoingScandal_Minor_ballroom_Shameless)" Value="499541" />
+  <Preset Label="Bring me my Brown Pants (buff_ScandalSecret_OngoingScandal_Minor_bladderfail_Shameless)" Value="499542" />
+  <Preset Label="Stolen Hearts (buff_ScandalSecret_OngoingScandal_Minor_romanceBurglar_Shameless)" Value="499543" />
+  <Preset Label="Clowning Around (buff_ScandalSecret_OngoingScandal_Minor_romanceClown_Shameless)" Value="499544" />
+  <Preset Label="Daddy Winter (buff_ScandalSecret_OngoingScandal_Minor_romanceFatherWinter_Shameless)" Value="499545" />
+  <Preset Label="Grim Lover (buff_ScandalSecret_OngoingScandal_Minor_romanceGrim_Shameless)" Value="499546" />
+  <Preset Label="Defaced the Monument (buff_ScandalSecret_OngoingScandal_Minor_vandalizedMonument_Shameless)" Value="499547" />
+  <Preset Label="Public Woohoo (buff_ScandalSecret_OngoingScandal_Minor_woohooInPublic_Shameless)" Value="499548" />
+  <Preset Label="Indecent Employer (buff_ScandalSecret_OngoingScandal_Minor_woohooWithStaff_Shameless)" Value="499549" />
+  <Preset Label="Frog Kisser (buff_ScandalSecret_OngoingScandal_PowerShifts_KissedFrog_Shameless)" Value="499550" />
+  <Preset Label="buff_Ballroom_Hidden_DanceIntentSet" Value="500067" />
+  <Preset Label="buff_PowerShifts_Shoes_Block" Value="500484" />
+  <Preset Label="Feeling Nosy (buff_PowerShifts_Mirror_FeelingNosy)" Value="500580" />
+  <Preset Label="buff_ScandalSecret_Asp_Whistleblower_Lvl1_1_ObjectiveCleared" Value="500660" />
+  <Preset Label="buff_Ep21World_RemoveBuff" Value="500810" />
+  <Preset Label="buff_Dynasty_RomanceRivalVisit_Recipient" Value="500899" />
+  <Preset Label="buff_NobleCareer_DilemmaCooldown12" Value="500982" />
+  <Preset Label="buff_NobleCareer_DilemmaCooldown1" Value="500983" />
+  <Preset Label="buff_NobleCareer_DilemmaCooldown2" Value="500984" />
+  <Preset Label="buff_NobleCareer_DilemmaCooldown3" Value="500985" />
+  <Preset Label="buff_NobleCareer_DilemmaCooldown4" Value="500986" />
+  <Preset Label="buff_NobleCareer_DilemmaCooldown5" Value="500987" />
+  <Preset Label="buff_NobleCareer_DilemmaCooldown6" Value="500988" />
+  <Preset Label="buff_NobleCareer_DilemmaCooldown7" Value="501039" />
+  <Preset Label="buff_NobleCareer_DilemmaCooldown8" Value="501040" />
+  <Preset Label="buff_NobleCareer_DilemmaCooldown9" Value="501041" />
+  <Preset Label="buff_NobleCareer_DilemmaCooldown10" Value="501042" />
+  <Preset Label="buff_NobleCareer_DilemmaCooldown11" Value="501043" />
+  <Preset Label="Enchanted Steps (buff_PowerShifts_Shoes_EnchantedSteps_Hidden)" Value="501212" />
+  <Preset Label="buff_NobleCareer_Hudden_WelcomeSpeechCompleted" Value="502051" />
+  <Preset Label="buff_NobleCareer_Hidden_PTOTracker" Value="502380" />
+  <Preset Label="buff_Dynasty_Hidden_BlockDeclareHeirSentiment" Value="502676" />
+  <Preset Label="buff_NobleCareer_Hidden_HaveCongratulated" Value="502808" />
+  <Preset Label="buff_NobleCareer_Hidden_SpeechCanStart" Value="502818" />
+  <Preset Label="buff_PowerShifts_Frog_SetCrown" Value="503068" />
+  <Preset Label="buff_Dynasty_HeadJustFounded" Value="503131" />
+  <Preset Label="buff_Dynasty_Hidden_JustMarried_PromptDelay" Value="503247" />
+  <Preset Label="buff_Dynasty_Hidden_JustMarried_PromptCooldown" Value="503249" />
+</PresetGroup>

@@ -1,0 +1,971 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Interactions EP20">
+  <Preset Label="Picker_HideAndSeek_Hider_FindObject" Tags="TestUnsafe" Value="439983" />
+  <Preset Label="Play Hide and Seek with (hideAndSeek_startGameWith)" Tags="TestUnsafe" Value="440011" />
+  <Preset Label="Hide (hideAndSeek_Hide)" Value="440731" />
+  <Preset Label="spinningBikeMixer_Idle" Value="441414" />
+  <Preset Label="hideAndSeek_StartSituation" Value="441417" />
+  <Preset Label="Look for Hiding Sims (hideAndSeek_Find)" Value="442007" />
+  <Preset Label="Hide (hideAndSeek_Hider_GoNearObject)" Value="442958" />
+  <Preset Label="Offer Competitive Skill Tips (social_Competitive_OfferGameTips)" Value="443363" />
+  <Preset Label="Encourage Healthy Competitive Spirit (social_Competitive_Inspire)" Value="443364" />
+  <Preset Label="Playing Blicblock Turbo (social_Competitive_BlicBlockPVP)" Value="443365" />
+  <Preset Label="Rage about Loss (SI_Competitive_Loss_Rage)" Value="443366" />
+  <Preset Label="Try to Contain Rage about Loss (SI_Competitive_Loss_TryNotTo_Rage)" Value="443367" />
+  <Preset Label="Over-Celebrate a Win (SI_Competitive_Win_OverTheTop)" Value="443368" />
+  <Preset Label="Celebrate a Win (SI_Competitive_Win_GGWP)" Value="443369" />
+  <Preset Label="Freeze Competitive Spirit at Abysmal (immediate_Competitive_CompetitiveSpirit_Freeze_1_Abysmal)" Value="443371" />
+  <Preset Label="Freeze Competitive Spirit at Excellent (immediate_Competitive_CompetitiveSpirit_Freeze_4_Great)" Value="443372" />
+  <Preset Label="Set Competitive Spirit to: Abysmal (Debug) (immediate_Competitive_CompetitiveSpirit_1_SetAbysmal_Debug)" Value="443373" />
+  <Preset Label="Set Competitive Spirit to: Bad (Debug) (immediate_Competitive_CompetitiveSpirit_2_SetBad_Debug)" Value="443374" />
+  <Preset Label="Set Competitive Spirit to: Good (Debug) (immediate_Competitive_CompetitiveSpirit_3_SetGood_Debug)" Value="443375" />
+  <Preset Label="Set Competitive Spirit to: Excellent (Debug) (immediate_Competitive_CompetitiveSpirit_4_SetGreat_Debug)" Value="443376" />
+  <Preset Label="Unfreeze Competitive Spirit (immediate_Competitive_CompetitiveSpirit_Unfreeze)" Value="443387" />
+  <Preset Label="Research Competitive Metas (computerActions_Browse_Mouse_Competitive)" Value="443389" />
+  <Preset Label="idle_Buff_Competitive" Value="443391" />
+  <Preset Label="Ask to Play Hide and Seek (mixer_social_HideAndSeek_AskToPlay)" Tags="TestUnsafe" Value="444258" />
+  <Preset Label="Count Down (hideAndSeek_Count_Loop)" Value="444532" />
+  <Preset Label="Look for Hiding Sims (hideAndSeek_LookFor)" Value="444535" />
+  <Preset Label="Look for Hiding Sims (hideAndSeek_Seek_Start)" Value="444536" />
+  <Preset Label="hideAndSeek_Hider_CreateFallback" Value="444597" />
+  <Preset Label="hideAndSeek_Hider_FallbackCounter" Value="444598" />
+  <Preset Label="Look for Hiding Sims (hideAndSeek_MoveAround)" Value="445191" />
+  <Preset Label="Hire Spinning Instructor (object_HireNPC_SpinningClass_Instructor)" Value="446572" />
+  <Preset Label="Play TANTRUM with (videoGameConsole_PlayWith_Multiplayer_Tantrum_TV)" Tags="TestUnsafe" Value="446681" />
+  <Preset Label="Play Voidcritters with (videoGameConsole_PlayWith_Multiplayer_VoidCritter_TV)" Tags="TestUnsafe" Value="446682" />
+  <Preset Label="Play TANTRUM with (videoGameConsole_PlayWith_Multiplayer_Tantrum)" Tags="TestUnsafe" Value="446685" />
+  <Preset Label="Play Voidcritters with (videoGameConsole_PlayWith_Multiplayer_VoidCritter)" Tags="TestUnsafe" Value="446686" />
+  <Preset Label="Play TANTRUM (videoGameConsole_JoinGame_Playing_Tantrum)" Value="446699" />
+  <Preset Label="Play Voidcritters (videoGameConsole_JoinGame_Playing_VoidCritter)" Value="446700" />
+  <Preset Label="Playing Multiplayer TANTRUM (videoGameConsole_PlayGame_Multiplayer_Tantrum)" Value="446717" />
+  <Preset Label="Force Self to Play Voidcritters (videoGameConsole_PlayGame_GamedOut_VoidCritter)" Value="446720" />
+  <Preset Label="Force Self to Play TANTRUM (videoGameConsole_PlayGame_GamedOut_Tantrum)" Value="446721" />
+  <Preset Label="Play Voidcritters (videoGameConsole_PlayGame_VoidCritter)" Value="446722" />
+  <Preset Label="Play TANTRUM (videoGameConsole_PlayGame_Tantrum)" Value="446723" />
+  <Preset Label="Force Self to Play Voidcritters (videoGameConsole_GamedOut_VoidCritter_Start)" Value="446728" />
+  <Preset Label="Force Self to Play TANTRUM (videoGameConsole_GamedOut_Tantrum_Start)" Value="446729" />
+  <Preset Label="Play Voidcritters (videoGameConsole_PlayGame_VoidCritter_Start)" Value="446730" />
+  <Preset Label="Play TANTRUM (videoGameConsole_PlayGame_Tantrum_Start)" Value="446731" />
+  <Preset Label="Playing Multiplayer Voidcritters (videoGameConsole_StartGames_Multiplayer_VoidCritter)" Value="446732" />
+  <Preset Label="Playing Multiplayer TANTRUM (videoGameConsole_StartGames_Multiplayer_Tantrum)" Value="446733" />
+  <Preset Label="Force Self to Play TANTRUM (videoGameConsole_GamedOut_Start_Tantrum_TV)" Value="446738" />
+  <Preset Label="Force Self to Play Voidcritters (videoGameConsole_GamedOut_Start_VoidCritter_TV)" Value="446739" />
+  <Preset Label="Play Voidcritters (videoGameConsole_PlayGame_Start_VoidCritter_TV)" Value="446740" />
+  <Preset Label="Play TANTRUM (videoGameConsole_PlayGame_Start_Tantrum_TV)" Value="446741" />
+  <Preset Label="Play Voidcritters Together (rallyables_GoToVideoGameConsole_VoidCritter)" Value="446742" />
+  <Preset Label="Play TANTRUM Together (rallyables_GoToVideoGameConsole_Tantrum)" Value="446743" />
+  <Preset Label="Playing Multiplayer Voidcritters (videoGameConsole_PlayGame_Multiplayer_VoidCritter)" Value="446758" />
+  <Preset Label="fishingLocation_Catch_Kayak" Value="447009" />
+  <Preset Label="fishingLocation_AngleForBigCatch_Kayak" Value="447020" />
+  <Preset Label="fishingLocation_AngleForBigCatch_Kayak_Idle" Value="447021" />
+  <Preset Label="fishingLocation_Cast_Kayak" Value="447022" />
+  <Preset Label="Paddle Here (aggregateSI_Vehicle_Kayak_RideHere)" Value="447023" />
+  <Preset Label="Go Fishing (fishingLocationGoFishing_Kayak)" Value="447025" />
+  <Preset Label="Angle For Big Catch (fishingLocationGoFishing_Kayak_AngleForBigCatch)" Value="447026" />
+  <Preset Label="Paddle Here (kayak_Picker_RideHere_Terrain_Favorite)" Tags="TestUnsafe" Value="447028" />
+  <Preset Label="Paddle Here (kayak_Picker_RideHere_Terrain_Auto)" Tags="TestUnsafe" Value="447029" />
+  <Preset Label="Paddle Here (kayak_Picker_RideHere_Terrain)" Tags="TestUnsafe" Value="447030" />
+  <Preset Label="Fish with Bait (fishing_BaitHook_Kayak)" Tags="TestUnsafe" Value="447031" />
+  <Preset Label="Rename {1.ObjectName} (rename_Kayak)" Value="447032" />
+  <Preset Label="Place in World (swipeAddToWorld_Kayak)" Value="447034" />
+  <Preset Label="Place in World (swipeAddToWorld_Kayak_Swim)" Value="447035" />
+  <Preset Label="Paddle Here (terrain-Kayak)" Value="447037" />
+  <Preset Label="Paddle Here (terrain-Kayak_Continuation)" Value="447038" />
+  <Preset Label="Paddle Here (terrain-Kayak_Deploy)" Value="447039" />
+  <Preset Label="Paddle Around (waypoint_Kayak_RideAround)" Value="447041" />
+  <Preset Label="Sit on {1.ObjectName} (generic_Kayak_Locomotion)" Value="447043" />
+  <Preset Label="Sit on {1.ObjectName} (generic_Kayak_Sit)" Value="447044" />
+  <Preset Label="Sit on {1.ObjectName} (generic_Kayak_Stand)" Value="447045" />
+  <Preset Label="Exit {1.ObjectName} (kayak_Exit)" Value="447047" />
+  <Preset Label="Sit on {1.ObjectName} (kayak_GetIn)" Value="447048" />
+  <Preset Label="Paddle Around on {1.ObjectName} (kayak_RideAroundFromObject)" Value="447049" />
+  <Preset Label="Dig Your Talons into Peculiar Plumbird Lore (oddJobGigPickerInteraction_CryptidQuest)" Tags="TestUnsafe" Value="447415" />
+  <Preset Label="SUPERHUG! (social_Cryptid_Superhug)" Value="447417" />
+  <Preset Label="Share Feelings (social_Cryptid_ShareFeelings)" Value="447418" />
+  <Preset Label="Greet Bird Creature (social_Cryptid_GreetBird)" Value="447419" />
+  <Preset Label="Ask Bird about Self (social_Cryptid_AskBirdAboutSelf)" Value="447420" />
+  <Preset Label="Reveal Peculiar Plumbird's Truth (social_Cryptid_RevealTruth)" Value="447431" />
+  <Preset Label="Discuss Plumbird Evidence (social_Cryptid_DiscussEvidence)" Value="447432" />
+  <Preset Label="Investigate Plumbird Evidence (social_Cryptid_InvestigateEvidence)" Value="447433" />
+  <Preset Label="Ask about Unusual Bird (social_Cryptid_AskAboutCryptid)" Value="447434" />
+  <Preset Label="Campfire_Stewpot_StartCooking" Value="447620" />
+  <Preset Label="Hide Wings (campfire_Stewpot_StartCrafting)" Value="447622" />
+  <Preset Label="Campfire_Stewpot_CreateFood" Value="447661" />
+  <Preset Label="Grab a Serving (campfire_Stewpot_GrabFood)" Value="447662" />
+  <Preset Label="Once (social_RockPaperScissors)" Value="447697" />
+  <Preset Label="Grab Flier from Busker (eP20World_Walkbys_Busker_GrabFlier)" Value="448037" />
+  <Preset Label="Remove Cooking Surface (Campfire_Stewpot_Cleanup)" Value="448446" />
+  <Preset Label="Trying not to Over-Celebrate (sI_Competitive_Win_TryNotTo_OverTheTop)" Value="448581" />
+  <Preset Label="Paid (simPicker_SpinningClass_PlayerLed)" Tags="TestUnsafe" Value="448641" />
+  <Preset Label="Join Spinning Class (spinningClass_PlayerLed_Join)" Value="448660" />
+  <Preset Label="spinningClass_PlayerLed_Start" Value="448661" />
+  <Preset Label="spinningBike_Class_FindBike" Value="448664" />
+  <Preset Label="spinningBike_Class_Instructor_WaitForWork" Value="448665" />
+  <Preset Label="Teach Spinning Class (spinningBike_Class_ClassMember_Idle)" Value="448666" />
+  <Preset Label="collectableTrading_PickTradeCollectable" Tags="TestUnsafe" Value="448878" />
+  <Preset Label="Trade for New Collectable with {1.SimFirstName} (social_CollectableTrading_Trade)" Value="448879" />
+  <Preset Label="spinningBike_Class_PushSmoothWorkout" Value="448988" />
+  <Preset Label="I Was Such a Llamahead! (socialSuperInteraction_ChildhoodSentiment_SuchALlamahead)" Tags="TestUnsafe" Value="449219" />
+  <Preset Label="Wish We Were Better Friends (socialSuperInteraction_ChildhoodSentiment_WishWeWereBetterFriends)" Tags="TestUnsafe" Value="449220" />
+  <Preset Label="Reveal Childhood Grudge (socialSuperInteraction_ChildhoodSentiment_RevealChildhoodGrudge)" Tags="TestUnsafe" Value="449221" />
+  <Preset Label="What Was Your Name Again? (socialSuperInteraction_ChildhoodSentiment_WhatWasYourNameAgain)" Tags="TestUnsafe" Value="449222" />
+  <Preset Label="Talk about Old Times (socialSuperInteraction_ChildhoodSentiment_TalkAboutOldTimes)" Tags="TestUnsafe" Value="449223" />
+  <Preset Label="spinningBikeMixers_Actions_Break" Value="449271" />
+  <Preset Label="spinningBikeMixers_Actions_Instructor" Value="449272" />
+  <Preset Label="spinningBikeMixers_Actions_MuscleFailure" Value="449273" />
+  <Preset Label="spinningBikeMixers_Actions_Seated_HighSkill" Value="449274" />
+  <Preset Label="spinningBikeMixers_Actions_Seated_MidSkill" Value="449275" />
+  <Preset Label="spinningBikeMixers_Actions_Seated_LowSkill" Value="449276" />
+  <Preset Label="spinningBikeMixers_Actions_Stand_HighSkill" Value="449277" />
+  <Preset Label="spinningBikeMixers_Actions_Stand_MidSkill" Value="449298" />
+  <Preset Label="spinningBikeMixers_Actions_Stand_LowSkill" Value="449299" />
+  <Preset Label="spinningBikeMixers_Actions_Tap_HighSkill" Value="449300" />
+  <Preset Label="spinningBikeMixers_Actions_Tap_MidSkill" Value="449301" />
+  <Preset Label="spinningBikeMixers_Actions_Tap_LowSkill" Value="449302" />
+  <Preset Label="generic_SpinningBike" Value="449303" />
+  <Preset Label="spinningBike_Class_PushIntenseWorkout" Value="449304" />
+  <Preset Label="Workout (spinningBike_Workout_Smooth)" Value="449305" />
+  <Preset Label="Intense Workout (spinningBike_Workout_Intense)" Value="449306" />
+  <Preset Label="Energetic Workout (spinningBike_Workout_Energetic)" Value="449307" />
+  <Preset Label="Rage Workout (spinningBike_Workout_Rage)" Value="449308" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_Kayak)" Value="449514" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_Kayak_Swim)" Value="449515" />
+  <Preset Label="Glow-in-the-Dark Jellyfish (immediate_Kayak_Customize_Option1)" Value="449598" />
+  <Preset Label="Camper's Delight (immediate_Kayak_Customize_Option2)" Value="449599" />
+  <Preset Label="Precious Gems (immediate_Kayak_Customize_Option3)" Value="449603" />
+  <Preset Label="Reset (immediate_Kayak_Customize_Reset)" Value="449604" />
+  <Preset Label="Best of 3 (social_RockPaperScissors_BestOf3)" Value="449630" />
+  <Preset Label="Rock (immediate_RockPaperScissors_Preference_Rock)" Value="449636" />
+  <Preset Label="Paper (immediate_RockPaperScissors_Preference_Paper)" Value="449637" />
+  <Preset Label="Scissors (immediate_RockPaperScissors_Preference_Scissors)" Value="449638" />
+  <Preset Label="Reset (immediate_RockPaperScissors_Preference_Reset)" Value="449639" />
+  <Preset Label="social_CollectableTrading_TradeOutcome" Value="449667" />
+  <Preset Label="Grilling (grill_StartCraftingAutonomously_EP20Festival_GlowAndFlow_Jellyfish)" Value="449754" />
+  <Preset Label="si_CollectableTrading_TradeReaction" Value="449865" />
+  <Preset Label="Play for Collectable against {1.SimFirstName} (social_CollectableTrading_WinStart)" Value="450235" />
+  <Preset Label="createObject_CollectableTrading_CreateWinnableCollectable" Tags="TestUnsafe" Value="450284" />
+  <Preset Label="collectableTrading_PickWinnableCollectable" Tags="TestUnsafe" Value="450285" />
+  <Preset Label="social_CollectableTrading_WinOutcome" Value="450286" />
+  <Preset Label="si_CollectableTrading_WinReaction" Value="450453" />
+  <Preset Label="reactions_RockPaperScissors_Win" Value="450525" />
+  <Preset Label="reactions_RockPaperScissors_Tie" Value="450526" />
+  <Preset Label="reactions_RockPaperScissors_Loss" Value="450527" />
+  <Preset Label="cooking_Shared_AddSpice_FairyBread" Value="450679" />
+  <Preset Label="cooking_Shared_AddSpice_SaltSlather" Value="450683" />
+  <Preset Label="Whippersnapper High Five (touching_EP20Festival_HighFive)" Value="451030" />
+  <Preset Label="Start 'Be an Entertainer' Challenge (si_ChildhoodInspiration_StartChallenge_BeAnEntertainer)" Value="451109" />
+  <Preset Label="Banded King Shoemaker Butterfly (immediate_ButterflyCollection_Debug_BrandedKingShoemaker)" Value="451334" />
+  <Preset Label="Cordelian Butterfly (immediate_ButterflyCollection_Debug_Cordelian)" Value="451335" />
+  <Preset Label="Cryptid Moth (immediate_ButterflyCollection_Debug_CryptidMoth)" Value="451336" />
+  <Preset Label="Grim's-head Hawkmoth (immediate_ButterflyCollection_Debug_DeathsHeadHawkMoth)" Value="451337" />
+  <Preset Label="Dina Yellow Butterfly (immediate_ButterflyCollection_Debug_DineYellow)" Value="451338" />
+  <Preset Label="Glasswing Butterfly (immediate_ButterflyCollection_Debug_Glasswing)" Value="451339" />
+  <Preset Label="Goliath Silk Moth (immediate_ButterflyCollection_Debug_GoliathSilkMoth)" Value="451340" />
+  <Preset Label="Jelly Butterfly (immediate_ButterflyCollection_Debug_JellyButterfly)" Value="451341" />
+  <Preset Label="Jorjan Birdwing Butterfly (immediate_ButterflyCollection_Debug_JorjanBirdwing)" Value="451342" />
+  <Preset Label="Owl Butterfly (immediate_ButterflyCollection_Debug_Owl)" Value="451343" />
+  <Preset Label="Red Admiral Butterfly (immediate_ButterflyCollection_Debug_RedAdmiral)" Value="451344" />
+  <Preset Label="Richmond Birdwing Butterfly (immediate_ButterflyCollection_Debug_RichmondBirdwing)" Value="451345" />
+  <Preset Label="Sphinx Moth (immediate_ButterflyCollection_Debug_SphinxMoth)" Value="451346" />
+  <Preset Label="Magical Origami Butterfly (immediate_ButterflyCollection_Debug_UltimateOrigami)" Value="451347" />
+  <Preset Label="De-spawn Butterfly (immediate_ButterflyCollection_Debug_MakeInvisible)" Value="451393" />
+  <Preset Label="Force Nearby Butterflies to Spawn (butterflyCollection_Supers_SpawnButterflies_Debug_NearbyButterflies)" Value="451523" />
+  <Preset Label="Spin Blocks (modularPlayground_Puzzle)" Value="451563" />
+  <Preset Label="Look Out (modularPlayground_Bubble)" Value="451564" />
+  <Preset Label="Lean Over (modularPlayground_Fence)" Value="451565" />
+  <Preset Label="modularPlayground_Mixers_PuzzleSpin1" Value="451567" />
+  <Preset Label="modularPlayground_Mixers_PuzzleSpin2" Value="451568" />
+  <Preset Label="modularPlayground_Mixers_PuzzleSpin3" Value="451569" />
+  <Preset Label="modularPlayground_Mixers_Idle" Value="451570" />
+  <Preset Label="Start 'Be an Enthusiast' Challenge (si_ChildhoodInspiration_StartChallenge_BeTheGeek)" Value="451592" />
+  <Preset Label="Unlock Butterfly Collection Cheats (immediate_ButterflyCollection_Debug_UnlockCheats)" Value="451609" />
+  <Preset Label="Start 'Be an Amateur Photographer' Challenge (si_ChildhoodInspiration_StartChallenge_AmateurPhotographer)" Value="451648" />
+  <Preset Label="Start 'Learn from the Past' Challenge (si_ChildhoodInspiration_StartChallenge_LearnFromThePast)" Value="451654" />
+  <Preset Label="Start 'Explore Nature' Challenge (si_ChildhoodInspiration_StartChallenge_ExploreNature)" Value="451770" />
+  <Preset Label="Start 'Nurture Plants' Challenge (si_ChildhoodInspiration_StartChallenge_NuturePlants)" Value="451793" />
+  <Preset Label="Catch {1.ObjectName} (butterflyCollection_Supers_Catch)" Value="451836" />
+  <Preset Label="Magical Origami Butterfly (papercraft_StartCrafting_Origami_ButterflyCollection_UltimateButterfly)" Value="451859" />
+  <Preset Label="Collect ALL but the Magical Origami Butterfly (immediate_ButterflyCollection_Debug_UltimateButterfly_Get13)" Value="451995" />
+  <Preset Label="Bring to Life (immediate_ButterflyCollection_Debug_UltimateButterfly_BringToLife)" Value="451997" />
+  <Preset Label="Start 'Be Active' Challenge (si_ChildhoodInspiration_StartChallenge_BeActive)" Value="452128" />
+  <Preset Label="Cootie Catcher (papercraft_StartCrafting_Origami_CootieCatcher)" Value="452268" />
+  <Preset Label="Tell Fortune (social_Papercraft_CootieCatcher_TellFortune)" Value="452270" />
+  <Preset Label="Offer to Tell Fortune with Cootie Catcher (social_Papercraft_CootieCatcher_TellFortune_Offer)" Value="452271" />
+  <Preset Label="Deliver Fish to Bird (social_Cryptid_DeliverFish)" Value="452325" />
+  <Preset Label="Ask to Tell Fortune with Cootie Catcher (social_Papercraft_CootieCatcher_TellFortune_Ask)" Value="452354" />
+  <Preset Label="Retrieving Some Simoleons (idle_Buff_Papercraft_CootieCatcher_Money)" Value="452507" />
+  <Preset Label="Fart (idle_Buff_Papercraft_CootieCatcher_Farts)" Value="452511" />
+  <Preset Label="Start 'Be Comfortable in Water' Challenge (si_ChildhoodInspiration_StartChallenge_LearnToDive)" Value="452517" />
+  <Preset Label="Examine (butterflyCollection_Supers_EP20_Asp_Examine)" Value="452646" />
+  <Preset Label="Paper Airplane (papercraft_StartCrafting_Origami_PaperAirplane)" Value="452814" />
+  <Preset Label="Throw {1.ObjectName} (super_Papercraft_PaperAirplane_Throw)" Value="452816" />
+  <Preset Label="Go to Work (si_Career_ParkWorker)" Value="452998" />
+  <Preset Label="Take Vacation Day (Park Worker) (phone_TakePTO_ParkWorker)" Value="452999" />
+  <Preset Label="hideAndSeek_CheckHidingObjects" Value="453326" />
+  <Preset Label="Pick Cootie Catcher Fortune (interactionPicker_Papercraft_CootieCatcher_FortunePicker_debug)" Tags="TestUnsafe" Value="453515" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Your Muse is on a Snooze Cruise&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Negative_01_Uncreative)" Value="453518" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;FARTS!&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Negative_03_Farts)" Value="453519" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;You're a Creativity Wizard&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Positive_01_Creative)" Value="453520" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Simoleon Signs in Your Future&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Positive_02_Money)" Value="453521" />
+  <Preset Label="Idle_Trait_Cryptid" Value="453751" />
+  <Preset Label="Blend Smoothie (blender_MakeSmoothie_StartCrafting_ep20)" Value="453798" />
+  <Preset Label="View {1.ObjectName} (butterflyCollection_Supers_AtriumView)" Value="454063" />
+  <Preset Label="Enable Emotional Aura (immediate_ButterflyCollection_AtriumProximity)" Value="454118" />
+  <Preset Label="Pan for Crystals (WorldPOI_CrystalPanning_PanForCrystals)" Value="454321" />
+  <Preset Label="Touch Glowworm (worldPOI_JellyfishPond_touchGlowWorm)" Value="454423" />
+  <Preset Label="Research Mating Rituals of Butterflies (computer_Browse_EP20_Asp_ResearchButterflyMating)" Value="454701" />
+  <Preset Label="Flutter Kiss (mixer_social_EP20_Asp_FlutterKiss_targeted_romance_middleScore)" Tags="TestUnsafe" Value="454705" />
+  <Preset Label="SM Empty - Debug (debug_WorldPOI_storyMap_mapStates_empty)" Value="454731" />
+  <Preset Label="SM Quest 1 - Debug (debug_WorldPOI_storyMap_mapStates_mapA)" Value="454732" />
+  <Preset Label="SM Quest 2 - Debug (debug_WorldPOI_storyMap_mapStates_mapB)" Value="454733" />
+  <Preset Label="SM Quest 3 - Debug (debug_WorldPOI_storyMap_mapStates_mapC)" Value="454734" />
+  <Preset Label="SM Quest 1 &amp; 2 - Debug (debug_WorldPOI_storyMap_mapStates_mapAB)" Value="454735" />
+  <Preset Label="SM Quest 2 &amp; 3 - Debug (debug_WorldPOI_storyMap_mapStates_mapBC)" Value="454736" />
+  <Preset Label="SM Quest 1 &amp; 3 - Debug (debug_WorldPOI_storyMap_mapStates_mapAC)" Value="454737" />
+  <Preset Label="SM Complete - Debug (debug_WorldPOI_storyMap_mapStates_complete)" Value="454738" />
+  <Preset Label="Chat with Butterfly (sI_EP20_Asp_ButterflyChat)" Value="454898" />
+  <Preset Label="Chat with Fish (sI_EP20_Asp_FishChat)" Value="454899" />
+  <Preset Label="mixer_EP20_Asp_FishChat" Value="454905" />
+  <Preset Label="mixer_EP20_Asp_ButterflyChat" Value="454906" />
+  <Preset Label="Enthuse about Critters (mixer_social_EnthuseAboutOutdoorCritters_targeted_friendly)" Tags="TestUnsafe" Value="454907" />
+  <Preset Label="Order Food (marketStalls_PushOrderFood_EP20Festival_SunriseSunset)" Value="454959" />
+  <Preset Label="Order Food (marketStalls_PushOrderFood_EP20Festival_FashionAndFitness)" Value="454960" />
+  <Preset Label="Tend Stall (marketStalls_Tend_EP20Festival_SunriseSunset)" Value="454962" />
+  <Preset Label="Tend Stall (marketStalls_Tend_EP20Festival_FashionAndFitness)" Value="454963" />
+  <Preset Label="Magical Origami Butterfly (super_Papercraft_StartCrafting_FromInventory_Origami_UltimateButterfly)" Value="454968" />
+  <Preset Label="Cootie Catcher (super_Papercraft_StartCrafting_FromInventory_Origami_CootieCatcher)" Value="454969" />
+  <Preset Label="Paper Airplane (super_Papercraft_StartCrafting_FromInventory_Origami_PaperAirplane)" Value="454970" />
+  <Preset Label="Flutter Eyes (mixer_EP20_Asp_social_FlutterEyes_targeted_romance_alwaysOn)" Tags="TestUnsafe" Value="454989" />
+  <Preset Label="Cocoon Hug (mixer_social_EP20_Asp_CocoonHug_targeted_romance_middleScore_STC)" Tags="TestUnsafe" Value="454990" />
+  <Preset Label="Brag about Being Cool (mixer_socials_EP20_Asp_BragAbout_BeingCool)" Tags="TestUnsafe" Value="455004" />
+  <Preset Label="Brag about Collectible Collection (mixer_socials_EP20_Asp_BragAbout_Collection)" Tags="TestUnsafe" Value="455005" />
+  <Preset Label="Praise Coolest Kid (mixer_social_EP20_Asp_PraiseCoolKid)" Tags="TestUnsafe" Value="455006" />
+  <Preset Label="View Jellyfish Junction Town Model (worldPOI_TownDisplay_viewDisplay)" Value="455008" />
+  <Preset Label="Ask to Tell {0.SimFirstName}'s Fortune with Cootie Catcher (simPicker_Papercraft_CootieCatcher_TellFortune_Ask)" Tags="TestUnsafe" Value="455056" />
+  <Preset Label="Offer to Tell Fortune with Cootie Catcher (simPicker_Papercraft_CootieCatcher_TellFortune_Offer)" Tags="TestUnsafe" Value="455057" />
+  <Preset Label="Start 'Feed Yourself' Challenge (si_ChildhoodInspiration_StartChallenge_FeedYourself)" Value="455147" />
+  <Preset Label="Start 'Be Useful' Challenge (si_ChildhoodInspiration_StartChallenge_BeUseful)" Value="455148" />
+  <Preset Label="Start 'Be Annoying' Challenge (si_ChildhoodInspiration_StartChallenge_BeAnnoying)" Value="455149" />
+  <Preset Label="Put in Inventory (super_Papercraft_CootieCatcher_TellFortune_Ask_PickUp)" Value="455159" />
+  <Preset Label="Ask to Tell Fortune with Cootie Catcher (super_Papercraft_CootieCatcher_TellFortune_Ask_FromPicker)" Value="455160" />
+  <Preset Label="Offer to Tell Fortune with Cootie Catcher (super_Papercraft_CootieCatcher_TellFortune_Offer_FromPicker)" Value="455161" />
+  <Preset Label="Put in Inventory (super_Papercraft_CootieCatcher_TellFortune_Offer_PickUp)" Value="455162" />
+  <Preset Label="Hide (hideAndSeek_Hide_Fallback)" Value="455188" />
+  <Preset Label="Turn into Imaginary Friend (sI_EP20_IF_ImagineUpAFriend_LilMonster)" Value="455208" />
+  <Preset Label="Evil (sI_EP20_IF_ImagineUpNewPersonality_Evil)" Value="455210" />
+  <Preset Label="Competitive (sI_EP20_IF_ImagineUpNewPersonality_Competitive)" Value="455227" />
+  <Preset Label="Play on Playground (modularPlayground_Play)" Value="455288" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Nobody Likes You&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Negative_02_Unfriendly)" Value="455302" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;You're Going to Flunk School&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Negative_04_BadSchoolPerformance)" Value="455303" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Lame Gift Incoming!&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Negative_05_LameGift)" Value="455304" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Brace for a Porcelain Surprise&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Negative_06_BreakToilet)" Value="455305" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Cupid's Arrow Missed You Today&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Negative_07_Unflirty)" Value="455306" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;You're a Funky Brain!&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Negative_08_Unfocused)" Value="455307" />
+  <Preset Label="Goofball (sI_EP20_IF_ImagineUpNewPersonality_Goofball)" Value="455338" />
+  <Preset Label="Creative (sI_EP20_IF_ImagineUpNewPersonality_Creative)" Value="455339" />
+  <Preset Label="Throw {1.ObjectName} (throwPaperAirplaneSuperInteraction)" Value="455461" />
+  <Preset Label="Intense Workout (spinningBike_Workout_Intense_Class)" Value="455483" />
+  <Preset Label="Workout (spinningBike_Workout_Smooth_Class)" Value="455484" />
+  <Preset Label="worldPOI_JellyfishPond_Reaction_GlowWorm" Value="455532" />
+  <Preset Label="Watch Butterflies (worldPOI_Topiary_watchButterflies)" Value="455535" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;You're the Coolest Kid on the Block&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Positive_03_Friendship)" Value="455541" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Special Delivery on the Way&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Positive_04_CoolGift)" Value="455542" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;You'll Have a Sweet Sweet Dream&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Positive_05_GoodDream)" Value="455543" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Your a Smarty Pants&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Positive_06_SchoolPerformance)" Value="455544" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;You're Lucky... Lucky in Love&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Positive_07_Flirty)" Value="455545" />
+  <Preset Label="&lt;b&gt;Fortune:&lt;/b&gt; &lt;i&gt;Your Smarts are Off the Charts&lt;/i&gt; (immediate_Papercraft_CootieCatcher_Positive_08_Focus)" Value="455546" />
+  <Preset Label="Catch {1.ObjectName} (butterflyCollection_Supers_Catch_CryptidDummy)" Value="455597" />
+  <Preset Label="Play Rock Paper Scissors (social_RockPaperScissors_CollectableTrading)" Value="455607" />
+  <Preset Label="createObject_CollectableTrading_CreateWinnableCollectable_NoOngoing" Tags="TestUnsafe" Value="455610" />
+  <Preset Label="Turn into Imaginary Friend (sI_EP20_IF_ImagineUpAFriend_Pegacorn)" Value="455638" />
+  <Preset Label="Turn into Imaginary Friend (sI_EP20_IF_ImagineUpAFriend_SpookyKid)" Value="455639" />
+  <Preset Label="Turn into Imaginary Friend (sI_EP20_IF_ImagineUpAFriend_WildChild)" Value="455640" />
+  <Preset Label="Dig Your Talons into Peculiar Plumbird Lore (immediate_Cryptid_QuestStart)" Value="455758" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Bye" Value="455787" />
+  <Preset Label="View Fossil Artifact (cryptid_view_fossil)" Value="455858" />
+  <Preset Label="Select Adventure Quest (oddJobGigPickerInteraction_EP20World_Quests_StorytellerQuests)" Tags="TestUnsafe" Value="455865" />
+  <Preset Label="Take on a Formative Challenge (si_ChildhoodInspiration_SeekInspiration)" Value="455941" />
+  <Preset Label="Select Adventure Quest (oddJobGigPickerInteraction_EP20World_Quests_ButterflyConservationist)" Tags="TestUnsafe" Value="455982" />
+  <Preset Label="Ask about Town Gossip (sI_EP20World_NPC_AskAboutTownGossip)" Value="456049" />
+  <Preset Label="Listen to the Story of the Melody of the Geyser (sI_EP20World_NPC_ListentoGeyserStory)" Value="456050" />
+  <Preset Label="Listen to the Story of the Electric Lagoon (sI_EP20World_NPC_ListentoJellyfishPond)" Value="456051" />
+  <Preset Label="Ask about Great Adventurers (sI_EP20World_NPC_AskAboutAdventurers)" Value="456052" />
+  <Preset Label="Ask about Adventure Markings (sI_EP20World_NPC_AskAboutAdventureMarkings)" Value="456053" />
+  <Preset Label="Bring Up Secret Gossip (sI_EP20World_NPC_BringUpGossip)" Value="456054" />
+  <Preset Label="Inquire about Adventure Quest (sI_EP20World_NPC_InquireQuest)" Value="456055" />
+  <Preset Label="Friendship Card (papercraft_StartCrafting_Card_Friendship)" Value="456182" />
+  <Preset Label="Love Card (papercraft_StartCrafting_Card_Love)" Value="456183" />
+  <Preset Label="Gifting Papercraft (social_Papercraft_Gift_Card_Friendship_OnObject)" Value="456186" />
+  <Preset Label="Gifting Papercraft (social_Papercraft_Gift_Card_Love_OnObject)" Value="456187" />
+  <Preset Label="Summon Imaginary Friend (sI_EP20_IF_ShowSelf)" Value="456200" />
+  <Preset Label="Talk about Experience Raising a Butterfly (sI_EP20World_NPC_TalktoConservationist)" Value="456298" />
+  <Preset Label="Talk about Raising Butterflies (sI_EP20World_NPC_TalktoConservationistRaising)" Value="456299" />
+  <Preset Label="Claim Room (getaway_ClaimRoom)" Value="456374" />
+  <Preset Label="Call Getaway Sims (getaway_CallSimsInside)" Value="456423" />
+  <Preset Label="Gift {1.ObjectName} to (simPicker_Papercraft_Gift_Card_Love_OnObject_YAE)" Tags="TestUnsafe" Value="456537" />
+  <Preset Label="Gift {1.ObjectName} to (simPicker_Papercraft_Gift_Card_Love_OnObject_T)" Tags="TestUnsafe" Value="456540" />
+  <Preset Label="Gifting Papercraft (social_Papercraft_Gift_Card_Love_OnSim)" Value="456543" />
+  <Preset Label="Gift Love Card to {1.SimFirstName} (inventoryPicker_Papercraft_Gift_Card_Love_OnSIm_YAE)" Tags="TestUnsafe" Value="456566" />
+  <Preset Label="Gift Friendship Card to {1.SimFirstName} (inventoryPicker_Papercraft_Gift_Card_Friendship_OnSim)" Tags="TestUnsafe" Value="456567" />
+  <Preset Label="Gift Love Card to {1.SimFirstName} (inventoryPicker_Papercraft_Gift_Card_Love_OnSim_T)" Tags="TestUnsafe" Value="456582" />
+  <Preset Label="Gifting Papercraft (social_Papercraft_Gift_Card_Friendship_OnSim)" Value="456584" />
+  <Preset Label="Gift {1.ObjectName} to (simPicker_Papercraft_Gift_Card_Friendship_OnObject)" Tags="TestUnsafe" Value="456587" />
+  <Preset Label="worldPOI_Geyser_regularBlowReaction" Value="456629" />
+  <Preset Label="worldPOI_Geyser_lavaBlowReaction" Value="456631" />
+  <Preset Label="Check On {1.SimFirstName} (social_Getaway_CheckOn)" Value="456674" />
+  <Preset Label="Ask {1.SimFirstName} to Clean (social_Getaway_AskToClean)" Value="456675" />
+  <Preset Label="Ask {1.SimFirstName} to Leave Getaway (social_Getaway_AskToLeave)" Value="456769" />
+  <Preset Label="Friendship Card (super_Papercraft_StartCrafting_FromInventory_Card_Friendship)" Value="456842" />
+  <Preset Label="Love Card (super_Papercraft_StartCrafting_FromInventory_Card_Love)" Value="456843" />
+  <Preset Label="Throw {1.ObjectName} (throwPaperAirplaneSuperInteraction_Papercraft_Throw_Long)" Value="456868" />
+  <Preset Label="Throw {1.ObjectName} (throwPaperAirplaneSuperInteraction_Papercraft_Throw_Short)" Value="456869" />
+  <Preset Label="Throw {1.ObjectName} Around (super_Papercraft_PaperAirplane_ThrowAround)" Value="456899" />
+  <Preset Label="Throw {1.ObjectName} (throwPaperAirplaneSuperInteraction_Papercraft_ThrowAround_Long)" Value="456900" />
+  <Preset Label="Throw {1.ObjectName} (throwPaperAirplaneSuperInteraction_Papercraft_ThrowAround_Short)" Value="456901" />
+  <Preset Label="Throw {1.ObjectName} Around (super_Papercraft_PaperAirplane_ThrowAround_Continue)" Value="456930" />
+  <Preset Label="Declare Most Epic Papercraft (unfinishedBusiness_Declare_Papercraft)" Value="456940" />
+  <Preset Label="Smack Boulder! (worldPOI_Geyser_Boulder_smackBoulder)" Value="456965" />
+  <Preset Label="Aura Swim (terrain-Swim_EP20_WorldPOI_Bay_MagneticAuraSwim)" Value="457016" />
+  <Preset Label="Influence Swim (terrain-Swim_EP20_WorldPOI_Bay_CareerInfluenceSwim)" Value="457017" />
+  <Preset Label="Romantic Swim (terrain-Swim_EP20_WorldPOI_Bay_NewLifeSwim)" Value="457018" />
+  <Preset Label="Focus Swim (terrain-Swim_EP20_WorldPOI_Bay_ZonedInSwim)" Value="457019" />
+  <Preset Label="Neon Jellyfish Swim (terrain-Swim_EP20_WorldPOI_JellyfishPond_ElectricSwim)" Value="457021" />
+  <Preset Label="Underlight Bay (worldPOI_FocusCameraOn_Bay)" Value="457087" />
+  <Preset Label="Jellyfish Junction Topiary (worldPOI_FocusCameraOn_TopiarySeabreeze)" Value="457088" />
+  <Preset Label="Hothead Rock Geyser (worldPOI_FocusCameraOn_Geyser)" Value="457089" />
+  <Preset Label="The Old Firewatch Tower (worldPOI_FocusCameraOn_HeavyVeg)" Value="457090" />
+  <Preset Label="Electric Lagoon (worldPOI_FocusCameraOn_JellyfishPond)" Value="457092" />
+  <Preset Label="Butterfly and Moth Topiary (worldPOI_FocusCameraOn_TopiaryWilderness)" Value="457098" />
+  <Preset Label="Butterfly Topiary (worldPOI_FocusCameraOn_TopiaryGoldenRetreat)" Value="457099" />
+  <Preset Label="Update Story Map with Learnings from the Secrets of the Town Quest (worldPOI_StoryMap_UpdateAQuest)" Value="457137" />
+  <Preset Label="Update Story Map with Learnings from the Neighborhood Adventure Quest (worldPOI_StoryMap_UpdateBQuest)" Value="457138" />
+  <Preset Label="Update Story Map with Learnings from the Melody of the Geyser Quest (worldPOI_StoryMap_UpdateCQuest)" Value="457139" />
+  <Preset Label="Investigate Boulder (worldPOI_Geyser_Boulder_Investigate)" Value="457140" />
+  <Preset Label="View Completed Story Map (worldPOI_StoryMap_viewMap)" Value="457141" />
+  <Preset Label="Rehome Butterfly (worldPOI_Topiary_DonateButterfly)" Value="457142" />
+  <Preset Label="Investigate Jellyfish Junction Town Model (worldPOI_TownDisplay_Investigate)" Value="457143" />
+  <Preset Label="Investigate Bootprint (worldPOI_HeavyVeg_Footprint_Investigate)" Value="457155" />
+  <Preset Label="Investigate Story Map (worldPOI_StoryMap_Investigate)" Value="457156" />
+  <Preset Label="Ask Sims to try to Get Along (social_Getaway_AskToGetAlong)" Value="457178" />
+  <Preset Label="getaway_AttractListenersTryGetAlong" Value="457182" />
+  <Preset Label="React to {1.SimFirstName} Leaving Getaway (getaway_AttractListenersLeaver)" Value="457183" />
+  <Preset Label="Unlock BB Butterfly Objects (immediate_ButterflyCollection_Debug_UnlockBBObjects)" Value="457346" />
+  <Preset Label="Complain about Getaway (mixer_social_Getaway_ComplainAboutGetaway)" Tags="TestUnsafe" Value="457479" />
+  <Preset Label="Enthuse about Getaway (mixer_Social_Getaway_EnthuseAboutGetaway)" Tags="TestUnsafe" Value="457480" />
+  <Preset Label="Gossip about Other Guests (mixer_Social_Getaway_GossipAboutGuests)" Tags="TestUnsafe" Value="457481" />
+  <Preset Label="Spread Mean Rumors about Other Guests (mixer_Social_Mean_Getaway_SpreadMeanRumors)" Tags="TestUnsafe" Value="457482" />
+  <Preset Label="Add Cooking Surface to Campfire (Campfire_Stewpot_Create)" Value="457937" />
+  <Preset Label="Underlight Bay (autonomous_ObjectPicker_EP20WorldPOI_FocusOn_Bay)" Tags="TestUnsafe" Value="457963" />
+  <Preset Label="Hothead Rock Geyser (autonomous_ObjectPicker_EP20WorldPOI_FocusOn_Geyser)" Tags="TestUnsafe" Value="457968" />
+  <Preset Label="Place in World (si_SwipeAddToWorld_ButterflyCollection_Jellyfish)" Value="457993" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_ButterflyCollection_Jellyfish)" Value="457995" />
+  <Preset Label="The Old Firewatch Tower (autonomous_ObjectPicker_EP20WorldPOI_FocusOn_HeavyVeg)" Tags="TestUnsafe" Value="458058" />
+  <Preset Label="Electric Lagoon (autonomous_ObjectPicker_EP20WorldPOI_FocusOn_JellyfishPond)" Tags="TestUnsafe" Value="458059" />
+  <Preset Label="Butterfly Topiary (autonomous_ObjectPicker_EP20WorldPOI_FocusOn_TopiaryGoldenRetreat)" Tags="TestUnsafe" Value="458060" />
+  <Preset Label="Jellyfish Junction Topiary (autonomous_ObjectPicker_EP20WorldPOI_FocusOn_TopiarySeabreeze)" Tags="TestUnsafe" Value="458061" />
+  <Preset Label="Butterfly and Moth Topiary (autonomous_ObjectPicker_EP20WorldPOI_FocusOn_TopiaryWilderness)" Tags="TestUnsafe" Value="458062" />
+  <Preset Label="autonomous_ObjectPicker_EP20WorldPOI_FocusOn_Geyser_LavaBlow" Tags="TestUnsafe" Value="458063" />
+  <Preset Label="immediate_Getaway_StartUI" Value="458126" />
+  <Preset Label="Remove Summon Jellyfish Cooldown (immediate_ButterflyCollection_Debug_NearGlowWorms_States)" Value="458194" />
+  <Preset Label="Ask about Collectable Trading (mixer_social_CollectableTrading_AskAboutTrading)" Tags="TestUnsafe" Value="458405" />
+  <Preset Label="Try to Contain Rage about Loss (mixer_Competitive_TryNotTo_Rage)" Value="458584" />
+  <Preset Label="Trying not to Over-Celebrate (mixer_Competitive_TryNotTo_OverTheTop)" Value="458585" />
+  <Preset Label="Read and Absorb Fabulous Flier of Happenings and Occurrences (immediate_EP20World_Busker_ReadFlier)" Value="458625" />
+  <Preset Label="idle_Buff_EP20World_Busker_Flier" Value="458628" />
+  <Preset Label="Order Drink (marketStalls_PushOrderDrink_EP20Festival_SunriseSunset)" Value="458650" />
+  <Preset Label="Order Drink (marketStalls_PushOrderDrink_EP20Festival_FashionAndFitness)" Value="458651" />
+  <Preset Label="Butterfly &amp; Plumbird Paradise (immediate_Kayak_Customize_Option4)" Value="458657" />
+  <Preset Label="Voidcritter Friends (immediate_Kayak_Customize_Option5)" Value="458658" />
+  <Preset Label="Restart Looking for Hiding Sims (immediate_HideAndSeek_Start)" Value="458662" />
+  <Preset Label="Pause Looking for Hiding Sims (immediate_HideAndSeek_Pause)" Value="458663" />
+  <Preset Label="End Hide and Seek Game (immediate_HideAndSeek_End)" Value="458664" />
+  <Preset Label="Research Competitive Metas (skillPicker_Competitive_FromPhone)" Tags="TestUnsafe" Value="458772" />
+  <Preset Label="Research Competitive Metas (skillPicker_Competitive_FromComputer)" Tags="TestUnsafe" Value="458773" />
+  <Preset Label="Research Competitive Metas (computer_UseFromInventory_Competitive_GameMetas)" Value="458775" />
+  <Preset Label="Ask about Gibbi Point (socials_Targeted_Friendly_AlwaysOn_STC_EP20World_WelcomeWagon)" Tags="TestUnsafe" Value="458831" />
+  <Preset Label="spinningBike_Class_EndClass" Value="458940" />
+  <Preset Label="Reacting to Magical Origami Butterfly (butterflyCollection_Supers_CompletetionReaction)" Value="458960" />
+  <Preset Label="Offer Competitive Skill Tips (skillPicker_Competitive_OfferGameTips)" Tags="TestUnsafe" Value="459002" />
+  <Preset Label="Get Magical Origami (Papercraft Object) (immediate_ButterflyCollection_Debug_UltimateOrigami_GetPapercraft)" Value="459363" />
+  <Preset Label="Learn about Gibbi Point Quests (si_EP20World_Quests_ViewStoryMapQuest)" Value="459656" />
+  <Preset Label="Smoothie Break! (consumable_Drink_FreeWeights_Smoothie)" Value="459884" />
+  <Preset Label="Nourish the Body (consumable_Drink_FreeWeights_PowerSip)" Value="459885" />
+  <Preset Label="Prepare for Outdoor Activities (si_ParkWorker_PrepareOutdoorActivity)" Value="460063" />
+  <Preset Label="Survival Preparation (si_ParkWorker_SurvivalPrep)" Value="460064" />
+  <Preset Label="Study Park Lore (si_ParkWorker_StudyParkLore_Shell)" Value="460065" />
+  <Preset Label="Challenge {1.SimFirstName} to a 1v1 in Blicblock Turbo! (social_Competitive_BlicBlockPVP_Ask)" Value="460165" />
+  <Preset Label="Careers (social_Competitive_BlicBlockPVP_Listen)" Value="460190" />
+  <Preset Label="Playing Blicblock Turbo (mixer_Competitive_BlicBlockPVP)" Value="460192" />
+  <Preset Label="Rename {1.ObjectName} (rename_EP20_IF_Doll)" Value="460215" />
+  <Preset Label="Ask to Start Spinning Class (SpinningClass_Social_StartClass)" Value="460255" />
+  <Preset Label="hideAndSeek_Seeker_Won" Value="460264" />
+  <Preset Label="This Oar That Shop (purchase_EP20World_Shell_Kayak)" Tags="TestUnsafe" Value="460297" />
+  <Preset Label="Makin' Paper (purchase_EP20World_Shell_MakingPaper)" Tags="TestUnsafe" Value="460298" />
+  <Preset Label="Careers (immediate_Competitive_CompetitiveSpirit_Reaction_1_Abysmal_Decreasing)" Value="460525" />
+  <Preset Label="Careers (immediate_Competitive_CompetitiveSpirit_Reaction_4_Great_Increasing)" Value="460526" />
+  <Preset Label="Browse This Oar That Shop (eP20World_Purchase_Kayak)" Value="460555" />
+  <Preset Label="Browse Makin' Paper (eP20World_Purchase_MakinPaper)" Value="460556" />
+  <Preset Label="Supports Large and X-Large Curved Walls (eP20World_Walkbys_RouteDummy_Busker)" Value="460709" />
+  <Preset Label="Supports Large and X-Large Curved Walls (eP20World_Walkbys_RouteDummy_Storyteller)" Value="460710" />
+  <Preset Label="Supports Large and X-Large Curved Walls (eP20World_Walkbys_RouteDummy_ButterflyConservationist)" Value="460711" />
+  <Preset Label="Supports Large and X-Large Curved Walls (eP20World_Walkbys_RouteDummy_LostAdventurer)" Value="460712" />
+  <Preset Label="Supports Large and X-Large Curved Walls (eP20World_Walkbys_RouteDummy_Cryptid_Nest)" Value="460716" />
+  <Preset Label="Supports Large and X-Large Curved Walls (eP20World_Walkbys_RouteDummy_ButterflyConservationist_Vegetation)" Value="460739" />
+  <Preset Label="mixer_AtWorkActions_ParkWorkerCareer_WorkDefault" Value="460751" />
+  <Preset Label="mixer_AtWorkActions_ParkWorkerCareer_SleepHours" Value="460752" />
+  <Preset Label="mixer_AtWorkActions_ParkWorkerCareer_OffHoursMorning" Value="460753" />
+  <Preset Label="mixer_AtWorkActions_ParkWorkerCareer_OffHoursNight" Value="460754" />
+  <Preset Label="Join Spinning Class (spinningClass_HiredInstructor_Join)" Value="460770" />
+  <Preset Label="Invite to Join Spinning Class (spinningClass_HiredInstructor_InviteToJoin)" Value="460771" />
+  <Preset Label="Invite to Join Spinning Class (spinningClass_PlayerLed_InviteToJoin)" Value="460772" />
+  <Preset Label="Survival Preparation (si_ParkWorker_Rabbithole_SurvivalPrep_Start)" Value="460809" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_ImagineUpFriend" Value="460866" />
+  <Preset Label="Examine Plumbird Cave Painting (cryptid_view_fossil_cavepainting)" Value="460926" />
+  <Preset Label="Investigate Plumbird Evidence (cryptid_InvestigateEvidence_Wilderness)" Value="460928" />
+  <Preset Label="Investigate Plumbird Evidence (cryptid_InvestigateEvidence_Golden)" Value="460929" />
+  <Preset Label="View Plumbird Nest (cryptid_view_fossil_nest)" Value="460931" />
+  <Preset Label="immediate_HideAndSeek_TimerEnded" Value="461030" />
+  <Preset Label="filteredObjectPickerInteraction_SpinningClass_FindInstructorBike" Tags="TestUnsafe" Value="461150" />
+  <Preset Label="spinningClass_HiredInstructor_Start" Value="461151" />
+  <Preset Label="spinningBike_Class_FindBike_Instructor" Value="461153" />
+  <Preset Label="Tell Park Myths (mixer_Socials_Friendly_ParkWorker_TellMyths)" Tags="TestUnsafe" Value="461237" />
+  <Preset Label="Conflict Resolution (mixer_Socials_Friendly_ParkWorker_ConflictResolution)" Tags="TestUnsafe" Value="461238" />
+  <Preset Label="Study Park Lore (computer_ParkWorker_ParkLore)" Value="461240" />
+  <Preset Label="Cook (fridge_CookAutonomously_EP20World)" Value="461279" />
+  <Preset Label="Cook (fridge_CookAutonomously_EP20World_RequiredIngredients)" Value="461280" />
+  <Preset Label="Look for Frogs (eP20World_Walkbys_TheCollector_FrogLog)" Value="461475" />
+  <Preset Label="Throw Paper Airplane (super_Papercraft_PaperAirplane_Self_Throw)" Value="461626" />
+  <Preset Label="Throw Paper Airplane Around (super_Papercraft_PaperAirplane_Self_ThrowAround)" Value="461627" />
+  <Preset Label="autonomous_Papercraft_PaperAirplane_Throw" Tags="TestUnsafe" Value="461629" />
+  <Preset Label="autonomous_Papercraft_PaperAirplane_ThrowAround" Tags="TestUnsafe" Value="461630" />
+  <Preset Label="Magical Origami Butterfly (super_Papercraft_UltimateButterfly_TooltipOnly)" Value="461638" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Trait_Idle_Goofball" Value="462100" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Trait_Idle_Creative" Value="462101" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Trait_Idle_Evil" Value="462102" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Trait_Idle_Competitive" Value="462103" />
+  <Preset Label="Investigate Ranger Station for Geyser Information (worldPOI_RangerStation_InvestigateAboutGeyser)" Value="462282" />
+  <Preset Label="Be Dramatic (superInteraction_EP20Festival_RoundTheFire_BeDramatic)" Value="462368" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_SportsOutdoorActivity)" Tags="TestUnsafe" Value="462416" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_CompetitiveGame)" Tags="TestUnsafe" Value="462462" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_TabletopGame)" Tags="TestUnsafe" Value="462463" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_Playground)" Tags="TestUnsafe" Value="462467" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_ArtCraft)" Tags="TestUnsafe" Value="462469" />
+  <Preset Label="Plan a Getaway (phone_PlanGetaway)" Value="462482" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_Music)" Tags="TestUnsafe" Value="462505" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_Play)" Tags="TestUnsafe" Value="462507" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_PuddlePlay)" Tags="TestUnsafe" Value="462510" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_PuddlePlay_Evil)" Tags="TestUnsafe" Value="462511" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_TabletopGame_Goofball)" Tags="TestUnsafe" Value="462553" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_Evil_Tier1)" Tags="TestUnsafe" Value="462554" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_Evil_Tier2)" Tags="TestUnsafe" Value="462556" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_Evil_Tier3)" Tags="TestUnsafe" Value="462557" />
+  <Preset Label="sI_EP20_IF_AutoSpawn" Value="462561" />
+  <Preset Label="Write in Card (rename_Papercraft_Card)" Value="462570" />
+  <Preset Label="mixer_EP20_If_AutoSpawn" Value="462590" />
+  <Preset Label="mixer_EP20_IF_Cheer" Value="462598" />
+  <Preset Label="Cheer On! (sI_EP20_IF_Cheer)" Value="462599" />
+  <Preset Label="Friends to the End (social_EP20_IF_FriendstotheEnd)" Value="462604" />
+  <Preset Label="Imaginary Boost! (social_EP20_IF_ImaginationPower)" Value="462605" />
+  <Preset Label="Deny Having an Imaginary Friend (socials_Targeted_Friendly_AlwaysOn_SmallTalk_EP20_IF_Deny)" Tags="TestUnsafe" Value="462608" />
+  <Preset Label="Talk about Imaginary Friend (socials_Targeted_Friendly_AlwaysOn_SmallTalk_EP20_IF_TalkAbout)" Tags="TestUnsafe" Value="462609" />
+  <Preset Label="Say Goodbye Forever (sI_EP20_IF_SayGoodbyeForever)" Value="462675" />
+  <Preset Label="Say Goodbye Forever (social_EP20_IF_GoodbyeForever)" Value="462679" />
+  <Preset Label="Offer to Make Real (socialSI_EP20_IF_OfferMakeReal)" Value="462680" />
+  <Preset Label="Offer to Make Real (sI_EP20_IF_OfferMakeReal)" Value="462714" />
+  <Preset Label="Over-Celebrate a Win (sI_Competitive_Win_OverTheTop_Run)" Value="462755" />
+  <Preset Label="Rage about Loss (sI_Competitive_Loss_Rage_Run)" Value="462767" />
+  <Preset Label="Ask about the Elusive Plumbird (socialSuperInteraction_EP20Festival_AskAboutPlumbird)" Value="462783" />
+  <Preset Label="Butterfly Ranger Station (autonomous_ObjectPicker_EP20WorldPOI_FocusOn_RangerStation)" Tags="TestUnsafe" Value="462795" />
+  <Preset Label="Adventure Story Map (autonomous_ObjectPicker_EP20WorldPOI_FocusOn_TownDisplay)" Tags="TestUnsafe" Value="462796" />
+  <Preset Label="Adventure Story Map (worldPOI_FocusCameraOn_TownDisplay)" Value="462798" />
+  <Preset Label="Learn about Gibbi Point Landmarks (socials_Targeted_Friendly_AlwaysOn_STC_EP20World_AskAboutWorld)" Tags="TestUnsafe" Value="463042" />
+  <Preset Label="Research Mating Rituals of Butterflies (worldPOI_RangerStation_EP20_Asp_StudyMatingRitual)" Value="463051" />
+  <Preset Label="blender_craftingPhase_makeSmoothie_Archers" Value="463111" />
+  <Preset Label="blender_craftingPhase_makeSmoothie_AthleticBoost" Value="463112" />
+  <Preset Label="blender_craftingPhase_makeSmoothie_MealReplacement" Value="463113" />
+  <Preset Label="blender_craftingPhase_makeSmoothie_Energizer" Value="463114" />
+  <Preset Label="blender_craftingPhase_makeSmoothie_VitaminFocus" Value="463115" />
+  <Preset Label="blender_craftingPhase_makeSmoothie_BerryBanana" Value="463116" />
+  <Preset Label="blender_craftingPhase_makeSmoothie_XtremeMuscle" Value="463117" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Poof_In" Value="463218" />
+  <Preset Label="Wait (sI_EP20_IF_SpawnEvent_Child_Wait)" Value="463219" />
+  <Preset Label="Greet (social_EP20_IF_Wave)" Value="463220" />
+  <Preset Label="End Spinning Class (spinningClass_EndClass)" Value="463355" />
+  <Preset Label="Gift {1.ObjectName} to (simPicker_Papercraft_Gift_Card_Love_OnObject_T_FromWorld)" Tags="TestUnsafe" Value="463629" />
+  <Preset Label="Gift {1.ObjectName} to (simPicker_Papercraft_Gift_Card_Love_OnObject_YAE_FromWorld)" Tags="TestUnsafe" Value="463636" />
+  <Preset Label="Gift {1.ObjectName} to (simPicker_Papercraft_Gift_Card_Friendship_OnObject_FromWorld)" Tags="TestUnsafe" Value="463638" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_Papercraft_Gift_Card_Friendship_FromWorld)" Value="463639" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_Papercraft_Gift_Card_Love_FromWorld)" Value="463640" />
+  <Preset Label="eP20World_KayakDummy" Value="463698" />
+  <Preset Label="eP20World_Walkbys_DeployKayak" Value="463700" />
+  <Preset Label="Drink (generic_consume_drink_Smoothie)" Value="463719" />
+  <Preset Label="Compete in the William Tell Memorial Archery Contest (superInteraction_EP20Festival_ArcheryContest)" Value="463747" />
+  <Preset Label="Soul Spin (superInteraction_EP20Festival_SpinningBike_Instructor)" Value="463761" />
+  <Preset Label="Sometimes only a spinning bike can satisfy the need for speed.   (superInteraction_EP20Festival_SpinningBike_Student)" Value="463762" />
+  <Preset Label="Guarantee Cootie Catcher Fortune (immediate_Papercraft_CootieCatcher_GuaranteeFortune)" Value="463896" />
+  <Preset Label="Ask to Tell Fortune with Cootie Catcher (social_Papercraft_CootieCatcher_TellFortune_Ask_OnSim)" Value="463899" />
+  <Preset Label="Offer to Tell Fortune with Cootie Catcher (social_Papercraft_CootieCatcher_TellFortune_Offer_OnSim)" Value="463901" />
+  <Preset Label="Chug Drink (chug_consume_drink_Smoothie)" Value="463919" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Poof_Out" Value="463929" />
+  <Preset Label="Throw Paper Airplane Here (terrain-Papercraft_PaperAirplane_Throw)" Value="463960" />
+  <Preset Label="Throw Paper Airplane Around Here (terrain-Papercraft_PaperAirplane_ThrowAround)" Value="463962" />
+  <Preset Label="spinningBike_Class_LeaveClass" Value="464065" />
+  <Preset Label="worldPOI_FocusCameraOn_Cont_PickedObj" Value="464138" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Poof_Out_GoodbyeForever" Value="464196" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Poof_In_Spawn" Value="464199" />
+  <Preset Label="Say Goodbye Forever (sI_EP20_IF_SayGoodbyeForever_Teen)" Value="464326" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Poof_Out_OfferMakeReal" Value="464331" />
+  <Preset Label="Make Real (sI_EP20_IF_OfferMakeReal_CreateTeen)" Value="464332" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Poof_In_OfferMakeReal" Value="464334" />
+  <Preset Label="sI_EP20_IF_CheckOutSelf" Value="464345" />
+  <Preset Label="spinningBike_Class_CheckForFreeBikes" Value="464385" />
+  <Preset Label="Bask in Geyser's Glory (worldPOI_Geyser_SI_LookatGeyser)" Value="464638" />
+  <Preset Label="Denounce Archery (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_Archery)" Tags="TestUnsafe" Value="464674" />
+  <Preset Label="Enthuse about Archery (socials_Targeted_Friendly_SimPreference_Recent_Likes_Archery)" Tags="TestUnsafe" Value="464675" />
+  <Preset Label="Careers (super_Papercraft_Artisans_Crafter_RouteDummy)" Value="464796" />
+  <Preset Label="Traverse Tunnel (ModularPlayground_TraverseTunnel)" Value="464895" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_Archery" Value="464903" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_Archery" Value="464904" />
+  <Preset Label="blender_craftingPhase_placeIngredients_AthleticBoost" Value="464952" />
+  <Preset Label="blender_craftingPhase_placeIngredients_Archers" Value="464972" />
+  <Preset Label="blender_craftingPhase_placeIngredients_BerryBanana" Value="464973" />
+  <Preset Label="blender_craftingPhase_placeIngredients_Energizer" Value="464974" />
+  <Preset Label="blender_craftingPhase_placeIngredients_MealReplacement" Value="464975" />
+  <Preset Label="blender_craftingPhase_placeIngredients_VitaminFocus" Value="464976" />
+  <Preset Label="blender_craftingPhase_placeIngredients_XtremeMuscle" Value="464977" />
+  <Preset Label="blender_craftingPhase_finish_createSmoothie_AthleticBoost" Value="464980" />
+  <Preset Label="blender_craftingPhase_finish_createSmoothie_BerryBanana" Value="464981" />
+  <Preset Label="blender_craftingPhase_finish_createSmoothie_Energizer" Value="464982" />
+  <Preset Label="blender_craftingPhase_finish_createSmoothie_MealReplacement" Value="464983" />
+  <Preset Label="blender_craftingPhase_finish_createSmoothie_VitaminFocus" Value="464984" />
+  <Preset Label="blender_craftingPhase_finish_createSmoothie_XtremeMuscle" Value="464985" />
+  <Preset Label="blender_craftingPhase_finish_createSmoothie_Archers" Value="464986" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_DivingBoard" Value="465087" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_DivingBoard" Value="465098" />
+  <Preset Label="Complain about Diving (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_DivingBoard)" Tags="TestUnsafe" Value="465150" />
+  <Preset Label="Enthuse about Diving (socials_Targeted_Friendly_SimPreference_Recent_Likes_DivingBoard)" Tags="TestUnsafe" Value="465151" />
+  <Preset Label="Throw Paper Airplane (super_Papercraft_PaperAirplane_Self_Throw_AutonomousOnly)" Value="465310" />
+  <Preset Label="Throw {1.ObjectName} (super_Papercraft_PaperAirplane_Throw_AutonomousOnly)" Value="465311" />
+  <Preset Label="Throw {1.ObjectName} (throwPaperAirplaneSuperInteraction_Papercraft_Throw_Long_AutonomousOnly)" Value="465314" />
+  <Preset Label="Throw {1.ObjectName} (throwPaperAirplaneSuperInteraction_Papercraft_Throw_Short_AutonomousOnly)" Value="465315" />
+  <Preset Label="autonomous_Papercraft_PaperAirplane_Throw_AutonomousOnly" Tags="TestUnsafe" Value="465316" />
+  <Preset Label="Slide Down (ModularPlayground_SpiralSlide_SlideDown)" Value="465351" />
+  <Preset Label="Climb Up Slide (ModularPlayground_SpiralSlide_ClimbUp)" Value="465354" />
+  <Preset Label="Slide Down (ModularPlayground_StraightSlide_SlideDown)" Value="465355" />
+  <Preset Label="Climb Up Slide (ModularPlayground_StraightSlide_ClimbUp)" Value="465356" />
+  <Preset Label="autonomousSimPicker_EP20_IF_InitialChat" Tags="TestUnsafe" Value="465375" />
+  <Preset Label="Climb Up Wall (ModularPlayground_ClimbingWall_ClimbUp)" Value="465452" />
+  <Preset Label="Climb Down Wall (ModularPlayground_ClimbingWall_ClimbDown)" Value="465453" />
+  <Preset Label="Wait (sI_EP20_IF_SpawnEvent_Child_Wait_Farewell)" Value="465533" />
+  <Preset Label="idle_Buff_HideAndSeek_Seeker" Value="465918" />
+  <Preset Label="Free (simPicker_SpinningClass_PlayerLed_Free)" Tags="TestUnsafe" Value="465921" />
+  <Preset Label="spinningClass_PlayerLed_Start_Free" Value="465923" />
+  <Preset Label="Join Spinning Class (spinningClass_PlayerLed_Join_Free)" Value="465924" />
+  <Preset Label="Ask to Play Hide and Seek (social_HideAndSeek_AskToPlay_Autonomous)" Value="466388" />
+  <Preset Label="hideAndSeek_StartSituation_Autonomous" Value="466390" />
+  <Preset Label="idles_Buff_SpinningClass_ClassMember" Value="467813" />
+  <Preset Label="idles_Buff_SpinningClass_Instructor" Value="467814" />
+  <Preset Label="About Habitat Functionality (immediate_ButterflyCollection_AtriumInfo)" Value="468433" />
+  <Preset Label="Purchase Goods (purchase_ButterflyCollection_RangerStation)" Tags="TestUnsafe" Value="468640" />
+  <Preset Label="Enable Unique Butterfly &amp; Moth Restrictions (butterflyCollection_Supers_Atrium_RestrictSlots)" Value="468645" />
+  <Preset Label="Disable Unique Butterfly &amp; Moth Restrictions (butterflyCollection_Supers_Atrium_UnrestrictSlots)" Value="468646" />
+  <Preset Label="Gather Butterflies &amp; Moths (butterflyCollection_Supers_Atrium_TransferButterfliesToInventory)" Value="468647" />
+  <Preset Label="Drop a Hint about Tipping (si_touching_getaway_HintTip)" Value="468966" />
+  <Preset Label="Artistic Getaway Memories (getaway_Reward_SelfInteractions_ArtMusic)" Value="469251" />
+  <Preset Label="Tasty Getaway Memories (getaway_Reward_SelfInteractions_FoodDrink)" Value="469252" />
+  <Preset Label="Fun Getaway Memories (getaway_Reward_SelfInteractions_KidActvities)" Value="469253" />
+  <Preset Label="Crafty Getaway Memories (getaway_Reward_SelfInteractions_Hobbies)" Value="469254" />
+  <Preset Label="Mischievous Getaway Memories (getaway_Reward_SelfInteractions_Mischief)" Value="469255" />
+  <Preset Label="Outdoorsy Getaway Memories (getaway_Reward_SelfInteractions_Outdoor)" Value="469256" />
+  <Preset Label="Social Getaway Memories (getaway_Reward_SelfInteractions_Social)" Value="469257" />
+  <Preset Label="All Available Butterflies &amp; Moths (butterflyCollection_Supers_Atrium_Slotting_All)" Value="469390" />
+  <Preset Label="Call Up to Hermit Park Ranger (eP20World_FirewatchTower_CallUpToRanger)" Value="469404" />
+  <Preset Label="Drop Off Gift for Hermit Ranger (eP20World_FirewatchTower_DropoffGift)" Value="469405" />
+  <Preset Label="Take Gift from Hermit Park Ranger (eP20World_FirewatchTower_ReceiveGift)" Value="469406" />
+  <Preset Label="Send Note Up to Hermit Ranger (eP20World_FirewatchTower_SendNoteUp)" Value="469407" />
+  <Preset Label="Banded King Shoemaker (autonomousObjectInInventoryPicker_ButterflyCollection_BrandedKingShoemaker)" Tags="TestUnsafe" Value="469525" />
+  <Preset Label="Cordelian Butterfly (autonomousObjectInInventoryPicker_ButterflyCollection_Cordelian)" Tags="TestUnsafe" Value="469526" />
+  <Preset Label="Cryptid Moth (autonomousObjectInInventoryPicker_ButterflyCollection_CryptidMoth)" Tags="TestUnsafe" Value="469527" />
+  <Preset Label="Grim's-head Hawkmoth (autonomousObjectInInventoryPicker_ButterflyCollection_DeathsHeadHawkMoth)" Tags="TestUnsafe" Value="469528" />
+  <Preset Label="Dina Yellow Butterfly (autonomousObjectInInventoryPicker_ButterflyCollection_DineYellow)" Tags="TestUnsafe" Value="469529" />
+  <Preset Label="Glasswing Butterfly (autonomousObjectInInventoryPicker_ButterflyCollection_Glasswing)" Tags="TestUnsafe" Value="469530" />
+  <Preset Label="Goliath Silk Moth (autonomousObjectInInventoryPicker_ButterflyCollection_GoliathSilkMoth)" Tags="TestUnsafe" Value="469531" />
+  <Preset Label="Jelly Butterfly (autonomousObjectInInventoryPicker_ButterflyCollection_JellyButterfly)" Tags="TestUnsafe" Value="469532" />
+  <Preset Label="Jorjan Birdwing Butterfly (autonomousObjectInInventoryPicker_ButterflyCollection_JorjanBirdwing)" Tags="TestUnsafe" Value="469533" />
+  <Preset Label="Owl Butterfly (autonomousObjectInInventoryPicker_ButterflyCollection_Owl)" Tags="TestUnsafe" Value="469534" />
+  <Preset Label="Red Admiral Butterfly (autonomousObjectInInventoryPicker_ButterflyCollection_RedAdmiral)" Tags="TestUnsafe" Value="469535" />
+  <Preset Label="Richmond Birdwing Butterfly (autonomousObjectInInventoryPicker_ButterflyCollection_RichmondBirdwing)" Tags="TestUnsafe" Value="469536" />
+  <Preset Label="Sphinx Moth (autonomousObjectInInventoryPicker_ButterflyCollection_SphinxMoth)" Tags="TestUnsafe" Value="469537" />
+  <Preset Label="Magical Origami Butterfly (autonomousObjectInInventoryPicker_ButterflyCollection_UltimateOrigami)" Tags="TestUnsafe" Value="469538" />
+  <Preset Label="Placing Butterflies in Habitat (butterflyCollection_Supers_Atrium_Slotting_Specific)" Value="469539" />
+  <Preset Label="Place Butterflies or Moths (interactionPicker_ButterflyCollection_Atrium_Slotting)" Tags="TestUnsafe" Value="469540" />
+  <Preset Label="Grab Note from Hermit Ranger (eP20World_FirewatchTower_GrabNote)" Value="469589" />
+  <Preset Label="Drop Off Gift for Hermit Ranger (giveGift_Interactions_Pickers_EP20World_FirewatchTower_Picker)" Tags="TestUnsafe" Value="469590" />
+  <Preset Label="mixer_AtWorkActions_ParkWorkerCareer_Expedition" Value="469612" />
+  <Preset Label="Banded King Shoemaker (butterflyCollection_Supers_Incubator_Start_BrandedKingShoemaker)" Value="469921" />
+  <Preset Label="Cordelian Butterfly (butterflyCollection_Supers_Incubator_Start_Cordelian)" Value="469922" />
+  <Preset Label="Cryptid Moth (butterflyCollection_Supers_Incubator_Start_CryptidMoth)" Value="469923" />
+  <Preset Label="Grim's-head Hawkmoth (butterflyCollection_Supers_Incubator_Start_DeathsHeadHawkMoth)" Value="469924" />
+  <Preset Label="Dina Yellow Butterfly (butterflyCollection_Supers_Incubator_Start_DineYellow)" Value="469925" />
+  <Preset Label="Glasswing Butterfly (butterflyCollection_Supers_Incubator_Start_Glasswing)" Value="469926" />
+  <Preset Label="Goliath Silk Moth (butterflyCollection_Supers_Incubator_Start_GoliathSilkMoth)" Value="469927" />
+  <Preset Label="Jelly Butterfly (butterflyCollection_Supers_Incubator_Start_JellyButterfly)" Value="469928" />
+  <Preset Label="Jorjan Birdwing Butterfly (butterflyCollection_Supers_Incubator_Start_JorjanBirdwing)" Value="469929" />
+  <Preset Label="Owl Butterfly (butterflyCollection_Supers_Incubator_Start_Owl)" Value="469930" />
+  <Preset Label="Red Admiral Butterfly (butterflyCollection_Supers_Incubator_Start_RedAdmiral)" Value="469931" />
+  <Preset Label="Richmond Birdwing Butterfly (butterflyCollection_Supers_Incubator_Start_RichmondBirdwing)" Value="469932" />
+  <Preset Label="Sphinx Moth (butterflyCollection_Supers_Incubator_Start_SphinxMoth)" Value="469933" />
+  <Preset Label="Unknown (butterflyCollection_Supers_Incubator_Start_Random)" Value="469934" />
+  <Preset Label="Start Raising a Caterpillar (interactionPicker_ButterflyCollection_Incubator_Start)" Tags="TestUnsafe" Value="469935" />
+  <Preset Label="Ask about Jellyfish Collecting (mixer_social_WorldPOI_InformationCenter_BuddyScoop_AskAboutJellyfishCollecting)" Tags="TestUnsafe" Value="469943" />
+  <Preset Label="Ask about Crystal Collecting (mixer_social_WorldPOI_InformationCenter_BuddyScoop_AskAboutCrystalCollecting)" Tags="TestUnsafe" Value="469944" />
+  <Preset Label="Ask about Lighthouse Letter (sI_EP20World_NPC_AskAboutLighthouseLetter_Skip)" Value="469987" />
+  <Preset Label="Gather Butterfly or Moth (butterflyCollection_Supers_Incubator_Gather)" Value="469988" />
+  <Preset Label="autonomous_ObjectPicker_WorldPOI_FindInformationCenter_JellyfishPond" Tags="TestUnsafe" Value="470073" />
+  <Preset Label="autonomous_ObjectPicker_WorldPOI_FindInformationCenter_CrystalPanning" Tags="TestUnsafe" Value="470074" />
+  <Preset Label="Crystal Panning Area (worldPOI_FocusCameraOn_InformationCenter_CrystalPanning)" Value="470075" />
+  <Preset Label="worldPOI_InformationCenter_SetState_CrystalPanningView" Value="470077" />
+  <Preset Label="worldPOI_InformationCenter_SetState_JellyfishPondView" Value="470078" />
+  <Preset Label="Electric Lagoon (worldPOI_FocusCameraOn_InformationCenter_JellyfishPond)" Value="470108" />
+  <Preset Label="What's On Next? (worldPOI_InformationCenter_ShowNextFestivalInfo)" Value="470129" />
+  <Preset Label="Show Current Conditions (worldPOI_InformationCenter_ShowCurrentConditions)" Value="470130" />
+  <Preset Label="Crystal Panning Area (autonomous_ObjectPicker_EP20WorldPOI_FocusOn_CrystalPanning)" Tags="TestUnsafe" Value="470131" />
+  <Preset Label="Set Growth Stage: Cocoon (immediate_ButterflyCollection_Debug_Incubator_SetGrowth_03_Cocoon)" Value="470254" />
+  <Preset Label="Set Growth Stage: Larva (immediate_ButterflyCollection_Debug_Incubator_SetGrowth_02_Larva)" Value="470255" />
+  <Preset Label="Set Growth Stage: Hatched (immediate_ButterflyCollection_Debug_Incubator_SetGrowth_04_Hatched)" Value="470256" />
+  <Preset Label="Feed Caterpillar (butterflyCollection_Supers_Incubator_Feed)" Value="470281" />
+  <Preset Label="Read to Cocoon (butterflyCollection_Supers_Incubator_ReadTo)" Value="470284" />
+  <Preset Label="Set Growth Speed: Fast (immediate_ButterflyCollection_Debug_Incubator_SetSpeed_Fast)" Value="470286" />
+  <Preset Label="Set Growth Speed: Normal (immediate_ButterflyCollection_Debug_Incubator_SetSpeed_Normal)" Value="470287" />
+  <Preset Label="View Caterpillar (butterflyCollection_Supers_Incubator_View)" Value="470288" />
+  <Preset Label="Purchase Goods (worldPOI_RangerStation_ButterflyCollection_Purchase)" Value="470290" />
+  <Preset Label="Mess Around With (messAround_Picker_SwimmingWooHoo)" Tags="TestUnsafe" Value="470298" />
+  <Preset Label="Try for Baby in Water with (tryForBaby_Female_Picker_SwimmingWooHoo)" Tags="TestUnsafe" Value="470299" />
+  <Preset Label="Try for Baby in Water with (tryForBaby_Male_Picker_SwimmingWooHoo)" Tags="TestUnsafe" Value="470300" />
+  <Preset Label="Ask about Lighthouse Letter (sI_EP20World_NPC_AskAboutLighthouseLetter_Laxmi)" Value="470318" />
+  <Preset Label="WooHoo in Water with (wooHoo_Picker_SwimmingWoohoo)" Tags="TestUnsafe" Value="470338" />
+  <Preset Label="immediate_SwimmingWoohoo_PickerContinuation" Value="470339" />
+  <Preset Label="WooHoo in Water (mixer_Social_SwimmingWooHoo_targeted_romance_transition_OnLand)" Tags="TestUnsafe" Value="470340" />
+  <Preset Label="WooHoo in Water (mixer_Social_SwimmingWooHoo_targeted_romance_transition_InWater)" Tags="TestUnsafe" Value="470341" />
+  <Preset Label="Go Here (terrain-swimnear_SwimmingWoohoo_Target)" Value="470343" />
+  <Preset Label="autonomous_ObjectPicker_WorldPOI_FindGeyser" Tags="TestUnsafe" Value="470358" />
+  <Preset Label="Turn Lonely Lighthouse Light Off (eP20World_NPC_Lighthouse_Off)" Value="470402" />
+  <Preset Label="Turn Lonely Lighthouse Light On (eP20World_NPC_Lighthouse_On)" Value="470403" />
+  <Preset Label="Read Scribbled Letter (eP20World_NPC_Lighthouse_Letters_Skip)" Value="470405" />
+  <Preset Label="Read Nature Letter (eP20World_NPC_Lighthouse_Letters_Laxmi)" Value="470406" />
+  <Preset Label="informationCenter_Festival_FashionAndFitness" Value="470432" />
+  <Preset Label="informationCenter_Festival_GlowAndFlow" Value="470433" />
+  <Preset Label="informationCenter_Festival_RoundTheFire" Value="470434" />
+  <Preset Label="informationCenter_Festival_SunriseSunset" Value="470435" />
+  <Preset Label="Slide Down Water Slide (waterSlide_Slide)" Value="470621" />
+  <Preset Label="Recall a Lost Formative Moment (si_ChildhoodInspiration_RecallLostInspiration)" Value="470707" />
+  <Preset Label="Remember Formative Moment (si_ChildhoodInspiration_RememberInspiration)" Value="470710" />
+  <Preset Label="traitPicker_ChildhoodInspiration_DiscoveryReward" Tags="TestUnsafe" Value="470712" />
+  <Preset Label="generic_SwimmingWoohoo" Value="470733" />
+  <Preset Label="WooHoo (woohoo_SwimmingWoohoo)" Value="470735" />
+  <Preset Label="WooHoo (woohoo_SwimmingWoohoo_Staging)" Value="470736" />
+  <Preset Label="WooHoo in Water (mixer_Social_SwimmingWooHoo_targeted_romance_transition_Social)" Tags="TestUnsafe" Value="470749" />
+  <Preset Label="Scary 'Peculiar Plumbird' Mask (papercraft_StartCrafting_PaperMache_Mask)" Value="471035" />
+  <Preset Label="Scary 'Peculiar Plumbird' Mask (super_Papercraft_StartCrafting_FromInventory_PaperMache_Mask)" Value="471066" />
+  <Preset Label="Wear Mask (super_Papercraft_PaperMache_Mask_Equip)" Value="471078" />
+  <Preset Label="Remove Mask (super_Papercraft_PaperMache_Mask_Remove)" Value="471084" />
+  <Preset Label="Turn Off Creepy Walk Style (super_Papercraft_PaperMache_Mask_WalkstyleStop)" Value="471085" />
+  <Preset Label="Turn On Creepy Walk Style (super_Papercraft_PaperMache_Mask_WalkstyleStart)" Value="471086" />
+  <Preset Label="Remove Mask (inventoryPicker_Papercraft_PaperMache_Mask_Remove)" Tags="TestUnsafe" Value="471135" />
+  <Preset Label="Wear Mask (inventoryPicker_Papercraft_PaperMache_Mask_Equip)" Tags="TestUnsafe" Value="471189" />
+  <Preset Label="Wear Mask (super_Papercraft_PaperMache_Mask_Equip_Other)" Value="471191" />
+  <Preset Label="WooHoo in Water (social_SwimmingWoohoo_Ask)" Value="471258" />
+  <Preset Label="Rehome Butterfly (inventoryPicker_Topiary_DonateButterfly)" Tags="TestUnsafe" Value="471276" />
+  <Preset Label="Rehome Moth (worldPOI_Topiary_DonateMoth)" Value="471547" />
+  <Preset Label="Rehome Moth (inventoryPicker_Topiary_DonateMoth)" Tags="TestUnsafe" Value="471548" />
+  <Preset Label="Release Moth from Topiary (worldPOI_Topiary_EvictMoth)" Value="471549" />
+  <Preset Label="Release Butterfly from Topiary (worldPOI_Topiary_EvictButterfly)" Value="471550" />
+  <Preset Label="Repair (object_Repair_Blender)" Value="471576" />
+  <Preset Label="Unbreakable Plating (blender_Upgrade_NeverBreak)" Value="471584" />
+  <Preset Label="Resume Installing Unbreakable Plating (blender_Upgrade_NeverBreak_Resume)" Value="471585" />
+  <Preset Label="Watch Moths (worldPOI_Topiary_watchMoths)" Value="471597" />
+  <Preset Label="Gravity Stabilizer (blender_Upgrade_NeverFail)" Value="471626" />
+  <Preset Label="Resume Calibrating Gravity Stabilizer (blender_Upgrade_NeverFail_Resume)" Value="471627" />
+  <Preset Label="Drink (consume_drink_Smoothie)" Value="472080" />
+  <Preset Label="Swim Here (terrain-SwimHere_SwimmingWoohoo_Actor)" Value="472103" />
+  <Preset Label="Brag about Winning (social_Competitive_BragAboutWin)" Value="472145" />
+  <Preset Label="Form an Alliance (si_touching_Getaway_FormAlliance)" Value="472154" />
+  <Preset Label="Break Alliance (si_touching_Getaway_BreakAlliance)" Value="472155" />
+  <Preset Label="Start 'Establish an Image' Challenge (si_ChildhoodInspiration_StartChallenge_EstablishAnImage)" Value="472302" />
+  <Preset Label="Start 'Be Crafty' Challenge (si_ChildhoodInspiration_StartChallenge_BeCrafty)" Value="472625" />
+  <Preset Label="Start 'Share Sibling Adventures' Challenge (si_ChildhoodInspiration_StartChallenge_ShareSiblingAdventures)" Value="472626" />
+  <Preset Label="Talk Trash to {1.SimFirstName} (social_Competitive_TrashTalk)" Value="472668" />
+  <Preset Label="Admire Water Slide (waterSlide_View)" Value="472791" />
+  <Preset Label="Complain about Papercraft (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_Papercraft)" Tags="TestUnsafe" Value="472895" />
+  <Preset Label="Enthuse about Papercrafting (socials_Targeted_Friendly_SimPreference_Recent_Likes_Papercraft)" Tags="TestUnsafe" Value="472896" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_Papercraft" Value="472897" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_Papercraft" Value="472898" />
+  <Preset Label="Add to Wardrobe (immediate_Papercraft_PaperMache_Mask_AddToWardrobe)" Value="473079" />
+  <Preset Label="Research Competitive Metas (sI_Competitive_GameMetas_Computer)" Value="473081" />
+  <Preset Label="Research Competitive Metas (sI_Competitive_GameMetas_Phone)" Value="473082" />
+  <Preset Label="Try for Baby (mixer_Social_TryForBabyAsk_SwimmingWooHoo_InWater)" Tags="TestUnsafe" Value="473410" />
+  <Preset Label="Try for Baby (mixer_Social_TryForBabyAsk_SwimmingWooHoo_OnLand)" Tags="TestUnsafe" Value="473411" />
+  <Preset Label="Try for Baby (mixer_Social_TryForBabyAsk_SwimmingWooHoo_Social)" Tags="TestUnsafe" Value="473412" />
+  <Preset Label="Try for Baby (swimmingWooHoo_TryForBaby)" Value="473414" />
+  <Preset Label="Try for Baby (swimmingWooHoo_TryForBaby_Staging)" Value="473415" />
+  <Preset Label="Swim Here (terrain-SwimHere_SwimmingWoohoo_Actor_TryForBaby)" Value="473417" />
+  <Preset Label="Go Here (terrain-swimnear_SwimmingWoohoo_Target_TryForBaby)" Value="473419" />
+  <Preset Label="immediate_SwimmingWoohoo_PickerContinuation_TryForBaby" Value="473421" />
+  <Preset Label="Try for Baby in Water (social_SwimmingWoohoo_Ask_TryForBaby)" Value="473422" />
+  <Preset Label="Themed Cards (papercraft_StartCrafting_Card_Themed)" Value="473460" />
+  <Preset Label="Themed Cards (super_Papercraft_StartCrafting_FromInventory_Card_Themed)" Value="473466" />
+  <Preset Label="simPicker_Mentoring_AskFor_Fitness_SpinningBike" Tags="TestUnsafe" Value="473567" />
+  <Preset Label="simPicker_Mentoring_Offer_Paid_Fitness_SpinningBike" Tags="TestUnsafe" Value="473568" />
+  <Preset Label="simPicker_Mentoring_Offer_Unpaid_Fitness_SpinningBike" Tags="TestUnsafe" Value="473569" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Unpaid_Fitness_SpinningBike)" Tags="TestUnsafe" Value="473570" />
+  <Preset Label="Offer Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_Offer_Paid_Fitness_SpinningBike)" Tags="TestUnsafe" Value="473571" />
+  <Preset Label="Ask for Mentoring (socials_Targeted_Friendly_AlwaysOn_STC_Mentoring_AskFor_Fitness_SpinningBike)" Tags="TestUnsafe" Value="473572" />
+  <Preset Label="Mentor (mentor_SpinningBike)" Value="473573" />
+  <Preset Label="Promise an Unforgettable Experience (social_Getaway_PromiseUnforgettableExperience)" Value="473785" />
+  <Preset Label="Gifting Papercraft (social_Papercraft_Gift_Card_Themed_Celebration_OnObject)" Value="473819" />
+  <Preset Label="Gifting Papercraft (social_Papercraft_Gift_Card_Themed_Celebration_OnSim)" Value="473820" />
+  <Preset Label="Gifting Papercraft (social_Papercraft_Gift_Card_Themed_Consolation_OnObject)" Value="473821" />
+  <Preset Label="Gifting Papercraft (social_Papercraft_Gift_Card_Themed_Consolation_OnSim)" Value="473822" />
+  <Preset Label="social_SwimmingWoohoo_TargetRouteToActor" Value="473833" />
+  <Preset Label="social_SwimmingWoohoo_TargetRouteToActor_TryForBaby" Value="473835" />
+  <Preset Label="blender_craftingPhase_placeIngredients_Slim" Value="474122" />
+  <Preset Label="blender_craftingPhase_placeIngredients_Purge" Value="474123" />
+  <Preset Label="blender_craftingPhase_placeIngredients_Rainbow" Value="474124" />
+  <Preset Label="Gift {1.ObjectName} to (simPicker_Papercraft_Gift_Card_Celebration_OnObject)" Tags="TestUnsafe" Value="474139" />
+  <Preset Label="Gift {1.ObjectName} to (simPicker_Papercraft_Gift_Card_Celebration_OnObject_FromWorld)" Tags="TestUnsafe" Value="474140" />
+  <Preset Label="Gift {1.ObjectName} to (simPicker_Papercraft_Gift_Card_Consolation_OnObject)" Tags="TestUnsafe" Value="474142" />
+  <Preset Label="Gift {1.ObjectName} to (simPicker_Papercraft_Gift_Card_Consolation_OnObject_FromWorld)" Tags="TestUnsafe" Value="474143" />
+  <Preset Label="Gift Celebration Card to {1.SimFirstName} (inventoryPicker_Papercraft_Gift_Card_Celebration_OnSim)" Tags="TestUnsafe" Value="474189" />
+  <Preset Label="Gift Consolation Card to {1.SimFirstName} (inventoryPicker_Papercraft_Gift_Card_Consolation_OnSim)" Tags="TestUnsafe" Value="474190" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_Papercraft_Gift_Card_Celebration_FromWorld)" Value="474191" />
+  <Preset Label="Put in Inventory (si_SwipeIntoSimInventory_Papercraft_Gift_Card_Consolation_FromWorld)" Value="474192" />
+  <Preset Label="idle_Buff_HideAndSeek_Hider" Value="474200" />
+  <Preset Label="blender_craftingPhase_finish_createSmoothie_Slim" Value="474209" />
+  <Preset Label="blender_craftingPhase_finish_createSmoothie_Rainbow" Value="474210" />
+  <Preset Label="blender_craftingPhase_finish_createSmoothie_Purge" Value="474211" />
+  <Preset Label="blender_craftingPhase_makeSmoothie_Rainbow" Value="474212" />
+  <Preset Label="blender_craftingPhase_makeSmoothie_Slim" Value="474213" />
+  <Preset Label="blender_craftingPhase_makeSmoothie_Purge" Value="474214" />
+  <Preset Label="DELETE ME (idle_Blender_RainbowReaction)" Value="474216" />
+  <Preset Label="Form a Friendly Clique (si_touching_Getaway_FormClique)" Value="474551" />
+  <Preset Label="Kick Out of Clique (si_touching_Getaway_BreakClique)" Value="474552" />
+  <Preset Label="Wear Mask (super_Papercraft_PaperMache_Mask_Walkby_Equip)" Value="474832" />
+  <Preset Label="Seek Comfort from an Old Friend (sI_EP20_IF_ComfortOldFriend_Inventory)" Value="474883" />
+  <Preset Label="Seek Comfort from an Old Friend (sI_EP20_IF_Doll_ComfortOldFriend_SwipetoInventory)" Value="474884" />
+  <Preset Label="reaction_Mixers_EP20_IF_CreepedOut" Value="474893" />
+  <Preset Label="sI_EP20_IF_CreepedOut_Target" Value="474895" />
+  <Preset Label="Suggest Play (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_SuggestPlay_Evil_Tier3_StartFire)" Tags="TestUnsafe" Value="474905" />
+  <Preset Label="Reflect on Current Competitive Spirit (sI_Competitive_ReflectOnSpirit)" Value="475022" />
+  <Preset Label="Wear Mask (super_Papercraft_PaperMache_Mask_Walkby_Route)" Value="475027" />
+  <Preset Label="Start Fire! (sI_EP20_IF_BadInfluence_StartFire)" Value="475090" />
+  <Preset Label="Play on Playground with (simPicker_ModularPlayground)" Tags="TestUnsafe" Value="475288" />
+  <Preset Label="Play on Playground (modularPlayground_Play_PickedSim)" Value="475290" />
+  <Preset Label="mixer_EP20Festivals_RoundTheFire_Listen" Tags="TestUnsafe" Value="475627" />
+  <Preset Label="mixer_EP20Festivals_RoundTheFire_Listen_Reactions" Tags="TestUnsafe" Value="475628" />
+  <Preset Label="mixer_EP20Festivals_RoundTheFire_Story" Tags="TestUnsafe" Value="475630" />
+  <Preset Label="Pass Down Folklore (socialSuperInteraction_EP20Festival_RoundTheFire_TellStory)" Value="475632" />
+  <Preset Label="Listen to Folklore (socialSuperInteraction_EP20Festival_RoundTheFire_Listen_NPC)" Value="475643" />
+  <Preset Label="Listen to Folklore (socialSuperInteraction_EP20Festival_RoundTheFire_Listen)" Value="475691" />
+  <Preset Label="idle_Buff_ModularPlayground_Play" Value="475891" />
+  <Preset Label="Make Smoothie (Blender_startCraftingAutonomously)" Value="475893" />
+  <Preset Label="Fist Bump of Ultimate Friendship! (social_EP20_IF_FriendstotheEnd_SpecialFistBump)" Value="475985" />
+  <Preset Label="Purchase a Caterpillar Incubator (purchase_ButterflyCollection_Atrium)" Tags="TestUnsafe" Value="476020" />
+  <Preset Label="Give Getaway Host a Tip (give_Tip_GetawayHost)" Value="476056" />
+  <Preset Label="End Getaway (si_travelGroup_EndVacation_Getaway)" Value="476569" />
+  <Preset Label="Plan a Getaway (computer_Getaway_PlanGetaway)" Value="476614" />
+  <Preset Label="Reminisce (EP20_IF_reminisce_happy)" Value="477165" />
+  <Preset Label="Clean Out Stewpot (Campfire_Stewpot_Reset)" Value="477456" />
+  <Preset Label="Read Nature Letter (eP20World_NPC_Lighthouse_Letters_Laxmi_FirstLetter)" Value="477461" />
+  <Preset Label="Read Scribbled Letter (eP20World_NPC_Lighthouse_Letters_Skip_FirstLetter)" Value="477462" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartLecture_Papercraft)" Value="477519" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartClass_Papercraft)" Value="477520" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_PrepareLecture_Papercraft_1)" Value="477522" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_ListenToLecture_Papercraft)" Value="477523" />
+  <Preset Label="**DEBUG** (social_HobbyClass_Whiteboard_Lecture_Papercraft)" Value="477525" />
+  <Preset Label="&lt;font color='#FF0000'&gt;Only up to {0.Number} listeners can be selected.&lt;/font&gt; (simPicker_HobbyClass_Whiteboard_LectureFor_Papercraft)" Tags="TestUnsafe" Value="477526" />
+  <Preset Label="simPicker_HobbyClass_RequestClass_Papercraft" Tags="TestUnsafe" Value="477527" />
+  <Preset Label="worldPOI_InformationCenter_ShowCurrentGeyserConditions" Value="478550" />
+  <Preset Label="Start 'Master Archery' Challenge (si_ChildhoodInspiration_StartChallenge_MasterArchery)" Value="479293" />
+  <Preset Label="Park Lore: Local Legends (parkWorkerCareer_RecallParkLore_Self_Level_5)" Value="479318" />
+  <Preset Label="Park Lore: Carving the Basin (parkWorkerCareer_RecallParkLore_Self_Level_1)" Value="479319" />
+  <Preset Label="Park Lore: Ancient Tribes (parkWorkerCareer_RecallParkLore_Self_Level_2)" Value="479320" />
+  <Preset Label="Park Lore: Local Species (parkWorkerCareer_RecallParkLore_Self_Level_3)" Value="479321" />
+  <Preset Label="Park Lore: Mysterious Occurrences (parkWorkerCareer_RecallParkLore_Self_Level_4)" Value="479322" />
+  <Preset Label="Park Lore: Carving the Basin (parkWorkerCareer_RecallParkLore_RangerStation_Level_1)" Value="479329" />
+  <Preset Label="Park Lore: Ancient Tribes (parkWorkerCareer_RecallParkLore_RangerStation_Level_2)" Value="479330" />
+  <Preset Label="Park Lore: Local Species (parkWorkerCareer_RecallParkLore_RangerStation_Level_3)" Value="479331" />
+  <Preset Label="Park Lore: Mysterious Occurrences (parkWorkerCareer_RecallParkLore_RangerStation_Level_4)" Value="479332" />
+  <Preset Label="Park Lore: Local Legends (parkWorkerCareer_RecallParkLore_RangerStation_Level_5)" Value="479333" />
+  <Preset Label="Look Out (modularPlayground_Bubble_Toddler)" Value="479500" />
+  <Preset Label="Cheer On! (aggregateSI_EP20_IF_CheerOn)" Value="480849" />
+  <Preset Label="Leave Getaway Unhappily (sI_Getaway_LeaveGetaway_Upset)" Value="481475" />
+  <Preset Label="Peculiar Plumbird Nest (autonomous_ObjectPicker_EP20WorldPOI_FocusOn_Cryptidnest)" Tags="TestUnsafe" Value="481631" />
+  <Preset Label="Peculiar Plumbird Fossils (autonomous_ObjectPicker_EP20WorldPOI_FocusOn_CryptidEvidence)" Tags="TestUnsafe" Value="481632" />
+  <Preset Label="Peculiar Plumbird Nest (worldPOI_FocusCameraOn_InformationCenter_CryptidNest)" Value="481633" />
+  <Preset Label="Peculiar Plumbird Fossils (worldPOI_FocusCameraOn_InformationCenter_CryptidTracks)" Value="481634" />
+  <Preset Label="Mentor {2.String} (mentor_Archery_Getaway_Child)" Value="481709" />
+  <Preset Label="Leave Getaway (si_Getaway_LeaveGetaway_LowFunds)" Value="481729" />
+  <Preset Label="Ask about Romantic Getaway (socials_Targeted_Friendly_AlwaysOn_STC_AskAboutRomanticGetaway)" Tags="TestUnsafe" Value="481730" />
+  <Preset Label="Mail a Friendship Card to (super_Papercraft_Mail_FriendshipCard)" Value="481859" />
+  <Preset Label="Mail to... (simPicker_Papercraft_Gift_Mail_Card_Friendship)" Tags="TestUnsafe" Value="481861" />
+  <Preset Label="Mail a Friendship Card to (inventoryPicker_Papercraft_Mail_Card_Friendship)" Tags="TestUnsafe" Value="481863" />
+  <Preset Label="Coach Swimming (mentor_Swimming_LearntoSwim_Getaway_Child)" Value="481893" />
+  <Preset Label="Coach Swimming (mentor_Swimming_Getaway_Child)" Value="481895" />
+  <Preset Label="autonomous_ObjectPicker_Getaway_Fridge_GroupMeal" Tags="TestUnsafe" Value="481910" />
+  <Preset Label="Mentor (mentor_Fishing_Getaway_Child)" Value="481999" />
+  <Preset Label="Play Island Castaway with {1.SimFirstName} (social_SI_PlayPretend_Castaway)" Value="482008" />
+  <Preset Label="Play Fairy Tale Castle with {1.SimFirstName} (social_SI_PlayPretend_FairyTale)" Value="482009" />
+  <Preset Label="Play House with {1.SimFirstName} (social_SI_PlayPretend_House)" Value="482010" />
+  <Preset Label="Play Pirates with {1.SimFirstName} (social_SI_PlayPretend_Pirates)" Value="482011" />
+  <Preset Label="Play Space Explorers with {1.SimFirstName} (social_SI_PlayPretend_Space)" Value="482012" />
+  <Preset Label="Mentor {2.String} (mentor_Papercraft_Getaway_Child)" Value="482019" />
+  <Preset Label="Encourage (mentor_ActivityTable_Getaway_Child)" Value="482048" />
+  <Preset Label="autonomousSimPickerSuperInteraction_Getaway_Enthuse" Tags="TestUnsafe" Value="482219" />
+  <Preset Label="autonomousSimPickerSuperInteraction_Getaway_Complain" Tags="TestUnsafe" Value="482220" />
+  <Preset Label="autonomousSimPickerSuperInteraction_Getaway_Tip" Tags="TestUnsafe" Value="482221" />
+  <Preset Label="Discuss Healthy Competitiveness (social_Competitive_DiscussCompetitiveSpirit)" Value="482225" />
+  <Preset Label="immediate_HideAndSeek_DestroyFallbackBox" Value="482274" />
+  <Preset Label="Help with Homework (mentor_ChildHomework_Getaway_Child)" Value="482284" />
+  <Preset Label="Mentor {2.String} (mentor_Piano_Getaway_Child)" Value="482285" />
+  <Preset Label="Mentor {2.String} (mentor_Violin_Getaway_Child)" Value="482286" />
+  <Preset Label="Magical Butterfly Origami (autonomousObjectInInventoryPicker_ButterflyCollection_UltimateOrigami_Papercraft)" Tags="TestUnsafe" Value="482467" />
+  <Preset Label="immediate_Getaway_StartUI_FitnessRetreat" Value="482525" />
+  <Preset Label="immediate_Getaway_StartUI_KidsCamp" Value="482526" />
+  <Preset Label="immediate_Getaway_StartUI_RomanticCompetition" Value="482527" />
+  <Preset Label="Check Toddler (sim_Toddler_CheckToddler_Getaway)" Value="482768" />
+  <Preset Label="autonomousSimPickerSuperInteraction_Getaway_Flirt" Tags="TestUnsafe" Value="482813" />
+  <Preset Label="autonomousSimPickerSuperInteraction_Getaway_Flirt_TakenSims" Tags="TestUnsafe" Value="482815" />
+  <Preset Label="Peculiar Plumbird Fossils (worldPOI_FocusCameraOn_CryptidTrackSeabreeze)" Value="482839" />
+  <Preset Label="Peculiar Plumbird Fossils (worldPOI_FocusCameraOn_CryptidTrackWilderness)" Value="482840" />
+  <Preset Label="Check Infant (TYAE_CheckOn_Infant_Getaway)" Value="482849" />
+  <Preset Label="Remove Mask (super_Papercraft_PaperMache_Mask_Remove_Fixup)" Value="483009" />
+  <Preset Label="Turn into Imaginary Friend (immediateSI_EP20_IF_Confirmation_Popup_ImagineUpAFriend_LilMonster)" Value="483060" />
+  <Preset Label="Turn into Imaginary Friend (immediateSI_EP20_IF_Confirmation_Popup_ImagineUpAFriend_KraftyKid)" Value="483061" />
+  <Preset Label="Turn into Imaginary Friend (immediateSI_EP20_IF_Confirmation_Popup_ImagineUpAFriend_WildChild)" Value="483062" />
+  <Preset Label="Turn into Imaginary Friend (immediateSI_EP20_IF_Confirmation_Popup_ImagineUpAFriend_Pegacorn)" Value="483063" />
+  <Preset Label="Complain about Entomology (socials_Targeted_Friendly_SimPreference_Recent_Dislikes_Entomology)" Tags="TestUnsafe" Value="483094" />
+  <Preset Label="Enthuse about Entomology (socials_Targeted_Friendly_SimPreference_Recent_Likes_Entomology)" Tags="TestUnsafe" Value="483099" />
+  <Preset Label="idle_Buff_SimPreference_Dislikes_Activities_Entomology" Value="483100" />
+  <Preset Label="idle_Buff_SimPreference_Likes_Activities_Entomology" Value="483101" />
+  <Preset Label="Go Here (terrain_gonear_Getaway)" Value="483211" />
+  <Preset Label="Send Back to Imaginary Land (social_EP20_IF_Dismiss)" Value="483275" />
+  <Preset Label="Best of 3 (social_RockPaperScissors_BestOf3_Start)" Value="483428" />
+  <Preset Label="Catch {1.ObjectName} (butterflyCollection_Supers_Catch_AutonomousOnly)" Value="483550" />
+  <Preset Label="Start Raising a Caterpillar (butterflyCollection_Supers_Incubator_Start_Random_AutonomousOnly)" Value="483552" />
+  <Preset Label="counter_CuttingBoard_Slather_SaltBakedFish" Value="483560" />
+  <Preset Label="Pour Heart Out (sI_EP20_IF_PourHeartOut_Mood_Angry)" Value="484063" />
+  <Preset Label="Pour Heart Out (sI_EP20_IF_PourHeartOut_Mood_Embar)" Value="484064" />
+  <Preset Label="Pour Heart Out (sI_EP20_IF_PourHeartOut_Mood_Sad)" Value="484065" />
+  <Preset Label="Pour Heart Out (sI_EP20_IF_PourHeartOut_Mood_Uncom)" Value="484066" />
+  <Preset Label="Pour Heart Out (sI_EP20_IF_PourHeartOut_Mood_Stress)" Value="484067" />
+  <Preset Label="Pour Heart Out (sI_EP20_IF_PourHeartOut_Kneel_Sad)" Value="484100" />
+  <Preset Label="Pour Heart Out (sI_EP20_IF_PourHeartOut_Kneel_Uncom)" Value="484101" />
+  <Preset Label="Pour Heart Out (sI_EP20_IF_PourHeartOut_Kneel_Stress)" Value="484102" />
+  <Preset Label="Pour Heart Out (sI_EP20_IF_PourHeartOut_Kneel_Embar)" Value="484103" />
+  <Preset Label="Pour Heart Out (sI_EP20_IF_PourHeartOut_Kneel_Angry)" Value="484104" />
+  <Preset Label="Pour Heart Out (sI_EP20_IF_PourHeartOut_Kneel_Scared)" Value="484106" />
+  <Preset Label="Pour Heart Out (sI_EP20_IF_PourHeartOut_Mood_Scared)" Value="484107" />
+  <Preset Label="Play Make Believe (mixer_social_MakeBelieve_targeted_friendly_alwaysOn_child_EP20_IF)" Tags="TestUnsafe" Value="484221" />
+  <Preset Label="Workout (spinningBike_Class_Holder)" Value="484370" />
+  <Preset Label="Ask to Teach How to Start Fires (socials_Targeted_Friendly_AlwaysOn_STC_EP20_IF_AskStartFire)" Tags="TestUnsafe" Value="484382" />
+  <Preset Label="Catch Insects with &lt;b&gt;Net&lt;/b&gt; (butterflyCollection_Supers_Catch_Insects)" Value="484512" />
+  <Preset Label="Wear Mask (inventoryPicker_Papercraft_PaperMache_Mask_Self_Equip)" Tags="TestUnsafe" Value="484515" />
+  <Preset Label="Wear Mask (super_Papercraft_PaperMache_Mask_Equip_Self)" Value="484516" />
+  <Preset Label="Throw {1.ObjectName} (super_Papercraft_PaperAirplane_Throw_FromInventory)" Value="484682" />
+  <Preset Label="Throw {1.ObjectName} Around (super_Papercraft_PaperAirplane_ThrowAround_FromInventory)" Value="484684" />
+  <Preset Label="Find Lost Scrapbook (si_ChildhoodInspiration_CreateScrapbook)" Value="484872" />
+  <Preset Label="Read Scrapbook (si_ChildhoodInspiration_ReadScrapbook)" Value="484873" />
+  <Preset Label="Contain Rage about Loss (sI_Competitive_Loss_ContainRage)" Value="484883" />
+  <Preset Label="Blend Smoothie (blender_MakeSmoothie_StartCrafting_ep20_RequiredIngredients)" Value="484918" />
+  <Preset Label="Scare as Peculiar Plumbird (social_Papercraft_PaperMache_Mask_Scare)" Value="484938" />
+  <Preset Label="Say Goodbye Forever (immediateSI_EP20_IF_Confirmation_Popup_GoodbyeForever_KraftyKid)" Value="484999" />
+  <Preset Label="Say Goodbye Forever (immediateSI_EP20_IF_Confirmation_Popup_GoodbyeForever_LilMonster)" Value="485005" />
+  <Preset Label="Say Goodbye Forever (immediateSI_EP20_IF_Confirmation_Popup_GoodbyeForever_Pegacorn)" Value="485016" />
+  <Preset Label="Say Goodbye Forever (immediateSI_EP20_IF_Confirmation_Popup_GoodbyeForever_WildChild)" Value="485017" />
+  <Preset Label="Say Goodbye Forever (immediateSI_EP20_IF_Confirmation_Popup_GoodbyeForever_TargetSim_LilMonster)" Value="485023" />
+  <Preset Label="Say Goodbye Forever (immediateSI_EP20_IF_Confirmation_Popup_GoodbyeForever_TargetSim_Pegacorn)" Value="485024" />
+  <Preset Label="Say Goodbye Forever (immediateSI_EP20_IF_Confirmation_Popup_GoodbyeForever_TargetSim_WildChild)" Value="485025" />
+  <Preset Label="Say Goodbye Forever (immediateSI_EP20_IF_Confirmation_Popup_GoodbyeForever_TargetSim_KraftyKid)" Value="485026" />
+  <Preset Label="sI_EP20_IF_SpawnEvent_Poof_Out_GoodbyeForever_Good" Value="485117" />
+  <Preset Label="Plan an Outdoor Kids Camp (phone_PlanGetaway_OutdoorKidsCamp)" Value="485200" />
+  <Preset Label="Plan a Fitness Retreat (phone_PlanGetaway_FitnessRetreat)" Value="485201" />
+  <Preset Label="Plan a Romantic Competition (phone_PlanGetaway_RomanticGetaway)" Value="485202" />
+  <Preset Label="Plan a Getaway (phone_PlanGetaway_Custom_Travel)" Value="485209" />
+  <Preset Label="Plan a Fitness Retreat (phone_PlanGetaway_FitnessRetreat_Travel)" Value="485211" />
+  <Preset Label="Plan an Outdoor Kids Camp (phone_PlanGetaway_OutdoorKidsCamp_Travel)" Value="485213" />
+  <Preset Label="Plan a Romantic Competition (phone_PlanGetaway_RomanticGetaway_Travel)" Value="485215" />
+  <Preset Label="Intense Workout (spinningBike_Workout_Intense_Mentoring)" Value="485403" />
+  <Preset Label="Select Spinning Instructor for Class (simPicker_SpinningClass_PickInstructor)" Tags="TestUnsafe" Value="485456" />
+  <Preset Label="immediate_WorldPOI_CameraShake" Value="485516" />
+  <Preset Label="Watch {1.SimFirstName} (sI_Competitive_InspireSpectator)" Value="485626" />
+  <Preset Label="Careers (social_Competitive_BlicBlockPVP_Ask_Listen)" Value="485629" />
+  <Preset Label="spinningBike_Class_WaitToJoinClass" Value="485645" />
+  <Preset Label="Sabotage! (object_Bane_Sabotage_Blender)" Value="486722" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartLecture_DivingBoard)" Value="486770" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartClass_DivingBoard)" Value="486771" />
+  <Preset Label="simPicker_HobbyClass_RequestClass_DivingBoard" Tags="TestUnsafe" Value="486778" />
+  <Preset Label="&lt;font color='#FF0000'&gt;Only up to {0.Number} listeners can be selected.&lt;/font&gt; (simPicker_HobbyClass_Whiteboard_LectureFor_DivingBoard)" Tags="TestUnsafe" Value="486779" />
+  <Preset Label="**DEBUG** (social_HobbyClass_Whiteboard_Lecture_DivingBoard)" Value="486780" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_ListenToLecture_DivingBoard)" Value="486782" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_PrepareLecture_DivingBoard_1)" Value="486783" />
+  <Preset Label="Invite to Join Spinning Class (spinningClass_PlayerLed_InviteToJoin_Free)" Value="487316" />
+  <Preset Label="Mentor (mentor_FreeWeights_Getaway)" Value="487346" />
+  <Preset Label="Mentor (mentor_PunchingBag_Getaway)" Value="487347" />
+  <Preset Label="Mentor (mentor_SpinningBike_Getaway)" Value="487348" />
+  <Preset Label="Mentor (mentor_Treadmill_Getaway)" Value="487349" />
+  <Preset Label="Mentor {2.String} (mentor_WorkoutMachine_Getaway)" Value="487350" />
+  <Preset Label="Mentor {2.String} (mentor_Archery_Getaway)" Value="487351" />
+  <Preset Label="Encourage (mentor_ActivityTable_Getaway)" Value="487352" />
+  <Preset Label="Mentor {2.String} (mentor_Painting_Getaway)" Value="487354" />
+  <Preset Label="Mentor {2.String} (mentor_Knitting_Getaway)" Value="487378" />
+  <Preset Label="Mentor {2.String} (mentor_Writing_Getaway)" Value="487380" />
+  <Preset Label="Mentor (mentor_Fishing_Getaway)" Value="487381" />
+  <Preset Label="Mentor {2.String} (mentor_Repair_Getaway)" Value="487383" />
+  <Preset Label="Mentor {2.String} (mentor_Upgrade_Getaway)" Value="487385" />
+  <Preset Label="Mentor {2.String} (mentor_WoodworkingTable_Getaway)" Value="487387" />
+  <Preset Label="Mentor {2.String} (mentor_Chess_Getaway)" Value="487389" />
+  <Preset Label="Mentor {2.String} (mentor_Logic_Getaway)" Value="487391" />
+  <Preset Label="Mentor {2.String} (mentor_Programming_Getaway)" Value="487393" />
+  <Preset Label="Mentor {2.String} (mentor_RocketScience_Getaway)" Value="487395" />
+  <Preset Label="Mentor {2.String} (mentor_Piano_Getaway)" Value="487396" />
+  <Preset Label="Mentor {2.String} (mentor_Violin_Getaway)" Value="487397" />
+  <Preset Label="Mentor {2.String} (mentor_Guitar_Getaway)" Value="487400" />
+  <Preset Label="Mentor {2.String} (mentor_Papercraft_Getaway)" Value="487401" />
+  <Preset Label="Mentor {2.String} (mentor_Skill_GourmetCooking_Getaway)" Value="487405" />
+  <Preset Label="Mentor {2.String} (mentor_Gardening_Getaway)" Value="487409" />
+  <Preset Label="Mentor {2.String} (mentor_Comedy_Getaway)" Value="487413" />
+  <Preset Label="Mentor {2.String} (mentor_Skill_Charisma_Getaway)" Value="487415" />
+  <Preset Label="Mentor {2.String} (mentor_Skill_Mischief_Getaway)" Value="487417" />
+  <Preset Label="Mentor {2.String} (mentor_Skill_Mixology_Getaway)" Value="487419" />
+  <Preset Label="Mentor {2.String} (mentor_VideoGaming_Getaway)" Value="487421" />
+  <Preset Label="Mentor {2.String} (mentor_GourmetCooking_NoRecipe)" Value="487423" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartClass_Entomology)" Value="487659" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartLecture_Entomology)" Value="487670" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_PrepareLecture_Entomology_1)" Value="487671" />
+  <Preset Label="**DEBUG** (social_HobbyClass_Whiteboard_Lecture_Entomology)" Value="487673" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_ListenToLecture_Entomology)" Value="487674" />
+  <Preset Label="&lt;font color='#FF0000'&gt;Only up to {0.Number} listeners can be selected.&lt;/font&gt; (simPicker_HobbyClass_Whiteboard_LectureFor_Entomology)" Tags="TestUnsafe" Value="487675" />
+  <Preset Label="simPicker_HobbyClass_RequestClass_Entomology" Tags="TestUnsafe" Value="487676" />
+  <Preset Label="spinningBike_Class_Instructor_WaitForWork_Read" Value="487692" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartClass_Archery)" Value="487782" />
+  <Preset Label="simPicker_HobbyClass_RequestClass_Archery" Tags="TestUnsafe" Value="488005" />
+  <Preset Label="&lt;font color='#FF0000'&gt;Only up to {0.Number} listeners can be selected.&lt;/font&gt; (simPicker_HobbyClass_Whiteboard_LectureFor_Archery)" Tags="TestUnsafe" Value="488006" />
+  <Preset Label="**DEBUG** (social_HobbyClass_Whiteboard_Lecture_Archery)" Value="488007" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_ListenToLecture_Archery)" Value="488014" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_PrepareLecture_Archery_1)" Value="488015" />
+  <Preset Label="**DEBUG** (sI_HobbyClass_StartLecture_Archery)" Value="488016" />
+  <Preset Label="Unclaim Room (getaway_UnclaimRoom)" Value="488168" />
+  <Preset Label="counter_Ico_Transition_placeOnCounter_FairyBread" Value="488589" />
+  <Preset Label="Purchase a Caterpillar Incubator (purchase_ButterflyCollection_Computer)" Tags="TestUnsafe" Value="488813" />
+  <Preset Label="blender_FailureExit" Value="488820" />
+  <Preset Label="React to Being Eliminated (reactions_Generic_Shocked_Strong_Getaway_Eliminated)" Value="488905" />
+  <Preset Label="React to Winning Getaway Elimination Contest (reactions_Generic_Cheer_Strong_Getaway_Elimination_Winner)" Value="489133" />
+  <Preset Label="React to Sim being Eliminated from Getaway (reactions_Generic_Sad_Getaway_Elimination)" Value="489134" />
+  <Preset Label="React to Sim being Eliminated from Getaway (reactions_Generic_Cheer_Getaway_Elimination)" Value="489135" />
+  <Preset Label="Call Getaway Sims Here (terrain-gohere_Getaway)" Value="489394" />
+  <Preset Label="Order Food (marketStalls_PushOrder_Autonomous_EP20Festival_SunriseSunset)" Value="489614" />
+  <Preset Label="Order Food (marketStalls_PushOrder_Autonomous_EP20Festival_FashionAndFitness)" Value="489615" />
+  <Preset Label="Mentor {2.String} (mentor_Logic_Getaway_Child)" Value="489664" />
+  <Preset Label="Mentor {2.String} (mentor_Chess_Getaway_Child)" Value="489895" />
+  <Preset Label="sI_EP20_IF_Doll_ComfortOldFriend_WaitATick" Value="491508" />
+</PresetGroup>

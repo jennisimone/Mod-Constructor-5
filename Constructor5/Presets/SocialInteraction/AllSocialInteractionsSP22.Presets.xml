@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Social Interactions SP22">
+  <Preset Label="Order {1.SimFirstName} to Clean (mixer_social_Mean_Dust_DemandClean)" Tags="TestUnsafe" Value="257093" />
+  <Preset Label="Argue About Dirty Surroundings (mixer_social_Mean_Dust_Argue)" Tags="TestUnsafe" Value="257095" />
+  <Preset Label="Ask For Help Cleaning (mixer_Social_Dust_AskClean)" Tags="TestUnsafe" Value="257096" />
+  <Preset Label="Clean Toddler with Vacuum (socials_Targeted_Friendly_AlwaysOn_STC_Toddler_Vacuum)" Tags="TestUnsafe" Value="257794" />
+</PresetGroup>

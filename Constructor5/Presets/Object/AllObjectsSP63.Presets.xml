@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP63">
+  <Preset Label="object_Bathtub_SP63Minimal" Value="438784" />
+  <Preset Label="object_shower_Wall_SP63Minimal" Value="438785" />
+</PresetGroup>

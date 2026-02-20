@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objectives EP19">
+  <Preset Label="buffs_Rogue" Value="433158" />
+  <Preset Label="interactions_Rogue" Value="433159" />
+  <Preset Label="buffs_Mystical" Value="433573" />
+  <Preset Label="interactions_Mystical" Value="433591" />
+  <Preset Label="objective_HomeFromWork_Naturopathic" Value="436175" />
+  <Preset Label="Solve Red Mushroom's Riddle (objective_EP19Quests_GreenMan_MushroomRed)" Value="436768" />
+  <Preset Label="Solve Blue Mushroom's Riddle (objective_EP19Quests_GreenMan_MushroomBlue)" Value="436769" />
+  <Preset Label="Solve Green Mushroom's Riddle (objective_EP19Quests_GreenMan_MushroomGreen)" Value="436770" />
+  <Preset Label="Solve Yellow Mushroom's Riddle (objective_EP19Quests_GreenMan_MushroomYellow)" Value="436771" />
+  <Preset Label="Use Revitalize Needs on 3 Sims (objectives_CareerAssignments_Naturopath_Main_InfuseWithVitality)" Value="439357" />
+  <Preset Label="Reach Level 2 Natural Living Skill (objective_Skill_NaturalLivingSkill_Level02)" Value="440542" />
+  <Preset Label="Reach Level 3 Natural Living Skill (objective_Skill_NaturalLivingSkill_Level03)" Value="440543" />
+  <Preset Label="Reach Level 4 Natural Living Skill (objective_Skill_NaturalLivingSkill_Level04)" Value="440544" />
+  <Preset Label="Reach Level 5 Natural Living Skill (objective_Skill_NaturalLivingSkill_Level05)" Value="440545" />
+  <Preset Label="Reach Level 6 Natural Living Skill (objective_Skill_NaturalLivingSkill_Level06)" Value="440546" />
+  <Preset Label="Reach Level 7 Natural Living Skill (objective_Skill_NaturalLivingSkill_Level07)" Value="440547" />
+  <Preset Label="Reach Level 8 Natural Living Skill (objective_Skill_NaturalLivingSkill_Level08)" Value="440548" />
+  <Preset Label="Reach Level 9 Natural Living Skill (objective_Skill_NaturalLivingSkill_Level09)" Value="440549" />
+  <Preset Label="Reach Level 10 Natural Living Skill (objective_Skill_NaturalLivingSkill_Level10)" Value="440550" />
+  <Preset Label="Craft 3 Cures or Elixirs (objectives_CareerAssignments_Naturopath_Main_BrewElixirsOrCures)" Value="440571" />
+  <Preset Label="Design Balance Program on the Computer (objectives_CareerAssignments_Naturopath_Main_DesignWellnessProgram)" Value="440572" />
+  <Preset Label="Educate Sims about Balance (objectives_CareerAssignments_Naturopath_Main_EducateInBalanceTherapy)" Value="440573" />
+  <Preset Label="Forage for Apothecary Ingredients (objectives_CareerAssignments_Naturopath_Main_ForageApothecaryIngredients)" Value="440574" />
+  <Preset Label="Research Natural Living on the Computer (objectives_CareerAssignments_Naturopath_Main_SpendTimeInNature)" Value="440575" />
+  <Preset Label="Curate Lifestyle Plans (objectives_CareerAssignments_Naturopathic_LifestyleMedicine_CurateLifestylePlans)" Value="440830" />
+  <Preset Label="Forage for Food (objectives_CareerAssignments_Naturopath_LifestyleMedicine_ForageForFood)" Value="440831" />
+  <Preset Label="Rave about Foraged Foods (objectives_CareerAssignments_Naturopath_LifestyleMedicine_LectureAboutEatingHabits)" Value="440832" />
+  <Preset Label="Meditate in Nature (objectives_CareerAssignments_Naturopath_LifestyleMedicine_MeditateInNature)" Value="440833" />
+  <Preset Label="Connect with Plants (objectives_CareerAssignments_Naturopath_HerbalMedicine_ConnectWithPlants)" Value="440834" />
+  <Preset Label="Follow Up with Clients (Naturopath) (objectives_CareerAssignments_Naturopath_HerbalMedicine_FollowUpWithPatients)" Value="440835" />
+  <Preset Label="Forage for Plants (objectives_CareerAssignments_Naturopath_HerbalMedicine_ForageForPlants)" Value="440836" />
+  <Preset Label="Research Plants (objectives_CareerAssignments_Naturopath_HerbalMedicine_ResearchPlants)" Value="440837" />
+  <Preset Label="Discuss Plant-Based Care with Another Sim (objectives_CareerAssignments_Naturopath_HerbalMedicine_StressPlantBasedCare)" Value="440838" />
+  <Preset Label="Find the Fairy Ring (objective_EP19Quests_GnomeNarrative_Ring)" Value="440854" />
+  <Preset Label="Ask Sims about Their Fairy Beliefs (objective_EP19Quests_GnomeNarrative_Stories)" Value="440855" />
+  <Preset Label="Claim a Fairy Belief (objective_EP19Quests_GnomeNarrative_Claim)" Value="440856" />
+  <Preset Label="Whimset_GnomeFunc_HasGnomes" Value="441009" />
+  <Preset Label="Obtain Fairy Dust (objective_EP19Quests_GnomeGreat_Dust)" Value="441061" />
+  <Preset Label="Wake The Great Gnome Statue (objective_EP19Quests_GnomeGreat_Wake)" Value="441062" />
+  <Preset Label="Soothe The Great Gnome (objective_EP19Quests_GnomeGreat_Appease)" Value="441063" />
+  <Preset Label="Use Enhanced Eyes Elixir (objective_EP19Quests_Apothecary_Craft_Use)" Value="441635" />
+  <Preset Label="Forage (objective_EP19Quests_Apothecary_Craft_Forage)" Value="441636" />
+  <Preset Label="Deliver Foraged Apothecary Ingredient (objective_EP19Quests_Apothecary_Craft_Deliver)" Value="441637" />
+  <Preset Label="Bottle Emotion (objective_EP19Quests_Apothecary_Fetch_Bottle)" Value="441638" />
+  <Preset Label="Craft Balanced Mind Elixir (objective_EP19Quests_Apothecary_Fetch_Craft)" Value="441639" />
+  <Preset Label="Deliver Item(s) (objective_EP19Quests_Apothecary_Fetch_Deliver)" Value="441640" />
+  <Preset Label="Consume Item (objective_EP19Quests_Apothecary_Fetch_Consume)" Value="441641" />
+  <Preset Label="Craft a Gnome (objective_EP19Quests_Fairy_Gnome)" Value="441677" />
+  <Preset Label="Harvest Bluebells (objective_EP19Quests_Fairy_BlueBell)" Value="441678" />
+  <Preset Label="Obtain Aura Petals (objective_EP19Quests_Fairy_Aura)" Value="441679" />
+  <Preset Label="Deliver Item (objective_EP19Quests_Fairy_Deliver)" Value="441680" />
+  <Preset Label="Deliver an Acorn (objective_EP19Quests_Trade_Fetch_DeliverA)" Value="441753" />
+  <Preset Label="Deliver a Moody Shrub Seed (objective_EP19Quests_Trade_Fetch_DeliverB)" Value="441754" />
+  <Preset Label="Deliver a Grilled Cheese (objective_EP19Quests_Trade_Fetch_DeliverC)" Value="441755" />
+  <Preset Label="Deliver an Supernatural Shield Elixir (objective_EP19Quests_Trade_Fetch_DeliverD)" Value="441756" />
+  <Preset Label="Deliver Fairy Dust (objective_EP19Quests_Trade_Fetch_DeliverE)" Value="441757" />
+  <Preset Label="Collect Bottled Emotion from a Moody Shrub (objective_EP19Quests_Trade_Nature_Mood)" Value="441760" />
+  <Preset Label="Collect Lightning Root Leaves (objective_EP19Quests_Trade_Nature_Lightning)" Value="441761" />
+  <Preset Label="Meditate in Nature (objective_EP19Quests_Trade_Nature_Skill1)" Value="441762" />
+  <Preset Label="Sleep on the Ground (objective_EP19Quests_Trade_Nature_Skill2)" Value="441763" />
+  <Preset Label="Bathe in Natural Water (objective_EP19Quests_Trade_Nature_Skill3)" Value="441764" />
+  <Preset Label="Talk about Trading (objective_EP19Quests_Trade_Nature_Talk1)" Value="441765" />
+  <Preset Label="Talk about Nature (objective_EP19Quests_Trade_Nature_Talk2)" Value="441766" />
+  <Preset Label="Ask a Fairy for Small Critter Bones (objective_EP19Quests_Liaison_Fetch_AskA)" Value="441803" />
+  <Preset Label="Ask a Fairy for a Freezer Bunny Foot (objective_EP19Quests_Liaison_Fetch_AskB)" Value="441804" />
+  <Preset Label="Ask a Fairy for a Moody Shrub Seed (objective_EP19Quests_Liaison_Fetch_AskC)" Value="441805" />
+  <Preset Label="Ask a Fairy for an Emotion Potion (objective_EP19Quests_Liaison_Fetch_AskD)" Value="441806" />
+  <Preset Label="Deliver Item (objective_EP19Quests_Liaison_Fetch_Deliver)" Value="441807" />
+  <Preset Label="Teleport to Sylvan Glade (objective_EP19Quests_Liaison_Travel_Teleport)" Value="441808" />
+  <Preset Label="Catch a Treefish (objective_EP19Quests_Liaison_Travel_Catch)" Value="441809" />
+  <Preset Label="Become a Fairy (objectives_Asp_Fairy_FairyStories_Initiation_Tier1_Task1)" Value="443413" />
+  <Preset Label="Throw {1.Number} Fairy Dance Parties at a Fairy Home (objectives_Asp_Fairy_FairyStories_Initiation_Tier1_Task2)" Value="443414" />
+  <Preset Label="Befriend {1.Number} Fairy Sims (objectives_Asp_Fairy_FairyStories_Initiation_Tier1_Task3)" Value="443415" />
+  <Preset Label="Reach the Glimmering Fairy Rank (objectives_Asp_Fairy_FairyStories_Initiation_Tier2_Task1)" Value="443416" />
+  <Preset Label="Use Fairy Dust to Enchant {1.Number} Items (objectives_Asp_Fairy_FairyStories_Initiation_Tier2_Task2)" Value="443417" />
+  <Preset Label="Visit the Mossveil Fairy Hub and Use It {1.Number} Times (objectives_Asp_Fairy_FairyStories_Initiation_Tier2_Task3)" Value="443418" />
+  <Preset Label="Cure Other Sim's Ailment {1.Number} Times with Cure or Apply Ailment Fairy Ability (objectives_Asp_Fairy_FairyStories_LightPath_Task1)" Value="443419" />
+  <Preset Label="Use the Growth Eruption Fairy Ability 3 Times (objectives_Asp_Fairy_FairyStories_LightPath_Task2)" Value="443420" />
+  <Preset Label="Use the Nurture Nature Fairy Ability {1.Number} Times (objectives_Asp_Fairy_FairyStories_LightPath_Task3)" Value="443421" />
+  <Preset Label="Use the Cure or Apply Ailment Fairy Ability to Inflict Ailments on {1.Number} Sims (objectives_Asp_Fairy_FairyStories_DarkPath_Task1)" Value="443422" />
+  <Preset Label="Shift the Luck of {1.Number} Sims (objectives_Asp_Fairy_FairyStories_DarkPath_Task2)" Value="443423" />
+  <Preset Label="Manipulate {1.Number} Objects (objectives_Asp_Fairy_FairyStories_DarkPath_Task3)" Value="443424" />
+  <Preset Label="Trigger Fear of Magic on a Sim (objectives_Asp_Fairy_FairyStories_DarkPath_Task4)" Value="443425" />
+  <Preset Label="Sleep Soundly Outdoors on the Ground {1.Number} Times (objectives_Asp_Nature_BohemianStyle_Task1)" Value="444328" />
+  <Preset Label="Forage for Food {1.Number} Times (objectives_Asp_Nature_BohemianStyle_Task2)" Value="444329" />
+  <Preset Label="Talk to Nature {1.Number} Times with Level 9 or Higher Natural Living Skill (objectives_Asp_Nature_BohemianStyle_Task3)" Value="444330" />
+  <Preset Label="Comfortably Bathe in Open Water {1.Number} Times (objectives_Asp_Nature_BohemianStyle_Task4)" Value="444331" />
+  <Preset Label="Reach Level 10 of the Naturopath Career (objectives_Asp_Knowledge_NatureMedsSkill_Tier3_Task1)" Value="444336" />
+  <Preset Label="Craft Holistic Cure Elixir at an Apothecary Table (objectives_Asp_Knowledge_NatureMedsSkill_Tier3_Task2)" Value="444337" />
+  <Preset Label="Detect Emotions with the Emotion Stone (objectives_Asp_Knowledge_NatureMedsSkill_Tier2_Task1)" Value="444338" />
+  <Preset Label="Bottle {1.Number} Emotions with the Emotion Stone (objectives_Asp_Knowledge_NatureMedsSkill_Tier2_Task2)" Value="444339" />
+  <Preset Label="Earn {1.Money} by Selling Items Crafted at an Apothecary Table (objectives_Asp_Knowledge_NatureMedsSkill_Tier2_Task3)" Value="444340" />
+  <Preset Label="Forage for Apothecary Ingredients {1.Number} Times (objectives_Asp_Knowledge_NatureMedsSkill_Tier1_Task1)" Value="444351" />
+  <Preset Label="Craft {1.Number} Items at an Apothecary Table (objectives_Asp_Knowledge_NatureMedsSkill_Tier1_Task2)" Value="444352" />
+  <Preset Label="Give a Cure or Elixir to {1.Number} Other Sims (objectives_Asp_Knowledge_NatureMedsSkill_Tier1_Task3)" Value="444353" />
+  <Preset Label="Reach Level 2 Apothecary Skill (career_Skill_Apothecary_Level02)" Value="444707" />
+  <Preset Label="Reach Level 3 Apothecary Skill (career_Skill_Apothecary_Level03)" Value="444710" />
+  <Preset Label="Reach Level 4 Apothecary Skill (career_Skill_Apothecary_Level04)" Value="444711" />
+  <Preset Label="Reach Level 5 Apothecary Skill (career_Skill_Apothecary_Level05)" Value="444712" />
+  <Preset Label="Reach Level 6 Apothecary Skill (career_Skill_Apothecary_Level06)" Value="444713" />
+  <Preset Label="Reach Level 7 Apothecary Skill (career_Skill_Apothecary_Level07)" Value="444714" />
+  <Preset Label="Reach Level 8 Apothecary Skill (career_Skill_Apothecary_Level08)" Value="444715" />
+  <Preset Label="Reach Level 9 Apothecary Skill (career_Skill_Apothecary_Level09)" Value="444716" />
+  <Preset Label="Reach Level 10 Apothecary Skill (career_Skill_Apothecary_Level10)" Value="444717" />
+  <Preset Label="plantLover_buff_obj" Value="453554" />
+  <Preset Label="plantLover_interaction_obj" Value="453555" />
+  <Preset Label="Reach Level 2 of the Naturopath Career (objectives_Asp_Knowledge_NatureMedsSkill_Tier1_Task4)" Value="456799" />
+  <Preset Label="Reach Level 4 of the Naturopath Career (objectives_Asp_Knowledge_NatureMedsSkill_Tier2_Task4)" Value="456800" />
+  <Preset Label="Catch a Fish (objectives_Asp_Nature_BohemianStyle_Tier2_Task1)" Value="456804" />
+  <Preset Label="Harvest a Plant on {0.SimFirstName}'s Home Lot (objectives_Asp_Nature_BohemianStyle_Tier2_Task2)" Value="456805" />
+</PresetGroup>

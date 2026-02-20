@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP45">
+  <Preset Label="object_stereoTable_SP45M" Value="351510" />
+  <Preset Label="object_tvWall2x1_SP45Mpainting" Value="351679" />
+  <Preset Label="object_bedDouble_SP45Mtuft" Value="352023" />
+  <Preset Label="object_sitLiving_SP45Mtuft" Value="352024" />
+  <Preset Label="Object_sitDining_SP45glamVanity" Value="352025" />
+</PresetGroup>

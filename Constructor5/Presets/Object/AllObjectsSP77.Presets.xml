@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Objects SP77">
+  <Preset Label="object_Fountain_SP77" Value="496821" />
+  <Preset Label="SP77_Solarium_TeaTray" Value="497849" />
+  <Preset Label="object_StereoFloor_DS_SP77" Value="499813" />
+  <Preset Label="object_drink_Tea_Green_SP77" Value="500530" />
+</PresetGroup>

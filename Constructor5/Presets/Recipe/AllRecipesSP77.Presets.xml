@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Recipes SP77">
+  <Preset Label="Hot Tea (recipe_Drink_TeaTray_SP77_Set1)" Value="497855" />
+  <Preset Label="Hot Tea (recipe_Drink_TeaTray_SP77_Set2)" Value="499865" />
+  <Preset Label="Hot Tea (recipe_Drink_TeaTray_SP77_Set3)" Value="499866" />
+  <Preset Label="Hot Tea (recipe_Drink_TeaTray_SP77_Set4)" Value="499867" />
+  <Preset Label="Hot Tea (recipe_Drink_TeaTray_SP77_Set5)" Value="499868" />
+  <Preset Label="Hot Tea (recipe_Drink_TeaTray_SP77_Set6)" Value="499869" />
+  <Preset Label="Hot Tea (recipe_Drink_TeaTray_SP77_Set7)" Value="499870" />
+  <Preset Label="Hot Tea (recipe_Drink_TeaTray_SP77_Set8)" Value="499871" />
+  <Preset Label="Hot Tea (recipe_Drink_TeaTray_SP77_Set9)" Value="499872" />
+  <Preset Label="Hot Tea (recipe_Drink_TeaTray_SP77_Set10)" Value="499873" />
+  <Preset Label="Hot Tea (recipe_Drink_TeaTray_SP77_Set11)" Value="499874" />
+  <Preset Label="Hot Tea (recipe_Drink_TeaTray_SP77_Set12)" Value="499875" />
+</PresetGroup>

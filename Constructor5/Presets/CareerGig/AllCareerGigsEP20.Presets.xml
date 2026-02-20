@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Career Gigs EP20">
+  <Preset Label="Stories about the history of Gibbi Point's Plumbirds abound; track down more evidence as you learn about these unique birds. (questGig_CryptidQuest_LocalLegends)" Value="447408" />
+  <Preset Label="You'll be positively glowing with excitement after reeling in more information about Plumbirds in this quest. (questGig_CryptidQuest_FeedingFrenzy)" Value="447409" />
+  <Preset Label="While the Plumbird population has diminished over time, leaving mostly traces, the impact these odd birds have had on Gibbi Point is clear everywhere you look.  (questGig_CryptidQuest_TangibleTraces)" Value="447410" />
+  <Preset Label="Engage more with Gibbi Point Festivals, locate a unique Cave Painting, and connect with the Peculiar Plumbird herself to discover the final puzzle pieces in the Plumbird Mystery. (questGig_CryptidQuest_CommunitySpirit)" Value="447411" />
+  <Preset Label="Awaken the Geyser's fiery dance and summon the elusive Butterflies with a tune known only to the winds and echoes of the past. Can you unlock the Plumbirds' forgotten harmony? (questGig_EP20World_Quests_MelodyoftheGeyser)" Value="455860" />
+  <Preset Label="Revel in the beauty and splendor of raising your own Butterfly! (questGig_EP20World_Quests_ButterflyConservationist)" Value="455861" />
+  <Preset Label="Embark on a journey across Gibbi Point, where mysteries linger around every corner. With each step, whispers of bygone adventures beckon, inviting you to unravel the town's hidden tales. The history of legendary explorers fills the air, hinting at secrets waiting to be discovered.  (questGig_EP20World_Quests_SecretsoftheTown)" Value="455862" />
+  <Preset Label="Each corner reveals a new point of interest, from Underlight Bay to Electric Lagoon, each brimming with stories and character. As you explore, the spirit of discovery fills the air, inviting you to immerse yourself in the enchanting tapestry of Gibbi Point. (questGig_EP20World_Quests_NeighborhoodAdventure)" Value="455863" />
+</PresetGroup>

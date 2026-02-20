@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<PresetGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Label="All Role States EP19">
+  <Preset Label="role_Career_Naturopath_Player" Value="434736" />
+  <Preset Label="fairyJourney_Roles_MotherNature_Human" Value="435354" />
+  <Preset Label="roleState_BasicTrait_EP19Quests_GreenMan" Value="436926" />
+  <Preset Label="roleState_GreenMan_Return" Value="437103" />
+  <Preset Label="roleState_GreenMan_OpenForHelp" Value="437903" />
+  <Preset Label="role_Career_Naturopath_NPC_Afflicted_Admitted" Value="439379" />
+  <Preset Label="role_TeleportStone_TravelWith_GoToStone" Value="440065" />
+  <Preset Label="role_TeleportStone_TravelWith_Teleport" Value="440066" />
+  <Preset Label="role_TeleportStone_TravelWith_Wait" Value="440067" />
+  <Preset Label="roleState_BasicTrait_EP19Quests_Gnome" Value="441058" />
+  <Preset Label="roleState_BasicTrait_EP19Quests_Apothecary" Value="441273" />
+  <Preset Label="fairyJourney_Roles_MotherNature_Fairy" Value="441497" />
+  <Preset Label="roleState_BasicTrait_EP19Quests_Trade" Value="441732" />
+  <Preset Label="roleState_BasicTrait_EP19Quests_Fairy" Value="441733" />
+  <Preset Label="roleState_BasicTrait_EP19Quests_Liaison" Value="441777" />
+  <Preset Label="openStreetsAutonomyRole_EP19World_PlantSim" Value="443582" />
+  <Preset Label="openStreetsAutonomyRole_EP19World_CoastalTourist" Value="443583" />
+  <Preset Label="openStreetsAutonomyRole_EP19World_Fairy" Value="443584" />
+  <Preset Label="roleState_BasicTrait_EP19Quests_NPCs_MotherNature" Value="443795" />
+  <Preset Label="openStreetsAutonomyRole_EP19Quests_Trade" Value="444324" />
+  <Preset Label="openStreetsAutonomyRole_EP19Quests_Liaison" Value="444325" />
+  <Preset Label="openStreetsAutonomyRole_EP19Quests_Fairy" Value="444326" />
+  <Preset Label="openStreetsAutonomyRole_EP19Quests_Trade_coastal" Value="444696" />
+  <Preset Label="role_walkby_flavor_one_shotEP19World_FairyNotFairyForm" Value="445986" />
+  <Preset Label="roleState_GreenMan_OpenForHelp_OpenStreet" Value="461207" />
+  <Preset Label="fairy_EP19Quests_RingRole" Value="464621" />
+  <Preset Label="walkby_ring_doorbell_FairyPassage" Value="465411" />
+  <Preset Label="role_barfly_FairyPassage" Value="466408" />
+  <Preset Label="role_barfly_Lounge_FairyPassage" Value="466409" />
+  <Preset Label="roleState_GreenMan_Return_OpenStreet" Value="470582" />
+</PresetGroup>
