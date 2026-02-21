@@ -36,9 +36,11 @@
   <Preset Label="Death by Broken Heart (trait_Ghost_BrokenHeart)" Value="379066" />
   <Preset Label="Temporary Specter (trait_Ghost_R3Event)" Value="385224" />
   <Preset Label="Death by Emotional Starvation (trait_Ghost_EmotionalStarvation)" Value="444624" />
+  <Preset Label="Death by Cuckoo Malfunction (trait_Ghost_SecretPassageway)" Value="475485" />
   <Preset Label="Alien and Ghost (trait_OccultAlien_and_Ghost)" Value="391183" />
   <Preset Label="Death by Beetles (trait_Ghost_Beetle)" Value="235995" />
   <Preset Label="Transcendent Glimpse (trait_GhostWoohoo_TempGhost)" Value="422546" />
+  <Preset Label="Learned from the Past (trait_Reward_ChildhoodInspiration_LearnFromThePast)" Value="454337" />
   <Preset Label="Ghastly Consequences (trait_Ghost_Cauldron_Potion_Immortality_Failure)" Value="214409" />
   <Preset Label="Night Wraith (trait_Ghost_Curses_NightStalker_Stalker)" Value="216314" />
   <Preset Label="trait_Magic_Marketstall_SpectralLook" Value="217017" />

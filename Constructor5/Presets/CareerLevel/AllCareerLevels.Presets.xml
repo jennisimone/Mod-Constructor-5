@@ -222,6 +222,7 @@
   <Preset Label="career_AdultPartTime_Retail_Level3" Value="208880" />
   <Preset Label="careerLevel_NPC_Firefighter" Value="237785" />
   <Preset Label="careerLevel_Deliveries_FoodDeliveryNPC" Value="262371" />
+  <Preset Label="careerLevel_NPC_Police" Value="421753" />
   <Preset Label="careerLevels_Detective_Level01" Value="106138" />
   <Preset Label="career_Active_Doctor_Level01" Value="107221" />
   <Preset Label="career_Active_Doctor_Level02" Value="107224" />
@@ -523,6 +524,137 @@
   <Preset Label="careerLevels_CorporateWorker_Supervisor_Level4" Value="248249" />
   <Preset Label="careerLevels_CorporateWorker_Supervisor_Level5" Value="248251" />
   <Preset Label="careerLevels_CorporateWorker_Supervisor_Level6" Value="248252" />
+  <Preset Label="careerLevel_CottageWorld_NPC_GardenShopOwner" Value="260176" />
+  <Preset Label="careerLevel_CottageWorld_NPC_GroceryOwner" Value="260177" />
+  <Preset Label="careerLevel_CottageWorld_NPC_GroceryDelivery" Value="260178" />
+  <Preset Label="careerLevel_CottageWorld_NPC_Mayor" Value="260179" />
+  <Preset Label="careerLevel_CottageWorld_NPC_PubOwner" Value="260180" />
+  <Preset Label="careerLevels_VillagerHelp" Value="260902" />
+  <Preset Label="careerLevels_AdultPartTime_StreamerSideHustle_Level1" Value="274006" />
+  <Preset Label="careerLevels_AdultPartTime_StreamerSideHustle_Level2" Value="274007" />
+  <Preset Label="careerLevels_AdultPartTime_StreamerSideHustle_Level3" Value="274008" />
+  <Preset Label="careerLevel_Teen_StreamerSideHustle_Level1" Value="274014" />
+  <Preset Label="careerLevel_Teen_StreamerSideHustle_Level2" Value="274015" />
+  <Preset Label="careerLevel_Teen_StreamerSideHustle_Level3" Value="274016" />
+  <Preset Label="careerLevels_HSTeam_CheerTeam_Level_3" Value="276623" />
+  <Preset Label="careerLevels_HSTeam_CheerTeam_Level_1" Value="276624" />
+  <Preset Label="careerLevels_HSTeam_CheerTeam_Level_2" Value="276625" />
+  <Preset Label="careerLevels_HSTeam_ChessTeam_Level_3" Value="276626" />
+  <Preset Label="careerLevels_HSTeam_ChessTeam_Level_1" Value="276627" />
+  <Preset Label="careerLevels_HSTeam_ChessTeam_Level_2" Value="276628" />
+  <Preset Label="careerLevels_HSTeam_ComputerTeam_Level_3" Value="276629" />
+  <Preset Label="careerLevels_HSTeam_ComputerTeam_Level_1" Value="276630" />
+  <Preset Label="careerLevels_HSTeam_ComputerTeam_Level_2" Value="276631" />
+  <Preset Label="careerLevels_HSTeam_FootballTeam_Level_3" Value="276632" />
+  <Preset Label="careerLevels_HSTeam_FootballTeam_Level_1" Value="276633" />
+  <Preset Label="careerLevels_HSTeam_FootballTeam_Level_2" Value="276634" />
+  <Preset Label="careerLevel_Teen_SimsfluencerSideHustle_Level1" Value="277630" />
+  <Preset Label="careerLevel_Teen_SimsfluencerSideHustle_Level2" Value="277631" />
+  <Preset Label="careerLevel_Teen_SimsfluencerSideHustle_Level3" Value="277632" />
+  <Preset Label="careerLevels_AdultPartTime_SimsfluencerSideHustle_Level1" Value="277644" />
+  <Preset Label="careerLevels_AdultPartTime_SimsfluencerSideHustle_Level2" Value="277645" />
+  <Preset Label="careerLevels_AdultPartTime_SimsfluencerSideHustle_Level3" Value="277648" />
+  <Preset Label="careerLevel_NPC_HighSchool_Active_Teacher" Value="296392" />
+  <Preset Label="careerLevel_NPC_RanchHand" Value="304768" />
+  <Preset Label="CareerLevel_NPC_EP14World_HorseTrainer" Value="324727" />
+  <Preset Label="CareerLevel_NPC_EP14World_MysteriousRancher" Value="324728" />
+  <Preset Label="career_AdultPartTime_Handyperson_Level1" Value="353306" />
+  <Preset Label="career_AdultPartTime_Handyperson_Level2" Value="353307" />
+  <Preset Label="career_AdultPartTime_Handyperson_Level3" Value="353308" />
+  <Preset Label="careerLevels_RomanceConsultant_Main_Level1" Value="366822" />
+  <Preset Label="careerLevels_RomanceConsultant_Main_Level2" Value="366824" />
+  <Preset Label="careerLevels_RomanceConsultant_Main_Level3" Value="366825" />
+  <Preset Label="careerLevels_RomanceConsultant_Main_Level4" Value="366856" />
+  <Preset Label="careerLevels_RomanceConsultant_Main_Level5" Value="366857" />
+  <Preset Label="careerLevels_RomanceConsultant_Main_Level6" Value="366858" />
+  <Preset Label="careerLevels_RomanceConsultant_Main_Level7" Value="366859" />
+  <Preset Label="careerLevels_RomanceConsultant_Matchmaker_Level1" Value="367257" />
+  <Preset Label="careerLevels_RomanceConsultant_Matchmaker_Level2" Value="367258" />
+  <Preset Label="careerLevels_RomanceConsultant_Matchmaker_Level3" Value="367259" />
+  <Preset Label="careerLevels_RomanceConsultant_Therapist_Level1" Value="367260" />
+  <Preset Label="careerLevels_RomanceConsultant_Therapist_Level2" Value="367261" />
+  <Preset Label="careerLevels_RomanceConsultant_Therapist_Level3" Value="367386" />
+  <Preset Label="careerLevels_Mortician_Level1" Value="377591" />
+  <Preset Label="careerLevels_Mortician_Level2" Value="377592" />
+  <Preset Label="careerLevels_Mortician_Level3" Value="377593" />
+  <Preset Label="careerLevels_Mortician_Level4" Value="377594" />
+  <Preset Label="careerLevels_Mortician_Director_Level1" Value="377595" />
+  <Preset Label="careerLevels_Mortician_Director_Level2" Value="377596" />
+  <Preset Label="careerLevels_Mortician_Director_Level3" Value="377597" />
+  <Preset Label="careerLevels_Mortician_Director_Level4" Value="377598" />
+  <Preset Label="careerLevels_Mortician_Director_Level5" Value="377599" />
+  <Preset Label="careerLevels_Mortician_Director_Level6" Value="377600" />
+  <Preset Label="careerLevels_Mortician_Mortician_Level1" Value="377601" />
+  <Preset Label="careerLevels_Mortician_Mortician_Level2" Value="377602" />
+  <Preset Label="careerLevels_Mortician_Mortician_Level3" Value="377603" />
+  <Preset Label="careerLevels_Mortician_Mortician_Level4" Value="377604" />
+  <Preset Label="careerLevels_Mortician_Mortician_Level5" Value="377615" />
+  <Preset Label="careerLevels_Mortician_Mortician_Level6" Value="377616" />
+  <Preset Label="careerLevels_Active_Reaper_Level01" Value="377625" />
+  <Preset Label="careerLevels_Active_Reaper_Level02" Value="377626" />
+  <Preset Label="careerLevels_Active_Reaper_Level03" Value="377627" />
+  <Preset Label="careerLevels_Active_Reaper_Level04" Value="377628" />
+  <Preset Label="careerLevels_Active_Reaper_Level05" Value="377629" />
+  <Preset Label="careerLevels_Active_Reaper_Level06" Value="377630" />
+  <Preset Label="careerLevels_Active_Reaper_Level07" Value="377631" />
+  <Preset Label="careerLevels_Active_Reaper_Level08" Value="377632" />
+  <Preset Label="careerLevels_Active_Reaper_Level09" Value="377633" />
+  <Preset Label="careerLevels_Active_Reaper_Level10" Value="377634" />
+  <Preset Label="careerLevels_EP17World_AliceTree_AliceQuest" Value="386508" />
+  <Preset Label="careerLevels_Tarot_NPCHelp" Value="388213" />
+  <Preset Label="careerLevel_NPC_MarketStall_Bakery" Value="373515" />
+  <Preset Label="careerLevel_NPC_MarketStall_Sweets" Value="383093" />
+  <Preset Label="careerLevel_NPC_MarketStall_Pottery" Value="383095" />
+  <Preset Label="careerLevel_NPC_ShadyNPC" Value="400747" />
+  <Preset Label="careerLevels_SmallBusiness_Employee_Level1" Value="401792" />
+  <Preset Label="careerLevels_SmallBusiness_Employee_Level2" Value="401793" />
+  <Preset Label="careerLevels_SmallBusiness_Employee_Level3" Value="401794" />
+  <Preset Label="careerLevel_NPC_TattooArtist" Value="404170" />
+  <Preset Label="careerLevels_EP19Quests" Value="424757" />
+  <Preset Label="careerLevels_Naturopathic_Main_Level1" Value="436206" />
+  <Preset Label="careerLevels_Naturopathic_Main_Level2" Value="436207" />
+  <Preset Label="careerLevels_Naturopathic_Main_Level3" Value="436208" />
+  <Preset Label="careerLevels_Naturopathic_Main_Level4" Value="436209" />
+  <Preset Label="careerLevels_Naturopathic_Main_Level5" Value="436210" />
+  <Preset Label="careerLevels_Naturopathic_HerbalMedicine_Level1" Value="436212" />
+  <Preset Label="careerLevels_Naturopathic_HerbalMedicine_Level2" Value="436213" />
+  <Preset Label="careerLevels_Naturopathic_HerbalMedicine_Level3" Value="436214" />
+  <Preset Label="careerLevels_Naturopathic_HerbalMedicine_Level4" Value="436215" />
+  <Preset Label="careerLevels_Naturopathic_HerbalMedicine_Level5" Value="436216" />
+  <Preset Label="careerLevels_Naturopathic_LifestyleMedicine_Level1" Value="436218" />
+  <Preset Label="careerLevels_Naturopathic_LifestyleMedicine_Level2" Value="436219" />
+  <Preset Label="careerLevels_Naturopathic_LifestyleMedicine_Level3" Value="436220" />
+  <Preset Label="careerLevels_Naturopathic_LifestyleMedicine_Level4" Value="436221" />
+  <Preset Label="careerLevels_Naturopathic_LifestyleMedicine_Level5" Value="436222" />
+  <Preset Label="careerLevel_EP19World_NPC_GnomeShop" Value="441241" />
+  <Preset Label="careerLevel_EP19World_NPC_ApothecaryShop" Value="441265" />
+  <Preset Label="careerLevel_NPC_Cryptid" Value="447350" />
+  <Preset Label="careerLevels_CryptidQuest" Value="447412" />
+  <Preset Label="careerLevels_ParkWorker_Main_Level1" Value="453031" />
+  <Preset Label="careerLevels_ParkWorker_Main_Level2" Value="453032" />
+  <Preset Label="careerLevels_ParkWorker_Main_Level3" Value="453033" />
+  <Preset Label="careerLevels_ParkWorker_Main_Level4" Value="453034" />
+  <Preset Label="careerLevels_ParkWorker_Main_Level5" Value="453035" />
+  <Preset Label="careerLevels_ParkWorker_Main_Level6" Value="453036" />
+  <Preset Label="careerLevels_ParkWorker_Main_Level7" Value="453037" />
+  <Preset Label="careerLevels_ParkWorker_ParkRanger_Level1" Value="453039" />
+  <Preset Label="careerLevels_ParkWorker_ParkRanger_Level2" Value="453040" />
+  <Preset Label="careerLevels_ParkWorker_ParkRanger_Level3" Value="453041" />
+  <Preset Label="careerLevels_ParkWorker_ParkCounselor_Level1" Value="453043" />
+  <Preset Label="careerLevels_ParkWorker_ParkCounselor_Level2" Value="453044" />
+  <Preset Label="careerLevels_ParkWorker_ParkCounselor_Level3" Value="453045" />
+  <Preset Label="careerLevels_Freelancer_EP20World_Quests" Value="455983" />
+  <Preset Label="career_Noble_Level10" Value="463262" />
+  <Preset Label="career_Noble_Level1" Value="463263" />
+  <Preset Label="career_Noble_Level2" Value="463264" />
+  <Preset Label="career_Noble_Level3" Value="463265" />
+  <Preset Label="career_Noble_Level4" Value="463266" />
+  <Preset Label="career_Noble_Level5" Value="463267" />
+  <Preset Label="career_Noble_Level6" Value="463268" />
+  <Preset Label="career_Noble_Level7" Value="463269" />
+  <Preset Label="career_Noble_Level8" Value="463270" />
+  <Preset Label="career_Noble_Level9" Value="463271" />
+  <Preset Label="careerLevel_NPC_BarRegular_RobinHood" Value="498237" />
   <Preset Label="careerLevel_NPC_Ranger" Value="112107" />
   <Preset Label="careerLevel_NPC_MassageTherapist" Value="118549" />
   <Preset Label="careerLevel_NPC_YogaInstructor" Value="118611" />
@@ -574,6 +706,8 @@
   <Preset Label="careerLevels_Adult_InteriorDecorator_Level8" Value="257946" />
   <Preset Label="careerLevels_Adult_InteriorDecorator_Level9" Value="257947" />
   <Preset Label="careerLevels_Adult_InteriorDecorator_Level10" Value="257948" />
+  <Preset Label="careerLevel_NPC_StallVendor_Wedding_Flower" Value="280582" />
+  <Preset Label="careerLevel_NPC_Bartender_WolfTown" Value="294306" />
   <Preset Label="careerLevel_NPC_Butler_SP09" Value="147717" />
   <Preset Label="careerLevels_Freelancer_Fashion_Photographer" Value="214784" />
   <Preset Label="careerLevels_Freelancer_ParanormalInvestigator" Value="252643" />

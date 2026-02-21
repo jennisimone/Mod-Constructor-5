@@ -55,6 +55,7 @@
   <Preset Label="Loyal (trait_Loyal)" Value="311267" />
   <Preset Label="Practice Makes Perfect (trait_PracticeMakesPerfect)" Value="368744" />
   <Preset Label="Grouch (trait_Grouch)" Value="427231" />
+  <Preset Label="Active Imagination (trait_ActiveImagination)" Value="460574" />
   <Preset Label="Insider (trait_Insider)" Value="125437" />
   <Preset Label="Dance Machine (trait_DanceMachine)" Value="126088" />
   <Preset Label="Unflirty (trait_Unflirty)" Value="132589" />
@@ -90,6 +91,10 @@
   <Preset Label="Chased by Death (trait_ChasedByDeath)" Value="384182" />
   <Preset Label="Shady (trait_Shady)" Value="396064" />
   <Preset Label="Idealist (trait_Idealist)" Value="424535" />
+  <Preset Label="Disruptive (trait_Rogue)" Value="433147" />
+  <Preset Label="Mystical (trait_Mystical)" Value="433541" />
+  <Preset Label="Plant Lover (trait_PlantLover)" Value="453551" />
+  <Preset Label="Competitive (trait_Competitive)" Value="443222" />
   <Preset Label="Squeamish (trait_Squeamish)" Value="102336" />
   <Preset Label="High Maintenance (trait_HighMaintenance)" Value="272336" />
   <Preset Label="Paranoid (trait_Paranoid)" Value="203542" />

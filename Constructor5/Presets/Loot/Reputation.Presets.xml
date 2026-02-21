@@ -17,6 +17,8 @@
   <Preset Label="loot_BasicSocialOutcome_Mischief_Failure_Bored" Value="369814" />
   <Preset Label="Loot_Divorced_PhoneBreakup_ActorToPickedSim" Value="375982" />
   <Preset Label="loot_Buff_Trait_Grouch_CaughtSabotage" Value="429005" />
+  <Preset Label="loot_BrokenUp_ActorToPickedSim" Value="492660" />
+  <Preset Label="loot_Divorced_ActorToPickedSim" Value="492743" />
   <Preset Label="loot_SendForgedBreakupLetter_Brokenup" Value="187417" />
   <Preset Label="loot_SendForgedBreakupLetter_Divorced" Value="187432" />
   <Preset Label="loot_FameOpportunity_Activist_Base" Value="191529" />
@@ -328,6 +330,7 @@
   <Preset Label="loot_DramaNode_SmallBusiness_Reputation_Ultimatum_Cancel" Value="439840" />
   <Preset Label="loot_DramaNode_SmallBusiness_Reputation_Ultimatum_Cancel_NoTargetSim" Value="440612" />
   <Preset Label="loot_SmallBusiness_Reputation_Consequences_Ultimatum_YellAtPartner" Value="441332" />
+  <Preset Label="randomWeightedLoot_ScandalSecret_DiscoverNewSecret" Value="466924" />
   <Preset Label="loot_Restaurant_FameTNS" Value="214890" />
   <Preset Label="loot_Spells_Steal_CaughtStealing" Value="218607" />
   <Preset Label="loot_ControlPanel_Scan_Remove_R" Value="231242" />

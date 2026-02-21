@@ -45,6 +45,7 @@
   <Preset Label="career_Adult_PartTime_Retail" Value="208874" />
   <Preset Label="career_Adult_NPC_Firefighter" Value="237780" />
   <Preset Label="career_Deliveries_FoodDeliveryNPC" Value="262368" />
+  <Preset Label="career_Adult_NPC_Police" Value="421754" />
   <Preset Label="detectiveCareer_1" Value="106132" />
   <Preset Label="career_Adult_Active_Doctor" Value="107230" />
   <Preset Label="career_Adult_Active_Scientist" Value="107255" />
@@ -91,6 +92,47 @@
   <Preset Label="careers_Adult_Freelancer_Agency_Maker" Value="232809" />
   <Preset Label="career_Adult_NPC_EcoInspector" Value="242362" />
   <Preset Label="careers_Adult_CorporateWorker" Value="248315" />
+  <Preset Label="career_Adult_CottageWorld_NPC_GardenShopOwner" Value="260407" />
+  <Preset Label="career_Adult_CottageWorld_NPC_GroceryOwner" Value="260408" />
+  <Preset Label="career_Adult_CottageWorld_NPC_GroceryDelivery" Value="260409" />
+  <Preset Label="career_Adult_CottageWorld_NPC_Mayor" Value="260410" />
+  <Preset Label="career_Adult_CottageWorld_NPC_PubOwner" Value="260411" />
+  <Preset Label="careers_VillagerHelp" Value="260893" />
+  <Preset Label="career_Teen_StreamerSideHustle" Value="273911" />
+  <Preset Label="careers_Adult_PartTime_StreamerSideHustle" Value="273912" />
+  <Preset Label="careers_Volunteer_HSTeam_ChessTeam" Value="276602" />
+  <Preset Label="careers_Volunteer_HSTeam_ComputerTeam" Value="276603" />
+  <Preset Label="careers_Volunteer_HSTeam_CheerTeam" Value="276604" />
+  <Preset Label="careers_Volunteer_HSTeam_FootballTeam" Value="276605" />
+  <Preset Label="careers_Adult_PartTime_SimsfluencerSideHustle" Value="277662" />
+  <Preset Label="career_Teen_SimsfluencerSideHustle" Value="277663" />
+  <Preset Label="career_Adult_NPC_HighSchool_Active_Teacher" Value="296393" />
+  <Preset Label="career_Adult_NPC_RanchHand" Value="304769" />
+  <Preset Label="career_Adult_EP14World_NPC_MysteriousRancher" Value="324722" />
+  <Preset Label="career_Adult_EP14World_NPC_HorseTrainer" Value="324723" />
+  <Preset Label="careers_Adult_PartTime_Handyperson" Value="353302" />
+  <Preset Label="careers_Adult_RomanceConsultant" Value="366724" />
+  <Preset Label="careers_Adult_Mortician" Value="377586" />
+  <Preset Label="careers_Adult_Active_Reaper" Value="377623" />
+  <Preset Label="career_AliceTree_AliceQuest" Value="386484" />
+  <Preset Label="career_Tarot_NPCHelp" Value="388211" />
+  <Preset Label="career_SmallBusiness_Employee" Value="400290" />
+  <Preset Label="career_Adult_NPC_ShadyNPC" Value="400748" />
+  <Preset Label="career_Adult_EP18_NPC_BakeryStall" Value="402986" />
+  <Preset Label="career_Adult_EP18_NPC_SweetStall" Value="402987" />
+  <Preset Label="career_Adult_EP18_NPC_PotteryStall" Value="402988" />
+  <Preset Label="career_Adult_NPC_TattooArtist" Value="404169" />
+  <Preset Label="career_EP19Quests" Value="424758" />
+  <Preset Label="workFromHomeCareer_Naturopath" Value="439108" />
+  <Preset Label="career_Adult_EP19World_NPC_GnomeShop" Value="441239" />
+  <Preset Label="career_Adult_EP19World_NPC_ApothecaryShop" Value="441266" />
+  <Preset Label="career_Adult_NPC_Cryptid" Value="447351" />
+  <Preset Label="career_CryptidQuest" Value="447413" />
+  <Preset Label="career_Adult_ParkWorker" Value="452992" />
+  <Preset Label="career_EP20World_Quests" Value="455984" />
+  <Preset Label="career_Noble" Value="466304" />
+  <Preset Label="career_Adult_EP21World_MarketStall" Value="483360" />
+  <Preset Label="career_Adult_NPC_Venue_BarRegular_RobinHood" Value="498236" />
   <Preset Label="career_Adult_NPC_Ranger" Value="112104" />
   <Preset Label="career_Adult_NPC_MassageTherapist" Value="118550" />
   <Preset Label="career_Adult_NPC_YogaInstructor_Venue" Value="118612" />
@@ -107,6 +149,8 @@
   <Preset Label="career_Adult_NPC_CurioShopOwner" Value="206662" />
   <Preset Label="career_Batuu" Value="231099" />
   <Preset Label="careers_Adult_InteriorDecorator" Value="257934" />
+  <Preset Label="career_Adult_NPC_StallVendor_Wedding_Flower" Value="276665" />
+  <Preset Label="career_Adult_NPC_Bartender_WolfTown" Value="294303" />
   <Preset Label="career_Adult_NPC_Butler_SP09" Value="147718" />
   <Preset Label="careers_Adult_Freelancer_Agency_Fashion_Photographer" Value="214782" />
   <Preset Label="careers_Adult_Freelancer_Agency_ParanormalInvestigator" Value="252593" />

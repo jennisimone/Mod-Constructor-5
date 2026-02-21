@@ -200,6 +200,10 @@
   <Preset Label="buff_AutonomyMod_SocialOnly" Value="423958" />
   <Preset Label="buff_AutonomyMod_DontDoHomework" Value="424178" />
   <Preset Label="buff_AutonomyMod_NoSwim" Value="474155" />
+  <Preset Label="buff_AutonomyMod_PlaygroundChat" Value="487807" />
+  <Preset Label="buff_AutonomyMod_UseBonfire_Anchored" Value="499639" />
+  <Preset Label="buff_AutonomyMod_EV008_RoyalEnvoy" Value="500099" />
+  <Preset Label="buff_AutonomyMod_EV008_RoyalEnvoyQuest8" Value="500864" />
   <Preset Label="buff_AutonomyMod_Retail_Employee_Clean" Value="109776" />
   <Preset Label="buff_AutonomyMod_Retail_Employee_Restock" Value="109779" />
   <Preset Label="buff_AutonomyMod_Retail_Employee_Socialize" Value="109780" />
@@ -464,6 +468,35 @@
   <Preset Label="buff_AutonomyMod_SmallBusinessCustomer_CheckOut" Value="381213" />
   <Preset Label="buff_AutonomyMod_Mentor_Pottery" Value="406945" />
   <Preset Label="buff_AutonomyMod_DoPottery" Value="407247" />
+  <Preset Label="buff_FairyJourney_AutonomyMod_MotherNature" Value="435631" />
+  <Preset Label="buff_AutonomyMod_GreenMan" Value="438409" />
+  <Preset Label="buff_FairyJourney_AutonomyMod_MotherNature_Fairy" Value="441509" />
+  <Preset Label="buff_AutonomyMod_NaturopathCareer_Afflicted" Value="443196" />
+  <Preset Label="buff_AutonomyMod_OpenStreet_EP19World_PlantSim" Value="443604" />
+  <Preset Label="buff_AutonomyMod_OpenStreet_EP19World_CoastalTourist" Value="443605" />
+  <Preset Label="buff_AutonomyMod_OpenStreet_EP19World_Fairy" Value="443606" />
+  <Preset Label="buff_AutonomyMod_EP19Quests_Trade" Value="444647" />
+  <Preset Label="buff_AutonomyMod_EP19Quests_Fairy" Value="444648" />
+  <Preset Label="buff_AutonomyMod_EP19Quests_Liaison" Value="444649" />
+  <Preset Label="buff_AutonomyMod_Naturopath_NPC_Client" Value="453306" />
+  <Preset Label="buff_AutonomyMod_EP20World_Walkbys_GuitarPlayer_Play" Value="447860" />
+  <Preset Label="buff_AutonomyMod_EP20World_Walkbys_Crafter_Crafting" Value="447862" />
+  <Preset Label="buff_AutonomyMod_EP20World_Walkbys_Busker" Value="450053" />
+  <Preset Label="buff_AutonomyMod_EP20World_Walkbys_Campfire" Value="458385" />
+  <Preset Label="buff_AutonomyMod_EP20World_Walkbys_Kayak" Value="460295" />
+  <Preset Label="buff_AutonomyMod_UpgradeService_Electronic" Value="466960" />
+  <Preset Label="buff_AutonomyMod_UpgradeService_Kitchen" Value="466961" />
+  <Preset Label="buff_AutonomyMod_UpgradeService_Plumbing" Value="466962" />
+  <Preset Label="buff_AutonomyMod_UpgradeService_Furniture" Value="467762" />
+  <Preset Label="buff_AutonomyMod_BallroomDancing" Value="470159" />
+  <Preset Label="buff_AutonomyMod_BallroomDancing_EP21WorldOnly" Value="471088" />
+  <Preset Label="buff_AutonomyMod_Recite" Value="476650" />
+  <Preset Label="buff_AutonomyMod_EP21World_MeanChildren" Value="482141" />
+  <Preset Label="buff_AutonomyMod_EP21World_DambeleRoyalWalk" Value="482157" />
+  <Preset Label="buff_AutonomyMod_Swordsmanship" Value="487220" />
+  <Preset Label="buff_AutonomyMod_EP21World_NobleRebel" Value="489075" />
+  <Preset Label="buff_AutonomyMod_EP21World_CleanStatue" Value="489259" />
+  <Preset Label="buff_AutonomyMod_EP21World_BellacordeRoyalWalk" Value="489260" />
   <Preset Label="buff_AutonomyMod_Use_OutdoorObjects_herbalist" Value="101858" />
   <Preset Label="buff_AutonomyMod_isHermit" Value="104054" />
   <Preset Label="buff_AutonomyMod_Bear" Value="104743" />

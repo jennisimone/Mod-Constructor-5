@@ -405,14 +405,19 @@
   <Preset Label="trait_hidden_staretNeeds_tracker" Value="403515" />
   <Preset Label="trait_isEmit" Value="406958" />
   <Preset Label="trait_GhostHasRebirthedIntoNewSim" Value="412517" />
-  <Preset Label="trait_Hidden_careerIncomeBoost_A" Value="414299" />
   <Preset Label="trait_Hidden_GhostUpdates_PositiveReflection" Value="419367" />
   <Preset Label="trait_isBurglar" Value="421745" />
-  <Preset Label="trait_Hidden_careerIncomeBoost_B" Value="426478" />
-  <Preset Label="trait_Hidden_startingSimoleons" Value="426479" />
   <Preset Label="trait_Hidden_StickyFingers" Value="428990" />
   <Preset Label="trait_canAccuseBurglar" Value="430333" />
   <Preset Label="trait_Hidden_isNatureAspiration" Value="453874" />
+  <Preset Label="archery_Trait_BowType_Low" Value="482502" />
+  <Preset Label="archery_Trait_BowType_Med" Value="482503" />
+  <Preset Label="archery_Trait_BowType_High" Value="482504" />
+  <Preset Label="trait_LiveEvent_CursedRing" Value="490549" />
+  <Preset Label="trait_Hidden_EV008_RegalResidence" Value="494134" />
+  <Preset Label="trait_Hidden_EV008_ThirstForRevenge" Value="494678" />
+  <Preset Label="trait_EV008_RoyalEnvoy" Value="494827" />
+  <Preset Label="trait_EV008_RoyalEnvoy_Eyepatch" Value="501498" />
   <Preset Label="trait_OccultAlienPart" Value="102784" />
   <Preset Label="Alien (trait_OccultAlien)" Value="102785" />
   <Preset Label="trait_isBornFromAlienAbduction" Value="102922" />
@@ -1198,6 +1203,252 @@
   <Preset Label="trait_SmallBusiness_Perks_MuscleMemory" Value="449176" />
   <Preset Label="trait_SmallBusiness_Perks_TipJar" Value="449177" />
   <Preset Label="trait_SmallBusiness_Perks_ViralSocialMedia" Value="449178" />
+  <Preset Label="trait_OccultFairy_TYAE" Value="414620" />
+  <Preset Label="trait_OccultFairy_FairyForm" Value="414621" />
+  <Preset Label="trait_Hidden_EP19_NPC_FloraLadipo" Value="431919" />
+  <Preset Label="trait_Hidden_EP19_NPC_AyoLadipo" Value="431920" />
+  <Preset Label="trait_Hidden_EP19_NPC_IrisLadipo" Value="431921" />
+  <Preset Label="trait_Hidden_EP19_NPC_NadyaKishka" Value="431922" />
+  <Preset Label="trait_Hidden_EP19_NPC_GlenNhoam" Value="431923" />
+  <Preset Label="trait_Hidden_EP19_NPC_ToddAttenberry" Value="431924" />
+  <Preset Label="trait_Hidden_EP19_NPC_ElricDeMuray" Value="431925" />
+  <Preset Label="trait_Hidden_EP19_NPC_TitaniaSummerdream" Value="431926" />
+  <Preset Label="trait_Hidden_EP19_NPC_OberonSummerdream" Value="431927" />
+  <Preset Label="trait_Hidden_EP19_NPC_MaraSummerdream" Value="431928" />
+  <Preset Label="trait_Hidden_EP19_NPC_GreenMan" Value="431929" />
+  <Preset Label="trait_Hidden_EP19_NPC_MotherNature" Value="431930" />
+  <Preset Label="trait_Hidden_EP19_NPC_JoeTrader" Value="431931" />
+  <Preset Label="trait_Hidden_EP19_NPC_CareRen" Value="431932" />
+  <Preset Label="trait_Hidden_EP19_NPC_ZhalehAmani" Value="431933" />
+  <Preset Label="Fairy (trait_OccultFairy_AllAges)" Value="433287" />
+  <Preset Label="trait_OccultFairy_FlyingWalkstyle" Value="433288" />
+  <Preset Label="Apothecary (trait_CAS_Story_Skill_Apothecary)" Value="435299" />
+  <Preset Label="Apothecary (trait_CAS_Story_Skill_Apothecary_3)" Value="435300" />
+  <Preset Label="Natural Living (trait_CAS_Story_Skill_NaturalLiving)" Value="435301" />
+  <Preset Label="Natural Living (trait_CAS_Story_Skill_NaturalLiving_3)" Value="435302" />
+  <Preset Label="Naturopath (trait_CAS_Story_Career_Naturopath)" Value="435303" />
+  <Preset Label="Naturopath (trait_CAS_Story_Career_Naturopath_Level_2)" Value="435304" />
+  <Preset Label="Naturopath (trait_CAS_Story_Career_Naturopath_Level_3)" Value="435305" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_GreenMan" Value="436773" />
+  <Preset Label="trait_Hidden_EP19Quests_MushroomRed" Value="437472" />
+  <Preset Label="trait_Hidden_EP19Quests_MushroomGreen" Value="437473" />
+  <Preset Label="trait_Hidden_EP19Quests_MushroomBlue" Value="437474" />
+  <Preset Label="trait_Hidden_EP19Quests_MushroomYellow" Value="437475" />
+  <Preset Label="trait_OccultFairy_FlyingDisallowed" Value="439203" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_GnomeGreat" Value="440750" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_GnomeNarrative" Value="440751" />
+  <Preset Label="trait_Hidden_EP19Quests_Gnome" Value="440752" />
+  <Preset Label="trait_Hidden_EP19Quests_Trade" Value="440753" />
+  <Preset Label="trait_Hidden_EP19Quests_Liaison" Value="440785" />
+  <Preset Label="trait_Hidden_EP19Quests_Apothecary" Value="440787" />
+  <Preset Label="trait_Hidden_EP19Quests_NarrativeComplete" Value="440897" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_ApothFetch" Value="441623" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_ApothCraft" Value="441624" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_Fairy" Value="441672" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_TradeNature" Value="441741" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_TradeFetch" Value="441742" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_LiaisonFetch" Value="441770" />
+  <Preset Label="trait_Hidden_EP19Quests_OnQuest_LiaisonTravel" Value="441771" />
+  <Preset Label="trait_Hidden_EP19World_WitnessedPerformingMagicOnce" Value="444659" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_Apothecary" Value="444995" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_NLS" Value="455107" />
+  <Preset Label="trait_Hidden_Apothecary_EmotionStone_Brokenness" Value="458395" />
+  <Preset Label="trait_Hidden_EP19_FairyBuff" Value="468101" />
+  <Preset Label="trait_isPlantSimNPC_Improvements" Value="472959" />
+  <Preset Label="trait_Hidden_EP20World_isNPC" Value="440756" />
+  <Preset Label="trait_Hidden_EP20_IF_Goofball" Value="442976" />
+  <Preset Label="trait_SpecialNPCs_Cryptid" Value="447353" />
+  <Preset Label="trait_Hidden_CryptidQuest_OnQuest_LocalLegends" Value="447456" />
+  <Preset Label="trait_Hidden_CryptidQuest_OnQuest_FeedingFrenzy" Value="447457" />
+  <Preset Label="trait_Hidden_CryptidQuest_OnQuest_TangibleTraces" Value="447458" />
+  <Preset Label="trait_Hidden_CryptidQuest_OnQuest_CommunitySpirit" Value="447459" />
+  <Preset Label="trait_Hidden_CompetitiveSpirit_Frozen" Value="448041" />
+  <Preset Label="trait_Hidden_CompetitiveSpirit_Abysmal_DontAskAgain" Value="448042" />
+  <Preset Label="trait_Hidden_CompetitiveSpirit_Great_DontAskAgain" Value="448044" />
+  <Preset Label="trait_RockPaperScissors_Preference_Rock" Value="449632" />
+  <Preset Label="trait_RockPaperScissors_Preference_Paper" Value="449633" />
+  <Preset Label="trait_RockPaperScissors_Preference_Scissors" Value="449634" />
+  <Preset Label="trait_ButterflyCollection_Debug" Value="451607" />
+  <Preset Label="Cut? Park Worker (trait_CAS_Story_Career_ParkWorker_Level_1)" Value="453018" />
+  <Preset Label="Cut? Park Worker (trait_CAS_Story_Career_ParkWorker_Level_2)" Value="453019" />
+  <Preset Label="Cut? Park Worker (trait_CAS_Story_Career_ParkWorker_Level_3)" Value="453020" />
+  <Preset Label="trait_SpecialNPCs_Cryptid_SocialUnlocked" Value="453382" />
+  <Preset Label="trait_Hidden_EP20_IF_Creative" Value="453524" />
+  <Preset Label="trait_Hidden_EP20_IF_Evil" Value="453525" />
+  <Preset Label="trait_Hidden_EP20_IF_Competitive" Value="453526" />
+  <Preset Label="trait_Hidden_EP20_IF" Value="453528" />
+  <Preset Label="trait_Hidden_EP20_Asp_BeforeCritterEnthusiast" Value="454700" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NigelGomezRalston" Value="455018" />
+  <Preset Label="trait_Hidden_EP20World_NPC_SaraGomezRalston" Value="455019" />
+  <Preset Label="trait_Hidden_EP20World_NPC_ErinGomezRalston" Value="455020" />
+  <Preset Label="trait_Hidden_EP20World_NPC_AerisGomezRalston" Value="455021" />
+  <Preset Label="trait_Hidden_EP20World_NPC_StarrAdam" Value="455022" />
+  <Preset Label="trait_Hidden_EP20World_NPC_JaneAddam" Value="455023" />
+  <Preset Label="trait_Hidden_EP20World_NPC_SkipBroke" Value="455024" />
+  <Preset Label="trait_Hidden_EP20World_NPC_AgoraTchotchke" Value="455025" />
+  <Preset Label="trait_Hidden_EP20World_NPC_FreedaPerry" Value="455026" />
+  <Preset Label="trait_Hidden_EP20World_NPC_DougiePerry" Value="455027" />
+  <Preset Label="trait_Hidden_EP20World_NPC_BuddyScoop" Value="455028" />
+  <Preset Label="trait_Hidden_EP20World_NPC_RaheelKunal" Value="455029" />
+  <Preset Label="trait_Hidden_EP20World_NPC_LaxmiKunal" Value="455030" />
+  <Preset Label="trait_Hidden_EP20World_NPC_ToshiAkamine" Value="455031" />
+  <Preset Label="trait_Hidden_EP20_IF_Body_LilMonster" Value="455630" />
+  <Preset Label="trait_Hidden_EP20_IF_Body_Pegacorn" Value="455631" />
+  <Preset Label="trait_Hidden_EP20_IF_Body_SpookyKid" Value="455632" />
+  <Preset Label="trait_Hidden_EP20_IF_Body_WildChild" Value="455633" />
+  <Preset Label="trait_Hidden_EP20World_Quests_Completed_ButterflyParent" Value="456022" />
+  <Preset Label="trait_Hidden_EP20World_Quests_Completed_TownAdventurer" Value="456023" />
+  <Preset Label="trait_Hidden_EP20World_Quests_OnQuest_MelodyoftheGeyser" Value="456024" />
+  <Preset Label="trait_Hidden_EP20World_Quests_OnQuest_SecretsoftheTown" Value="456025" />
+  <Preset Label="trait_Hidden_EP20World_Quests_OnQuest_ButterflyConservationists" Value="456026" />
+  <Preset Label="trait_Hidden_EP20World_Quests_OnQuest_NeighborhoodAdventures" Value="456027" />
+  <Preset Label="trait_Hidden_EP20World_Quests_GeyserWhisperer" Value="456028" />
+  <Preset Label="trait_Hidden_EP20World_Quests_TownSecretKeeper" Value="456029" />
+  <Preset Label="trait_Hidden_EP20World_Quests_Storyteller" Value="456333" />
+  <Preset Label="trait_Hidden_EP20World_Quests_LostAdventurer" Value="456335" />
+  <Preset Label="trait_Hidden_EP20World_Quests_Conservationist" Value="456336" />
+  <Preset Label="trait_Hidden_EP20World_Quests_CampDirector" Value="456337" />
+  <Preset Label="trait_Hidden_EP20World_Quests_Collector" Value="456443" />
+  <Preset Label="trait_Hidden_Career_ParkWorker_ParkLoreComplete" Value="458281" />
+  <Preset Label="trait_Hidden_EP20World_Quests_Completed_MelodyofGeyser" Value="460746" />
+  <Preset Label="trait_Hidden_EP20World_Quests_Completed_SecretsofTown" Value="460747" />
+  <Preset Label="trait_HIdden_CryptidQuest_QuestComplete_LocalLegends" Value="461190" />
+  <Preset Label="trait_HIdden_CryptidQuest_QuestComplete_FeedingFrenzy" Value="461191" />
+  <Preset Label="trait_HIdden_CryptidQuest_QuestComplete_TangibleTraces" Value="461192" />
+  <Preset Label="trait_Hidden_CryptidQuest_ReadyforTruth" Value="461319" />
+  <Preset Label="trait_Hidden_EP20World_Quests_OnQuest_ButterflyRaisedTrack" Value="462358" />
+  <Preset Label="trait_Hidden_EP20World_Quests_OnQuest_SecretsoftheTownProgressionTrait" Value="462512" />
+  <Preset Label="trait_Reward_ChildhoodInspiration_ImaginaryFriendTracker" Value="464274" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_Archery" Value="464667" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_DivingBoard" Value="465081" />
+  <Preset Label="trait_Hidden_EP20_IF_HasBeenCreated" Value="465583" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Skip_onroute" Value="469745" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Skip_good1" Value="469746" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Skip_bad1" Value="469747" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Skip_good2" Value="469748" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Skip_bad2" Value="469749" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Skip_finished" Value="469750" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Laxmi_onroute" Value="469752" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Laxmi_good1" Value="469753" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Laxmi_bad1" Value="469754" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Laxmi_good2" Value="469755" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Laxmi_bad2" Value="469756" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Laxmi_finished" Value="469757" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Laxmi_Ready" Value="469984" />
+  <Preset Label="trait_Hidden_EP20World_NPC_NPCDrama_Skip_Ready" Value="469985" />
+  <Preset Label="trait_Hidden_WorldPOI_BuddyScoop_CrystalCollectingDone" Value="470106" />
+  <Preset Label="trait_Hidden_WorldPOI_BuddyScoop_JellyfishPondDone" Value="470107" />
+  <Preset Label="trait_Hidden_ChildhoodInspiration_Discovery" Value="470711" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_01" Value="471038" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_Walkstyle" Value="471039" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_02" Value="471051" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_03" Value="471052" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_04" Value="471053" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_05" Value="471054" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_06" Value="471055" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_07" Value="471056" />
+  <Preset Label="trait_Hidden_Papercraft_PaperMache_Mask_CASOverride_08" Value="471057" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_Papercraft" Value="472903" />
+  <Preset Label="trait_Hidden_EP20_IF_RelStatus_BFF" Value="474871" />
+  <Preset Label="trait_Hidden_EP20_IF_RelStatus_Frienemy" Value="474872" />
+  <Preset Label="trait_Hidden_EP20_IF_Former" Value="474887" />
+  <Preset Label="trait_Hidden_EP20_IF_BadInfluence_StartFire" Value="475088" />
+  <Preset Label="trait_Hidden_EP20_IF_BadInfluence_SleepingBagPrank" Value="475199" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_Entomology" Value="483106" />
+  <Preset Label="trait_Hidden_EP20_IF_Body_Pegacorn_Voice" Value="484061" />
+  <Preset Label="trait_Hidden_Getaway_InCustomSchedule" Value="491008" />
+  <Preset Label="trait_Dynasty_Member" Value="466524" />
+  <Preset Label="trait_Dynasty_Founder" Value="466525" />
+  <Preset Label="trait_Dynasty_Heir" Value="466526" />
+  <Preset Label="trait_Dynasty_Head" Value="466527" />
+  <Preset Label="trait_Dynasty_BlackSheep" Value="466528" />
+  <Preset Label="trait_NobleFavor_Rank_0_Commoner" Value="466628" />
+  <Preset Label="trait_NobleFavor_Rank_1_Commoner" Value="466629" />
+  <Preset Label="trait_NobleFavor_Rank_2_Commoner" Value="466630" />
+  <Preset Label="trait_NobleFavor_Rank_3_Neutral" Value="466631" />
+  <Preset Label="trait_NobleFavor_Rank_4_Royal" Value="466632" />
+  <Preset Label="trait_NobleFavor_Rank_5_Royal" Value="466633" />
+  <Preset Label="trait_NobleFavor_Rank_6_Royal" Value="466634" />
+  <Preset Label="trait_NobleFavor_HasBeenRank_0_Commoner" Value="466658" />
+  <Preset Label="trait_NobleFavor_HasBeenRank_1_Commoner" Value="466659" />
+  <Preset Label="trait_NobleFavor_HasBeenRank_2_Commoner" Value="466660" />
+  <Preset Label="trait_NobleFavor_HasBeenRank_3_Neutral" Value="466661" />
+  <Preset Label="trait_NobleFavor_HasBeenRank_4_Royal" Value="466662" />
+  <Preset Label="trait_NobleFavor_HasBeenRank_5_Royal" Value="466663" />
+  <Preset Label="trait_NobleFavor_HasBeenRank_6_Royal" Value="466664" />
+  <Preset Label="trait_isRobinHood" Value="466848" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_Swordsmanship" Value="469826" />
+  <Preset Label="trait_Dynasty_BlackSheep_Resentful" Value="469882" />
+  <Preset Label="trait_Dynasty_BlackSheep_Repentful" Value="469883" />
+  <Preset Label="trait_Dynasty_EncourageIdeal" Value="475046" />
+  <Preset Label="trait_Dynasty_DiscourageIdeal" Value="475047" />
+  <Preset Label="trait_Dynasty_EncourageSkill" Value="475048" />
+  <Preset Label="trait_Hidden_Ballroom_AwkwardWaltz" Value="475268" />
+  <Preset Label="trait_Hidden_IsEkeneAnanou" Value="477684" />
+  <Preset Label="trait_Hidden_FirstNote" Value="479051" />
+  <Preset Label="trait_Hidden_PowerShifts_Frog_FormerFrog" Value="479492" />
+  <Preset Label="trait_Hidden_isDarong" Value="481236" />
+  <Preset Label="trait_Hidden_IsAfuaAnanou" Value="482134" />
+  <Preset Label="trait_NobleCareer_Hidden_KingdomTax_VeryLow" Value="482153" />
+  <Preset Label="trait_NobleCareer_Hidden_KingdomTax_Low" Value="482154" />
+  <Preset Label="trait_NobleCareer_Hidden_KingdomTax_Normal" Value="482155" />
+  <Preset Label="trait_NobleCareer_Hidden_KingdomTax_High" Value="482156" />
+  <Preset Label="trait_NobleCareer_Hidden_KingdomTax_VeryHigh" Value="482167" />
+  <Preset Label="trait_Hidden_SecretPassageway_Unlocked" Value="483133" />
+  <Preset Label="trait_Hidden_PowerShifts_SwordOwner" Value="484831" />
+  <Preset Label="trait_Hidden_Ep21World_IsAloisio" Value="485277" />
+  <Preset Label="trait_DynastyPerk_PartyPlanner1" Value="485433" />
+  <Preset Label="trait_DynastyPerk_PartyPlanner2" Value="485434" />
+  <Preset Label="trait_DynastyPerk_PartyPlanner3" Value="485435" />
+  <Preset Label="trait_Hidden_FamilyTree_SecretChild_isPregnant" Value="487146" />
+  <Preset Label="trait_Hidden_Ep21World_IsInformationBroker" Value="488435" />
+  <Preset Label="trait_Hidden_FamilyTree_SecretChild_isPregnancyPartner" Value="488667" />
+  <Preset Label="trait_Hidden_ScandalSecret_NPCSecretGeneration_ObjectPending" Value="488860" />
+  <Preset Label="trait_Hidden_Ep21World_IsCapp" Value="489043" />
+  <Preset Label="trait_Hidden_Ep21World_IsCeleste" Value="489044" />
+  <Preset Label="trait_Hidden_Ep21World_IsVirgilio" Value="489045" />
+  <Preset Label="trait_Hidden_Ep21World_IsDante" Value="489046" />
+  <Preset Label="trait_Hidden_Ep21World_IsTybalt" Value="489047" />
+  <Preset Label="trait_Hidden_Ep21World_IsJuliet" Value="489048" />
+  <Preset Label="trait_Hidden_Ep21World_IsConsort" Value="489049" />
+  <Preset Label="trait_Hidden_Ep21World_BlackmailScheduler" Value="489086" />
+  <Preset Label="trait_Hidden_Ep21World_IsCordelia" Value="490282" />
+  <Preset Label="trait_Hidden_Ep21World_IsThiago" Value="490354" />
+  <Preset Label="trait_Hidden_Ep21World_IsMonty" Value="490355" />
+  <Preset Label="trait_Hidden_Ep21World_IsNPC" Value="490393" />
+  <Preset Label="trait_Hidden_Ep21World_IsSofia" Value="490444" />
+  <Preset Label="trait_Hidden_Ep21World_IsAbrantes" Value="490445" />
+  <Preset Label="trait_Hidden_FamilyTree_SecretChild_IsPregnantParentOf" Value="491168" />
+  <Preset Label="trait_Hidden_Ep21World_PremadeGiveSword" Value="492682" />
+  <Preset Label="trait_Hidden_ScandalSecret_DisableVFX" Value="493279" />
+  <Preset Label="trait_Hidden_Ep21World_IsJawara" Value="494160" />
+  <Preset Label="trait_Hidden_Ep21World_IsIkenna" Value="494161" />
+  <Preset Label="trait_Hidden_Ep21World_IsAkachi" Value="494162" />
+  <Preset Label="trait_Hidden_Ep21World_PremadeGiveBoat" Value="494165" />
+  <Preset Label="trait_Hidden_Ep21World_IsEnzo" Value="494637" />
+  <Preset Label="trait_DynastyPerk_GradeBoost1" Value="494991" />
+  <Preset Label="trait_DynastyPerk_EasyFriends1" Value="494992" />
+  <Preset Label="trait_DynastyPerk_Matchmaker1" Value="494993" />
+  <Preset Label="trait_DynastyPerk_Secretive1" Value="494994" />
+  <Preset Label="trait_DynastyPerk_EasyFriends2" Value="494995" />
+  <Preset Label="trait_DynastyPerk_EasyFriends3" Value="494996" />
+  <Preset Label="trait_DynastyPerk_GradeBoost2" Value="494997" />
+  <Preset Label="trait_DynastyPerk_GradeBoost3" Value="494998" />
+  <Preset Label="trait_DynastyPerk_Matchmaker2" Value="494999" />
+  <Preset Label="trait_DynastyPerk_Matchmaker3" Value="495000" />
+  <Preset Label="trait_DynastyPerk_Secretive2" Value="495001" />
+  <Preset Label="trait_DynastyPerk_Secretive3" Value="495002" />
+  <Preset Label="trait_Hidden_NobleCareer_CoronationSubject" Value="495021" />
+  <Preset Label="trait_Hidden_ScandalSecret_KnownInfoBroker" Value="495563" />
+  <Preset Label="trait_Hidden_encounteredRobinHood" Value="495704" />
+  <Preset Label="trait_Hidden_NobleCareer_CrownOverride" Value="496203" />
+  <Preset Label="trait_Hidden_FamilyTree_SecretChild_LiedTo" Value="496710" />
+  <Preset Label="trait_Hidden_FamilyTree_SecretChild_AskedToKeepSecret" Value="497507" />
+  <Preset Label="trait_NobleCareer_Hidden_CurrentNoble" Value="499315" />
+  <Preset Label="trait_NobleCareer_Hidden_ChildOfNoble" Value="499316" />
+  <Preset Label="trait_Hidden_Ep21World_RemoveBuff" Value="500811" />
+  <Preset Label="trait_Hidden_ScandalSecret_VFX" Value="502347" />
+  <Preset Label="trait_Hidden_FirstNoteRead" Value="502530" />
   <Preset Label="trait_isMasterHerbalist" Value="101850" />
   <Preset Label="trait_Hidden_Camping" Value="102265" />
   <Preset Label="trait_isBear" Value="104472" />
@@ -1494,4 +1745,5 @@
   <Preset Label="trait_Bonehilda" Value="253237" />
   <Preset Label="trait_Hidden_ParanormalInvestigator_AskedGrim" Value="254374" />
   <Preset Label="trait_Hidden_ParanormalInvestigator_Medium" Value="255255" />
+  <Preset Label="trait_SimPreference_NoOpinion_Activities_GemologySkill" Value="352327" />
 </PresetGroup>

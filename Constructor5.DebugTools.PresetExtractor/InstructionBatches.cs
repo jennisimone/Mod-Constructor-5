@@ -63,17 +63,13 @@ namespace Constructor5.DebugTools.PresetExtractor
         
         public static PresetInstruction[] CommodityBasedObjectState { get; } = PresetInstruction.CreateBatch("Object_State", "CommodityBasedObjectState", "All Commodity Based States", "", new Dictionary<string, string>
         {
-        }, null, false);
+        }, "CommodityBasedObjectState", false);
 
         public static PresetInstruction[] CommodityBasedObjectStateValues { get; } = PresetInstruction.CreateBatch("Object_State", "CommodityBasedObjectStateValue", "All Commodity Based Object State Values", "", new Dictionary<string, string>
         {
         }, "CommodityBasedObjectStateValue");
 
         public static PresetInstruction[] Interactions { get; } = PresetInstruction.CreateBatch("Interaction", "Interaction", "All Interactions", "display_name", new Dictionary<string, string>
-        {
-        });
-
-        public static PresetInstruction[] InteractionTags { get; } = PresetInstruction.CreateBatch("Interaction", "InteractionTag", "Interaction Tags", "interaction_category_tags", new Dictionary<string, string>
         {
         });
 

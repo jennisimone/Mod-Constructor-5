@@ -73,6 +73,7 @@
   <Preset Label="commodity_Trait_Autonomy_Ghost_Fire" Value="382545" />
   <Preset Label="commodity_Trait_Autonomy_Ghost_Hunger" Value="382546" />
   <Preset Label="commodity_Trait_Autonomy_GhostWarnOfDanger" Value="420065" />
+  <Preset Label="commodity_Trait_Autonomy_ActiveImagination" Value="460644" />
   <Preset Label="commodity_Trait_Autonomy_Insider" Value="125438" />
   <Preset Label="commodity_Trait_Autonomy_DanceMachine" Value="126090" />
   <Preset Label="commodity_Emotion_Pets_Autonomy_Hyper" Value="157907" />
@@ -166,6 +167,9 @@
   <Preset Label="commodity_Trait_Autonomy_ChasedByDeath" Value="403465" />
   <Preset Label="commodity_Trait_Autonomy_Shady" Value="396074" />
   <Preset Label="commodity_Trait_Autonomy_Idealist" Value="424977" />
+  <Preset Label="commodity_Trait_Autonomy_Rogue" Value="433149" />
+  <Preset Label="commodity_Trait_Autonomy_Mystical" Value="433570" />
+  <Preset Label="commodity_Trait_Autonomy_PlantLover" Value="453552" />
   <Preset Label="commodity_Trait_Autonomy_UncontrolledEmotion" Value="160267" />
   <Preset Label="commodity_Trait_Autonomy_EmotionalControl" Value="160277" />
   <Preset Label="commodity_Trait_Autonomy_LifeSkills_BadManners" Value="160850" />

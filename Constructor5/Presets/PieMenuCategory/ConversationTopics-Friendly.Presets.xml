@@ -15,9 +15,11 @@
   <Preset Label="Activities (sim_SubCat_Friendly_Activities)" Value="318696" />
   <Preset Label="Encourage to Socialize with (sim_SubCat_Friendly_SuggestToSocializeWith)" Value="325458" />
   <Preset Label="Give Gift (pieMenuCategory_GiveGift_BG)" Value="442798" />
+  <Preset Label="Play Pretend (PlayPretend_Social)" Value="484230" />
   <Preset Label="Ask to See Outfit (pieMenuCategory_AskToSeeOutfit)" Value="125427" />
   <Preset Label="Declare Weather Preference (pieMenuCategory_DeclareWeatherPreference)" Value="187095" />
   <Preset Label="Share Lifestyle Tips (pieMenuCategory_Lifestyles_ShareLifestyleTips)" Value="249199" />
   <Preset Label="Mastery Perks (pieMenuCategory_MasteryPerk_Hobbies)" Value="374363" />
+  <Preset Label="Play Rock Paper Scissors (pieMenuCategory_RockPaperScissors_Play)" Value="450478" />
   <Preset Label="Tell a Group Story (sim_TellGroupStory)" Value="103107" />
 </PresetGroup>

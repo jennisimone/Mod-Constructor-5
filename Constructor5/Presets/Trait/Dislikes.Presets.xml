@@ -196,6 +196,15 @@
   <Preset Label="Dislikes Thanatology Skill (trait_SimPreference_Dislikes_Activities_Thanatology)" Value="399842" />
   <Preset Label="Dislikes Pottery (trait_SimPreference_Dislikes_Activities_Pottery)" Value="371192" />
   <Preset Label="Dislikes Tattooing (trait_SimPreference_Dislikes_Activities_Tattooing)" Value="376966" />
+  <Preset Label="Dislikes Apothecary Crafting (trait_SimPreference_Dislikes_Activities_Apothecary)" Value="444983" />
+  <Preset Label="Dislikes Natural Living Skill (trait_SimPreference_Dislikes_Activities_NLS)" Value="448271" />
+  <Preset Label="Dislikes Archery (trait_SimPreference_Dislikes_Activities_Archery)" Value="464659" />
+  <Preset Label="Dislikes Diving (trait_SimPreference_Dislikes_Activities_DivingBoard)" Value="465078" />
+  <Preset Label="Dislikes Papercrafting (trait_SimPreference_Dislikes_Activities_Papercraft)" Value="472901" />
+  <Preset Label="Dislikes Entomology (trait_SimPreference_Dislikes_Activities_Entomology)" Value="483104" />
+  <Preset Label="Dislikes Swordsmanship (trait_SimPreference_Dislikes_Activities_Swordsmanship)" Value="460835" />
+  <Preset Label="Dislikes Waltz Music (trait_SimPreference_Dislikes_Music_Ballroom)" Value="479937" />
+  <Preset Label="Dislikes Afrobeats Music (trait_SimPreference_Dislikes_Music_AfroBeats)" Value="480296" />
   <Preset Label="Dislikes New Age Music (Trait_SimPreference_Dislikes_Music_NewAge)" Value="259080" />
   <Preset Label="Dislikes Wellness (Trait_SimPreference_Dislikes_Activities_Wellness)" Value="269263" />
   <Preset Label="Dislikes Jazz (Trait_SimPreference_Dislikes_Music_Jazz)" Value="259076" />
@@ -233,4 +242,5 @@
   <Preset Label="Dislikes Focus Music (Trait_SimPreference_Dislikes_Music_Focus)" Value="259059" />
   <Preset Label="Dislikes Metal Music (Trait_SimPreference_Dislikes_Music_Metal)" Value="259079" />
   <Preset Label="Dislikes Knitting (trait_SimPreference_Dislikes_Activities_Knitting)" Value="274572" />
+  <Preset Label="Dislikes Gemology (trait_SimPreference_Dislikes_Activities_GemologySkill)" Value="352325" />
 </PresetGroup>

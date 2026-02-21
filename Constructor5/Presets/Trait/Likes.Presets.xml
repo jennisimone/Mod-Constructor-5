@@ -196,6 +196,17 @@
   <Preset Label="Likes Thanatology Skill (trait_SimPreference_Likes_Activities_Thanatology)" Value="399843" />
   <Preset Label="Likes Pottery (trait_SimPreference_Likes_Activities_Pottery)" Value="371191" />
   <Preset Label="Likes Tattooing (trait_SimPreference_Likes_Activities_Tattooing)" Value="376967" />
+  <Preset Label="Likes Apothecary Crafting (trait_SimPreference_Likes_Activities_Apothecary)" Value="444978" />
+  <Preset Label="Likes Natural Living Skill (trait_SimPreference_Likes_Activities_NLS)" Value="448272" />
+  <Preset Label="Likes Archery (trait_SimPreference_Likes_Activities_Archery)" Value="464658" />
+  <Preset Label="Likes Diving (trait_SimPreference_Likes_Activities_DivingBoard)" Value="465079" />
+  <Preset Label="Likes Papercrafting (trait_SimPreference_Likes_Activities_Papercraft)" Value="472902" />
+  <Preset Label="Competitive Spirit:\nBad (trait_Hidden_CompetitiveSpirit_02_Bad)" Value="475332" />
+  <Preset Label="Competitive Spirit:\nGood (trait_Hidden_CompetitiveSpirit_03_Good)" Value="475333" />
+  <Preset Label="Likes Entomology (trait_SimPreference_Likes_Activities_Entomology)" Value="483105" />
+  <Preset Label="Likes Swordsmanship (trait_SimPreference_Likes_Activities_Swordsmanship)" Value="460836" />
+  <Preset Label="Likes Waltz Music (trait_SimPreference_Likes_Music_Ballroom)" Value="479931" />
+  <Preset Label="Likes Afrobeats Music (trait_SimPreference_Likes_Music_AfroBeats)" Value="480290" />
   <Preset Label="Likes New Age Music (Trait_SimPreference_Likes_Music_NewAge)" Value="259016" />
   <Preset Label="Likes Wellness (Trait_SimPreference_Likes_Activities_Wellness)" Value="269262" />
   <Preset Label="Likes Jazz (Trait_SimPreference_Likes_Music_Jazz)" Value="259024" />
@@ -233,4 +244,5 @@
   <Preset Label="Likes Focus Music (Trait_SimPreference_Likes_Music_Focus)" Value="259043" />
   <Preset Label="LIKES METAL MUSIC (Trait_SimPreference_Likes_Music_Metal)" Value="259045" />
   <Preset Label="Likes Knitting (trait_SimPreference_Likes_Activities_Knitting)" Value="274574" />
+  <Preset Label="Likes Gemology (trait_SimPreference_Likes_Activities_GemologySkill)" Value="352326" />
 </PresetGroup>

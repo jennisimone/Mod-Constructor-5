@@ -3,8 +3,10 @@
   <Preset Label="Fitness (skill_Fitness)" Value="16659" />
   <Preset Label="Motor (statistic_Skill_Child_Motor)" Value="16720" />
   <Preset Label="Movement (statistic_Skill_Toddler_Movement)" Value="136140" />
+  <Preset Label="Diving (statistic_Skill_AdultMinor_DivingBoard)" Value="454328" />
   <Preset Label="Dancing (statistic_Skill_AdultMinor_Dancing)" Value="128145" />
   <Preset Label="Skiing (statistic_Skill_AdultMajor_Skiing)" Value="245613" />
   <Preset Label="Snowboarding (statistic_Skill_AdultMajor_Snowboarding)" Value="246054" />
   <Preset Label="Nectar Making (statistic_Skill_AdultMinor_RanchNectar)" Value="315761" />
+  <Preset Label="Swordsmanship (statistic_Skill_AdultMajor_Swordsmanship)" Value="458742" />
 </PresetGroup>

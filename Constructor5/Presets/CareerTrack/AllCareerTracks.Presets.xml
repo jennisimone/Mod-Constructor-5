@@ -157,4 +157,54 @@
   <Preset Label="Freelance Fashion Photographer (careerTracks_Freelancer_Fashion_Photographer)" Value="214783" />
   <Preset Label="Paranormal Investigator (careerTracks_Freelancer_ParanormalInvestigator)" Value="252594" />
   <Preset Label="Macabre Maid (careerTrack_NPC_Bonehilda)" Value="256926" />
+  <Preset Label="Garden Shop Owner (careerTrack_CottageWorld_NPC_GardenShopOwner)" Value="260397" />
+  <Preset Label="Grocery Shop Owner (careerTrack_CottageWorld_NPC_GroceryOwner)" Value="260398" />
+  <Preset Label="Grocery Delivery (careerTrack_CottageWorld_NPC_GroceryDelivery)" Value="260399" />
+  <Preset Label="Village Mayor (careerTrack_CottageWorld_NPC_Mayor)" Value="260400" />
+  <Preset Label="Pub Owner (careerTrack_CottageWorld_NPC_PubOwner)" Value="260401" />
+  <Preset Label="Village Errands (careerTrack_VillagerHelp)" Value="260901" />
+  <Preset Label="Video Game Streamer (Teen_StreamerSideHustle_Track1)" Value="274003" />
+  <Preset Label="Video Game Streamer (StreamerSideHustle_Track1)" Value="274004" />
+  <Preset Label="Chess Team Member (careerTrack_Volunteer_HSTeam_ChessTeam)" Value="276609" />
+  <Preset Label="Football Team Member (careerTrack_Volunteer_HSTeam_FootballTeam)" Value="276610" />
+  <Preset Label="Computer Team Member (careerTrack_Volunteer_HSTeam_ComputerTeam)" Value="276611" />
+  <Preset Label="Cheer Team Member (careerTrack_Volunteer_HSTeam_CheerTeam)" Value="276612" />
+  <Preset Label="Simfluencer (careerTracks_Teen_SimsfluencerSideHustle_Track1)" Value="277683" />
+  <Preset Label="Simfluencer (careerTracks_PartTime_SimsfluencerSideHustle_Track1)" Value="277684" />
+  <Preset Label="High School Teacher (careerTrack_NPC_HighSchool_Active_Teacher)" Value="296394" />
+  <Preset Label="Ranch Hand (careerTrack_NPC_RanchHand)" Value="304770" />
+  <Preset Label="Mysterious Rancher (careerTrack_NPC_EP14World_MysteriousRancher)" Value="324725" />
+  <Preset Label="Horse Trainer (careerTrack_NPC_EP14World_HorseTrainer)" Value="324726" />
+  <Preset Label="Handyperson (Handyperson_Track1)" Value="353304" />
+  <Preset Label="Romance Consultant (RomanceConsultant_Track1_Main)" Value="366815" />
+  <Preset Label="Relationship Counselor (RomanceConsultant_Track2_Therapist)" Value="366816" />
+  <Preset Label="Matchmaker (RomanceConsultant_Track3_Matchmaker)" Value="366817" />
+  <Preset Label="Undertaker (Mortician_Track1)" Value="377618" />
+  <Preset Label="Mortician (Mortician_Track2_Mortician)" Value="377619" />
+  <Preset Label="Funeral Director (Mortician_Track3_Director)" Value="377620" />
+  <Preset Label="Reaper (Career_Active_Reaper_Track1)" Value="377622" />
+  <Preset Label="Alice's Sorrow (CareerTrack_EP17World_AliceTree_AliceQuest)" Value="386507" />
+  <Preset Label="Favors (careerTrack_Tarot_NPCHelp)" Value="388212" />
+  <Preset Label="Bakery Stall Vendor (careerTrack_NPC_MarketStall_Vendor_Bakery)" Value="373514" />
+  <Preset Label="Candy Vendor (careerTrack_NPC_MarketStall_Vendor_Sweet)" Value="383090" />
+  <Preset Label="Ceramics Vendor (careerTrack_NPC_MarketStall_Vendor_Pottery)" Value="383091" />
+  <Preset Label="Small Business (careerTrack_SmallBusiness_Employee)" Value="400291" />
+  <Preset Label="Vendor (careerTrack_NPC_ShadyNPC)" Value="400749" />
+  <Preset Label="Tattoo Artist (careerTrack_NPC_TattooArtist)" Value="404171" />
+  <Preset Label="Fables (careerTrack_EP19Quests)" Value="424759" />
+  <Preset Label="Naturopath (Naturopathic_Track1)" Value="436169" />
+  <Preset Label="Apothe-curist (Naturopathic_Track2_HerbalMedicine)" Value="436170" />
+  <Preset Label="Lifestyle Coaching (Naturopathic_Track3_LifestyleMedicine)" Value="436171" />
+  <Preset Label="Gnome Enthusiast (careerTrack_EP19World_NPC_GnomeShop)" Value="441242" />
+  <Preset Label="Apothecary Vendor (careerTrack_EP19World_NPC_ApothecaryShop)" Value="441267" />
+  <Preset Label="Peculiar Plumbird (careerTrack_NPC_Cryptid)" Value="447352" />
+  <Preset Label="Quixotic Quill Quest (tunableCareerTrack_CryptidQuest)" Value="447414" />
+  <Preset Label="Park Worker (careerTracks_ParkWorker_Main)" Value="452994" />
+  <Preset Label="Park Ranger (careerTracks_ParkWorker_ParkRanger)" Value="452995" />
+  <Preset Label="Park Counselor (careerTracks_ParkWorker_ParkCounselor)" Value="452996" />
+  <Preset Label="Gibbi Point Adventure Quest (careerTrack_EP20World_Quests)" Value="455985" />
+  <Preset Label="Noble (CareerTrack_Noble)" Value="463273" />
+  <Preset Label="Bar Regular (careerTrack_NPC_Venue_BarRegular_RobinHood)" Value="498238" />
+  <Preset Label="Vendor (careerTrack_NPC_StallVendor_Wedding_Flower)" Value="280583" />
+  <Preset Label="Mixologist (careerTrack_NPC_Bartender_WolfTown)" Value="294304" />
 </PresetGroup>

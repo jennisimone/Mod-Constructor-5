@@ -14,9 +14,13 @@
   <Preset Label="Research &amp; Debate (statistic_Skill_AdultMajor_ResearchDebate)" Value="221014" />
   <Preset Label="Fabrication (statistic_Skill_AdultMajor_Fabrication)" Value="231908" />
   <Preset Label="Thanatology (statistic_Skill_AdultMinor_Thanatology)" Value="380495" />
+  <Preset Label="Natural Living (statistic_Skill_NLS)" Value="434909" />
+  <Preset Label="Apothecary (statistic_Skill_AdultMajor_Apothecary)" Value="439222" />
+  <Preset Label="Entomology (statistic_Skill_All_Ages_Minor_Entomology)" Value="469915" />
   <Preset Label="Herbalism (statistic_Skill_AdultMajor_Herbalism)" Value="101920" />
   <Preset Label="Wellness (statistic_Skill_AdultMajor_Wellness)" Value="117858" />
   <Preset Label="Vampire Lore (statistic_Skill_Hidden_VampireLore)" Value="149556" />
   <Preset Label="Archaeology (statistic_Skill_AdultMajor_Archaeology)" Value="174237" />
   <Preset Label="Medium (statistic_Skill_AdultMinor_Medium)" Value="255249" />
+  <Preset Label="Gemology (statistic_Skill_AdultMajor_Gemology)" Value="350972" />
 </PresetGroup>

@@ -77,6 +77,7 @@
   <Preset Label="Confidante (trait_NosyNeighbor)" Value="274012" />
   <Preset Label="Twisted Heart (trait_ColdHearted)" Value="275418" />
   <Preset Label="Inspired Explorer (trait_NewInTown_InspiredExplorer)" Value="297768" />
+  <Preset Label="Merciless (trait_EV008_Merciless)" Value="492733" />
   <Preset Label="High Self-Esteem (trait_reward_Child_Confidence_HighSelfEsteem)" Value="307541" />
   <Preset Label="Low Self-Esteem (trait_reward_Child_Confidence_LowSelfEsteem)" Value="307542" />
   <Preset Label="Practiced Host (trait_ChildSkillReward_PraticedHost)" Value="308364" />
@@ -265,6 +266,68 @@
   <Preset Label="Beloved Brand (trait_BelovedBrand)" Value="401801" />
   <Preset Label="Utopian Advocate (trait_SmallBusiness_Reputation_Consequences_UltimateDreamer)" Value="404322" />
   <Preset Label="Supreme Trickster (trait_SmallBusiness_Reputation_Consequences_UltimateSchemer)" Value="404323" />
+  <Preset Label="High Fae Lineage (trait_OccultFairy_HighFaeLineage)" Value="433290" />
+  <Preset Label="Now You Gnome (trait_EP19Quests_GreatGnome)" Value="441067" />
+  <Preset Label="Into the Everdew (trait_FairyStories_Initiation_IntoThePixieland)" Value="443385" />
+  <Preset Label="Fairy Influence (trait_FairyStories_Initiation_FayImpresser)" Value="443433" />
+  <Preset Label="Delightfully Discordant (trait_FairyStories_DarkPath_DarkPixie)" Value="443434" />
+  <Preset Label="Happily Harmonious (trait_FairyStories_LightPath_LightPixie)" Value="443435" />
+  <Preset Label="Holistic Healer (trait_HolisticHealer)" Value="443590" />
+  <Preset Label="Problem Fairy (trait_ProblemFairy)" Value="443901" />
+  <Preset Label="Well-Balanced Practitioner (trait_NaturalMeds_HealsWithPills)" Value="444092" />
+  <Preset Label="Nature's Best Bud (trait_BohemianStyle_NaturesBestBud)" Value="444093" />
+  <Preset Label="Peculiar Plumbird Baby (trait_SpecialNPCs_CryptidBaby)" Value="447354" />
+  <Preset Label="Coolest Kid (trait_Aspiration_EP20_Asp_CoolKid)" Value="452433" />
+  <Preset Label="Critter Enthusiast (trait_Nature_EP20_Asp_CritterHunter_CritterEnthusiast)" Value="452451" />
+  <Preset Label="Previously a Peculiar Plumbird (trait_SpecialNPCs_Cryptid_FormerCryptid)" Value="453381" />
+  <Preset Label="Honorary Gibbi Point Local (trait_Hidden_EP20World_HonoraryLocal)" Value="455032" />
+  <Preset Label="Artfully Enriched (trait_Getaway_Reward_ArtMusic)" Value="469042" />
+  <Preset Label="Taste Refined (trait_Getaway_Reward_FoodDrink)" Value="469043" />
+  <Preset Label="Growth Kindled (trait_Getaway_Reward_KidActvities)" Value="469044" />
+  <Preset Label="Hobbyist (trait_Getaway_Reward_Hobbies)" Value="469045" />
+  <Preset Label="Clever Rogue (trait_Getaway_Reward_Mischief)" Value="469046" />
+  <Preset Label="Rooted Wanderer (trait_Getaway_Reward_Outdoor)" Value="469047" />
+  <Preset Label="Suave Speaker (trait_Getaway_Reward_Social)" Value="469048" />
+  <Preset Label="Budding Evil Persona (trait_Human_EP20_IF_BuddingEvilPersona)" Value="474898" />
+  <Preset Label="Competitive Spirit:\nAbysmal (trait_Hidden_CompetitiveSpirit_01_Abysmal)" Value="475331" />
+  <Preset Label="Competitive Spirit:\nBad (trait_Hidden_CompetitiveSpirit_02_Bad)" Value="475332" />
+  <Preset Label="Competitive Spirit:\nGood (trait_Hidden_CompetitiveSpirit_03_Good)" Value="475333" />
+  <Preset Label="Competitive Spirit:\nExcellent (trait_Hidden_CompetitiveSpirit_04_Great)" Value="475334" />
+  <Preset Label="Seasoned Camper (trait_Hidden_Getaway_NPC_Camp_Camper)" Value="478628" />
+  <Preset Label="Seasoned Camp Counselor (trait_Hidden_Getaway_NPC_Camp_Counselor)" Value="478629" />
+  <Preset Label="Seasoned Camp Director (trait_Hidden_Getaway_NPC_Camp_Director)" Value="478630" />
+  <Preset Label="Seasoned Fitness Retreat Guest (trait_Hidden_Getaway_NPC_FitnessRetreat_Guest)" Value="478631" />
+  <Preset Label="Seasoned Retreat Leader (trait_Hidden_Getaway_NPC_FitnessRetreat_Host)" Value="478652" />
+  <Preset Label="Seasoned Fitness Trainer (trait_Hidden_Getaway_NPC_FitnessRetreat_Trainer)" Value="478653" />
+  <Preset Label="Seasoned Romantic Single (trait_Hidden_Getaway_NPC_RomanticGetaway_Singles)" Value="478655" />
+  <Preset Label="Seasoned Romantic Host (trait_Hidden_Getaway_NPC_RomanticGetaway_Host)" Value="478656" />
+  <Preset Label="Mild Mental Affinity (trait_DynastyPerk_AffinityMental1)" Value="465971" />
+  <Preset Label="Moderate Mental Affinity (trait_DynastyPerk_AffinityMental2)" Value="465972" />
+  <Preset Label="Strong Mental Affinity (trait_DynastyPerk_AffinityMental3)" Value="465973" />
+  <Preset Label="Mild Physical Affinity (trait_DynastyPerk_AffinityPhysical1)" Value="465974" />
+  <Preset Label="Moderate Physical Affinity (trait_DynastyPerk_AffinityPhysical2)" Value="465975" />
+  <Preset Label="Strong Physical Affinity (trait_DynastyPerk_AffinityPhysical3)" Value="465976" />
+  <Preset Label="Mild Creative Affinity (trait_DynastyPerk_AffinityCreative1)" Value="465977" />
+  <Preset Label="Moderate Creative Affinity (trait_DynastyPerk_AffinityCreative2)" Value="465978" />
+  <Preset Label="Strong Creative Affinity (trait_DynastyPerk_AffinityCreative3)" Value="465979" />
+  <Preset Label="Mild Social Affinity (trait_DynastyPerk_AffinitySocial1)" Value="465980" />
+  <Preset Label="Moderate Social Affinity (trait_DynastyPerk_AffinitySocial2)" Value="465981" />
+  <Preset Label="Strong Social Affinity (trait_DynastyPerk_AffinitySocial3)" Value="465982" />
+  <Preset Label="Blue Blood (trait_NobleCareer_BlueBlood)" Value="480527" />
+  <Preset Label="Former Noble Hustler (trait_NobleCareer_ExRank)" Value="485547" />
+  <Preset Label="Regal Romancer (trait_NobleCareer_RegalRomancer)" Value="489093" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level1_1st)" Value="490046" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level1_2nd)" Value="490047" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level1_3rd)" Value="490048" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level2_1st)" Value="490049" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level2_2nd)" Value="490050" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level2_3rd)" Value="490051" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level3_1st)" Value="490052" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level3_2nd)" Value="490053" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_Level3_3rd)" Value="490054" />
+  <Preset Label="Swordsmanship Tournaments (trait_Competition_SwordsmanshipTournament_NoCompetitionsWon)" Value="490055" />
+  <Preset Label="Ironclad Reputation (trait_Whistleblower)" Value="495596" />
+  <Preset Label="Threadshifter (trait_Threadshifter)" Value="496743" />
   <Preset Label="Incredibly Friendly (trait_IncrediblyFriendly)" Value="102783" />
   <Preset Label="Great Storyteller (trait_GreatStoryteller)" Value="103263" />
   <Preset Label="Stoves and Grills Master (trait_StovesAndGrillsMaster)" Value="104880" />
@@ -311,4 +374,7 @@
   <Preset Label="Lunar Link (trait_OccultWerewolf_AspirationTraits_FormerLycan)" Value="294207" />
   <Preset Label="Sacred Knitting Knowledge (trait_SacredKnittingKnowledge)" Value="240379" />
   <Preset Label="Paranormal Investigator (trait_Freelancer_Career_ParanormalInvestigator_License)" Value="252818" />
+  <Preset Label="Batch Cook (trait_BatchCook)" Value="339631" />
+  <Preset Label="Booth Boss (trait_BoothBoss)" Value="339632" />
+  <Preset Label="Attuned (trait_Attuned)" Value="356964" />
 </PresetGroup>

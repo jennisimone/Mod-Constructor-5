@@ -100,6 +100,7 @@
   <Preset Label="Baby_New" Value="98938" />
   <Preset Label="Fire_Object_Burn_Incinerate_NoAsh" Value="100094" />
   <Preset Label="Bassinet_NeglectedEmpty" Value="100335" />
+  <Preset Label="Campfire_FireIntensity" Value="101825" />
   <Preset Label="commodityBasedObjectState_DrinkSerum_Full" Value="110008" />
   <Preset Label="HolidayCandle_Wax_Decay_Rates" Value="110471" />
   <Preset Label="tent_LightState" Value="110681" />
@@ -157,6 +158,27 @@
   <Preset Label="animalObjects_LivestockFeed_PileFeedAmount" Value="261588" />
   <Preset Label="animalObjects_CommodityStates_GoMissing" Value="261597" />
   <Preset Label="animalObjects_CommodityStates_GoMissing_LivestockPen" Value="267881" />
+  <Preset Label="upgrade_Generic_Slot1" Value="275002" />
+  <Preset Label="upgrade_Generic_Slot2" Value="275003" />
+  <Preset Label="BabyLastSeen_State" Value="275950" />
+  <Preset Label="SimScratched" Value="291600" />
+  <Preset Label="Meteorite" Value="295358" />
+  <Preset Label="animalObjects_CommodityStates_Sleep" Value="327067" />
+  <Preset Label="ovenCookedRising" Value="336336" />
+  <Preset Label="upgrade_Generic_FasterCooking" Value="336515" />
+  <Preset Label="ElectricKettle_Servings" Value="342281" />
+  <Preset Label="pressureCooker_Timer" Value="350559" />
+  <Preset Label="upgrade_ElectricKettle_SelfCleaning" Value="351918" />
+  <Preset Label="upgrade_ElectricKettle_Unbreakable" Value="351919" />
+  <Preset Label="sandplay_States_Health" Value="355925" />
+  <Preset Label="FoodStickServings" Value="376669" />
+  <Preset Label="Generic_DestroyObject_Timer" Value="410986" />
+  <Preset Label="surpriseCake_Pieces_States" Value="421226" />
+  <Preset Label="HousePlants_Health" Value="444785" />
+  <Preset Label="freeWeights_InUse_States" Value="459047" />
+  <Preset Label="commodityBasedState_Papercraft_PoorDestructionTimer" Value="489211" />
+  <Preset Label="LittleLibrary_Capacity_States" Value="489625" />
+  <Preset Label="Toybox_ToyCount" Value="494536" />
   <Preset Label="upgrade_ChemistryLab_AddSafetyProtocols" Value="105359" />
   <Preset Label="XrayMachine_Calibrate_Commodity_States" Value="105833" />
   <Preset Label="HospitalExamBed_Dirtiness_Commodity_States" Value="107401" />
@@ -356,6 +378,7 @@
   <Preset Label="Fire_Rain" Value="190385" />
   <Preset Label="beeBox_Mites_CommodityState" Value="190589" />
   <Preset Label="leafPile_Destroy" Value="207083" />
+  <Preset Label="wetness_HorseState" Value="335393" />
   <Preset Label="denizenPond_Hunger" Value="192250" />
   <Preset Label="upgrade_VideoStation_Lights" Value="192495" />
   <Preset Label="upgrade_VideoStation_Storage" Value="192496" />
@@ -450,6 +473,7 @@
   <Preset Label="verticalGarden_Upgrades_AutoWater" Value="237886" />
   <Preset Label="verticalGarden_Upgrade_AutoWater_Low" Value="237995" />
   <Preset Label="CheckFreshness_State" Value="238954" />
+  <Preset Label="juiceFizzer_Inventory_States" Value="356628" />
   <Preset Label="states_HotPot_Progress" Value="246242" />
   <Preset Label="upgrade_Kotatsu_ImprovedInsulation" Value="246401" />
   <Preset Label="upgrade_Kotatsu_TemperatureControls" Value="246402" />
@@ -458,7 +482,93 @@
   <Preset Label="HotSprings_CommodityState_Dirty" Value="248803" />
   <Preset Label="Snowboarding_Video_Quality_State" Value="249576" />
   <Preset Label="Onibi_SpawnerVisibility" Value="251139" />
-  <Preset Label="Campfire_FireIntensity" Value="101825" />
+  <Preset Label="upgrade_AnimalObjects_ChickenCoop_FoxBeGone" Value="258005" />
+  <Preset Label="picnicBasket_Filling_States" Value="258486" />
+  <Preset Label="GiantCrops_Plant_Yield" Value="259231" />
+  <Preset Label="GiantCrops_Plant_Growth" Value="259270" />
+  <Preset Label="GiantCrops_Plant_Prune" Value="259978" />
+  <Preset Label="GiantCrops_Plant_Status" Value="260594" />
+  <Preset Label="GiantCrops_Fruit_Quality" Value="261649" />
+  <Preset Label="critterGifting_TakeGift" Value="262287" />
+  <Preset Label="CrossStitchProgress" Value="263150" />
+  <Preset Label="critterGifting_DiscoverGift" Value="264691" />
+  <Preset Label="animalObjects_CountryCaretaker_LifeExtension" Value="265339" />
+  <Preset Label="GroceryDeliveryCoupon_Expire" Value="267622" />
+  <Preset Label="HighSchool_Active_Whiteboard_WritingProgress" Value="276099" />
+  <Preset Label="upgrade_SchoolLocker_PrankProof" Value="277876" />
+  <Preset Label="fashionMarketplace_OutfitHype" Value="286855" />
+  <Preset Label="promposal_PaintingProgress_Sign2" Value="301932" />
+  <Preset Label="promposal_PaintingProgress_Sign3" Value="301933" />
+  <Preset Label="promposal_PaintingProgress_Sign4" Value="301934" />
+  <Preset Label="promposal_PaintingProgress_Sign5" Value="301935" />
+  <Preset Label="promposal_PaintingProgress_Sign1" Value="301962" />
+  <Preset Label="recreationTable_puzzlesProgress_size1" Value="304611" />
+  <Preset Label="Treehouse_Progress_Build" Value="306102" />
+  <Preset Label="recreationTable_puzzlesProgress_size2" Value="315524" />
+  <Preset Label="recreationTable_puzzlesProgress_size4" Value="315526" />
+  <Preset Label="recreationTable_puzzlesProgress_size3" Value="317299" />
+  <Preset Label="Treehouse_Progress_Upgrade_Light" Value="327352" />
+  <Preset Label="Treehouse_Progress_Upgrade_Bell" Value="327353" />
+  <Preset Label="Treehouse_Progress_Upgrade_Pole" Value="327354" />
+  <Preset Label="Treehouse_Progress_Upgrade_Slide" Value="327355" />
+  <Preset Label="Treehouse_CheckFootprint" Value="329897" />
+  <Preset Label="ranchNectarMaker_CommodityState_CraftingProgress" Value="322061" />
+  <Preset Label="ranchNectar_CommodityStates_Aged" Value="322911" />
+  <Preset Label="ObjectState_HorseBreeding_Pregnancy_Horse" Value="323117" />
+  <Preset Label="animalFeeder_Commodity_State_FoodRemaining" Value="324407" />
+  <Preset Label="WildGrass_Growth" Value="326161" />
+  <Preset Label="ranchNectarRack_InventoryCount" Value="338898" />
+  <Preset Label="spiritHouse_CommodityState_FruitVFX" Value="341497" />
+  <Preset Label="spiritHouse_CommodityState_IncenseVFX" Value="341498" />
+  <Preset Label="MoldSystem_State" Value="344608" />
+  <Preset Label="MarblesRug_Progress" Value="347003" />
+  <Preset Label="upgrade_PressureCooker_SelfCleaning" Value="348143" />
+  <Preset Label="upgrade_PressureCooker_Unbreakable" Value="348144" />
+  <Preset Label="marblesJar_InventoryCount" Value="353631" />
+  <Preset Label="upgrade_PressureCooker_Autovent" Value="355209" />
+  <Preset Label="upgrade_RobotVacuum_MoldSystem_states" Value="358576" />
+  <Preset Label="triviaBox_gameBox_visualState" Value="364504" />
+  <Preset Label="LoreRing_Activation" Value="369412" />
+  <Preset Label="EP16World_WallOfLove_Progress" Value="369477" />
+  <Preset Label="CommodityBasedObjectState_OnHallowedGrounds" Value="381721" />
+  <Preset Label="petCrow_Moods_Values" Value="383462" />
+  <Preset Label="EP17World_Commodity_States_Specter_Animate" Value="383903" />
+  <Preset Label="EP17World_Commodity_States_Specter_Dismiss" Value="383904" />
+  <Preset Label="petCrow_GiveGift" Value="384238" />
+  <Preset Label="Heirlooms_MusicBox_CommodityObjectStates" Value="385960" />
+  <Preset Label="DeathInSleep_HauntedBed_State" Value="392843" />
+  <Preset Label="EP17World_Commodity_States_WanderingBackup" Value="421255" />
+  <Preset Label="animalObjects_CommodityStates_PetCrow_Hunger" Value="421275" />
+  <Preset Label="potteryCeramic_Brokenness_State" Value="374534" />
+  <Preset Label="PotteryBlob_States" Value="381184" />
+  <Preset Label="potteryBurner_LightState" Value="384330" />
+  <Preset Label="potteryCeramic_SadBroadcasterState" Value="396396" />
+  <Preset Label="SmallBusinessPerks_SimoCoin_States" Value="419260" />
+  <Preset Label="potteryWheel_Countdown" Value="439821" />
+  <Preset Label="EP19Gardening_Enchanted" Value="434661" />
+  <Preset Label="EP19Gardening_CanCollect" Value="435121" />
+  <Preset Label="EP19Gardening_AuraBlossom_Vengeful" Value="435541" />
+  <Preset Label="EP19Gardening_Pixies" Value="435649" />
+  <Preset Label="ApothecaryCraftTable_CommodityState_CraftingProgress" Value="439683" />
+  <Preset Label="fairyHome_Commodity_States_DanceParty" Value="447248" />
+  <Preset Label="EP19Gardening_Pixies_PushSpread" Value="451422" />
+  <Preset Label="luckInfusedObjects_LuckSys_CommodityStates" Value="452248" />
+  <Preset Label="fairyHome_Commodity_States_Sleeping" Value="455806" />
+  <Preset Label="Apothecary_EmotionStone_Brokenness" Value="457976" />
+  <Preset Label="fairyHome_Commodity_States_FairyDustAmt" Value="462951" />
+  <Preset Label="fairyHome_Commodity_States_EmotionalForce" Value="468066" />
+  <Preset Label="campfire_Stewpot_Progress_States" Value="447658" />
+  <Preset Label="campfire_Stewpot_Servings_States" Value="447659" />
+  <Preset Label="objectState_EP20World_FirewatchTower_OpenClosed" Value="469245" />
+  <Preset Label="commodityBasedStates_ButterflyCollection_Incubator" Value="469651" />
+  <Preset Label="upgrade_Blender_NeverBreak" Value="471632" />
+  <Preset Label="upgrade_Blender_NeverFail" Value="471633" />
+  <Preset Label="eP20World_FirewatchTower_Note" Value="472063" />
+  <Preset Label="commodityBasedState_Papercraft_DestroyTimer" Value="481654" />
+  <Preset Label="commodityBasedState_HideAndSeek_Box_DestroyTimer" Value="490602" />
+  <Preset Label="upgrade_SecretPassageway_SoundProof" Value="483452" />
+  <Preset Label="upgrade_SecretPassageway_CuckooBroadcast" Value="483453" />
+  <Preset Label="Generic_DestroyObject_Timer_TreasureChests" Value="500683" />
   <Preset Label="RabbitHole_Bramble_DirectTravel" Value="103191" />
   <Preset Label="objectState_ElixirOfBurning_Applied" Value="104257" />
   <Preset Label="Insect_SpawnerVisibility" Value="110550" />
@@ -547,6 +657,8 @@
   <Preset Label="upgrade_BowlingLane_MoonLight" Value="158114" />
   <Preset Label="bowlingLane_Commodity_States_Rerack" Value="158515" />
   <Preset Label="bowlingLane_Commodity_States_GameProgress" Value="161545" />
+  <Preset Label="upgrade_TreadMill_Rock_ClimbingWall_Self_Repairing" Value="165740" />
+  <Preset Label="treadMill_Rock_ClimbingWall_Commodity_States_Self_Repairing" Value="167816" />
   <Preset Label="laundry_Commodity_States_Cleanliness" Value="175401" />
   <Preset Label="laundry_Commodity_States_Dryness" Value="175429" />
   <Preset Label="laundry_Commodity_States_Scented" Value="175435" />
@@ -567,6 +679,7 @@
   <Preset Label="upgrade_Laundry_Dryer_Quiet" Value="177304" />
   <Preset Label="upgrade_Laundry_Dryer_LintLess" Value="177305" />
   <Preset Label="upgrade_Laundry_ClothesLine_IronLine" Value="177426" />
+  <Preset Label="laundry_Commodity_States_SmallBusiness_Abandoned" Value="493147" />
   <Preset Label="minor_Pet_Cage_Commodity_States_Hunger" Value="180915" />
   <Preset Label="minor_Pet_Cage_Commodity_States_Attention" Value="180916" />
   <Preset Label="minor_Pet_Cage_Commodity_States_Activity" Value="180917" />
@@ -584,4 +697,21 @@
   <Preset Label="HauntedHouse_States_Specters_Animate" Value="253937" />
   <Preset Label="hauntedHouse_States_Specters_Dismiss" Value="254041" />
   <Preset Label="SeanceTable_Progress_States" Value="256567" />
+  <Preset Label="DustPile_Size_States" Value="254695" />
+  <Preset Label="dustFriend_Bunny_Happiness" Value="254728" />
+  <Preset Label="dustFriend_Fiend_Mischief" Value="254729" />
+  <Preset Label="vacuumCleaner_BagFill" Value="254904" />
+  <Preset Label="upgrade_Vacuum_BottomlessBag" Value="257255" />
+  <Preset Label="upgrade_Vacuum_Unbreakable" Value="257256" />
+  <Preset Label="upgrade_Vacuum_SelfCharging" Value="257257" />
+  <Preset Label="upgrade_Vacuum_VaporizingPulse" Value="257258" />
+  <Preset Label="pizzaOven_Progress" Value="335906" />
+  <Preset Label="pizzaOven_Servings" Value="335907" />
+  <Preset Label="waffleMaker_Progress" Value="337442" />
+  <Preset Label="waffleMaker_Servings" Value="337450" />
+  <Preset Label="standMixer_Progress" Value="338144" />
+  <Preset Label="standMixer_Servings" Value="338145" />
+  <Preset Label="crystalCharge_Status" Value="351247" />
+  <Preset Label="gemology_BadEnergy_Commodity_States" Value="361607" />
+  <Preset Label="sp65_Salvage_State" Value="452927" />
 </PresetGroup>

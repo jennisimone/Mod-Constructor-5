@@ -217,14 +217,8 @@
   <Preset Label="buff_Role_Custom_State_Wedding_Officiant_PostCeremony" Value="278108" />
   <Preset Label="buff_Role_Custom_State_Wedding_Officiant_Processional" Value="278109" />
   <Preset Label="buff_Scenario_ProudParent_AdoptedBaby" Value="300937" />
-  <Preset Label="buff_Role_BabyShower_Guest" Value="301105" />
   <Preset Label="buff_Role_WantFear_PartyHost" Value="302072" />
   <Preset Label="buff_Hidden_Scenario_StuckInTheirShadow_HighMotives" Value="302534" />
-  <Preset Label="buff_Role_BabyShower_Host" Value="308220" />
-  <Preset Label="buff_Role_BabyShower_Guest_NPC" Value="308982" />
-  <Preset Label="buff_Role_Sleepover_Sleep" Value="313208" />
-  <Preset Label="buff_Role_Sleepover_Host" Value="313209" />
-  <Preset Label="buff_Role_Sleepover_Guest" Value="313210" />
   <Preset Label="buff_Role_MultiUnitCommunity_UseObjects" Value="343454" />
   <Preset Label="buff_Role_WaitForInvitation_InteractionsOnly_Angry" Value="358726" />
   <Preset Label="buff_Role_HobbyMeetup_Generic" Value="398740" />
@@ -238,6 +232,8 @@
   <Preset Label="buff_BurglarPolice_Role_PostArrest" Value="426716" />
   <Preset Label="buff_Burglar_Role_Holding" Value="427070" />
   <Preset Label="buff_Proximity_KindOfPartyLike_Trigger" Value="432707" />
+  <Preset Label="buff_Role_MailMan_SpecialDelivery" Value="465230" />
+  <Preset Label="buff_Role_Playground_Chaperone" Value="488310" />
   <Preset Label="In Holding Cell (buff_Object_HoldingCell_InCell)" Value="104873" />
   <Preset Label="buff_Role_Coworker" Value="108695" />
   <Preset Label="buff_Role_Appropriateness_NoTv" Value="108749" />
@@ -580,6 +576,12 @@
   <Preset Label="buff_Role_HighSchool_Active_NPC_CareerDay_DisallowPrerollWatch" Value="304431" />
   <Preset Label="buff_Role_HighSchool_Active_NPC_Student_AttendClass2" Value="304592" />
   <Preset Label="buff_Role_HSGraduation_CleanUpOutfits" Value="305318" />
+  <Preset Label="buff_Role_BabyShower_Guest" Value="301105" />
+  <Preset Label="buff_Role_BabyShower_Host" Value="308220" />
+  <Preset Label="buff_Role_BabyShower_Guest_NPC" Value="308982" />
+  <Preset Label="buff_Role_Sleepover_Sleep" Value="313208" />
+  <Preset Label="buff_Role_Sleepover_Host" Value="313209" />
+  <Preset Label="buff_Role_Sleepover_Guest" Value="313210" />
   <Preset Label="buff_Role_RanchHand_States_Repair" Value="304725" />
   <Preset Label="buff_Role_RanchHand_States_DontRepair" Value="304727" />
   <Preset Label="buff_Role_RanchHand_States_CareForAnimals" Value="304754" />
@@ -732,6 +734,43 @@
   <Preset Label="buff_HobbyClass_Role_Instructor_PreClass" Value="442676" />
   <Preset Label="buff_HobbyClass_Role_ClassMember_Apothecary" Value="444959" />
   <Preset Label="buff_HobbyClass_Role_ClassMember_NLS" Value="454750" />
+  <Preset Label="buff_HobbyClass_Role_ClassMember_Papercraft" Value="477528" />
+  <Preset Label="buff_HobbyClass_Role_ClassMember_DivingBoard" Value="486774" />
+  <Preset Label="buff_HobbyClass_Role_ClassMember_Entomology" Value="487677" />
+  <Preset Label="buff_HobbyClass_Role_ClassMember_Archery" Value="488004" />
+  <Preset Label="buff_HobbyClass_Role_ClassMember_Swordsmanship" Value="497325" />
+  <Preset Label="buff_Role_TeleportStone_TravelWith_GoToStone" Value="440122" />
+  <Preset Label="buff_Role_NaturopathCareer_AfflictedState_Diagnosed" Value="443199" />
+  <Preset Label="buff_Role_NaturopathCareer_AfflictedState_Treated" Value="443200" />
+  <Preset Label="buff_Role_TeleportStone_Host_Teleport" Value="467147" />
+  <Preset Label="buff_Role_Appropriateness_Naturopath_Client" Value="469305" />
+  <Preset Label="buff_EP20World_Walkbys_Role_Cleanup_Crafter" Value="450049" />
+  <Preset Label="buff_EP20World_Walkbys_Role_Route_Crafter" Value="450051" />
+  <Preset Label="buff_Role_EP20World_NPC_Collector" Value="458127" />
+  <Preset Label="buff_EP20World_Walkbys_Role_Artisan_Crafter_Anchor" Value="461888" />
+  <Preset Label="buff_EP20World_Walkbys_Role_Artisan_Crafter_NearTopiary" Value="461889" />
+  <Preset Label="buff_EP20World_Walkbys_Role_Artisan_Crafter_PutDown" Value="461985" />
+  <Preset Label="buff_Role_ServiceNPC_Tutor" Value="466129" />
+  <Preset Label="buff_Role_ServiceNPC_Upgrade" Value="466675" />
+  <Preset Label="buff_Role_ServiceNPC_UpgradeArrive" Value="466952" />
+  <Preset Label="buff_Role_Appropriateness_NoComputerReading_Backroom" Value="473334" />
+  <Preset Label="buff_Role_Appropriateness_NoWorkout_BG_Backroom" Value="473335" />
+  <Preset Label="Buff_Role_Appropriateness_NoStereo_Backroom" Value="475794" />
+  <Preset Label="buff_Dynasty_SituationRole_DramaNodeHead" Value="477700" />
+  <Preset Label="buff_Dynasty_SituationRole_SocializeWithHead" Value="478763" />
+  <Preset Label="buff_Dynasty_SituationRole_RomanceRivalVisit_Visitor" Value="478978" />
+  <Preset Label="buff_Dynasty_SituationRole_NPCVisit" Value="479802" />
+  <Preset Label="buff_Dynasty_SituationRole_NPCVisit_RivalVisit" Value="480177" />
+  <Preset Label="buff_Role_NobleFavor_WaitForGiftReceived" Value="485273" />
+  <Preset Label="buff_Role_NobleFavor_DropGift" Value="485585" />
+  <Preset Label="buff_Dynasty_SituationRole_NPCVisit_CrisisProtest" Value="489457" />
+  <Preset Label="buff_Role_EP21World_DambelePainter" Value="490572" />
+  <Preset Label="buff_NobleCareer_Role_HoldCourt" Value="494101" />
+  <Preset Label="buff_Role_SwordsmanshipTournament_DuelistNotInRound" Value="496660" />
+  <Preset Label="buff_Role_SwordsmanshipTournament_DuelistInRound" Value="496662" />
+  <Preset Label="buff_Role_SwordsmanshipTournament_SpectatorWatch" Value="496665" />
+  <Preset Label="buff_Role_SwordsmanshipTournament_SpectatorChill" Value="496666" />
+  <Preset Label="buff_NobleCareer_Role_HoldPressConference" Value="498181" />
   <Preset Label="buff_Role_Restaurant_Player_EatFood" Value="134540" />
   <Preset Label="buff_Role_Restaurant_Player_WaitForFood" Value="134550" />
   <Preset Label="buff_Role_Restaurant_Staff_SuppressSocializeAutonomously" Value="138206" />
@@ -856,4 +895,6 @@
   <Preset Label="Can't Wait to See! (buff_Role_Photo_Tripod_Pose_CantWaitSee)" Value="218693" />
   <Preset Label="Not My Good Side (buff_Role_Photo_Tripod_Pose_NotMyGoodSide)" Value="218694" />
   <Preset Label="buff_Role_Photo_Tripod_Lock_Autonomy" Value="221131" />
+  <Preset Label="Buff_Role_Appropriateness_AllowEating" Value="341707" />
+  <Preset Label="Buff_Role_Appropriateness_AllowEating_TimeLimited" Value="343572" />
 </PresetGroup>
