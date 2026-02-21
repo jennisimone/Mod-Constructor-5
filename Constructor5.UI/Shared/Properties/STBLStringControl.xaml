@@ -12,6 +12,7 @@
     <TextBox
         x:Name="TextBox"
         Text="{Binding Text.CustomText, ElementName=uc, UpdateSourceTrigger=PropertyChanged}"
+        SpellCheck.IsEnabled="True"
         TextChanged="TextBox_TextChanged">
         <TextBox.Style>
             <Style BasedOn="{StaticResource TextBoxDefaultStyle}" TargetType="{x:Type TextBox}">
