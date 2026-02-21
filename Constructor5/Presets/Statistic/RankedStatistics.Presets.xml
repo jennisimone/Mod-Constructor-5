@@ -36,4 +36,13 @@
   <Preset Label="rankedStatistic_Batuu_FactionReputation_Resistance" Value="236631" />
   <Preset Label="rankedStatistic_Batuu_FactionReputation_FirstOrder" Value="236632" />
   <Preset Label="rankedStatistic_Batuu_FactionReputation_Scoundrel" Value="236633" />
+  <Preset Label="rankedStatistic_MovingOn_SoulsJourney" Value="377782" />
+  <Preset Label="rankedStatistic_GhostPowers_GhostXP" Value="384633" />
+  <Preset Label="rankedStatistic_FairyOccult_FairyXP" Value="437331" />
+  <Preset Label="rankedStatistic_Werewolf_Progression" Value="276388" />
+  <Preset Label="rankedStatistic_NobleFavor" Value="466513" />
+  <Preset Label="rankedStatistic_Dynasty_Prestige" Value="466614" />
+  <Preset Label="rankedStatistic_Dynasty_Unity" Value="466615" />
+  <Preset Label="rankedStatistic_SmallBusiness_Rank" Value="376319" />
+  <Preset Label="rankedStatistic_SmallBusiness_Reputation" Value="384512" />
 </PresetGroup>

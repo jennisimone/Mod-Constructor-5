@@ -37,4 +37,21 @@
   <Preset Value="BatuuRecords" />
   <Preset Value="BottleMessages" />
   <Preset Value="WerewolfRelics" />
+  
+  <Preset Value="Marbles" />
+  <Preset Value="Tassels" />
+  <Preset Value="Axolotl" />
+  <Preset Value="FreezerBunnies" />
+  <Preset Value="Tarot" />
+  <Preset Value="MilkCartons" />
+  <Preset Value="EFDec24EVRwreath" Label="CozyWreaths" />
+  <Preset Value="CounterfeitArt" />
+  <Preset Value="ApothecaryIngredients" />
+  <Preset Value="BikeParts" />
+  <Preset Value="EF63NatureMagazines" Label="TouchGrassWeekly" />
+  <Preset Value="Butterflies" />
+  <Preset Value="Magnets" />
+  <Preset Value="HolidayMagnets" />
+  <Preset Value="Swords" />
+  <Preset Value="EV008SkeletonKeys" Label="AntiqueCurioKeys"/>
 </PresetGroup>

@@ -12,4 +12,12 @@
   <Preset Value="WitchPerkBucks" />
   <Preset Value="InfluenceBuck" Label="Note: This is not a typo, the actual ID used in the game's code uses singular instead of plural" />
   <Preset Value="GalacticCredits" />
+  <Preset Value="BusinessPerkBucks" />
+  <Preset Value="ClubBucks" />
+  <Preset Value="CustomerSatisfactionBucks" />
+  <Preset Value="DynastyPerkBucks" />
+  <Preset Value="FairyPerkBucks" />
+  <Preset Value="GhostPowersAbilityBucks" />
+  <Preset Value="WerewolfAbilityBucks" />
+  <Preset Value="WerewolfQuestAbilityBucks" />
 </PresetGroup>

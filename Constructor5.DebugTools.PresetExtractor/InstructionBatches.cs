@@ -4,6 +4,10 @@ namespace Constructor5.DebugTools.PresetExtractor
 {
     public static class InstructionBatches
     {
+        public static PresetInstruction[] Achievement { get; } = PresetInstruction.CreateBatch("Achievement_Category", "Achievement", "All Achievement Categories", "", new Dictionary<string, string>
+        {
+        }, null, false);
+        
         public static PresetInstruction[] Animation { get; } = PresetInstruction.CreateBatch("Animation", "Animation", "All Animations", "", new Dictionary<string, string>
         {
         });
@@ -35,17 +39,41 @@ namespace Constructor5.DebugTools.PresetExtractor
             { "Festival Buffs", "Buff_Festival_" },
             { "Role Buffs", "Role_" },
         });
+        
+        public static PresetInstruction[] Career { get; } = PresetInstruction.CreateBatch("Career", "Career", "All Careers", "", new Dictionary<string, string>
+        {
+        }, null, false);
+        
+        public static PresetInstruction[] CareerGigs { get; } = PresetInstruction.CreateBatch("Career_Gig", "CareerGig", "All Career Gigs", "enabled", new Dictionary<string, string>
+        {
+        });
+        
+        public static PresetInstruction[] CareerLevel { get; } = PresetInstruction.CreateBatch("Career_Level", "CareerLevel", "All Career Levels", "", new Dictionary<string, string>
+        {
+        }, null, false);
+        
+        public static PresetInstruction[] CareerTrack { get; } = PresetInstruction.CreateBatch("Career_Track", "CareerTrack", "All Career Tracks", "", new Dictionary<string, string>
+        {
+        }, null, false);
 
         public static PresetInstruction[] Commodities { get; } = PresetInstruction.CreateBatch("Statistic", "Commodity", "All Commodities", "stat_name", new Dictionary<string, string>
         {
             { "Autonomy", "_Autonomy_" },
         }, "Commodity");
+        
+        public static PresetInstruction[] CommodityBasedObjectState { get; } = PresetInstruction.CreateBatch("Object_State", "CommodityBasedObjectState", "All Commodity Based States", "", new Dictionary<string, string>
+        {
+        }, null, false);
 
         public static PresetInstruction[] CommodityBasedObjectStateValues { get; } = PresetInstruction.CreateBatch("Object_State", "CommodityBasedObjectStateValue", "All Commodity Based Object State Values", "", new Dictionary<string, string>
         {
         }, "CommodityBasedObjectStateValue");
 
         public static PresetInstruction[] Interactions { get; } = PresetInstruction.CreateBatch("Interaction", "Interaction", "All Interactions", "display_name", new Dictionary<string, string>
+        {
+        });
+
+        public static PresetInstruction[] InteractionTags { get; } = PresetInstruction.CreateBatch("Interaction", "InteractionTag", "Interaction Tags", "interaction_category_tags", new Dictionary<string, string>
         {
         });
 
@@ -158,10 +186,6 @@ namespace Constructor5.DebugTools.PresetExtractor
         public static PresetInstruction[] SimpleWhimSets { get; } = PresetInstruction.CreateBatch("Aspiration", "ObjectivelessWhimSet", "All Simple Want Sets", "reason", new Dictionary<string, string>
         {
         }, "ObjectivelessWhimSet");
-
-        public static PresetInstruction[] CareerGigs { get; } = PresetInstruction.CreateBatch("Career_Gig", "CareerGig", "All Career Gigs", "enabled", new Dictionary<string, string>
-        {
-        });
 
         public static PresetInstruction[] TestBasedScores { get; } = PresetInstruction.CreateBatch("Test_Based_Score", "TestBasedScore", "All Test Based Scores", "reason", new Dictionary<string, string>
         {

@@ -15,7 +15,7 @@ namespace Constructor5.DebugTools.PresetExtractor
         public bool SplitByPack { get; set; }
         public string SubType { get; set; }
 
-        public static PresetInstruction[] CreateBatch(string xmlDirectory, string exportDirectory, string allName, string nameTag, Dictionary<string, string> searchStrings, string subType = null)
+        public static PresetInstruction[] CreateBatch(string xmlDirectory, string exportDirectory, string allName, string nameTag, Dictionary<string, string> searchStrings, string subType = null, bool splitByPack = true)
         {
             var result = new List<PresetInstruction>();
 
@@ -25,7 +25,7 @@ namespace Constructor5.DebugTools.PresetExtractor
                 ExportFileName = allName,
                 NameXMLTag = nameTag,
                 XMLDirectory = xmlDirectory,
-                SplitByPack = true,
+                SplitByPack = splitByPack,
                 SubType = subType
             };
             result.Add(allInstruction);

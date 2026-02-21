@@ -23,10 +23,17 @@
   <Preset Value="Category_Yoga_Exit" />
   <Preset Value="ExitNude" />
   <Preset Value="EnterDying" />
-  <Preset Value="EnterToddlerBathing" />
-  <Preset Value="ExitToddlerBathing" />
+  <Preset Value="EnterToddlerInfantBathing" />
+  <Preset Value="ExitToddlerInfantBathing" />
   <Preset Value="EnterPetBathing" />
   <Preset Value="WeatherBased" />
   <Preset Value="EnterToddlerSwimming" />
   <Preset Value="ExitToddlerSwimming" />
+  <Preset Value="EnterHotSprings" />
+  <Preset Value="EnterSunbatheSwimwear" />
+  <Preset Value="EnterOceanWater" />
+  <Preset Value="ExitHotSprings" />
+  <Preset Value="RockClimbing" />
+  <Preset Value="GoToSchool" />
+  <Preset Value="SmallBusinessWork" />
 </PresetGroup>

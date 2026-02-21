@@ -5,4 +5,7 @@
   <Preset Value="alien" />
   <Preset Value="flowerbunny" />
   <Preset Value="humanoid_robot" />
+  <Preset Value="imaginaryfriend_pegacorn" />
+  <Preset Value="shadynpc" />
+  <Preset Value="ghostalienvox" />
 </PresetGroup>
